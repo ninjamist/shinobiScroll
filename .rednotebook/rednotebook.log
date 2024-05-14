@@ -1,0 +1,37 @@
+2024-05-12 21:53:13,581 INFO     Writing log to file "/home/oni/.rednotebook/rednotebook.log"
+2024-05-12 21:53:13,582 INFO     System encoding: utf-8
+2024-05-12 21:53:13,582 INFO     Language code: en_US
+2024-05-12 21:53:13,606 INFO     Spell checking languages: []
+2024-05-12 21:53:13,606 INFO     Spell checking dictionaries: []
+2024-05-12 21:53:13,966 INFO     Using LibYAML
+2024-05-12 21:53:13,968 INFO     Connected Signals: [<Signals.SIGHUP: 1>, <Signals.SIGINT: 2>, <Signals.SIGQUIT: 3>, <Signals.SIGABRT: 6>, <Signals.SIGTERM: 15>, <Signals.SIGTSTP: 20>]
+2024-05-12 21:53:13,982 INFO     Running in portable mode: False
+2024-05-12 21:53:13,982 INFO     First Start: False
+2024-05-12 21:53:13,982 INFO     RedNotebook version: 2.31
+2024-05-12 21:53:13,985 INFO     System info: machine: x86_64, platform: Linux-6.8.9-zen1-2-zen-x86_64-with-glibc2.39, processor: , python_version: 3.12.3, release: 6.8.9-zen1-2-zen, system: Linux, GTK: (3, 24, 41), Glib: (2, 80, 2), PyGObject: (3, 48, 2), YAML: 6.0.1, WebKit2: (2, 44, 1)
+2024-05-12 21:53:14,348 DEBUG    Default font: Cantarell 10
+2024-05-12 21:53:14,348 DEBUG    Default size: 10.0
+2024-05-12 21:53:14,552 INFO     Cloud ignore list: ['filter', 'these', 'comma', 'separated', 'words', 'and', '#tags']
+2024-05-12 21:53:14,553 INFO     Cloud include list: ['mtv', 'spam', 'work', 'job', 'play']
+2024-05-12 21:53:14,553 DEBUG    Start compiling regexes
+2024-05-12 21:53:14,553 DEBUG    Finished
+2024-05-12 21:53:14,568 DEBUG    Tray icon visible: False
+2024-05-12 21:53:14,569 INFO     Opening journal at '/home/oni/.rednotebook/data'
+2024-05-12 21:53:14,569 DEBUG    Starting to load files in dir "/home/oni/.rednotebook/data"
+2024-05-12 21:53:14,569 DEBUG    Loading file "/home/oni/.rednotebook/data/2023-07.txt"
+2024-05-12 21:53:14,570 DEBUG    Loading file "/home/oni/.rednotebook/data/2023-08.txt"
+2024-05-12 21:53:14,570 DEBUG    Loading file "/home/oni/.rednotebook/data/2023-11.txt"
+2024-05-12 21:53:14,570 DEBUG    Finished loading files in dir "/home/oni/.rednotebook/data"
+2024-05-12 21:53:14,676 DEBUG    Update the cloud
+2024-05-12 21:53:14,678 DEBUG    Background color: rgb(29,32,33)
+2024-05-12 21:53:14,679 DEBUG    Foreground color: rgb(221,199,161)
+2024-05-12 21:53:14,682 DEBUG    Cloud updated
+2024-05-12 21:53:14,705 INFO     Last backup was made 51 days ago
+2024-05-12 21:53:14,707 WARNING  Last backup is older than 7 days.
+2024-05-12 21:57:24,029 DEBUG    Loading file "/home/oni/.rednotebook/data/2024-05.new.txt"
+2024-05-12 21:57:24,030 INFO     Wrote file /home/oni/.rednotebook/data/2024-05.txt
+2024-05-12 21:57:24,030 INFO     The content has been saved to /home/oni/.rednotebook/data
+2024-05-12 21:57:24,030 INFO     The content has been saved to '/home/oni/.rednotebook/data'
+2024-05-12 21:57:24,031 INFO     Configuration has been saved to /home/oni/.rednotebook/configuration.cfg
+2024-05-12 21:57:24,031 INFO     Goodbye!
+2024-05-12 21:57:24,042 INFO     Peak memory: 134978932 KiB

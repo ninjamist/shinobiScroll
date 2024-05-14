@@ -1,0 +1,17 @@
+15:
+  text: '=====================================
+
+    === Personal ===
+
+
+    This is my new journal.  I am using this as a way to practice typing.  I will
+    also keep track of all my hopes and dreams.  At this moment in my life I am stuck
+    in Florida, trying to get back to Colorado, the promised land.  That''s all for
+    now.
+
+
+
+
+    ========================
+
+    '
