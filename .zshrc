@@ -87,12 +87,13 @@ alias now='sudo'
 alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
 alias grubup="sudo update-grub"
 alias fixpacman="sudo rm /var/lib/pacman/db.lck"
-alias cv="cava"
+alias cv='cava'
 alias ani="ani-cli --dub"
 alias hyprup="hyprpm update"
+alias ghost='/usr/bin/git --git-dir=$HOME/shinobiScroll/ --work-tree=$HOME'
+alias z='zoxide'
 # Always mkdir a path (this doesn't inhibit functionality to make a single dir)
 alias mkdir='mkdir -p'
-alias ghost='/usr/bin/git --git-dir=$HOME/shinobiScroll/ --work-tree=$HOME'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
@@ -124,3 +125,4 @@ setopt histignorespace
 
 #Display Fetch
 catnip
+
