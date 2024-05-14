@@ -1,0 +1,15 @@
+T 1700274388 19*	Now talking on 22#RizonIRPG
+T 1700274388 22*	Topic for 22#RizonIRPG is: Rizon Idle RPG - Help and commands: http://idlerpg.rizon.net
+T 1700274388 22*	Topic for 22#RizonIRPG set by 26mink (24Fri Apr 15 10:13:51 2022)
+T 1700274413 18<29RizonIRPG18>	TechnoPenguin met up with a mob hitman for not paying his bills. This terrible calamity has slowed them 14 days, 18:23:34 from level 256.
+T 1700274413 18<29RizonIRPG18>	TechnoPenguin reaches next level in 260 days, 20:56:27.
+T 1700274452 18<29RizonIRPG18>	terrrrrible [695/1111] has been set upon by a Giant Octopus [939/1102] and gets savagely beaten! 0 days, 06:47:03 is added to terrrrrible's clock.
+T 1700274452 18<29RizonIRPG18>	terrrrrible reaches next level in 3 days, 10:09:52.
+T 1700274469 18<29RizonIRPG18>	bertolaz [714/777] has been set upon by a Xorn [217/701] and fights it off! 0 days, 11:33:33 is removed from bertolaz's clock.
+T 1700274469 18<29RizonIRPG18>	bertolaz reaches next level in 3 days, 12:46:08.
+T 1700274570 18<29RizonIRPG18>	Annih [90/1153] has been set upon by a Behir [509/1108] and gets savagely beaten! 20 days, 15:38:24 is added to Annih's clock.
+T 1700274570 18<29RizonIRPG18>	Annih reaches next level in 250 days, 02:45:09.
+T 1700274626 18<29RizonIRPG18>	Kemikals [1129/1267] has been set upon by a Trumpet Archon [504/2538] and fights it off! 2 days, 04:49:26 is removed from Kemikals's clock.
+T 1700274626 18<29RizonIRPG18>	Kemikals reaches next level in 7 days, 19:17:05.
+T 1700274797 18<29RizonIRPG18>	lucaz [937/1120] has been set upon by a Shield Gardian [745/1062] and fights it off! 2 days, 12:29:06 is removed from lucaz's clock.
+T 1700274797 18<29RizonIRPG18>	lucaz reaches next level in 18 days, 11:33:24.

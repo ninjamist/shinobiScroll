@@ -1,0 +1,4 @@
+T 1699905560 19*	Now talking on 22##rust
+T 1699905560 22*	Topic for 22##rust is: Unofficial channel for the Rust programming language | Don't ask to ask, just ask! | Code of conduct: https://rust-lang.org/policies/code-of-conduct | Playground: https://play.rust-lang.org | evalr: «code» to run Rust code | Other chat/help venues: https://rust-lang.org/community | Moderation concerns: ##rust-ops | Offtopic chatter: ##rust-offtopic
+T 1699905560 22*	Topic for 22##rust set by 26bertptrs!~quassel@user/bertptrs (24Mon May 22 08:11:18 2023)
+T 1699905566 24*	scurvy__dog_ has quit (Ping timeout: 260 seconds)

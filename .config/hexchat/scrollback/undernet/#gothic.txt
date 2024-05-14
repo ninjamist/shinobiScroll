@@ -1,0 +1,8 @@
+T 1700112136 19*	Now talking on 22#gothic
+T 1700112136 22*	Topic for 22#gothic is: You're only given a little spark of madness. You mustn't lose it.
+T 1700112136 22*	Topic for 22#gothic set by 26X (24Thu Nov 16 00:10:42 2023)
+T 1700112140 23*	Minimax (uid211395@ilkley.irccloud.com23) has joined
+T 1700112141 22*	26X gives channel operator status to 18Minimax
+T 1700112142 24*	Minimax has quit (Registered)
+T 1700112142 23*	Minimax (uid211395@Ianuarie.users.undernet.org23) has joined
+T 1700112142 22*	26*.undernet.org gives channel operator status to 18Minimax

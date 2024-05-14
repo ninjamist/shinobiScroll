@@ -1,0 +1,84 @@
+**** BEGIN LOGGING AT Mon Nov 13 02:34:55 2023
+
+Nov 13 02:34:55 *	Connecting to irc.libera.chat (2001:6b0:78::100:6697)
+Nov 13 02:34:55 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 02:34:55 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 02:34:55 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 02:34:55 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 13 02:34:55 *	* Subject: /CN=iridium.libera.chat
+Nov 13 02:34:55 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 13 02:34:55 *	* Certification info:
+Nov 13 02:34:55 *	  Subject:
+Nov 13 02:34:55 *	    CN=iridium.libera.chat
+Nov 13 02:34:55 *	  Issuer:
+Nov 13 02:34:55 *	    C=US
+Nov 13 02:34:55 *	    O=Let's Encrypt
+Nov 13 02:34:55 *	    CN=R3
+Nov 13 02:34:55 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 13 02:34:55 *	  Sign algorithm sha256WithRSAEncryption
+Nov 13 02:34:55 *	  Valid since Sep 25 10:14:42 2023 GM to Dec 24 10:14:41 2023 GM
+Nov 13 02:34:55 *	* Cipher info:
+Nov 13 02:34:55 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 02:34:55 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Sat Feb 24 01:22:37 2024
+
+Feb 24 01:22:37 *	oni_00 sets mode +Z on oni_00
+Feb 24 01:22:37 *	oni_00 sets mode +i on oni_00
+Feb 24 01:22:37 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Sat Feb 24 01:22:43 2024
+
+**** BEGIN LOGGING AT Sat Feb 24 01:36:59 2024
+
+Feb 24 01:37:00 *	oni_00 sets mode +Z on oni_00
+Feb 24 01:37:00 *	oni_00 sets mode +i on oni_00
+Feb 24 01:37:00 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Sat Feb 24 01:37:05 2024
+
+**** BEGIN LOGGING AT Sat Feb 24 01:40:58 2024
+
+Feb 24 01:40:58 *	oni_00 is already in use. Retrying with onikage01...
+Feb 24 01:41:00 *	onikage01 sets mode +Z on onikage01
+Feb 24 01:41:00 *	onikage01 sets mode +i on onikage01
+Feb 24 01:41:00 *	onikage01 sets mode +w on onikage01
+**** ENDING LOGGING AT Sat Feb 24 01:41:07 2024
+
+**** BEGIN LOGGING AT Sat Mar 30 23:04:28 2024
+
+Mar 30 23:04:27 *	oni_00 sets mode +Z on oni_00
+Mar 30 23:04:27 *	oni_00 sets mode +i on oni_00
+Mar 30 23:04:27 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Sat Mar 30 23:04:34 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 00:09:37 2024
+
+Apr 03 00:09:39 *	oni_00 sets mode +Z on oni_00
+Apr 03 00:09:39 *	oni_00 sets mode +i on oni_00
+Apr 03 00:09:39 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Wed Apr  3 00:09:42 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 00:13:11 2024
+
+Apr 03 00:13:11 FiSHLiM plugin unloaded
+**** ENDING LOGGING AT Wed Apr  3 00:13:11 2024
+
+**** BEGIN LOGGING AT Mon May 13 00:11:32 2024
+
+May 13 00:11:31 *	oni_00 sets mode +Z on oni_00
+May 13 00:11:31 *	oni_00 sets mode +i on oni_00
+May 13 00:11:31 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Mon May 13 00:11:38 2024
+
+**** BEGIN LOGGING AT Mon May 13 00:42:12 2024
+
+May 13 00:42:12 *	oni_00 sets mode +Z on oni_00
+May 13 00:42:12 *	oni_00 sets mode +i on oni_00
+May 13 00:42:12 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Mon May 13 00:42:18 2024
+
+**** BEGIN LOGGING AT Mon May 13 02:19:29 2024
+
+May 13 02:19:29 *	oni_00 sets mode +Z on oni_00
+May 13 02:19:29 *	oni_00 sets mode +i on oni_00
+May 13 02:19:29 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Mon May 13 02:19:35 2024
+

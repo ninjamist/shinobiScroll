@@ -1,0 +1,3 @@
+T 1699905537 19*	Now talking on 22#rubyonrails
+T 1699905537 22*	Topic for 22#rubyonrails is: Rules: https://ruby-community.com | Rails 7.0.4 https://rubyonrails.org/ | Paste 4+ lines to: https://gist.github.com | https://guides.rubyonrails.org/
+T 1699905537 22*	Topic for 22#rubyonrails set by 26jhass[m]!~jhass@about/ruby/jhass (24Fri Sep 16 17:24:02 2022)

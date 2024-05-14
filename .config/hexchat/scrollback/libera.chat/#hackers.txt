@@ -1,0 +1,477 @@
+T 1699926288 19*	Now talking on 22#hackers
+T 1699926288 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1699926288 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1699926288 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1699926288 22*	26ChanServ gives voice to 18oni_00
+T 1699926398 24*	ferdna has quit (Quit: Leaving)
+T 1699927649 24*	Brainium has quit (Quit: Konversation terminated!)
+T 1699927902 19*	Now talking on 22#hackers
+T 1699927902 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1699927902 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1699927903 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1699927903 22*	26ChanServ gives voice to 18oni_00
+T 1700094452 19*	Now talking on 22#hackers
+T 1700094452 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700094452 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700094452 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700094452 22*	26ChanServ gives voice to 18oni_00
+T 1700094537 FiSHLiM plugin unloaded
+T 1700094564 19*	Now talking on 22#hackers
+T 1700094564 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700094564 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700094564 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700094564 22*	26ChanServ gives voice to 18oni_00
+T 1700094741 19*	Now talking on 22#hackers
+T 1700094741 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700094741 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700094741 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700094741 22*	26ChanServ gives voice to 18oni_00
+T 1700095446 19*	Now talking on 22#hackers
+T 1700095446 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700095446 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700095446 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700095446 22*	26ChanServ gives voice to 18oni_00
+T 1700095518 24*	gabriel1_ has quit (Ping timeout: 256 seconds)
+T 1700095547 20<oni_00>30	 
+T 1700095563 20<oni_00>30	/ //
+T 1700095572 20<oni_00>30	hello
+T 1700098891 19*	Now talking on 22#hackers
+T 1700098891 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700098891 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700098891 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700098891 22*	26ChanServ gives voice to 18oni_00
+T 1700099077 23*	adils (~adils@128.201.143.13923) has joined
+T 1700099078 22*	26ChanServ gives voice to 18adils
+T 1700099205 24*	adils (~adils@128.201.143.13924) has left (Leaving)
+T 1700099604 23*	onikage01 (~oni@2600:1006:b189:2109:79e7:3d17:6464:5a6b23) has joined
+T 1700099604 22*	26ChanServ gives voice to 18onikage01
+T 1700099605 24*	onikage01 has quit (Read error: Connection reset by peer)
+T 1700108355 19*	Now talking on 22#hackers
+T 1700108355 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700108355 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700108355 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700108356 22*	26ChanServ gives voice to 18oni_00
+T 1700109682 24*	slydacya has quit (Quit: Friends help you move. Real friends help you move bodies.)
+T 1700111786 19*	Now talking on 22#hackers
+T 1700111786 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700111786 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700111787 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700111787 22*	26ChanServ gives voice to 18oni_00
+T 1700112607 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1700159881 19*	Now talking on 22#hackers
+T 1700159881 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700159881 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700159881 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700159881 22*	26ChanServ gives voice to 18oni_00
+T 1700160002 24*	squealingcode has quit (Read error: Connection reset by peer)
+T 1700160116 24*	28kusanagi_ is now known as 18kusanagi
+T 1700160889 23*	Brainium (~brainium@user/brainium23) has joined
+T 1700160889 22*	26ChanServ gives voice to 18Brainium
+T 1700161056 24*	anthonyg has quit (Server closed connection)
+T 1700161075 23*	anthonyg (~anthonyg@user/avrak23) has joined
+T 1700161075 22*	26ChanServ gives voice to 18anthonyg
+T 1700162290 24*	fury999io has quit (Ping timeout: 255 seconds)
+T 1700162597 24*	tristan123 has quit (Ping timeout: 240 seconds)
+T 1700162732 23*	fury999io (~fury999io@user/fury999io23) has joined
+T 1700162732 22*	26ChanServ gives voice to 18fury999io
+T 1700273560 19*	Now talking on 22#hackers
+T 1700273560 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700273560 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700273560 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700273560 22*	26ChanServ gives voice to 18oni_00
+T 1700273711 23*	ferdna (~ferdna@user/ferdna23) has joined
+T 1700273711 22*	26ChanServ gives voice to 18ferdna
+T 1700274034 24*	ferdna has quit (Quit: Leaving)
+T 1700274193 24*	gabriel1_ has quit (Read error: Connection reset by peer)
+T 1700274196 23*	gabriel1 (~gabriel1@185.56.219.3023) has joined
+T 1700274196 22*	26ChanServ gives voice to 18gabriel1
+T 1700274920 24*	ToTAL has quit (Ping timeout: 252 seconds)
+T 1700275648 23*	solol (~solol@user/solol23) has joined
+T 1700275648 22*	26ChanServ gives voice to 18solol
+T 1700278450 24*	insidesources has quit (Quit: WeeChat 4.1.1)
+T 1700279409 23*	tristan123 (~tristan_@120.88.40.20123) has joined
+T 1700279409 22*	26ChanServ gives voice to 18tristan123
+T 1700282025 24*	wallsY_ has quit (Ping timeout: 260 seconds)
+T 1700282142 23*	wallsY_ (~weechat@user/wallsY23) has joined
+T 1700282142 22*	26ChanServ gives voice to 18wallsY_
+T 1700282757 24*	unix___ has quit (Quit: textwhileipoopn)
+T 1700284361 24*	brassado has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1700285370 24*	solol has quit (Quit: Client closed)
+T 1700286377 23*	ferdna (~ferdna@user/ferdna23) has joined
+T 1700286377 22*	26ChanServ gives voice to 18ferdna
+T 1700287191 23*	fecklesspeach (~kali@c-73-34-24-44.hsd1.co.comcast.net23) has joined
+T 1700287191 22*	26ChanServ gives voice to 18fecklesspeach
+T 1700287264 18<22fecklesspeach18>	Can someone give me a tier list of 5 of the easiest attack vectors for a beginner to exploit?
+T 1700287344 24*	sarandom has quit (Remote host closed the connection)
+T 1700287364 23*	sarandom (~sarandom@gateway/tor-sasl/sarandom23) has joined
+T 1700287364 22*	26ChanServ gives voice to 18sarandom
+T 1700287496 24*	sarandom has quit (Remote host closed the connection)
+T 1700287708 23*	sarandom (~sarandom@gateway/tor-sasl/sarandom23) has joined
+T 1700287708 22*	26ChanServ gives voice to 18sarandom
+T 1700288006 24*	gabriel1 has quit (Remote host closed the connection)
+T 1700370429 19*	Now talking on 22#hackers
+T 1700370429 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700370429 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700370429 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700370429 22*	26ChanServ gives voice to 18oni_00
+T 1700372766 23*	schmengie (~schmengie@user/schmengie23) has joined
+T 1700372766 22*	26ChanServ gives voice to 18schmengie
+T 1700373090 24*	evilscreww has quit (Quit: Client closed)
+T 1700373747 24*	sarandom has quit (Remote host closed the connection)
+T 1700373770 23*	sarandom (~sarandom@gateway/tor-sasl/sarandom23) has joined
+T 1700373770 22*	26ChanServ gives voice to 18sarandom
+T 1700454035 19*	Now talking on 22#hackers
+T 1700454035 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700454035 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700454035 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700454035 22*	26ChanServ gives voice to 18oni_00
+T 1700454999 23*	Gnana (22079@2a01:4f8:141:1272::223) has joined
+T 1700454999 22*	26ChanServ gives voice to 18Gnana
+T 1700456185 23*	MerchantOfVenice (~patrick@user/merchantofvenice23) has joined
+T 1700456185 22*	26ChanServ gives voice to 18MerchantOfVenice
+T 1700535898 19*	Now talking on 22#hackers
+T 1700535898 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700535898 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700535898 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700535898 22*	26ChanServ gives voice to 18oni_00
+T 1700537300 23*	termin (~uni@188.242.119.3423) has joined
+T 1700537300 22*	26ChanServ gives voice to 18termin
+T 1700537663 18<28termin18>	next: footbal ad geometry & colors in public play zones
+T 1700538281 19*	Now talking on 22#hackers
+T 1700538281 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700538281 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700538282 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700538282 22*	26ChanServ gives voice to 18oni_00
+T 1700538288 18<28termin18>	next week free exploit release
+T 1700538291 18<28termin18>	on twitter
+T 1700538306 18<25solol18>	lol
+T 1700538308 18<25solol18>	nice
+T 1700538323 18<28termin18>	category: formation disinformation
+T 1700538344 18<28termin18>	that's all now
+T 1700538372 18<25solol18>	?
+T 1700538381 23*	dutchkin (~dutchkin@45.144.113.23423) has joined
+T 1700538381 22*	26ChanServ gives voice to 18dutchkin
+T 1700538385 18*	28termin analyzing solol ..
+T 1700538651 24*	z8z has quit (Quit: Quitting)
+T 1700538687 24*	solol has quit (Quit: Client closed)
+T 1700539291 24*	tdaddy has quit (Quit: bye bye)
+T 1700539323 23*	tdaddy (~tdaddy@shout.jpaglier.com23) has joined
+T 1700539323 22*	26ChanServ gives voice to 18tdaddy
+T 1700540140 23*	z8z (~x@s142253.ppp.asahi-net.or.jp23) has joined
+T 1700540140 22*	26ChanServ gives voice to 18z8z
+T 1700540936 23*	redstarcomrade (~redstarco@cpe-76-90-240-226.socal.res.rr.com23) has joined
+T 1700540936 22*	26ChanServ gives voice to 18redstarcomrade
+T 1700541605 23*	tristan_ (~tristan_@120.88.40.16123) has joined
+T 1700541605 22*	26ChanServ gives voice to 18tristan_
+T 1700541761 23*	schmengie (~schmengie@user/schmengie23) has joined
+T 1700541761 22*	26ChanServ gives voice to 18schmengie
+T 1700542299 24*	termin has quit (Quit: joins libera)
+T 1700708990 19*	Now talking on 22#hackers
+T 1700708990 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1700708990 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1700708990 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1700708990 22*	26ChanServ gives voice to 18oni_00
+T 1700709361 23*	delay (~delay@user/delay23) has joined
+T 1700709361 22*	26ChanServ gives voice to 18delay
+T 1700710043 24*	delay has quit (Remote host closed the connection)
+T 1700711794 23*	evilscreww (~evilscrew@user/evilscreww23) has joined
+T 1700711794 22*	26ChanServ gives voice to 18evilscreww
+T 1700713739 23*	tristan_ (~tristan_@120.88.40.16123) has joined
+T 1700713740 22*	26ChanServ gives voice to 18tristan_
+T 1700713763 24*	insidesources has quit (Quit: WeeChat 4.1.1)
+T 1700714361 23*	agent314 (~quassel@static-68-235-44-77.cust.tzulo.com23) has joined
+T 1700714361 22*	26ChanServ gives voice to 18agent314
+T 1700714618 24*	agent314 has quit (Ping timeout: 252 seconds)
+T 1700714641 23*	agent314 (~quassel@192.252.212.2123) has joined
+T 1700714642 22*	26ChanServ gives voice to 18agent314
+T 1700716119 23*	solol (~solol@user/solol23) has joined
+T 1700716119 22*	26ChanServ gives voice to 18solol
+T 1700716740 24*	solol has quit (Quit: Client closed)
+T 1700717085 23*	solol (~solol@user/solol23) has joined
+T 1700717085 22*	26ChanServ gives voice to 18solol
+T 1700719037 24*	solol has quit (Quit: Client closed)
+T 1700719134 24*	evilscreww has quit (Quit: Client closed)
+T 1700720389 24*	agent314 has quit (Ping timeout: 255 seconds)
+T 1700721192 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1700722757 23*	agent314 (~quassel@192.252.212.2123) has joined
+T 1700722757 22*	26ChanServ gives voice to 18agent314
+T 1700722883 23*	solol (~solol@user/solol23) has joined
+T 1700722883 22*	26ChanServ gives voice to 18solol
+T 1700724084 23*	MerchantOfVenice (~patrick@user/merchantofvenice23) has joined
+T 1700724084 22*	26ChanServ gives voice to 18MerchantOfVenice
+T 1700725101 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1700725101 22*	26ChanServ gives voice to 18redstarcomrade
+T 1700725685 24*	tristan_ has quit (Remote host closed the connection)
+T 1700725710 23*	tristan_ (~tristan_@120.88.40.16123) has joined
+T 1700725710 22*	26ChanServ gives voice to 18tristan_
+T 1701497002 19*	Now talking on 22#hackers
+T 1701497002 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1701497002 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1701497002 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1701497002 22*	26ChanServ gives voice to 18oni_00
+T 1702018463 19*	Now talking on 22#hackers
+T 1702018463 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1702018463 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1702018463 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1702018463 22*	26ChanServ gives voice to 18oni_00
+T 1702021199 23*	redprogram0x (~dev00x@185.30.52.8223) has joined
+T 1702021199 22*	26ChanServ gives voice to 18redprogram0x
+T 1702021287 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1702021287 22*	26ChanServ gives voice to 18redstarcomrade
+T 1702021795 18<20liqidmetalman18>	are there fileservers anymore neo-modus,kazaa stuff like that they shut that down back in the day right. pirates bay works for stuff right?
+T 1702021803 18<20liqidmetalman18>	kinda curious
+T 1702021818 18<20liqidmetalman18>	been a while since ive hacked this is new alittle
+T 1702022014 24*	redprogram0x has quit (Ping timeout: 276 seconds)
+T 1702022018 23*	program0x (~dev00x@185.30.52.8223) has joined
+T 1702022018 22*	26ChanServ gives voice to 18program0x
+T 1702022068 24*	program0x (~dev00x@185.30.52.8224) has left
+T 1702022194 23*	redprogram0x (~redprogra@169.150.218.13623) has joined
+T 1702022194 22*	26ChanServ gives voice to 18redprogram0x
+T 1702022403 18<20liqidmetalman18>	i gotta change file servers every five mins ahaha
+T 1702022444 18<20redprogram0x18>	Why?
+T 1702022622 18<20liqidmetalman18>	i dunno
+T 1702022684 18<20redprogram0x18>	So just for fun changing them???
+T 1702022713 18<20liqidmetalman18>	i guess
+T 1702022746 18<20liqidmetalman18>	are there file servers anymore or is that a thing of the past?
+T 1702022748 18<20liqidmetalman18>	..
+T 1702022758 18<20redprogram0x18>	you can learn a lot by changing en trying but I hope their are no importent files on it
+T 1702022766 18<20liqidmetalman18>	2010 thing
+T 1702022887 18<20redprogram0x18>	And have you tried HTB or THM?
+T 1702023047 FiSHLiM plugin unloaded
+T 1702884004 19*	Now talking on 22#hackers
+T 1702884004 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Matrix users: Check out #matrix-hackers:matrix.org encrypted chat | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware (#Malware:matrix.org) for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1702884004 22*	Topic for 22#hackers set by 26terabit[m]!~terabit@2001:470:69fc:105::f82 (24Sat Mar  4 05:49:52 2023)
+T 1702884005 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1702884005 22*	26ChanServ gives voice to 18oni_00
+T 1702884225 20*	Disconnected (20)
+T 1703489304 19*	Now talking on 22#hackers
+T 1703489304 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1703489304 22*	Topic for 22#hackers set by 26terabit!terabit@about/hackers/terabit (24Sat Dec 23 01:38:00 2023)
+T 1703489304 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1703489304 22*	26ChanServ gives voice to 18oni_00
+T 1703489836 23*	Ruffus (~Thunderbi@C323C726.static.ziggozakelijk.nl23) has joined
+T 1703489836 22*	26ChanServ gives voice to 18Ruffus
+T 1703490130 24*	Ruffus has quit (Ping timeout: 276 seconds)
+T 1703490282 23*	Ruffus (~Thunderbi@C323C726.static.ziggozakelijk.nl23) has joined
+T 1703490282 22*	26ChanServ gives voice to 18Ruffus
+T 1703490559 24*	Ruffus has quit (Ping timeout: 276 seconds)
+T 1703648846 19*	Now talking on 22#hackers
+T 1703648846 22*	Topic for 22#hackers is: Welcome to the hacker hangout | No politics | Be patient with questions, it might take hours for people to respond. | Please keep conversations family friendly | Checkout ##malware for malware analysis help and discussion | Channel webste: https://freenode-hackers.github.io/hackers
+T 1703648846 22*	Topic for 22#hackers set by 26terabit!terabit@about/hackers/terabit (24Sat Dec 23 01:38:00 2023)
+T 1703648847 22*	Channel 22#hackers url: 24https://hackers.netlify.app/
+T 1703648847 22*	26ChanServ gives voice to 18oni_00
+T 1703649221 24*	redprogram0x has quit (Remote host closed the connection)
+T 1703649236 23*	redprogram0x (~redprogra@109.236.62.11523) has joined
+T 1703649237 22*	26ChanServ gives voice to 18redprogram0x
+T 1703649646 24*	Leopold has quit (Ping timeout: 245 seconds)
+T 1703649709 23*	Leopold (~quassel@gateway/tor-sasl/leopold23) has joined
+T 1703649709 22*	26ChanServ gives voice to 18Leopold
+T 1703649726 23*	dude12312414 (~test@gateway/tor-sasl/dude1231241423) has joined
+T 1703649726 22*	26ChanServ gives voice to 18dude12312414
+T 1703649782 24*	dude12312414 has quit (Remote host closed the connection)
+T 1708750767 19*	Now talking on 22#hackers
+T 1708750767 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1708750767 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1708750767 -18ChanServ-	[#hackers] solve the topic to get voice (+V) :)
+T 1708750767 22*	Channel 22#hackers url: 24‮
+T 1708750768 24*	syscall-42 has quit (Quit: Leaving)
+T 1708751314 23*	yoo (~yo0O0o@104.28.194.10523) has joined
+T 1708751809 23*	Ruffus (~Thunderbi@C323C726.static.ziggozakelijk.nl23) has joined
+T 1708752071 24*	Ruffus has quit (Ping timeout: 260 seconds)
+T 1708754372 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1708754546 23*	Ruffus (~Thunderbi@C323C726.static.ziggozakelijk.nl23) has joined
+T 1708755738 20*	Disconnected (20)
+T 1708755757 22*	26oni_00 sets mode 24+Z on 22oni_00
+T 1708755757 22*	26oni_00 sets mode 24+i on 22oni_00
+T 1708755757 22*	26oni_00 sets mode 24+w on 22oni_00
+T 1708755763 19*	Now talking on 22#hackers
+T 1708755763 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1708755763 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1708755764 -18ChanServ-	[#hackers] solve the topic to get voice (+V) :)
+T 1708755764 22*	Channel 22#hackers url: 24‮
+T 1708756144 23*	Ruffus (~Thunderbi@C323C726.static.ziggozakelijk.nl23) has joined
+T 1708756599 20*	Disconnected (20)
+T 1708756620 22*	26oni_00 sets mode 24+Z on 22oni_00
+T 1708756620 22*	26oni_00 sets mode 24+i on 22oni_00
+T 1708756620 22*	26oni_00 sets mode 24+w on 22oni_00
+T 1708756626 19*	Now talking on 22#hackers
+T 1708756626 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1708756626 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1708756626 -18ChanServ-	[#hackers] solve the topic to get voice (+V) :)
+T 1708756626 22*	Channel 22#hackers url: 24‮
+T 1708756839 20*	Disconnected (20)
+T 1708756858 23*	28oni_00 is already in use. Retrying with 18onikage01...
+T 1708756860 22*	26onikage01 sets mode 24+Z on 22onikage01
+T 1708756860 22*	26onikage01 sets mode 24+i on 22onikage01
+T 1708756860 22*	26onikage01 sets mode 24+w on 22onikage01
+T 1708756866 19*	Now talking on 22#hackers
+T 1708756866 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1708756866 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1708756866 -18ChanServ-	[#hackers] solve the topic to get voice (+V) :)
+T 1708756866 22*	Channel 22#hackers url: 24‮
+T 1708756870 FiSHLiM plugin unloaded
+T 1711160150 19*	Now talking on 22#hackers
+T 1711160150 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1711160150 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1711160150 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1711160150 22*	Channel 22#hackers url: 24‮
+T 1711681337 19*	Now talking on 22#hackers
+T 1711681337 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1711681337 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1711681337 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1711681337 22*	Channel 22#hackers url: 24‮
+T 1711683924 19*	Now talking on 22#hackers
+T 1711683924 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1711683924 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1711683924 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1711683924 22*	Channel 22#hackers url: 24‮
+T 1711684791 24*	shreyasminocha has quit (Read error: Connection reset by peer)
+T 1711684799 23*	shreyasminocha (51fdc93eda@user/shreyasminocha23) has joined
+T 1711687822 23*	skeiss (~skeiss@92-184-98-64.mobile.fr.orangecustomers.net23) has joined
+T 1711687916 24*	skeiss has quit (Client Quit)
+T 1711688028 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1711689045 23*	jsueis (~jsueis@92-184-98-64.mobile.fr.orangecustomers.net23) has joined
+T 1711689199 24*	jsueis has quit (Client Quit)
+T 1711689723 24*	mike_ has quit (Quit: Leaving)
+T 1711691229 24*	AtleoS has quit (Quit: AtleoS)
+T 1711691251 23*	AtleoS (~AtleoS@user/AtleoS23) has joined
+T 1711691350 24*	AtleoS has quit (Remote host closed the connection)
+T 1711694208 23*	MerchantOfVenice (~patrick@user/merchantofvenice23) has joined
+T 1711695185 24*	SurfBlueCrab has quit (Quit: ZNC - https://znc.in)
+T 1711695210 23*	SurfBlueCrab (~SurfBlueC@nyc.nanobit.org23) has joined
+T 1711848544 19*	Now talking on 22#hackers
+T 1711848544 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1711848544 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1711848544 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1711848544 22*	Channel 22#hackers url: 24‮
+T 1711850281 23*	terabit44 (terabit76@about/hackers/terabit23) has joined
+T 1711850281 22*	26ChanServ gives channel operator status to 18terabit44
+T 1711850490 24*	terabit76 has quit (Ping timeout: 250 seconds)
+T 1711850759 24*	Brainium has quit (Quit: Konversation terminated!)
+T 1711850944 23*	zenloading (~zenloadin@user/zenloading23) has joined
+T 1711851207 24*	MerchantOfVenice has quit (Remote host closed the connection)
+T 1711851402 24*	chiselfuse has quit (Remote host closed the connection)
+T 1711851420 23*	chiselfuse (~chiselfus@user/chiselfuse23) has joined
+T 1711854248 20*	Disconnected (20)
+T 1711854267 22*	26oni_00 sets mode 24+Z on 22oni_00
+T 1711854267 22*	26oni_00 sets mode 24+i on 22oni_00
+T 1711854267 22*	26oni_00 sets mode 24+w on 22oni_00
+T 1711854273 19*	Now talking on 22#hackers
+T 1711854273 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1711854273 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1711854274 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1711854274 22*	Channel 22#hackers url: 24‮
+T 1711855226 24*	verbotron has quit (Remote host closed the connection)
+T 1711855267 23*	verbotron (~verbotron@gateway/tor-sasl/verbotron23) has joined
+T 1711856834 24*	verbotron has quit (Remote host closed the connection)
+T 1711856991 23*	verbotron (~verbotron@gateway/tor-sasl/verbotron23) has joined
+T 1711857047 24*	verbotron has quit (Remote host closed the connection)
+T 1711858577 23*	verbotron (~verbotron@gateway/tor-sasl/verbotron23) has joined
+T 1711858950 24*	verbotron has quit (Remote host closed the connection)
+T 1711858974 23*	verbotron (~verbotron@gateway/tor-sasl/verbotron23) has joined
+T 1711859445 24*	delay has quit (Remote host closed the connection)
+T 1711859555 23*	delay (~delay@user/delay23) has joined
+T 1711859585 24*	delay has quit (Remote host closed the connection)
+T 1711860180 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1711861013 24*	nrg has quit (Ping timeout: 240 seconds)
+T 1711861026 23*	Copy_of_nrg (~NRG@user/nrg23) has joined
+T 1711861105 24*	28Copy_of_nrg is now known as 18nrg
+T 1711861263 23*	delay (~delay@user/delay23) has joined
+T 1711861527 24*	delay has quit (Client Quit)
+T 1711861830 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1711949047 19*	Now talking on 22#hackers
+T 1711949047 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1711949047 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1711949047 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1711949047 22*	Channel 22#hackers url: 24‮
+T 1712031782 19*	Now talking on 22#hackers
+T 1712031782 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1712031782 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1712031783 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1712031783 22*	Channel 22#hackers url: 24‮
+T 1712116225 19*	Now talking on 22#hackers
+T 1712116225 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1712116225 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1712116226 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1712116226 22*	Channel 22#hackers url: 24‮
+T 1712116605 23*	delay (~delay@user/delay23) has joined
+T 1712117285 20*	Disconnected (20)
+T 1712117385 19*	Now talking on 22#hackers
+T 1712117385 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1712117385 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1712117385 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1712117385 22*	Channel 22#hackers url: 24‮
+T 1712117525 20*	Disconnected (20)
+T 1712118296 19*	Now talking on 22#hackers
+T 1712118296 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1712118296 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1712118297 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1712118297 22*	Channel 22#hackers url: 24‮
+T 1712118545 24*	Coop has quit (Read error: Connection reset by peer)
+T 1712119828 24*	delay has quit (Quit: Ask me to be rational)
+T 1712121476 19*	Now talking on 22#hackers
+T 1712121476 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1712121476 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1712121477 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1712121477 22*	Channel 22#hackers url: 24‮
+T 1712121541 19*	Now talking on 22#hackers
+T 1712121541 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1712121541 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1712121541 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1712121541 22*	Channel 22#hackers url: 24‮
+T 1712547207 19*	Now talking on 22#hackers
+T 1712547207 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1712547207 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1712547208 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1712547208 22*	Channel 22#hackers url: 24‮
+T 1715566706 19*	Now talking on 22#hackers
+T 1715566706 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1715566706 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1715566707 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1715566707 22*	Channel 22#hackers url: 24‮
+T 1715569462 24*	verbotron has quit (Ping timeout: 260 seconds)
+T 1715573339 24*	terabit has quit (Quit: Client closed)
+T 1715573356 23*	terabit (~terabit@about/hackers/terabit23) has joined
+T 1715573356 22*	26ChanServ gives channel operator status to 18terabit
+T 1715573472 20*	Disconnected (20)
+T 1715573497 19*	Now talking on 22#hackers
+T 1715573497 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1715573497 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1715573498 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1715573498 22*	Channel 22#hackers url: 24‮
+T 1715574456 24*	Th|ef has quit (Quit: ***STOP: 0x0000001E, (0xC0000005, 0x80401A12,0x00000000,00x00000003)  KMODE_EXCEPTION_NOT_HANDLED  Address 800401A12 base at 804000000, Date Stamp 3ee6c002 - ntoskrnl.exe)
+T 1715574545 23*	Th|ef (~Th|ef@user/h4x0r23) has joined
+T 1715574912 20*	Disconnected (20)
+T 1715575338 19*	Now talking on 22#hackers
+T 1715575338 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1715575338 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1715575338 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1715575338 22*	Channel 22#hackers url: 24‮
+T 1715575359 23*	sadome (~sadome@182.69.182.3123) has joined
+T 1715575359 24*	sadome has quit (Excess Flood)
+T 1715575415 23*	sadome (~sadome@user/sadome23) has joined
+T 1715575415 24*	sadome has quit (Excess Flood)
+T 1715575630 23*	sadome (~sadome@user/sadome23) has joined
+T 1715575630 24*	sadome has quit (Excess Flood)
+T 1715575671 23*	sadome (~sadome@user/sadome23) has joined
+T 1715575671 24*	sadome has quit (Excess Flood)
+T 1715575853 23*	haliucinas (~c30ca6c4@5.20.153.2123) has joined
+T 1715576606 23*	xFCFFDFFFFEFFFAF (~psyhician@88.201.243.6123) has joined
+T 1715577743 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1715578480 24*	terabit has quit (Quit: Client closed)
+T 1715578499 23*	terabit (~terabit@about/hackers/terabit23) has joined
+T 1715578499 22*	26ChanServ gives channel operator status to 18terabit
+T 1715581150 20*	Disconnected (20)
+T 1715581175 19*	Now talking on 22#hackers
+T 1715581175 22*	Topic for 22#hackers is: 4883ec0848b84841434b4552530048890424b801000000bf01000000488d3424ba080000000f05bf00000000b83c0000000f05
+T 1715581175 22*	Topic for 22#hackers set by 26terabit10!terabit23@about/hackers/terabit (24Fri Feb  2 15:44:33 2024)
+T 1715581176 -18ChanServ-	[#hackers] Solve the topic to get voice (+V), don't discuss the solution in the channel. Good luck!
+T 1715581176 22*	Channel 22#hackers url: 24‮
+T 1715581221 23*	test_ (flooded@gateway/vpn/protonvpn/flood/x-4348906023) has joined
+T 1715581403 24*	flooded has quit (Ping timeout: 264 seconds)
+T 1715581810 23*	n0a (~n0a@user/n0a23) has joined
+T 1715581854 24*	n0a (~n0a@user/n0a24) has left
+T 1715581883 24*	test_ has quit (Remote host closed the connection)
+T 1715582059 23*	flooded (flooded@gateway/vpn/protonvpn/flood/x-4348906023) has joined
+T 1715582241 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1715585709 24*	28manu- is now known as 18sinkmanu

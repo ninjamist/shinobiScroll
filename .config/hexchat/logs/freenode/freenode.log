@@ -1,0 +1,787 @@
+**** BEGIN LOGGING AT Mon Nov 13 03:12:22 2023
+
+Nov 13 03:12:22 *	*** Looking up your ident...
+Nov 13 03:12:22 *	*** Looking up your hostname...
+Nov 13 03:12:22 *	*** Could not resolve your hostname: Domain not found; using your IP address (2600:1006:b16e:f27d:4656:6d3e:2f48:3f8) instead.
+Nov 13 03:12:22 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/relaymsg=/ echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname userhost-in-names 
+Nov 13 03:12:22 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 13 03:12:22 *	oni_00 is already in use. Retrying with oni_kage_00...
+Nov 13 03:12:22 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 13 03:12:26 *	*** Ident lookup timed out, using ~oni instead.
+**** ENDING LOGGING AT Mon Nov 13 03:12:25 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:12:25 2023
+
+Nov 13 03:12:26 *	Welcome to the freenode IRC Network oni_kage_00!~oni@2600:1006:b16e:f27d:4656:6d3e:2f48:3f8
+Nov 13 03:12:26 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 13 03:12:26 *	This server was created 23:06:04 Apr 20 2022
+Nov 13 03:12:26 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 13 03:12:26 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 13 03:12:26 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 13 03:12:26 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 13 03:12:26 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 13 03:12:26 *	There are 16 users and 7831 invisible on 9 servers
+Nov 13 03:12:26 *	8 :operator(s) online
+Nov 13 03:12:26 *	13 :unknown connections
+Nov 13 03:12:26 *	11490 :channels formed
+Nov 13 03:12:26 *	I have 3920 clients and 1 servers
+Nov 13 03:12:26 *	Current local users: 3920  Max: 7273
+Nov 13 03:12:26 *	Current global users: 7847  Max: 10916
+Nov 13 03:12:26 *	*.freenode.net message of the day
+Nov 13 03:12:26 *	  Hello, World!
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  Welcome to the
+Nov 13 03:12:26 *	          __                               _
+Nov 13 03:12:26 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 13 03:12:26 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 13 03:12:26 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 13 03:12:26 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 13 03:12:26 *	                                   AUTONOMOUS ZONE
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  Connect to us on:
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 13 03:12:26 *	  Plaintext: 6660-6669
+Nov 13 03:12:26 *	  TLS/SSL: 6697,7000,7070
+Nov 13 03:12:26 *	  Webchat: https://webchat.freenode.net
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 13 03:12:26 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 13 03:12:26 *	  be scanned for an open proxy.
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  If you are looking for assistance, please try:
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  #help                    - Help with general IRC and Services.
+Nov 13 03:12:26 *	  #chanhelp                - Help with channels and channel services.
+Nov 13 03:12:26 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  Checkout some of our communities and services:
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 13 03:12:26 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 13 03:12:26 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 13 03:12:26 *	  #freenode                - Chat about freenode.
+Nov 13 03:12:26 *	  #anonchan                - Chat anonymously.
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  Type /join #<channel>
+Nov 13 03:12:26 *	 
+Nov 13 03:12:26 *	  Thank you for using freenode!
+Nov 13 03:12:26 *	End of message of the day.
+Nov 13 03:12:26 *	freenode-jidsab.7cfn.v4nr.8e4isk.IP :is now your displayed host
+Nov 13 03:12:26 *	oni_kage_00 sets mode +w on oni_kage_00
+Nov 13 03:12:26 *	oni_kage_00 sets mode +R on oni_kage_00
+Nov 13 03:12:26 *	oni_kage_00 sets mode +i on oni_kage_00
+Nov 13 03:12:26 *	oni_kage_00 sets mode +x on oni_kage_00
+Nov 13 03:12:26 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 13 03:12:26 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+Nov 13 03:14:43 Sysinfo plugin unloaded
+Nov 13 03:14:43 Perl interface unloaded
+Nov 13 03:14:43 FiSHLiM plugin unloaded
+Nov 13 03:14:43 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 13 03:14:43 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:14:52 2023
+
+Nov 13 03:14:52 *	Welcome to the freenode IRC Network oni_kage_00!~oni@2600:1006:b16e:f27d:4656:6d3e:2f48:3f8
+Nov 13 03:14:52 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 13 03:14:52 *	This server was created 23:06:04 Apr 20 2022
+Nov 13 03:14:52 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 13 03:14:52 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 13 03:14:52 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 13 03:14:52 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 13 03:14:52 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 13 03:14:52 *	There are 16 users and 7826 invisible on 9 servers
+Nov 13 03:14:52 *	8 :operator(s) online
+Nov 13 03:14:52 *	17 :unknown connections
+Nov 13 03:14:52 *	11468 :channels formed
+Nov 13 03:14:52 *	I have 3919 clients and 1 servers
+Nov 13 03:14:52 *	Current local users: 3919  Max: 7273
+Nov 13 03:14:52 *	Current global users: 7842  Max: 10916
+Nov 13 03:14:52 *	*.freenode.net message of the day
+Nov 13 03:14:52 *	  Hello, World!
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  Welcome to the
+Nov 13 03:14:52 *	          __                               _
+Nov 13 03:14:52 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 13 03:14:52 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 13 03:14:52 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 13 03:14:52 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 13 03:14:52 *	                                   AUTONOMOUS ZONE
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  Connect to us on:
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 13 03:14:52 *	  Plaintext: 6660-6669
+Nov 13 03:14:52 *	  TLS/SSL: 6697,7000,7070
+Nov 13 03:14:52 *	  Webchat: https://webchat.freenode.net
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 13 03:14:52 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 13 03:14:52 *	  be scanned for an open proxy.
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  If you are looking for assistance, please try:
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  #help                    - Help with general IRC and Services.
+Nov 13 03:14:52 *	  #chanhelp                - Help with channels and channel services.
+Nov 13 03:14:52 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  Checkout some of our communities and services:
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 13 03:14:52 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 13 03:14:52 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 13 03:14:52 *	  #freenode                - Chat about freenode.
+Nov 13 03:14:52 *	  #anonchan                - Chat anonymously.
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  Type /join #<channel>
+Nov 13 03:14:52 *	 
+Nov 13 03:14:52 *	  Thank you for using freenode!
+Nov 13 03:14:52 *	End of message of the day.
+Nov 13 03:14:52 *	freenode-jidsab.7cfn.v4nr.8e4isk.IP :is now your displayed host
+Nov 13 03:14:52 *	oni_kage_00 sets mode +w on oni_kage_00
+Nov 13 03:14:52 *	oni_kage_00 sets mode +R on oni_kage_00
+Nov 13 03:14:52 *	oni_kage_00 sets mode +i on oni_kage_00
+Nov 13 03:14:52 *	oni_kage_00 sets mode +x on oni_kage_00
+Nov 13 03:14:52 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 13 03:14:52 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+**** ENDING LOGGING AT Mon Nov 13 03:16:02 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:16:08 2023
+
+Nov 13 03:16:08 *	Welcome to the freenode IRC Network oni_kage00!~oni@2600:1006:b16e:f27d:4656:6d3e:2f48:3f8
+Nov 13 03:16:08 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 13 03:16:08 *	This server was created 23:06:04 Apr 20 2022
+Nov 13 03:16:08 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 13 03:16:08 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 13 03:16:08 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 13 03:16:08 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 13 03:16:08 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 13 03:16:08 *	There are 16 users and 7821 invisible on 9 servers
+Nov 13 03:16:08 *	8 :operator(s) online
+Nov 13 03:16:08 *	14 :unknown connections
+Nov 13 03:16:08 *	11480 :channels formed
+Nov 13 03:16:08 *	I have 3914 clients and 1 servers
+Nov 13 03:16:08 *	Current local users: 3914  Max: 7273
+Nov 13 03:16:08 *	Current global users: 7837  Max: 10916
+Nov 13 03:16:08 *	*.freenode.net message of the day
+Nov 13 03:16:08 *	  Hello, World!
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  Welcome to the
+Nov 13 03:16:08 *	          __                               _
+Nov 13 03:16:08 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 13 03:16:08 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 13 03:16:08 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 13 03:16:08 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 13 03:16:08 *	                                   AUTONOMOUS ZONE
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  Connect to us on:
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 13 03:16:08 *	  Plaintext: 6660-6669
+Nov 13 03:16:08 *	  TLS/SSL: 6697,7000,7070
+Nov 13 03:16:08 *	  Webchat: https://webchat.freenode.net
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 13 03:16:08 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 13 03:16:08 *	  be scanned for an open proxy.
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  If you are looking for assistance, please try:
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  #help                    - Help with general IRC and Services.
+Nov 13 03:16:08 *	  #chanhelp                - Help with channels and channel services.
+Nov 13 03:16:08 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  Checkout some of our communities and services:
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 13 03:16:08 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 13 03:16:08 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 13 03:16:08 *	  #freenode                - Chat about freenode.
+Nov 13 03:16:08 *	  #anonchan                - Chat anonymously.
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  Type /join #<channel>
+Nov 13 03:16:08 *	 
+Nov 13 03:16:08 *	  Thank you for using freenode!
+Nov 13 03:16:08 *	End of message of the day.
+Nov 13 03:16:08 *	freenode-jidsab.7cfn.v4nr.8e4isk.IP :is now your displayed host
+Nov 13 03:16:08 *	oni_kage00 sets mode +w on oni_kage00
+Nov 13 03:16:08 *	oni_kage00 sets mode +R on oni_kage00
+Nov 13 03:16:08 *	oni_kage00 sets mode +i on oni_kage00
+Nov 13 03:16:08 *	oni_kage00 sets mode +x on oni_kage00
+Nov 13 03:16:08 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 13 03:16:08 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+Nov 13 03:16:09 *	SASL authentication failed
+Nov 13 03:16:13 *	SASL authentication failed
+Nov 13 03:16:15 *	SASL authentication failed
+Nov 13 03:16:17 *	SASL authentication failed
+Nov 13 03:16:21 *	SASL authentication failed
+Nov 13 03:16:23 *	SASL authentication failed
+Nov 13 03:16:26 *	SASL authentication failed
+Nov 13 03:16:27 *	SASL authentication failed
+Nov 13 03:16:29 *	SASL authentication failed
+Nov 13 03:16:31 *	SASL authentication failed
+Nov 13 03:16:33 *	SASL authentication failed
+Nov 13 03:16:35 *	SASL authentication failed
+Nov 13 03:16:38 *	SASL authentication failed
+Nov 13 03:16:39 *	SASL authentication failed
+Nov 13 03:16:41 *	SASL authentication failed
+Nov 13 03:16:43 *	SASL authentication failed
+Nov 13 03:16:45 *	SASL authentication failed
+Nov 13 03:16:49 *	SASL authentication failed
+Nov 13 03:16:51 *	SASL authentication failed
+Nov 13 03:16:53 *	SASL authentication failed
+Nov 13 03:16:55 *	SASL authentication failed
+Nov 13 03:16:57 *	SASL authentication failed
+Nov 13 03:16:59 Sysinfo	hexchat_command called without a valid context.
+Nov 13 03:16:59 Sysinfo	hexchat_print called without a valid context.
+Nov 13 03:16:59 Perl	hexchat_print called without a valid context.
+Nov 13 03:16:59 FiSHLiM plugin unloaded
+Nov 13 03:16:59 Checksum	hexchat_print called without a valid context.
+**** ENDING LOGGING AT Mon Nov 13 03:16:59 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:25:08 2023
+
+Nov 13 03:25:08 *	Welcome to the freenode IRC Network oni_kage_00!~oni@2600:1006:b16e:f27d:4656:6d3e:2f48:3f8
+Nov 13 03:25:08 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 13 03:25:08 *	This server was created 23:06:04 Apr 20 2022
+Nov 13 03:25:08 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 13 03:25:08 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 13 03:25:08 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 13 03:25:08 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 13 03:25:08 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 13 03:25:08 *	There are 16 users and 7831 invisible on 9 servers
+Nov 13 03:25:08 *	8 :operator(s) online
+Nov 13 03:25:08 *	14 :unknown connections
+Nov 13 03:25:08 *	11484 :channels formed
+Nov 13 03:25:08 *	I have 3917 clients and 1 servers
+Nov 13 03:25:08 *	Current local users: 3917  Max: 7273
+Nov 13 03:25:08 *	Current global users: 7847  Max: 10916
+Nov 13 03:25:08 *	*.freenode.net message of the day
+Nov 13 03:25:08 *	  Hello, World!
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  Welcome to the
+Nov 13 03:25:08 *	          __                               _
+Nov 13 03:25:08 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 13 03:25:08 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 13 03:25:08 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 13 03:25:08 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 13 03:25:08 *	                                   AUTONOMOUS ZONE
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  Connect to us on:
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 13 03:25:08 *	  Plaintext: 6660-6669
+Nov 13 03:25:08 *	  TLS/SSL: 6697,7000,7070
+Nov 13 03:25:08 *	  Webchat: https://webchat.freenode.net
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 13 03:25:08 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 13 03:25:08 *	  be scanned for an open proxy.
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  If you are looking for assistance, please try:
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  #help                    - Help with general IRC and Services.
+Nov 13 03:25:08 *	  #chanhelp                - Help with channels and channel services.
+Nov 13 03:25:08 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  Checkout some of our communities and services:
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 13 03:25:08 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 13 03:25:08 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 13 03:25:08 *	  #freenode                - Chat about freenode.
+Nov 13 03:25:08 *	  #anonchan                - Chat anonymously.
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  Type /join #<channel>
+Nov 13 03:25:08 *	 
+Nov 13 03:25:08 *	  Thank you for using freenode!
+Nov 13 03:25:08 *	End of message of the day.
+Nov 13 03:25:08 *	freenode-jidsab.7cfn.v4nr.8e4isk.IP :is now your displayed host
+Nov 13 03:25:08 *	oni_kage_00 sets mode +w on oni_kage_00
+Nov 13 03:25:08 *	oni_kage_00 sets mode +R on oni_kage_00
+Nov 13 03:25:08 *	oni_kage_00 sets mode +i on oni_kage_00
+Nov 13 03:25:08 *	oni_kage_00 sets mode +x on oni_kage_00
+Nov 13 03:25:08 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 13 03:25:08 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+Nov 13 03:25:09 *	SASL authentication failed
+Nov 13 03:25:13 *	SASL authentication failed
+Nov 13 03:25:15 *	SASL authentication failed
+Nov 13 03:25:17 *	SASL authentication failed
+Nov 13 03:25:19 *	SASL authentication failed
+Nov 13 03:25:21 Sysinfo plugin unloaded
+Nov 13 03:25:21 Perl interface unloaded
+Nov 13 03:25:21 FiSHLiM plugin unloaded
+Nov 13 03:25:21 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 13 03:25:21 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:25:36 2023
+
+Nov 13 03:25:36 *	Welcome to the freenode IRC Network oni_kage_00!~oni@2600:1006:b16e:f27d:4656:6d3e:2f48:3f8
+Nov 13 03:25:36 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 13 03:25:36 *	This server was created 23:06:04 Apr 20 2022
+Nov 13 03:25:36 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 13 03:25:36 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 13 03:25:36 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 13 03:25:36 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 13 03:25:36 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 13 03:25:36 *	There are 16 users and 7827 invisible on 9 servers
+Nov 13 03:25:36 *	8 :operator(s) online
+Nov 13 03:25:36 *	22 :unknown connections
+Nov 13 03:25:36 *	11486 :channels formed
+Nov 13 03:25:36 *	I have 3913 clients and 1 servers
+Nov 13 03:25:36 *	Current local users: 3913  Max: 7273
+Nov 13 03:25:36 *	Current global users: 7843  Max: 10916
+Nov 13 03:25:36 *	*.freenode.net message of the day
+Nov 13 03:25:36 *	  Hello, World!
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  Welcome to the
+Nov 13 03:25:36 *	          __                               _
+Nov 13 03:25:36 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 13 03:25:36 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 13 03:25:36 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 13 03:25:36 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 13 03:25:36 *	                                   AUTONOMOUS ZONE
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  Connect to us on:
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 13 03:25:36 *	  Plaintext: 6660-6669
+Nov 13 03:25:36 *	  TLS/SSL: 6697,7000,7070
+Nov 13 03:25:36 *	  Webchat: https://webchat.freenode.net
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 13 03:25:36 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 13 03:25:36 *	  be scanned for an open proxy.
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  If you are looking for assistance, please try:
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  #help                    - Help with general IRC and Services.
+Nov 13 03:25:36 *	  #chanhelp                - Help with channels and channel services.
+Nov 13 03:25:36 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  Checkout some of our communities and services:
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 13 03:25:36 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 13 03:25:36 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 13 03:25:36 *	  #freenode                - Chat about freenode.
+Nov 13 03:25:36 *	  #anonchan                - Chat anonymously.
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  Type /join #<channel>
+Nov 13 03:25:36 *	 
+Nov 13 03:25:36 *	  Thank you for using freenode!
+Nov 13 03:25:36 *	End of message of the day.
+Nov 13 03:25:36 *	freenode-jidsab.7cfn.v4nr.8e4isk.IP :is now your displayed host
+Nov 13 03:25:36 *	oni_kage_00 sets mode +w on oni_kage_00
+Nov 13 03:25:36 *	oni_kage_00 sets mode +R on oni_kage_00
+Nov 13 03:25:36 *	oni_kage_00 sets mode +i on oni_kage_00
+Nov 13 03:25:36 *	oni_kage_00 sets mode +x on oni_kage_00
+Nov 13 03:25:36 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 13 03:25:36 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+Nov 13 03:25:37 *	SASL authentication failed
+Nov 13 03:25:41 *	SASL authentication failed
+Nov 13 03:25:43 *	SASL authentication failed
+Nov 13 03:25:45 *	SASL authentication failed
+Nov 13 03:25:48 *	SASL authentication failed
+Nov 13 03:25:49 *	SASL authentication failed
+Nov 13 03:25:51 *	SASL authentication failed
+Nov 13 03:25:53 *	SASL authentication failed
+Nov 13 03:25:55 *	SASL authentication failed
+Nov 13 03:26:00 *	SASL authentication failed
+Nov 13 03:26:01 *	SASL authentication failed
+**** ENDING LOGGING AT Mon Nov 13 03:26:02 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:26:04 2023
+
+Nov 13 03:26:04 *	Welcome to the freenode IRC Network oni_kage00!~oni@2600:1006:b16e:f27d:4656:6d3e:2f48:3f8
+Nov 13 03:26:04 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 13 03:26:04 *	This server was created 23:06:04 Apr 20 2022
+Nov 13 03:26:04 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 13 03:26:04 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 13 03:26:04 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 13 03:26:04 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 13 03:26:04 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 13 03:26:04 *	There are 16 users and 7831 invisible on 9 servers
+Nov 13 03:26:04 *	8 :operator(s) online
+Nov 13 03:26:04 *	14 :unknown connections
+Nov 13 03:26:04 *	11487 :channels formed
+Nov 13 03:26:04 *	I have 3913 clients and 1 servers
+Nov 13 03:26:04 *	Current local users: 3913  Max: 7273
+Nov 13 03:26:04 *	Current global users: 7847  Max: 10916
+Nov 13 03:26:04 *	*.freenode.net message of the day
+Nov 13 03:26:04 *	  Hello, World!
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  Welcome to the
+Nov 13 03:26:04 *	          __                               _
+Nov 13 03:26:04 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 13 03:26:04 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 13 03:26:04 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 13 03:26:04 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 13 03:26:04 *	                                   AUTONOMOUS ZONE
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  Connect to us on:
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 13 03:26:04 *	  Plaintext: 6660-6669
+Nov 13 03:26:04 *	  TLS/SSL: 6697,7000,7070
+Nov 13 03:26:04 *	  Webchat: https://webchat.freenode.net
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 13 03:26:04 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 13 03:26:04 *	  be scanned for an open proxy.
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  If you are looking for assistance, please try:
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  #help                    - Help with general IRC and Services.
+Nov 13 03:26:04 *	  #chanhelp                - Help with channels and channel services.
+Nov 13 03:26:04 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  Checkout some of our communities and services:
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 13 03:26:04 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 13 03:26:04 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 13 03:26:04 *	  #freenode                - Chat about freenode.
+Nov 13 03:26:04 *	  #anonchan                - Chat anonymously.
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  Type /join #<channel>
+Nov 13 03:26:04 *	 
+Nov 13 03:26:04 *	  Thank you for using freenode!
+Nov 13 03:26:04 *	End of message of the day.
+Nov 13 03:26:04 *	freenode-jidsab.7cfn.v4nr.8e4isk.IP :is now your displayed host
+Nov 13 03:26:04 *	oni_kage00 sets mode +w on oni_kage00
+Nov 13 03:26:04 *	oni_kage00 sets mode +R on oni_kage00
+Nov 13 03:26:04 *	oni_kage00 sets mode +i on oni_kage00
+Nov 13 03:26:04 *	oni_kage00 sets mode +x on oni_kage00
+Nov 13 03:26:04 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 13 03:26:04 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+Nov 13 03:26:07 -NickServ-	Nick oni_kage00 isn't registered.
+**** ENDING LOGGING AT Mon Nov 13 03:27:58 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:28:01 2023
+
+Nov 13 03:28:01 *	Welcome to the freenode IRC Network oni_00!~oni@2600:1006:b16e:f27d:4656:6d3e:2f48:3f8
+Nov 13 03:28:01 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 13 03:28:01 *	This server was created 23:06:04 Apr 20 2022
+Nov 13 03:28:01 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 13 03:28:01 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 13 03:28:01 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 13 03:28:01 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 13 03:28:01 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 13 03:28:01 *	There are 16 users and 7832 invisible on 9 servers
+Nov 13 03:28:01 *	8 :operator(s) online
+Nov 13 03:28:01 *	17 :unknown connections
+Nov 13 03:28:01 *	11485 :channels formed
+Nov 13 03:28:01 *	I have 3917 clients and 1 servers
+Nov 13 03:28:01 *	Current local users: 3917  Max: 7273
+Nov 13 03:28:01 *	Current global users: 7848  Max: 10916
+Nov 13 03:28:01 *	*.freenode.net message of the day
+Nov 13 03:28:01 *	  Hello, World!
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  Welcome to the
+Nov 13 03:28:01 *	          __                               _
+Nov 13 03:28:01 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 13 03:28:01 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 13 03:28:01 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 13 03:28:01 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 13 03:28:01 *	                                   AUTONOMOUS ZONE
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  Connect to us on:
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 13 03:28:01 *	  Plaintext: 6660-6669
+Nov 13 03:28:01 *	  TLS/SSL: 6697,7000,7070
+Nov 13 03:28:01 *	  Webchat: https://webchat.freenode.net
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 13 03:28:01 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 13 03:28:01 *	  be scanned for an open proxy.
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  If you are looking for assistance, please try:
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  #help                    - Help with general IRC and Services.
+Nov 13 03:28:01 *	  #chanhelp                - Help with channels and channel services.
+Nov 13 03:28:01 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  Checkout some of our communities and services:
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 13 03:28:01 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 13 03:28:01 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 13 03:28:01 *	  #freenode                - Chat about freenode.
+Nov 13 03:28:01 *	  #anonchan                - Chat anonymously.
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  Type /join #<channel>
+Nov 13 03:28:01 *	 
+Nov 13 03:28:01 *	  Thank you for using freenode!
+Nov 13 03:28:01 *	End of message of the day.
+Nov 13 03:28:01 *	freenode-jidsab.7cfn.v4nr.8e4isk.IP :is now your displayed host
+Nov 13 03:28:01 *	oni_00 sets mode +w on oni_00
+Nov 13 03:28:01 *	oni_00 sets mode +R on oni_00
+Nov 13 03:28:01 *	oni_00 sets mode +i on oni_00
+Nov 13 03:28:01 *	oni_00 sets mode +x on oni_00
+Nov 13 03:28:01 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 13 03:28:01 -NickServ-	This nickname is registered and protected.  If it is your
+Nov 13 03:28:01 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Nov 13 03:28:01 -NickServ-	please choose a different nick.
+Nov 13 03:28:01 -NickServ-	If you do not change within 1 minute, I will change your nick.
+Nov 13 03:28:01 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+Nov 13 03:28:01 -NickServ-	Password accepted - you are now recognized.
+Nov 13 03:28:01 *	You are now logged in as oni_00
+Nov 13 03:28:01 *	*.freenode.net sets mode -x on oni_00
+Nov 13 03:28:01 *	freenode/user/oni-00x-69f1ec38b1e265c6 :is now your displayed host
+Nov 13 03:28:01 -HostServ-	Your vhost of freenode/user/oni-00x-69f1ec38b1e265c6 is now activated.
+Nov 13 03:28:02 *	NickServ sets mode +r on oni_00
+Nov 13 03:28:15 Sysinfo	hexchat_command called without a valid context.
+Nov 13 03:28:15 Sysinfo	hexchat_print called without a valid context.
+Nov 13 03:28:15 Perl	hexchat_print called without a valid context.
+Nov 13 03:28:15 FiSHLiM plugin unloaded
+Nov 13 03:28:15 Checksum	hexchat_print called without a valid context.
+**** ENDING LOGGING AT Mon Nov 13 03:28:15 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:28:24 2023
+
+Nov 13 03:28:24 *	Welcome to the freenode IRC Network oni_00!~oni@2600:1006:b16e:f27d:4656:6d3e:2f48:3f8
+Nov 13 03:28:24 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 13 03:28:24 *	This server was created 23:06:04 Apr 20 2022
+Nov 13 03:28:24 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 13 03:28:24 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 13 03:28:24 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 13 03:28:24 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 13 03:28:24 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 13 03:28:24 *	There are 16 users and 7832 invisible on 9 servers
+Nov 13 03:28:24 *	8 :operator(s) online
+Nov 13 03:28:24 *	15 :unknown connections
+Nov 13 03:28:24 *	11487 :channels formed
+Nov 13 03:28:24 *	I have 3919 clients and 1 servers
+Nov 13 03:28:24 *	Current local users: 3919  Max: 7273
+Nov 13 03:28:24 *	Current global users: 7848  Max: 10916
+Nov 13 03:28:24 *	*.freenode.net message of the day
+Nov 13 03:28:24 *	  Hello, World!
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  Welcome to the
+Nov 13 03:28:24 *	          __                               _
+Nov 13 03:28:24 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 13 03:28:24 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 13 03:28:24 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 13 03:28:24 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 13 03:28:24 *	                                   AUTONOMOUS ZONE
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  Connect to us on:
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 13 03:28:24 *	  Plaintext: 6660-6669
+Nov 13 03:28:24 *	  TLS/SSL: 6697,7000,7070
+Nov 13 03:28:24 *	  Webchat: https://webchat.freenode.net
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 13 03:28:24 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 13 03:28:24 *	  be scanned for an open proxy.
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  If you are looking for assistance, please try:
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  #help                    - Help with general IRC and Services.
+Nov 13 03:28:24 *	  #chanhelp                - Help with channels and channel services.
+Nov 13 03:28:24 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  Checkout some of our communities and services:
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 13 03:28:24 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 13 03:28:24 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 13 03:28:24 *	  #freenode                - Chat about freenode.
+Nov 13 03:28:24 *	  #anonchan                - Chat anonymously.
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  Type /join #<channel>
+Nov 13 03:28:24 *	 
+Nov 13 03:28:24 *	  Thank you for using freenode!
+Nov 13 03:28:24 *	End of message of the day.
+Nov 13 03:28:24 *	freenode-jidsab.7cfn.v4nr.8e4isk.IP :is now your displayed host
+Nov 13 03:28:24 *	oni_00 sets mode +w on oni_00
+Nov 13 03:28:24 *	oni_00 sets mode +R on oni_00
+Nov 13 03:28:24 *	oni_00 sets mode +i on oni_00
+Nov 13 03:28:24 *	oni_00 sets mode +x on oni_00
+Nov 13 03:28:24 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 13 03:28:24 -NickServ-	This nickname is registered and protected.  If it is your
+Nov 13 03:28:24 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Nov 13 03:28:24 -NickServ-	please choose a different nick.
+Nov 13 03:28:24 -NickServ-	If you do not change within 1 minute, I will change your nick.
+Nov 13 03:28:24 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+Nov 13 03:28:24 -NickServ-	Password accepted - you are now recognized.
+Nov 13 03:28:24 *	You are now logged in as oni_00
+Nov 13 03:28:24 *	*.freenode.net sets mode -x on oni_00
+Nov 13 03:28:24 *	freenode/user/oni-00x-69f1ec38b1e265c6 :is now your displayed host
+Nov 13 03:28:24 -HostServ-	Your vhost of freenode/user/oni-00x-69f1ec38b1e265c6 is now activated.
+Nov 13 03:28:24 *	NickServ sets mode +r on oni_00
+Nov 13 03:28:36 *	*** You cannot view the channel list right now. Please try again in 43s.
+Nov 13 03:28:40 *	*** You cannot view the channel list right now. Please try again in 39s.
+Nov 13 03:28:48 *	*** You cannot view the channel list right now. Please try again in 31s.
+Nov 13 03:29:08 *	*** You cannot view the channel list right now. Please try again in 11s.
+Nov 13 03:29:10 *	*** You cannot view the channel list right now. Please try again in 9s.
+Nov 13 03:37:16 Sysinfo plugin unloaded
+Nov 13 03:37:16 Perl interface unloaded
+Nov 13 03:37:16 FiSHLiM	hexchat_print called without a valid context.
+Nov 13 03:37:16 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 13 03:37:16 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 04:04:51 2023
+
+Nov 13 04:04:51 *	Welcome to the freenode IRC Network oni_00!~oni@2600:1006:b16e:f27d:4656:6d3e:2f48:3f8
+Nov 13 04:04:51 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 13 04:04:51 *	This server was created 23:06:04 Apr 20 2022
+Nov 13 04:04:51 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 13 04:04:51 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 13 04:04:51 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 13 04:04:51 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 13 04:04:51 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 13 04:04:51 *	There are 16 users and 7865 invisible on 9 servers
+Nov 13 04:04:51 *	8 :operator(s) online
+Nov 13 04:04:51 *	17 :unknown connections
+Nov 13 04:04:51 *	11468 :channels formed
+Nov 13 04:04:51 *	I have 3911 clients and 1 servers
+Nov 13 04:04:51 *	Current local users: 3911  Max: 7273
+Nov 13 04:04:51 *	Current global users: 7881  Max: 10916
+Nov 13 04:04:51 *	*.freenode.net message of the day
+Nov 13 04:04:51 *	  Hello, World!
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  Welcome to the
+Nov 13 04:04:51 *	          __                               _
+Nov 13 04:04:51 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 13 04:04:51 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 13 04:04:51 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 13 04:04:51 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 13 04:04:51 *	                                   AUTONOMOUS ZONE
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  Connect to us on:
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 13 04:04:51 *	  Plaintext: 6660-6669
+Nov 13 04:04:51 *	  TLS/SSL: 6697,7000,7070
+Nov 13 04:04:51 *	  Webchat: https://webchat.freenode.net
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 13 04:04:51 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 13 04:04:51 *	  be scanned for an open proxy.
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  If you are looking for assistance, please try:
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  #help                    - Help with general IRC and Services.
+Nov 13 04:04:51 *	  #chanhelp                - Help with channels and channel services.
+Nov 13 04:04:51 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  Checkout some of our communities and services:
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 13 04:04:51 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 13 04:04:51 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 13 04:04:51 *	  #freenode                - Chat about freenode.
+Nov 13 04:04:51 *	  #anonchan                - Chat anonymously.
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  Type /join #<channel>
+Nov 13 04:04:51 *	 
+Nov 13 04:04:51 *	  Thank you for using freenode!
+Nov 13 04:04:51 *	End of message of the day.
+Nov 13 04:04:51 *	freenode-jidsab.7cfn.v4nr.8e4isk.IP :is now your displayed host
+Nov 13 04:04:51 *	oni_00 sets mode +w on oni_00
+Nov 13 04:04:51 *	oni_00 sets mode +R on oni_00
+Nov 13 04:04:51 *	oni_00 sets mode +i on oni_00
+Nov 13 04:04:51 *	oni_00 sets mode +x on oni_00
+Nov 13 04:04:51 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 13 04:04:51 -NickServ-	This nickname is registered and protected.  If it is your
+Nov 13 04:04:51 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Nov 13 04:04:51 -NickServ-	please choose a different nick.
+Nov 13 04:04:51 -NickServ-	If you do not change within 1 minute, I will change your nick.
+Nov 13 04:04:51 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+Nov 13 04:04:51 -NickServ-	Password accepted - you are now recognized.
+Nov 13 04:04:51 *	You are now logged in as oni_00
+Nov 13 04:04:51 *	*.freenode.net sets mode -x on oni_00
+Nov 13 04:04:51 *	freenode/user/oni-00x-69f1ec38b1e265c6 :is now your displayed host
+Nov 13 04:04:51 -HostServ-	Your vhost of freenode/user/oni-00x-69f1ec38b1e265c6 is now activated.
+Nov 13 04:04:51 *	NickServ sets mode +r on oni_00
+Nov 13 04:05:01 *	*** You cannot view the channel list right now. Please try again in 45s.
+Nov 13 04:05:03 *	*** You cannot view the channel list right now. Please try again in 43s.
+Nov 13 04:05:13 *	*** You cannot view the channel list right now. Please try again in 33s.
+Nov 13 04:05:24 *	*** You cannot view the channel list right now. Please try again in 22s.
+Nov 13 04:05:37 *	*** You cannot view the channel list right now. Please try again in 9s.
+Nov 13 04:08:22 Sysinfo plugin unloaded
+Nov 13 04:08:22 Perl interface unloaded
+Nov 13 04:08:22 FiSHLiM	hexchat_print called without a valid context.
+Nov 13 04:08:22 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 13 04:08:22 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:27:31 2023
+
+Nov 15 19:27:31 *	Welcome to the freenode IRC Network oni_00!~oni@2600:1006:b189:2109:79e7:3d17:6464:5a6b
+Nov 15 19:27:31 *	Your host is *.freenode.net, running version InspIRCd-3
+Nov 15 19:27:31 *	This server was created 23:06:04 Apr 20 2022
+Nov 15 19:27:31 *	*.freenode.net InspIRCd-3 BDHILRSTWcdghikorswxz ABCDEFIJKLMNOPQRSTUWXYZbcdefhijklmnoprstuvwz :BEFIJLWXYZbdefhjklovw
+Nov 15 19:27:31 *	ACCEPT=30 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbew,k,BEFJLWdfjl,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Nov 15 19:27:31 *	EXTBAN=,ACNOQRSTUacjmnpruwz HOSTLEN=64 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,w:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=freenode :are supported by this server
+Nov 15 19:27:31 *	NICKLEN=30 PREFIX=(Yohv)!@%+ REMOVE SAFELIST SECURELIST=60 SILENCE=32 STATUSMSG=!@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BDHILRSTWcdghikorwxz VBANLIST :are supported by this server
+Nov 15 19:27:31 *	VLIST=b WATCH=32 WHOX :are supported by this server
+Nov 15 19:27:31 *	There are 18 users and 7331 invisible on 9 servers
+Nov 15 19:27:31 *	8 :operator(s) online
+Nov 15 19:27:31 *	19 :unknown connections
+Nov 15 19:27:31 *	11465 :channels formed
+Nov 15 19:27:31 *	I have 3620 clients and 1 servers
+Nov 15 19:27:31 *	Current local users: 3620  Max: 7273
+Nov 15 19:27:31 *	Current global users: 7349  Max: 10916
+Nov 15 19:27:31 *	*.freenode.net message of the day
+Nov 15 19:27:31 *	  Hello, World!
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  Welcome to the
+Nov 15 19:27:31 *	          __                               _
+Nov 15 19:27:31 *	         / _|_ __ ___  ___ _ __   ___   __| | ___
+Nov 15 19:27:31 *	        | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \
+Nov 15 19:27:31 *	        |  _| | |  __/  __/ | | | (_) | (_| |  __/
+Nov 15 19:27:31 *	        |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|
+Nov 15 19:27:31 *	                                   AUTONOMOUS ZONE
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  Connect to us on:
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  Hostname: irc.freenode.net / chat.freenode.net
+Nov 15 19:27:31 *	  Plaintext: 6660-6669
+Nov 15 19:27:31 *	  TLS/SSL: 6697,7000,7070
+Nov 15 19:27:31 *	  Webchat: https://webchat.freenode.net
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  By connecting to freenode you indicate that you have read and accept our
+Nov 15 19:27:31 *	  policies and guidelines as set out on https://freenode.net and agree to
+Nov 15 19:27:31 *	  be scanned for an open proxy.
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  If you are looking for assistance, please try:
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  #help                    - Help with general IRC and Services.
+Nov 15 19:27:31 *	  #chanhelp                - Help with channels and channel services.
+Nov 15 19:27:31 *	  #IRC                     - Help with the IRC.com by freenode app.
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  Checkout some of our communities and services:
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  #freenode-bbs            - BBS [https://bbs.freenode.net/]
+Nov 15 19:27:31 *	  #freenode-bbs-discussion - BBS Discussion
+Nov 15 19:27:31 *	  #freenode-jobs           - Jobs [https://jobs.freenode.net/]
+Nov 15 19:27:31 *	  #freenode                - Chat about freenode.
+Nov 15 19:27:31 *	  #anonchan                - Chat anonymously.
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  Type /join #<channel>
+Nov 15 19:27:31 *	 
+Nov 15 19:27:31 *	  Thank you for using freenode!
+Nov 15 19:27:31 *	End of message of the day.
+Nov 15 19:27:31 *	freenode-ba2uk0.tt7k.ev9i.8e4isk.IP :is now your displayed host
+Nov 15 19:27:31 *	oni_00 sets mode +w on oni_00
+Nov 15 19:27:31 *	oni_00 sets mode +R on oni_00
+Nov 15 19:27:31 *	oni_00 sets mode +i on oni_00
+Nov 15 19:27:31 *	oni_00 sets mode +x on oni_00
+Nov 15 19:27:31 *	*** You are connected to chat.freenode.net using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Nov 15 19:27:31 -NickServ-	This nickname is registered and protected.  If it is your
+Nov 15 19:27:31 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Nov 15 19:27:31 -NickServ-	please choose a different nick.
+Nov 15 19:27:31 -NickServ-	If you do not change within 1 minute, I will change your nick.
+Nov 15 19:27:31 -Global-	[Random News - Oct 27 04:08:42 2023 UTC] 🎉 Join us in #trivia for a thrilling trivia showdown! Test your knowledge and have a blast with us! 🧠💡
+Nov 15 19:27:32 -NickServ-	Password accepted - you are now recognized.
+Nov 15 19:27:32 *	You are now logged in as oni_00
+Nov 15 19:27:32 *	*.freenode.net sets mode -x on oni_00
+Nov 15 19:27:32 *	freenode/user/oni-00x-69f1ec38b1e265c6 :is now your displayed host
+Nov 15 19:27:32 -HostServ-	Your vhost of freenode/user/oni-00x-69f1ec38b1e265c6 is now activated.
+Nov 15 19:27:32 *	NickServ sets mode +r on oni_00
+**** ENDING LOGGING AT Wed Nov 15 19:28:57 2023
+

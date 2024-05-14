@@ -1,0 +1,1694 @@
+T 1700110911 19*	Now talking on 22#undernet
+T 1700110911 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700110911 22*	Topic for 22#undernet set by 26X (24Wed Nov 15 23:41:00 2023)
+T 1700110939 24*	KTP has quit (Quit: Connection closed for inactivity)
+T 1700111024 24*	Doma has quit (Read error: Connection reset by peer)
+T 1700112005 19*	Now talking on 22#undernet
+T 1700112005 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700112005 22*	Topic for 22#undernet set by 26X (24Wed Nov 15 23:41:00 2023)
+T 1700112323 23*	Roczz (~Rocz@065-185-091-199.res.spectrum.com23) has joined
+T 1700112471 24*	rorx has quit (Read error: Operation timed out)
+T 1700112519 18<29LilMiss18>	Hey Roczz 
+T 1700112582 24*	Rocz has quit (Ping timeout)
+T 1700112928 23*	Juventus (uid624882@id-624882.tinside.irccloud.com23) has joined
+T 1700112938 24*	28}P{0 is now known as 18coffee-
+T 1700112951 24*	28coffee- is now known as 18}P{-
+T 1700113295 FiSHLiM	hexchat_print called without a valid context.
+T 1700159885 19*	Now talking on 22#undernet
+T 1700159885 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700159885 22*	Topic for 22#undernet set by 26X (24Thu Nov 16 13:26:33 2023)
+T 1700159891 24*	Rage`Machine has quit (Quit: Connection closed for inactivity)
+T 1700159956 24*	LordVader has quit (Read error: Operation timed out)
+T 1700159957 24*	Compy has quit (Read error: Operation timed out)
+T 1700159957 24*	BuhBye has quit (Read error: Operation timed out)
+T 1700159983 22*	26X sets channel limit to 24288
+T 1700159994 24*	Iriselul has quit (Read error: EOF from client)
+T 1700159994 24*	emvm has quit (Read error: EOF from client)
+T 1700159995 24*	chatchat has quit (Read error: EOF from client)
+T 1700159995 24*	zeo has quit (Read error: EOF from client)
+T 1700159996 24*	Seraphim has quit (Read error: Operation timed out)
+T 1700159996 24*	Mokuro has quit (Read error: EOF from client)
+T 1700159998 24*	FrieT has quit (Read error: EOF from client)
+T 1700160013 22*	26X sets channel limit to 24281
+T 1700160181 23*	Iriselul (iriselul@undernet.org23) has joined
+T 1700160181 23*	emvm (selfish@172.16.16.11923) has joined
+T 1700160184 23*	chatchat (chatchat@172.16.16.10423) has joined
+T 1700160184 22*	26Guards sets mode 24+m on 22#undernet
+T 1700160184 22*	26Guards sets mode 24+r on 22#undernet
+T 1700160184 22*	26Guards sets mode 24+c on 22#undernet
+T 1700160194 23*	Mokuro (mokuro@undernet.org23) has joined
+T 1700160194 22*	26X gives channel operator status to 18Mokuro
+T 1700160214 18<22Guards18>	The channel is moderated (mode +m). If you wanna be able to chat in #undernet then use: /msg Guards voiceme #undernet. Enjoy!
+T 1700160223 22*	26X sets channel limit to 24285
+T 1700160304 22*	26Guards sets mode 24-m on 22#undernet
+T 1700160304 22*	26Guards sets mode 24-r on 22#undernet
+T 1700160304 22*	26Guards sets mode 24-c on 22#undernet
+T 1700160321 18<22Guards18>	The channel is NOT moderated (mode +m) anymore. Enjoy!
+T 1700160333 23*	zeo (zeo@172.16.16.11423) has joined
+T 1700160370 22*	26X gives voice to 18Iriselul
+T 1700160380 23*	Mokz (mokuro@undernet.org23) has joined
+T 1700160380 22*	26X gives channel operator status to 18Mokz
+T 1700160481 23*	Compy (compy@undernet.org23) has joined
+T 1700160612 23*	BuhBye (awesome@undernet.org23) has joined
+T 1700160613 22*	26X sets channel limit to 24289
+T 1700160875 18*	29v|g|LanT slaps ^beFemme around a bit with a venus
+T 1700161244 24*	MiGueLL_ has quit (Read error: Connection reset by peer)
+T 1700161443 24*	^beFemme has quit (Quit)
+T 1700161676 23*	MiGueLL_ (~miguell@miguelxx.users.undernet.org23) has joined
+T 1700161899 23*	Cute_Kind_m (sid366172@id-366172.helmsley.irccloud.com23) has joined
+T 1700162371 23*	Claire_S_ (uid166540@ilkley.irccloud.com23) has joined
+T 1700162734 23*	kdqep (~kdqep@d50-98-77-251.bchsia.telus.net23) has joined
+T 1700203308 19*	Now talking on 22#undernet
+T 1700203308 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700203308 22*	Topic for 22#undernet set by 26X (24Fri Nov 17 01:22:57 2023)
+T 1700203333 18<29LilMiss18>	^5 <3
+T 1700203338 18<29LilMiss18>	Hi AngelOfMercy 
+T 1700203374 18<20AngelOfMercy18>	hi LilMiss
+T 1700203417 18<29LilMiss18>	How are you?
+T 1700203426 23*	Doma (~Doma@90.89-11-156.customer.lyse.net23) has joined
+T 1700203449 23*	Nevermets (uid424092@id-424092.ilkley.irccloud.com23) has joined
+T 1700203503 24*	Destani has quit (Read error: EOF from client)
+T 1700203606 24*	}P{- has quit (Read error: Connection reset by peer)
+T 1700203664 23*	}P{- (~bad@name.users.undernet.org23) has joined
+T 1700203689 22*	26X gives channel operator status to 18}P{-
+T 1700203707 Sysinfo	hexchat_command called without a valid context.
+T 1700203707 Sysinfo	hexchat_print called without a valid context.
+T 1700203707 FiSHLiM	hexchat_print called without a valid context.
+T 1700203707 Checksum	hexchat_print called without a valid context.
+T 1700203726 19*	Now talking on 22#undernet
+T 1700203726 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700203726 22*	Topic for 22#undernet set by 26X (24Fri Nov 17 01:22:57 2023)
+T 1700203817 22*	26oni sets mode 24+x on 22oni
+T 1700203869 18<29LilMiss18>	Morning }P{- 
+T 1700273560 19*	Now talking on 22#undernet
+T 1700273560 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700273560 22*	Topic for 22#undernet set by 26X (24Fri Nov 17 20:51:24 2023)
+T 1700275665 23*	h1tchHick3r (~h1tchhick@146.70.215.22923) has joined
+T 1700275689 18<24h1tchHick3r18>	good evening everyone
+T 1700275722 24*	28muerte is now known as 18MUERTE
+T 1700275738 18<24h1tchHick3r18>	is there any policy against VPN in the network or just some channels ?
+T 1700275918 18<27chalcedony18>	possibly a channel issue. some may conflict with network software
+T 1700276059 24*	lounge-user1 has quit (Read error: EOF from client)
+T 1700276079 23*	lounge-user1 (~lounge-us@198.58.111.9423) has joined
+T 1700276329 23*	SushiGirl (uid369310@id-369310.helmsley.irccloud.com23) has joined
+T 1700276377 23*	xBooYaHx (~prozaak.o@99-168-78-182.lightspeed.bcvloh.sbcglobal.net23) has joined
+T 1700276646 18<24h1tchHick3r18>	got it!!
+T 1700276652 18<24h1tchHick3r18>	appreciate the help
+T 1700276675 18<24xBooYaHx18>	how do i login as a registered user with undernet
+T 1700276698 22*	26X removes channel operator status from 18PANDEMONS
+T 1700276741 24*	h1tchHick3r (~h1tchhick@146.70.215.22924) has left (Leaving)
+T 1700276853 24*	d3vboot has quit (Read error: EOF from client)
+T 1700276902 23*	Ishmael (~noname@ip72-219-163-209.oc.oc.cox.net23) has joined
+T 1700277192 24*	xBooYaHx (~prozaak.o@99-168-78-182.lightspeed.bcvloh.sbcglobal.net24) has left
+T 1700277709 24*	lounge-user1 has quit (Read error: EOF from client)
+T 1700277729 23*	lounge-user1 (~lounge-us@198.58.111.9423) has joined
+T 1700277923 24*	KTP has quit (Quit: Connection closed for inactivity)
+T 1700277997 23*	Marly (webchat@209.121.189.1823) has joined
+T 1700278266 24*	Ishmael (~noname@ip72-219-163-209.oc.oc.cox.net24) has left
+T 1700278759 24*	Marly (webchat@209.121.189.1824) has left
+T 1700278863 22*	26X removes ban on 18*!*@*.mibbit.com
+T 1700281634 23*	KTP (uid523947@id-523947.lymington.irccloud.com23) has joined
+T 1700282088 22*	26X removes channel operator status from 18}P{-
+T 1700282207 23*	kilop_1 (~HFXP@ppp-94-66-119-149.home.otenet.gr23) has joined
+T 1700282249 24*	kilop_1 (~HFXP@ppp-94-66-119-149.home.otenet.gr24) has left
+T 1700282490 23*	fashionartm (uid396318@lymington.irccloud.com23) has joined
+T 1700283311 23*	naomi_59 (webchat@184-088-243-252.res.spectrum.com23) has joined
+T 1700283338 24*	28naomi_59 is now known as 18Naomi__
+T 1700283353 24*	Naomi__ (webchat@184-088-243-252.res.spectrum.com24) has left
+T 1700283939 24*	SushiGirl has quit (Quit: Connection closed for inactivity)
+T 1700284552 24*	BlkDragon has quit (Read error: Operation timed out)
+T 1700284889 23*	M38_- (uid28498@helmsley.irccloud.com23) has joined
+T 1700285790 23*	^KLzX9n36Wb5 (~elite@forcepw.users.undernet.org23) has joined
+T 1700285790 22*	26X gives voice to 18^KLzX9n36Wb5
+T 1700285965 24*	Canseco has quit (Read error: EOF from client)
+T 1700286069 23*	Canseco (helper@boxshells.xyz23) has joined
+T 1700286142 24*	Canseco has quit (Registered)
+T 1700286142 23*	Canseco (helper@Cachito.users.undernet.org23) has joined
+T 1700286148 24*	28^KLzX9n36Wb5 is now known as 18AirKLM
+T 1700286178 24*	AirKLM has quit (Quit)
+T 1700286316 23*	^KLdO8b85Ps4 (~elite@forcepw.users.undernet.org23) has joined
+T 1700286316 22*	26X gives voice to 18^KLdO8b85Ps4
+T 1700286466 24*	Rocz has quit (Quit: Adios pendejos!)
+T 1700286478 24*	28^KLdO8b85Ps4 is now known as 18AirKLM
+T 1700286798 23*	gold^ (~gold@151.28.219.3023) has joined
+T 1700287624 23*	pj (~igloo@bl7-133-147.dsl.telepac.pt23) has joined
+T 1700287627 24*	Easy0bserver has quit (Quit)
+T 1700288002 24*	pj has quit (Ping timeout)
+T 1700370430 19*	Now talking on 22#undernet
+T 1700370430 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700370430 22*	Topic for 22#undernet set by 26X (24Sat Nov 18 23:31:24 2023)
+T 1700370432 23*	SushiGirl (uid369310@id-369310.helmsley.irccloud.com23) has joined
+T 1700370500 18<29LilMiss18>	I want sushi,  every damn time :(
+T 1700370513 18<19Empus18>	heh
+T 1700370518 20<oni>30	hello
+T 1700370586 18<20mits`18>	FUCCCCCCK
+T 1700370854 18<19Empus18>	mits`: you ok there pal?
+T 1700370859 19<LilMiss>	Hi oni
+T 1700370864 18<20mits`18>	no
+T 1700370872 18<20mits`18>	seattle just scored 2 goals 
+T 1700370872 18<29LilMiss18>	I just made scrambled egg, Empus 
+T 1700370873 18<29LilMiss18>	Lets see
+T 1700370877 18<20mits`18>	so im a little emo 
+T 1700370886 18<19Empus18>	LilMiss: good luck!
+T 1700370888 18<20mits`18>	i blame phil 
+T 1700370894 18<29LilMiss18>	Thanks 
+T 1700370900 18<20mits`18>	cause he hates canadians 
+T 1700370903 18<20mits`18>	and canada
+T 1700370916 18<19Empus18>	try not to think about their prior embryo form when eating them
+T 1700370924 18<29LilMiss18>	Fuck off
+T 1700370926 18<19Empus18>	😂
+T 1700370927 18<29LilMiss18>	I hate you
+T 1700370928 18<19Empus18>	hahaha
+T 1700370933 18<20mits`18>	thats kind of disturbing 
+T 1700370938 18<19Empus18>	that was pretty evil
+T 1700370940 18<20mits`18>	lol
+T 1700370956 18<29LilMiss18>	GUESS ILL STARVE THEN
+T 1700370984 18<19Empus18>	nah I'm sure there are some calories in fireball 
+T 1700371013 18*	29LilMiss shudders
+T 1700371022 18<19Empus18>	heh
+T 1700371030 18<29LilMiss18>	That galliano was like drinking pure vanilla essence hahahha. 
+T 1700371060 18<29LilMiss18>	Pretty sure it's been sitting there a while  :s
+T 1700371060 24*	hiena has quit (Quit: see`ya)
+T 1700371070 18<19Empus18>	haha
+T 1700371082 18<19Empus18>	you sure like the sweet things
+T 1700371082 22*	26X removes voice from 18phil
+T 1700371115 18<29LilMiss18>	Yeh. Gotta try sweeten me up some. I'm.a bitter person remember ;p
+T 1700371166 18<19Empus18>	ha that's not how I'd describe you
+T 1700371209 18<29LilMiss18>	Haha. Don't tell me. I don't want my very little feels to be hurt 🤣
+T 1700371233 18<29LilMiss18>	Ffs. 35C. No wonder i feel hot
+T 1700371235 18<19Empus18>	rofl
+T 1700371266 18<19Empus18>	that'll do it!
+T 1700371273 18<19Empus18>	Only 26 here today.  Quite nice :>
+T 1700371318 18<29LilMiss18>	Still too hot, but I'd rather that
+T 1700371320 18*	19Empus closes the blinds and pulls his Sith Lord hoddie down further over his face
+T 1700371344 18<29LilMiss18>	Hahah
+T 1700371362 24*	chelsea has quit (Quit)
+T 1700371373 18<19Empus18>	I'll let the sun in when I open a beer for the cricket 😜
+T 1700371439 23*	kilop_1 (~HFXP@ppp-94-66-119-149.home.otenet.gr23) has joined
+T 1700371447 18<19Empus18>	the pre and mid match entertainment might actually be quite the spectacle... I've heard they quite like cricket in India 😂
+T 1700371461 18<19Empus18>	have you got that powerpoint handy again?  I never looked at it properly last night
+T 1700371472 18<29LilMiss18>	Haha
+T 1700371478 18<29LilMiss18>	Um let me find the logs
+T 1700371595 18<19Empus18>	found it
+T 1700371734 18<19Empus18>	this slide deck looks like a school kid put it together in the 90s with Microsoft Publisher 😂
+T 1700371756 18<29LilMiss18>	I'm glad you did.  I was still scrolling.  We talked a fair bit of shit bahaha 
+T 1700371760 24*	kilop_1 (~HFXP@ppp-94-66-119-149.home.otenet.gr24) has left
+T 1700371775 18<19Empus18>	haha yep
+T 1700371781 18<19Empus18>	the ol '/grep' to the rescue yet again :>
+T 1700372383 24*	melissa has quit (Quit: Leaving)
+T 1700372408 22*	26X sets channel limit to 24285
+T 1700372781 24*	^iranfemboy has quit (Read error: EOF from client)
+T 1700373087 24*	28MinxKittyn- is now known as 18Blayze
+T 1700373282 18<19Empus18>	LilMiss: still alive over there?
+T 1700373294 18<29LilMiss18>	I am
+T 1700373320 18<25}P{-18>	.o
+T 1700373322 22*	26X gives channel operator status to 18}P{-
+T 1700373322 18<25}P{-18>	Good morning
+T 1700373389 18<29LilMiss18>	Hugs }P{- 
+T 1700373448 18<19Empus18>	good good 
+T 1700373484 18<25}P{-18>	Hugs LilMiss
+T 1700373516 18<29LilMiss18>	Might go grab a big cup of ice water though haha
+T 1700373593 18<19Empus18>	until Maxwell comes down parts the Indian Ocean and turns that water to wine!
+T 1700373663 23*	Hans46 (webchat@81-234-182-43-no2662.tbcn.telia.com23) has joined
+T 1700373713 24*	Hans46 (webchat@81-234-182-43-no2662.tbcn.telia.com24) has left
+T 1700373776 18<29LilMiss18>	Haha. I will smash him for a 6 if he tries  🤢
+T 1700373820 18<19Empus18>	Warney would be rolling in his grave at you today 
+T 1700373854 18<19Empus18>	he's prob got a can and a durrie in there with him 😂
+T 1700373869 18<29LilMiss18>	Hahaha
+T 1700374010 24*	Blayze has quit (Quit: Bye Bye Bye)
+T 1700374066 23*	MinxKittyn- (Ziggy@iceNfire.users.undernet.org23) has joined
+T 1700374171 18<29LilMiss18>	Did you ever hear Kevin bloody Wilson's song for Warney,  Empus ?
+T 1700374356 18<24empBot18>	Can’t remember. Link me 😂
+T 1700374462 18<29LilMiss18>	Empus: https://youtu.be/Cd23HcVqHr0?si=ze3muPcpLp-VSUWH
+T 1700374462 24*	capsoman has quit (Quit)
+T 1700374466 18<29LilMiss18>	Haha
+T 1700374741 23*	fossil7151 (UserNick@S0106f8a097ef8883.mh.shawcable.net23) has joined
+T 1700375024 23*	neintarziat (~neintarzi@34.234.167.22923) has joined
+T 1700375057 24*	fossil7151 has quit (Read error: EOF from client)
+T 1700375268 18<19Empus18>	playin' now :>
+T 1700375302 18<19Empus18>	hahah
+T 1700375423 18<24bogghi18>	:>
+T 1700375749 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1700375755 23*	Rage`Machine (uid471342@Unworthy.users.undernet.org23) has joined
+T 1700375842 18<19guitarzan18>	hi
+T 1700376008 23*	melkie (~Adium@5.13.193.2423) has joined
+T 1700376028 24*	melkie has quit (Quit: Leaving.)
+T 1700376153 23*	alph (~alph@alpha.users.undernet.org23) has joined
+T 1700376347 24*	alph has quit (Quit)
+T 1700376419 23*	alph (~alph@alpha.users.undernet.org23) has joined
+T 1700376448 18<19Sebi18>	Good morning ☀️
+T 1700376463 18<19guitarzan18>	Action...
+T 1700376481 22*	26X removes voice from 18LilMiss
+T 1700454038 19*	Now talking on 22#undernet
+T 1700454038 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700454038 22*	Topic for 22#undernet set by 26X (24Sun Nov 19 22:59:46 2023)
+T 1700455545 24*	ghebo has quit (Read error: Operation timed out)
+T 1700455554 24*	QuBit has quit (Read error: EOF from client)
+T 1700455711 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1700455837 24*	Greatnick (~aaron@Greatnick.users.undernet.org24) has left (Left all channels)
+T 1700455869 24*	guitarzan has quit (Read error: Connection reset by peer)
+T 1700455876 22*	26X sets channel limit to 24293
+T 1700456097 23*	naomi_38 (webchat@184-088-243-252.res.spectrum.com23) has joined
+T 1700456117 24*	28naomi_38 is now known as 18Naomi__
+T 1700456121 24*	Naomi__ (webchat@184-088-243-252.res.spectrum.com24) has left
+T 1700456134 23*	QuBit (QuBit@2605:6400:c847:1401::104123) has joined
+T 1700456309 24*	kdqep has quit (Quit: Leaving)
+T 1700456457 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1700456904 24*	guitarzan has quit (Quit: Sam the Butcher giving Alice the meat.)
+T 1700457059 24*	lounge-user1 has quit (Read error: EOF from client)
+T 1700457082 23*	lounge-user1 (~lounge-us@198.58.111.9423) has joined
+T 1700457719 20<oni>30	hello
+T 1700457934 19<LilMiss>	Hi oni
+T 1700458009 20<oni>30	hi LilMiss
+T 1700458031 18<29LilMiss18>	How are you?
+T 1700458108 20<oni>30	good! watching spaceballs. may the shwartz be with you! how are you?
+T 1700458241 18<29LilMiss18>	Not too bad here thanks! Just made a coffee :p
+T 1700458477 23*	ghebo (ghebo@2605:6400:c847:1449::944123) has joined
+T 1700458534 23*	}P{0 (~bad@82.132.232.9023) has joined
+T 1700458555 24*	}P{0 has quit (Registered)
+T 1700458555 23*	}P{0 (~bad@name.users.undernet.org23) has joined
+T 1700458571 22*	26X gives channel operator status to 18}P{0
+T 1700458694 18<25Juventus18>	'morning
+T 1700458716 18<29LilMiss18>	Hey Juventus 
+T 1700459030 18<28}P{018>	Hello
+T 1700459087 18<29LilMiss18>	Heya }P{  *hugs*
+T 1700459131 18*	28}P{0 hugs LilMiss
+T 1700459150 18<25Juventus18>	morning Pi
+T 1700459157 18<28}P{018>	Good morning Juventus
+T 1700459324 18<25Juventus18>	heya LilMiss 
+T 1700459340 18<29LilMiss18>	How are you?
+T 1700459354 18<25Juventus18>	coffee and ready for work
+T 1700459356 18<25Juventus18>	you? 
+T 1700459522 18<29LilMiss18>	Coffee and SFA :D
+T 1700459597 24*	}P{0 has quit (Ping timeout)
+T 1700535905 19*	Now talking on 22#undernet
+T 1700535905 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700535905 22*	Topic for 22#undernet set by 26X (24Mon Nov 20 21:57:28 2023)
+T 1700536167 23*	kaithlynn (~kaithlynn@cpeac202e122233-cmac202e122230.cpe.net.fido.ca23) has joined
+T 1700536463 22*	26X removes ban on 18*!~*@181.48.0.0/12
+T 1700536826 22*	26X removes ban on 18*!*@103.96.0.0/12
+T 1700537472 23*	M38_- (uid28498@helmsley.irccloud.com23) has joined
+T 1700537541 24*	kaithlynn has quit (Quit: Leaving)
+T 1700537981 23*	Fantomas (~guest@123.16.231.17723) has joined
+T 1700538003 23*	Brax (Buddy@Brax.users.undernet.org23) has joined
+T 1700538429 19*	Now talking on 22#undernet
+T 1700538429 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700538429 22*	Topic for 22#undernet set by 26X (24Mon Nov 20 22:31:11 2023)
+T 1700538666 24*	Mushroom40m has quit (Quit: Connection closed for inactivity)
+T 1700538722 19<v|g|LanT>	hi oni
+T 1700538722 18<29v|g|LanT18>	;d
+T 1700538812 22*	26X removes ban on 18*!*@node-14h5.pool-125-24.dynamic.totinternet.net
+T 1700539140 20<oni>30	hi v|g|Lant
+T 1700539152 18<29v|g|LanT18>	:)
+T 1700539198 20<oni>30	hows it going
+T 1700539571 18<29v|g|LanT18>	not bad
+T 1700539571 18<29v|g|LanT18>	and u
+T 1700539715 20<oni>30	its going ok.  
+T 1700539881 20<oni>30	working on a tattoo stencil of jake the dog from adventure time sitting in a pocket
+T 1700539899 18<29v|g|LanT18>	OO
+T 1700540264 23*	redlob (~redlob@072-154-158-163.dynamic.caiway.nl23) has joined
+T 1700540458 23*	ChefStuff (webchat@dhcp-108-170-133-198.cable.user.start.ca23) has joined
+T 1700540488 24*	redlob_ has quit (Ping timeout)
+T 1700540875 18<24ChefStuff18>	hi from canada :)
+T 1700540924 20<oni>30	hi ChefStuff
+T 1700540944 19<ChefStuff>	hello oni
+T 1700540950 18<24ChefStuff18>	chilaxin?
+T 1700541076 20<oni>30	getting ready to tattooin.
+T 1700541112 18<24ChefStuff18>	you provide or are receiving one
+T 1700541190 20<oni>30	i tattoo myself.  by hand no machine
+T 1700541208 18<24ChefStuff18>	wow
+T 1700541231 18<24ChefStuff18>	where u from in the world
+T 1700541305 20<oni>30	ive been doing it since i was just a kid. 
+T 1700541489 20<oni>30	florida
+T 1700541518 20<oni>30	but made in korea
+T 1700541575 18<24ChefStuff18>	cool
+T 1700541680 24*	Fleet_ has quit (Read error: Connection reset by peer)
+T 1700542386 23*	naomi_70 (webchat@184-088-243-252.res.spectrum.com23) has joined
+T 1700542398 24*	28naomi_70 is now known as 18Naomi__
+T 1700542401 24*	Naomi__ (webchat@184-088-243-252.res.spectrum.com24) has left
+T 1700542452 24*	Sophie` has quit (Quit)
+T 1700542479 23*	naomi__ (webchat@184-088-243-252.res.spectrum.com23) has joined
+T 1700542488 24*	naomi__ (webchat@184-088-243-252.res.spectrum.com24) has left
+T 1700709012 19*	Now talking on 22#undernet
+T 1700709012 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1700709012 22*	Topic for 22#undernet set by 26X (24Wed Nov 22 21:43:39 2023)
+T 1700709246 23*	naomi__ (webchat@2603-9001-2500-bc84-70f4-105c-8b64-4e73.inf6.spectrum.com23) has joined
+T 1700709257 24*	naomi__ (webchat@2603-9001-2500-bc84-70f4-105c-8b64-4e73.inf6.spectrum.com24) has left
+T 1700709316 20<oni>30	hello
+T 1700709436 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1700709667 18<25Iriselul18>	Hi
+T 1700709766 20<oni>30	happy turkey day!
+T 1700710046 24*	JeepGuy has quit (Read error: Connection reset by peer)
+T 1700710104 23*	_Cormoran (~quassel@109-203-34-110.dhcp.voenergies.net23) has joined
+T 1700710113 24*	Cormoran has quit (Read error: Operation timed out)
+T 1700710309 24*	rVn has quit (Ping timeout)
+T 1700710336 24*	Pomol has quit (Ping timeout)
+T 1700710427 24*	reina has quit (Ping timeout)
+T 1700710466 23*	Cormoran (~quassel@212.147.36.21023) has joined
+T 1700710556 23*	_Cormoran_ (~quassel@109-203-34-110.dhcp.voenergies.net23) has joined
+T 1700710760 24*	guitarzan has quit (Read error: Connection reset by peer)
+T 1700710789 24*	_Cormoran has quit (Read error: Operation timed out)
+T 1700710825 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1700710848 24*	Cormoran has quit (Ping timeout)
+T 1700711242 24*	^Oak (~Acer@91.196.220.7224) has left
+T 1700711253 24*	Zoidy has quit (Quit: Dont sweat the petty things and dont pet the sweaty things.)
+T 1700711283 23*	naomi__ (webchat@2603-9001-2500-bc84-70f4-105c-8b64-4e73.inf6.spectrum.com23) has joined
+T 1700711299 24*	naomi__ (webchat@2603-9001-2500-bc84-70f4-105c-8b64-4e73.inf6.spectrum.com24) has left
+T 1700711558 24*	fashionartm has quit (Quit)
+T 1700711581 23*	Pomol (Nada@172.31.6.11623) has joined
+T 1700711582 23*	reina (Goddess@172.31.6.10023) has joined
+T 1700711878 18<19guitarzan18>	Hi
+T 1700711933 20<oni>30	hi guitarzan
+T 1700711936 23*	fashionartm (uid396318@lymington.irccloud.com23) has joined
+T 1700711937 18<29v|g|LanT18>	lymington
+T 1700711940 18<29v|g|LanT18>	hi
+T 1700711975 20<oni>30	hi v|g|LanT
+T 1700711985 19<v|g|LanT>	hi oni
+T 1700712545 23*	kaithlynn (~kaithlynn@cpeac202e122233-cmac202e122230.cpe.net.fido.ca23) has joined
+T 1700712959 23*	JeepGuy (~JeepGuy@atr85882.users.undernet.org23) has joined
+T 1700712971 24*	Sebastien has quit (Read error: EOF from client)
+T 1700713197 24*	guitarzan has quit (Read error: Connection reset by peer)
+T 1700713571 23*	naomi__ (webchat@2603-9001-2500-bc84-70f4-105c-8b64-4e73.inf6.spectrum.com23) has joined
+T 1700713681 23*	naomi__94 (webchat@2603-9001-2500-bc84-70f4-105c-8b64-4e73.inf6.spectrum.com23) has joined
+T 1700713694 24*	naomi__94 (webchat@2603-9001-2500-bc84-70f4-105c-8b64-4e73.inf6.spectrum.com24) has left
+T 1700714098 23*	M38_- (uid28498@helmsley.irccloud.com23) has joined
+T 1700714915 23*	Rage`Machine (uid471342@Unworthy.users.undernet.org23) has joined
+T 1700715028 24*	kaithlynn has quit (Quit: Leaving)
+T 1700715173 23*	Greatnick (~aaron@Greatnick.users.undernet.org23) has joined
+T 1700715850 24*	LadyPerfume has quit (Read error: EOF from client)
+T 1700716487 23*	LadyPerfume (LadyPink@seattle.freshchat.org23) has joined
+T 1700716798 22*	26X removes channel operator status from 18Tomcraft
+T 1700717379 23*	^Noodle (~YeahMe@jnoodle88.users.undernet.org23) has joined
+T 1700717487 23*	domdom (webchat@59.91.30.3423) has joined
+T 1700717506 22*	26X sets channel limit to 24292
+T 1700718053 24*	domdom has quit (Read error: EOF from client)
+T 1700718173 23*	fidgety (webchat@59.91.30.3423) has joined
+T 1700718173 24*	naomi__ has quit (Read error: EOF from client)
+T 1700718246 24*	fidgety has quit (Read error: EOF from client)
+T 1700718465 24*	L|nuxName has quit (Quit: ZNC 1.8.2 - https://znc.in)
+T 1700718496 23*	L|nuxName (name@2a04:dd01:6:64::f10023) has joined
+T 1700718621 24*	L|nuxName has quit (Registered)
+T 1700718621 23*	L|nuxName (name@linuxname.users.undernet.org23) has joined
+T 1700718774 24*	Greatnick has quit (Quit: Leaving)
+T 1700719224 18<20Tripoli18>	morning
+T 1700720364 18<28cisco18>	good morning
+T 1700721694 23*	}P{0 (~bad@82-132-225-227.dab.02.net23) has joined
+T 1700721952 24*	}P{- has quit (Read error: Connection reset by peer)
+T 1700722049 23*	firebreaks0 (~firebreak@92.133.146.723) has joined
+T 1700722310 24*	28}P{0 is now known as 18}P{-
+T 1700722318 24*	}P{- has quit (Registered)
+T 1700722318 23*	}P{- (~bad@name.users.undernet.org23) has joined
+T 1700722438 24*	firebreaks0 has quit (Quit: quit)
+T 1700722812 18<25}P{-18>	Good morning
+T 1700722901 18<20^Noodle18>	Hey there }P{!!
+T 1700723000 18<24Telac18>	good morning undernet :)
+T 1700723100 24*	28_Cormoran_ is now known as 18Cormoran
+T 1700723236 24*	Rage`Machine has quit (Quit: Connection closed for inactivity)
+T 1700723252 22*	26X sets channel limit to 24288
+T 1700724178 23*	galileana (uid494788@hampstead.irccloud.com23) has joined
+T 1700724251 18<20^Noodle18>	Hi Telac
+T 1700724381 18<24Telac18>	heyo :)
+T 1700724415 18<19Empus18>	good evening :>
+T 1700724764 23*	^irantobemfe (~irantobem@bl5-170-39.dsl.telepac.pt23) has joined
+T 1700724778 24*	Rocz has quit (Quit: Adios pendejos!)
+T 1700724874 24*	fashionartm has quit (Signed off)
+T 1700724949 24*	`Denis has quit (Ping timeout)
+T 1700725027 18<27Gende18>	yo
+T 1700725056 18<28cisco18>	yo Empus 
+T 1700725072 18<28cisco18>	good morning everyone
+T 1700725079 18<27Gende18>	morning cisco
+T 1700725620 24*	^irantobemfe has quit (Quit)
+T 1700725647 23*	^iranfemale (~iranfemal@bl5-170-39.dsl.telepac.pt23) has joined
+T 1700725766 24*	MrIron has quit (Registered)
+T 1700725766 23*	MrIron (iron@mriron.users.undernet.org23) has joined
+T 1700726052 18<24Telac18>	oh shhht Empus is here
+T 1700726061 18<24Telac18>	hide the weed and the adult magazines
+T 1700726116 18<28cisco18>	😂😂😂😂😂😂
+T 1700726186 24*	galileana has quit (Quit)
+T 1700726207 18<19Empus18>	I'm not a teenager in the 1970s, mate 😂
+T 1700726292 18<24Telac18>	oh heh .. alright
+T 1700726422 23*	gblfxt__ (~gblfxt@c-98-237-150-229.hsd1.wa.comcast.net23) has joined
+T 1700726538 18<27Gende18>	Empus is everywhere Telac, speak about porn boom he's here, speak about alcohol boom he's here, speak about parties boom .... cricket/rugby...
+T 1700726563 18<19Empus18>	Gende: stop seducing me with buzz words!
+T 1700726568 18<27Gende18>	hahaha
+T 1700726649 24*	gblfxt_ has quit (Read error: Connection reset by peer)
+T 1700726719 18<24Telac18>	his IRC notification is blowing up
+T 1700726731 18<24Telac18>	speak about cuddly bunnies and boom!
+T 1700727008 22*	26X gives channel operator status to 18}P{
+T 1701497022 19*	Now talking on 22#undernet
+T 1701497022 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1701497022 22*	Topic for 22#undernet set by 26X (24Sat Dec  2 00:49:30 2023)
+T 1701497028 22*	26}P{ sets ban on 18*!*@2607:fb90:456:*
+T 1701497034 18<25DilloCica18>	https://www.youtube.com/watch?v=Y36ZEKYMvzM&ab_channel=Redacted
+T 1701497105 18<25}P{18>	Yup, plenty of plans for the masses
+T 1701497116 18<25DilloCica18>	so u know about it
+T 1701497134 18<25DilloCica18>	great, lots of ppl have no clue what is going on
+T 1701497136 18<25}P{18>	Nope, and I don't give a single f about it :\
+T 1701497154 18<25DilloCica18>	you will when we will go back to times when Ceausescu was on power
+T 1701497162 18<25}P{18>	Haha
+T 1701497190 18<25}P{18>	Let's not get into politics, I dislike them too much to talk about them
+T 1701497242 18<25DilloCica18>	it is simple, they want to delete completely the use of cash, in Romania this has started already; they want digital IDs and digital money
+T 1701497246 18<25DilloCica18>	just to mention a few
+T 1701497254 18<25DilloCica18>	that is not politics, just the plan outside
+T 1701497278 18<25}P{18>	It's a political agenda
+T 1701497280 FiSHLiM plugin unloaded
+T 1702018485 19*	Now talking on 22#undernet
+T 1702018485 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1702018485 22*	Topic for 22#undernet set by 26X (24Fri Dec  8 01:18:26 2023)
+T 1702018498 18<19Empus18>	good, thanks! Friday :>
+T 1702018500 18<19Empus18>	and you?
+T 1702018593 18<25Rob_M18>	Yes indeed :) I’m doing okay
+T 1702018618 18<24Telac18>	good friday morning undies :)
+T 1702018781 18<25Rob_M18>	Happy Friday :)
+T 1702018793 18<24Telac18>	Friyay!
+T 1702019007 23*	Rage`Machine (uid471342@Unworthy.users.undernet.org23) has joined
+T 1702019144 23*	olivera_ (webchat@62.162.191.10323) has joined
+T 1702019150 24*	olivera_ (webchat@62.162.191.10324) has left
+T 1702019339 18*	22Lau buna dimi
+T 1702019422 23*	Drizmirr (~Drizmirr@212.252.142.22723) has joined
+T 1702019508 23*	Dulcinea (uid484530@ZambetulTau.users.undernet.org23) has joined
+T 1702019508 22*	26X gives channel operator status to 18Dulcinea
+T 1702019516 18<25Dulcinea18>	G morning :)
+T 1702019538 22*	26X sets channel limit to 24281
+T 1702019539 24*	Drizmirr has quit (Quit)
+T 1702019671 18*	20fragrance pokes Dulcinea 
+T 1702019988 24*	Rob_M has quit (Quit)
+T 1702020430 24*	schizo has quit (Read error: EOF from client)
+T 1702020524 18<29LilMiss18>	I wonder if kp0w enjoyed his pizza
+T 1702020568 24*	hiena has quit (Read error: EOF from client)
+T 1702020593 22*	26X sets channel limit to 24277
+T 1702020607 23*	MrMW (~mark@60-241-101-212.tpgi.com.au23) has joined
+T 1702020726 18<25Dulcinea18>	LilMiss: :)))
+T 1702020775 18<24Telac18>	is kp0w eating junk food again?
+T 1702020784 18<24Telac18>	what happened to his constant training and sixpack?
+T 1702020797 18<24Telac18>	man that guy has the body of a greek God
+T 1702020799 18<24Telac18>	so unfair
+T 1702021183 23*	schizo (~schizo@175.136.125.22223) has joined
+T 1702021185 24*	schizo has quit (Registered)
+T 1702021185 23*	schizo (~schizo@schizo.users.undernet.org23) has joined
+T 1702021211 18<29LilMiss18>	Dulcinea :)
+T 1702021220 18<19Empus18>	haha Telac, how do you know that?
+T 1702021227 18<19Empus18>	has he been sending you nudes?
+T 1702021232 23*	artmodel (~artmodel@172.218.174.9423) has joined
+T 1702021236 18<24^518>	:))
+T 1702021248 18<25Dulcinea18>	Wow
+T 1702021250 18<25Dulcinea18>	:))))
+T 1702021312 18<25Dulcinea18>	Empus: are u curious about that
+T 1702021316 18<25Dulcinea18>	:))))
+T 1702021340 18<19Empus18>	are you not? Telac was the one commenting on his body
+T 1702021340 18<19Empus18>	heh
+T 1702021360 18<25Dulcinea18>	Yess i  am to
+T 1702021367 18<24Telac18>	sure he has
+T 1702021372 18<25Dulcinea18>	I want to see
+T 1702021372 18<25Dulcinea18>	:))))
+T 1702021377 18<24Telac18>	getting nudes is not hard. The hard part is getting people to stop sending them
+T 1702021387 18<19Empus18>	not me! I don't do dudes
+T 1702021393 18<19Empus18>	heh
+T 1702021425 18<24Telac18>	*** DCC SEND from Empus (dingbat@undernet.org) - hello.jpg (4.672 MB) Accept? [Y/n]
+T 1702021436 18<19Empus18>	n
+T 1702021443 18<24Telac18>	DCC Accepted, transferring..
+T 1702021457 18<25Dulcinea18>	Empus: I’m women i want to see nice guy’s
+T 1702021460 18<25Dulcinea18>	:X
+T 1702021477 18<24Telac18>	you should see Empus then
+T 1702021477 18<24Telac18>	send her your nudes Empus 
+T 1702021477 18<24Telac18>	she asked nicely.
+T 1702021477 18<19Empus18>	Dulcinea: only evil men in here 😈
+T 1702021497 18<19Empus18>	she did? I only saw a statement
+T 1702021497 18<24^518>	SAS RAID:Dell PERC 5/i Adapter Driver
+T 1702021497 18<19Empus18>	heh
+T 1702021497 18<24^518>	Pfft
+T 1702021497 18<24Telac18>	read between the lines :P
+T 1702021499 18<25Dulcinea18>	:)))
+T 1702021507 18<25Dulcinea18>	Evil man?
+T 1702021521 18<25Dulcinea18>	Uf i like evil man i’m evil to
+T 1702021528 18<24Telac18>	there you go.
+T 1702021548 18<20fragrance18>	Dulcinea, i will steal your nick
+T 1702021580 18<25Dulcinea18>	fragrance: i will kill u if you do that
+T 1702021587 18<24Telac18>	hmm... s/r n/r d/
+T 1702021596 18<25Dulcinea18>	It’s not good for you
+T 1702021596 18<25Dulcinea18>	;))
+T 1702021598 18<20fragrance18>	aahahaha
+T 1702021656 18<20fragrance18>	your nickname will be mine 😈😈😈😈😈
+T 1702021656 18<29LilMiss18>	^5 <3
+T 1702021664 18<24^518>	hugs LilMiss^^
+T 1702021673 18<25Dulcinea18>	fragrance: you’re soul will be mine
+T 1702021675 18<25Dulcinea18>	:))))
+T 1702021679 18<20fragrance18>	😂😂😂😂
+T 1702021692 18<26reina18>	good morning 
+T 1702021700 18<20fragrance18>	heya LilMiss 
+T 1702021700 18*	29LilMiss hugs ^5
+T 1702021700 18<29LilMiss18>	Hello
+T 1702021700 18<20fragrance18>	heya reina
+T 1702021713 18<26reina18>	Heya fragrance 
+T 1702021747 18<25Dulcinea18>	G morning reina
+T 1702021805 18<26reina18>	neata Dulcinea 
+T 1702021812 18<25Dulcinea18>	fragrance: you make me smile in this morning
+T 1702021814 18<25Dulcinea18>	:))
+T 1702021818 18*	26reina winks at LilMiss
+T 1702021867 18<20^Noodle18>	Hiya LilMiss! hugsss
+T 1702021871 18<20^Noodle18>	Hiya reina!!
+T 1702021884 18<20^Noodle18>	lol speaking of fragrance
+T 1702021889 18<25Dulcinea18>	Hey ^Noodle
+T 1702021902 18<20^Noodle18>	I just happened to spray Febreze in my truck before going to work
+T 1702021913 18<29LilMiss18>	Hugsss ^Noodle 
+T 1702021926 18<20^Noodle18>	and this lady came up to have us look at some quotes and goes... wow... you smell nice
+T 1702021932 18<26reina18>	I winked her yet she hugged him
+T 1702021935 18<26reina18>	😂
+T 1702021940 18<20^Noodle18>	I chuckled and said... it's Febreze
+T 1702021943 18<20^Noodle18>	lol
+T 1702021951 18<20^Noodle18>	Hiya Dulcinea!
+T 1702021957 18<20^Noodle18>	:)
+T 1702021990 18<20^Noodle18>	I was like... so, you love the smell of clean too huh?
+T 1702021992 22*	26X gives voice to 18^Noodle
+T 1702022067 18<24Telac18>	what does Febreze smell like?
+T 1702022080 18<24Telac18>	I heard a podcast about habit loops specifically about febreze, but never smelled it
+T 1702022128 18<29LilMiss18>	I dunno. Some of us prefer that dirty smell.. winkwink
+T 1702022201 18<24lilmoe18>	febreeze is what a stoners house smells like when the popo arrives
+T 1702022298 18<20^Noodle18>	lol
+T 1702022330 18<20^Noodle18>	that's not dirt I smell
+T 1702022331 18<20^Noodle18>	:P
+T 1702022335 18<20^Noodle18>	hahahhahahaa
+T 1702022346 18<20^Noodle18>	lol lilmoe
+T 1702022784 23*	LilMissLil (LilMissLil@LilMiss.users.undernet.org23) has joined
+T 1702022784 22*	26X sets channel limit to 24281
+T 1702022847 18<26reina18>	is mamaloot here? 
+T 1702884026 19*	Now talking on 22#undernet
+T 1702884026 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1702884026 22*	Topic for 22#undernet set by 26X (24Mon Dec 18 01:50:11 2023)
+T 1702884027 22*	26chief gives voice to 18oni
+T 1702884063 18<25Dulcinea18>	`Panzer: you doing that?
+T 1702884069 18<25Dulcinea18>	:)))))
+T 1702884210 18<19`Panzer18>	eh eh eh Dulcinea, it's Officer Naaaaasty
+T 1702884248 18<25Dulcinea18>	Nasty officer like you? :))
+T 1702884266 18<25Dulcinea18>	I want a nasty officer like you
+T 1702884269 18<25Dulcinea18>	:)))
+T 1703489326 19*	Now talking on 22#undernet
+T 1703489326 22*	Topic for 22#undernet is: 0,4Welcome to Undernet, and Merry Christmas! Wishing you a joyful and festive holiday season filled with warmth, happiness, and good company.
+T 1703489326 22*	Topic for 22#undernet set by 26BuhBye (24Sun Dec 24 15:51:40 2023)
+T 1703489329 18<24lilmoe18>	hello brother
+T 1703489332 22*	26chief gives voice to 18oni
+T 1703489469 20<oni>30	hi
+T 1703489476 18<24lilmoe18>	hi
+T 1703489476 19<v|g|LanT>	Hi oni
+T 1703489489 20<oni>30	merry christmas
+T 1703489696 24*	feno1982 (~feno1982@82.78.173.10124) has left
+T 1703489702 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1703489702 22*	26chief gives voice to 18guitarzan
+T 1703489972 24*	guitarzan has quit (Quit: Sam the Butcher giving Alice the meat.)
+T 1703490342 19<v|g|LanT>	Happy holidays oni
+T 1703490380 18<24lilmoe18>	wheres everyone
+T 1703490386 18<24lilmoe18>	probably passed out from drunk nights
+T 1703490575 18<29v|g|LanT18>	:O
+T 1703490582 24*	M38_- has quit (Quit: Connection closed for inactivity)
+T 1703490627 24*	AtomicAFK has quit (Quit)
+T 1703490647 18<19Sebi18>	Good morning and Merry Christmas everyone 🎄🎁🎅☃️
+T 1703490665 18<24lilmoe18>	gm sebi and back at you 
+T 1703490690 18<19Sebi18>	ty lilmoe
+T 1703490798 FiSHLiM plugin unloaded
+T 1703648868 19*	Now talking on 22#undernet
+T 1703648868 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | WEBSITE: https://undernet.org/ | NEWS: https://undernet.org/news ( Undernet's WebChat -> https://chat.undernet.org )
+T 1703648868 22*	Topic for 22#undernet set by 26X (24Tue Dec 26 22:00:51 2023)
+T 1703648873 22*	26chief gives voice to 18oni
+T 1703649903 18<22Guards18>	The channel is moderated (mode +m). If you wanna be able to chat in #undernet then use: /msg Guards voiceme #undernet. Enjoy!
+T 1703650021 FiSHLiM plugin unloaded
+T 1708750788 19*	Now talking on 22#undernet
+T 1708750788 22*	Topic for 22#undernet is: HAPPY BIRTHDAY REINA
+T 1708750788 22*	Topic for 22#undernet set by 26Ragnar (24Thu Feb 22 17:57:13 2024)
+T 1708750797 22*	26chief gives voice to 18oni
+T 1708751318 24*	28bogghi is now known as 18bogghiBIRTHD
+T 1708751337 24*	28bogghiBIRTHD is now known as 18bogghi[BDAY]
+T 1708751347 23*	BrianTheDog (User@c-174-58-81-97.hsd1.fl.comcast.net23) has joined
+T 1708751347 22*	26chief gives voice to 18BrianTheDog
+T 1708751348 18<20BrianTheDog18>	anyone awake?
+T 1708751352 18<28bogghi[BDAY]18>	?
+T 1708751365 18<20BrianTheDog18>	happy birthday bogghi[BDAY]
+T 1708751466 18<19Empus18>	heya
+T 1708751490 18<19Empus18>	happy birthday, bogghi :>
+T 1708751492 18<28bogghi[BDAY]18>	thanks BrianTheDog
+T 1708751503 18<20BrianTheDog18>	:)
+T 1708751517 18<28bogghi[BDAY]18>	thank you Empus
+T 1708751530 18<20BrianTheDog18>	you share a birthday with reina it seems
+T 1708751542 18<28bogghi[BDAY]18>	yes ? 
+T 1708751549 18<20BrianTheDog18>	why doesn't anyone chat?
+T 1708751557 18<28bogghi[BDAY]18>	!pisces
+T 1708751561 18<20BrianTheDog18>	why be here just to take up space?
+T 1708751564 18<20BrianTheDog18>	!rat
+T 1708751568 18<28bogghi[BDAY]18>	:))
+T 1708751576 18<20BrianTheDog18>	hmmm no horoscope bot
+T 1708751587 18<20BrianTheDog18>	WAKE UP you idlers
+T 1708751591 18<20BrianTheDog18>	lurkers
+T 1708751610 18<20BrianTheDog18>	why are you here if not to chat?
+T 1708751626 18<20BrianTheDog18>	bunch of nick parkers
+T 1708751632 18<19Empus18>	Settle down, BrianTheDog.  People have lives, they eat, they sleep, they work.
+T 1708751639 18<28bogghi[BDAY]18>	I know that, I was joking with the order
+T 1708751646 18<25Bodoo18>	Happy birthday bogghi[BDAY] !
+T 1708751653 18<20BrianTheDog18>	i'm fairly sure this channel is dead all the time
+T 1708751660 18<19Empus18>	you're very wrong
+T 1708751661 18<28bogghi[BDAY]18>	thanks Bodoo! hugs
+T 1708751662 18<20BrianTheDog18>	as most undernet channels are
+T 1708751676 18<25Bodoo18>	perfect weekend day for party :D
+T 1708751676 18<20BrianTheDog18>	when is the active tim?
+T 1708751679 18<20BrianTheDog18>	+e
+T 1708751683 18<28bogghi[BDAY]18>	BrianTheDog that is not true 
+T 1708751706 18<20BrianTheDog18>	ok, what time of day is the chat active usually?
+T 1708751718 18<20BrianTheDog18>	cause i have been to many channels
+T 1708751735 18<20BrianTheDog18>	and nothing ever happens
+T 1708751738 18<19Empus18>	Maybe they go quiet when you arrive
+T 1708751747 18<20BrianTheDog18>	doubtful
+T 1708751753 18<28bogghi[BDAY]18>	Bodoo , yes , I have a party in the garden, I have some guests today at noon, barbecue time baby! 
+T 1708751772 18<20BrianTheDog18>	you're not a nice person, is my feeling, Empus
+T 1708751777 18<28bogghi[BDAY]18>	:))
+T 1708751780 18<20BrianTheDog18>	have i offended you?
+T 1708751787 18<28bogghi[BDAY]18>	BrianTheDog you are really really wrong
+T 1708751802 18<25Bodoo18>	have fun and enjoy bogghi[BDAY]
+T 1708751807 18<19Empus18>	You've come in with an attitude and making wrongful assumptions.  I'm correcting you, and suggesting that your attitude may be turning people off
+T 1708751807 18<20BrianTheDog18>	ok, so when is a good time to chat here?
+T 1708751819 24*	SirBossy (~akkk@HSunrise.users.undernet.org24) has left
+T 1708751836 18<20BrianTheDog18>	i think they are all pretty much tuned out already
+T 1708751851 18<20BrianTheDog18>	maybe using their phones and trying to save battery?
+T 1708751873 18<25Bodoo18>	not everyone is from your time zone :) for example in my place now is 7 am
+T 1708751882 18<19Empus18>	Expecting people to be active every time you are is bound to be disappointing
+T 1708751883 18<20BrianTheDog18>	i come into a chat channel and expect chatters
+T 1708751884 18<19Empus18>	heh
+T 1708751891 18<20BrianTheDog18>	is that wrong?
+T 1708751919 18<20BrianTheDog18>	then i guess i'm wrong
+T 1708751926 18<19Empus18>	maybe it's better to want chatting, rather than expecting it
+T 1708751932 18<20BrianTheDog18>	have fun
+T 1708751936 24*	BrianTheDog (User@c-174-58-81-97.hsd1.fl.comcast.net24) has left (Closing Window)
+T 1708751938 18<19Empus18>	and rather than complaining, perhaps you'd be more successful by stimuklating good chat
+T 1708751940 18<19Empus18>	ha
+T 1708751942 18<27chalcedony18>	aww
+T 1708751945 18<29frozzy18>	happy birthday bogghi[BDAY]!
+T 1708751958 18<25Bodoo18>	hugs ((((( chalcedony )))))
+T 1708751960 18<19Empus18>	I've heard people complain about that guy's attitude before, so it seriously wouldn't surprise me if his presence quietens channels down 😂
+T 1708751961 18<25Bodoo18>	hi frozzy
+T 1708751979 18<27chalcedony18>	·´❤`· -`,-{@ Empus @}-,`- ·´❤`·
+T 1708751981 18<24Te[u]K18>	arf :)
+T 1708751983 18<19Empus18>	hey chalce :>
+T 1708751987 18<27chalcedony18>	:)
+T 1708751987 18<24Te[u]K18>	hey guys
+T 1708752007 23*	cmll (uid621268@id-621268.uxbridge.irccloud.com23) has joined
+T 1708752007 22*	26chief gives voice to 18cmll
+T 1708752011 18<25Bodoo18>	hi Te[u]K
+T 1708752026 18<27chalcedony18>	3----'--,--{4@ 3----'--,--{4@2 Bodoo 4@3}--'--,---- 4@3}--,--'----
+T 1708752033 18<27chalcedony18>	 13,6.3-4*13'12^13'4*3-6.13,8_8_13,6.3-4*13'12 Te[u]K 8_13,6.3-4*13'12^13'4*3-6.13,8_13,6.3-4*'
+T 1708752045 24*	sophie- has quit (Quit)
+T 1708752046 18<24Te[u]K18>	hey Bodoo chalcedony frozzy
+T 1708752049 18<24Te[u]K18>	hi Empus
+T 1708752058 18<19Empus18>	hey dude
+T 1708752067 18<24Te[u]K18>	let's have another coffee :P
+T 1708752079 18<19Empus18>	too late for coffee here
+T 1708752101 18<24Te[u]K18>	yup, I bet you're close to a cold one ? ;)
+T 1708752113 18<28bogghi[BDAY]18>	thanks frozzy
+T 1708752157 18<24Te[u]K18>	happy birthday bogghi[BDAY]
+T 1708752239 18<19Empus18>	Te[u]K: just opened one 
+T 1708752252 18<24Te[u]K18>	*cheers*
+T 1708752268 18<28bogghi[BDAY]18>	thank you very much
+T 1708752287 18<19Empus18>	watching league here :>
+T 1708752336 18<24Te[u]K18>	enjoy, there must be a lot of matches lately
+T 1708752345 18<24Te[u]K18>	*games
+T 1708752373 18<19Empus18>	Yeah, second week of pre-season so it's good to have the game back.  Season kicks off next Saturday.  The first two games are actually being played in Vegas for the first time ever
+T 1708752394 18<24Te[u]K18>	oki
+T 1708752404 18<19Empus18>	well, in the US.  Happens to be Vegas.  Will be some cool exposure to the game in the USA, if it gets advertised and broadcast well
+T 1708752496 18<24Te[u]K18>	what do us guys think of rugby btw ?
+T 1708752513 18<24Te[u]K18>	they's so into football, I don't know...
+T 1708752600 18<28chief18>	[image: 416] user: Telac -- date: 2023-11-10 -- url: https://chief.armour.bot/JiOwW.png -- prompt: a man with slugs as toes, focus on the feet
+T 1708752660 18<24Te[u]K18>	*they're
+T 1708752677 23*	emmie (webchat@192.145.117.9223) has joined
+T 1708752677 22*	26chief gives voice to 18emmie
+T 1708753867 23*	Dulcinea (uid484530@id-484530.helmsley.irccloud.com23) has joined
+T 1708753867 22*	26chief gives voice to 18Dulcinea
+T 1708753968 22*	26X gives channel operator status to 18Dulcinea
+T 1708753978 24*	Dulcinea has quit (Registered)
+T 1708753978 23*	Dulcinea (uid484530@Dulcinea.users.undernet.org23) has joined
+T 1708753978 22*	26*.undernet.org gives channel operator status to 18Dulcinea
+T 1708753978 22*	26*.undernet.org gives voice to 18Dulcinea
+T 1708754647 18<25Dulcinea18>	good morning :)
+T 1708754677 18<28bardo18>	morning :)
+T 1708755738 20*	Disconnected (20)
+T 1708755779 >18x@channels.undernet.org<	login oni hYDUywPT
+T 1708755779 -18X-	AUTHENTICATION SUCCESSFUL as oni
+T 1708755779 -18X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+T 1708755784 19*	Now talking on 22#undernet
+T 1708755784 22*	Topic for 22#undernet is: HAPPY BIRTHDAY REINA
+T 1708755784 22*	Topic for 22#undernet set by 26Ragnar (24Thu Feb 22 17:57:13 2024)
+T 1708755788 18*	28bogghi[BDAY] prepare coffee and cakes for everyone!
+T 1708755799 22*	26chief gives voice to 18oni
+T 1708755906 24*	Swich has quit (Read error: EOF from client)
+T 1708755928 23*	Swich (~Swich@Swich.users.undernet.org23) has joined
+T 1708755928 22*	26chief gives voice to 18Swich
+T 1708755940 24*	Seb_ has quit (Read error: EOF from client)
+T 1708756081 22*	26chief removes channel operator status from 18Rusteaux
+T 1708756081 22*	26chief gives channel operator status to 18^5
+T 1708756081 22*	26chief gives voice to 18Rusteaux
+T 1708756225 18*	20arab yawns
+T 1708756281 18<19Empus18>	still tired eh
+T 1708756324 18*	26reina stick a kunefe at Arab mouth
+T 1708756332 18<20arab18>	gmorning haha
+T 1708756599 20*	Disconnected (20)
+T 1708756640 >18x@channels.undernet.org<	login oni hYDUywPT
+T 1708756640 -18X-	AUTHENTICATION SUCCESSFUL as oni
+T 1708756640 -18X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+T 1708756646 19*	Now talking on 22#undernet
+T 1708756646 22*	Topic for 22#undernet is: HAPPY BIRTHDAY REINA
+T 1708756646 22*	Topic for 22#undernet set by 26Ragnar (24Thu Feb 22 17:57:13 2024)
+T 1708756658 22*	26chief gives voice to 18oni
+T 1708756839 20*	Disconnected (20)
+T 1711160171 19*	Now talking on 22#undernet
+T 1711160171 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1711160171 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1711160177 22*	26chief gives voice to 18oni
+T 1711681359 19*	Now talking on 22#undernet
+T 1711681359 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1711681359 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1711681371 22*	26chief gives voice to 18oni
+T 1711681402 18<29LilMiss18>	https://youtu.be/DFCvPrzj4BU?si=EJYsOFNIK8SZz1On
+T 1711681412 18<29LilMiss18>	Did you see that one guitarzan ?
+T 1711681428 18<19guitarzan18>	Who is Captain?
+T 1711681437 18<29LilMiss18>	Morgan
+T 1711681438 18<29LilMiss18>	:p
+T 1711681535 18<19guitarzan18>	Oh...lol
+T 1711681555 18<19guitarzan18>	I did not see that one before.
+T 1711681570 18<19guitarzan18>	All I have is beer.
+T 1711681693 18<29LilMiss18>	Imagine this, guitarzan 
+T 1711681695 18<29LilMiss18>	https://youtube.com/shorts/fHOGjd7PJY0?si=mMY2q38DUTkzU7ll
+T 1711681696 18<29LilMiss18>	Hahah
+T 1711681818 18<19guitarzan18>	Oh, that is one of the ones I saw!
+T 1711681864 18<19guitarzan18>	I kept thinking that he needs to go to anger management counseling.
+T 1711682197 18<19guitarzan18>	Do you have many Kangaroo encounters?
+T 1711682222 18<29LilMiss18>	When I was living more rural, yeh 
+T 1711682313 18<19guitarzan18>	For some reason, my University mascot is a Kangaroo.
+T 1711683944 19*	Now talking on 22#undernet
+T 1711683944 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1711683944 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1711683950 22*	26chief gives voice to 18oni
+T 1711684491 23*	DasBrain_ (~DasBrain@DasBrain.users.undernet.org23) has joined
+T 1711684491 22*	26chief gives voice to 18DasBrain_
+T 1711684512 22*	26chief sets ban on 18*!~berekolo@112.78.178.130
+T 1711684620 24*	DasBrain has quit (Read error: Operation timed out)
+T 1711684621 24*	28DasBrain_ is now known as 18DasBrain
+T 1711685101 22*	26chief removes ban on 18*!~berekolo@112.78.178.130
+T 1711685217 24*	guitarzan has quit (Quit: Go here to see something important: https://www.uspatriotflags.com/wp-content/uploads/2021/02/Trump-Ill-Be-Back-Bumper-Sticker.jpg)
+T 1711685512 24*	jd has quit (G-lined (AUTO [201] Automatically banned for excessive connections. Visit https://www.undernet.org/gline#ex-conn for more information.))
+T 1711686333 23*	cmll (uid621268@uxbridge.irccloud.com23) has joined
+T 1711686333 22*	26chief gives voice to 18cmll
+T 1711686364 23*	Pyro-Lappy2 (~pyro1rob@96.84.253.12423) has joined
+T 1711686364 22*	26chief gives voice to 18Pyro-Lappy2
+T 1711686619 24*	Pyro-Lappy has quit (Ping timeout)
+T 1711686813 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1711686813 22*	26chief gives voice to 18guitarzan
+T 1711686956 24*	28}P{ is now known as 18coffee
+T 1711686962 24*	28coffee is now known as 18}P{
+T 1711687053 18<19guitarzan18>	hi
+T 1711687123 18<29LilMiss18>	Wb
+T 1711687234 18<19guitarzan18>	Thanks.  I am soaking in a really hot tub.
+T 1711688202 24*	guitarzan has quit (Quit: Go here to see something important: https://www.uspatriotflags.com/wp-content/uploads/2021/02/Trump-Ill-Be-Back-Bumper-Sticker.jpg)
+T 1711688354 23*	Rage`Machine (uid471342@Unworthy.users.undernet.org23) has joined
+T 1711688354 22*	26chief gives voice to 18Rage`Machine
+T 1711688392 24*	Cherimoya has quit (Read error: Connection reset by peer)
+T 1711688393 24*	babychinits has quit (Read error: Connection reset by peer)
+T 1711688719 18*	29LilMiss shakes Empus 
+T 1711688732 18<29LilMiss18>	LETS GOOOOOO
+T 1711688732 18<25}P{18>	Hey LilMiss
+T 1711688754 18*	29LilMiss hugs }P{ 
+T 1711688920 18<26KTP18>	are the hamsters playing ?
+T 1711688948 18*	25}P{ hugs LilMiss
+T 1711688955 23*	spring_f (uid170754@id-170754.lymington.irccloud.com23) has joined
+T 1711688955 22*	26chief gives voice to 18spring_f
+T 1711688961 18*	29LilMiss kicks Kermit the potato
+T 1711688984 18<26KTP18>	ow
+T 1711688992 18<26KTP18>	hi spring_f 
+T 1711689010 18<29LilMiss18>	But yes, rugby is on
+T 1711689017 18<20spring_f18>	hi KTP 
+T 1711689024 18<26KTP18>	sweet
+T 1711689029 18<26KTP18>	have a beer opened LilMiss  ?
+T 1711689038 18<29LilMiss18>	Nah.
+T 1711689042 18<29LilMiss18>	Not yet
+T 1711689042 18<26KTP18>	Awh
+T 1711689062 18<29LilMiss18>	Maybe  maybe not. Will see how i feel later
+T 1711689105 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1711689105 22*	26chief gives voice to 18guitarzan
+T 1711689106 18<26KTP18>	Nut you have beer in the fridge ?
+T 1711689140 18<29LilMiss18>	I got lots in the fridge. I just need to be in the mood to drink it
+T 1711689143 18<29LilMiss18>	I don't drink often
+T 1711689147 18<26KTP18>	oh okay
+T 1711689156 18<26KTP18>	I'm a real fridgeraider
+T 1711689158 18<26KTP18>	don't invite me
+T 1711689164 18<29LilMiss18>	Haha
+T 1711689175 18<26KTP18>	is it Foster's ?
+T 1711689200 18<29LilMiss18>	Gee. Haven't heard that before. Ha ha
+T 1711689363 18<19guitarzan18>	I have beer...one
+T 1711689400 24*	DaraD has quit (Quit: Connection closed for inactivity)
+T 1711689403 18<29LilMiss18>	YEOOOWWWWW BURGESS!!!!
+T 1711689551 18<19guitarzan18>	Burgess Meredith
+T 1711689566 18<19guitarzan18>	quack quak
+T 1711689576 22*	26X gives channel operator status to 18^5
+T 1711689577 18<19guitarzan18>	quack quack
+T 1711689580 18<24^518>	good morning pps:)
+T 1711689584 18<19guitarzan18>	hi
+T 1711689675 23*	Nicu- (uid423790@Nicu.users.undernet.org23) has joined
+T 1711689675 22*	26chief gives voice to 18Nicu-
+T 1711689714 18<29LilMiss18>	^5!!
+T 1711689721 18<29LilMiss18>	Hey Nicu- !
+T 1711689744 18<24Nicu-18>	Hey, LilMiss 😊
+T 1711689750 18<24Nicu-18>	Hey all
+T 1711689762 24*	guitarzan (~shazam@spaetzle.users.undernet.org24) has left (https://www.uspatriotflags.com/wp-content/uploads/2021/02/Trump-Ill-Be-Back-Bumper-Sticker.jpg)
+T 1711689807 18<29LilMiss18>	How are you Nicu- ?
+T 1711689833 24*	cmll has quit (Quit)
+T 1711689842 18<24Nicu-18>	LilMiss: I woke up now 
+T 1711689853 18<24Nicu-18>	what do you ? 
+T 1711689858 18<29LilMiss18>	Well, good morning!
+T 1711689865 18<29LilMiss18>	I'm watching rugby! :D
+T 1711689956 18<24Nicu-18>	as if I could sleep a little more 
+T 1711689960 18<24Nicu-18>	:)
+T 1711689987 18<29LilMiss18>	If my team wasn't playing I'd go nap :p
+T 1711690073 18<24Nicu-18>	and that's why you don't sleep, because you want to support your team?
+T 1711690076 18<24Nicu-18>	:d
+T 1711690081 18<29LilMiss18>	Yes :p
+T 1711690087 18<24Nicu-18>	Nice 
+T 1711690155 18<24Nicu-18>	I was supposed to go do some tests, but I didn't go 
+T 1711690185 18<29LilMiss18>	Naughty naughty !
+T 1711690200 18<28chief18>	[image: 905] nick: AtomicA -- date: 2023-12-12 -- url: https://chief.armour.bot/UjJIo.png -- prompt: a lying Pinocchio surrounded by ladies.
+T 1711690225 18<29LilMiss18>	Lol @ pic
+T 1711690256 18<26KTP18>	lol
+T 1711690268 18<24Nicu-18>	I started to go to the toilet and I shouldn't have :))
+T 1711690297 18<24Nicu-18>	now i'm going next week 
+T 1711690307 18<29LilMiss18>	Haah
+T 1711690414 18<24Nicu-18>	that's it, it has nothing 
+T 1711690467 18<19Empus18>	LilMiss: did you back your boys?
+T 1711690476 18<29LilMiss18>	I told you I didn't  :/
+T 1711690558 18<19Empus18>	I can't remember and it is possible to change your mind after
+T 1711690563 18<19Empus18>	smartass!
+T 1711690589 18<29LilMiss18>	I didn't. Sadly. Hahha. 
+T 1711690601 18<29LilMiss18>	But.. like I said. Reverse psychology ;p
+T 1711690609 18<19Empus18>	haha yeah
+T 1711690617 23*	Dulcinea (uid484530@Dulcinea.users.undernet.org23) has joined
+T 1711690617 22*	26X gives voice to 18Dulcinea
+T 1711690618 18<19Empus18>	it'll be a win for you regardless :>
+T 1711690620 18<29LilMiss18>	Did you see big Burgess?.
+T 1711690624 18<29LilMiss18>	Yeah for sure 
+T 1711690631 18<25Dulcinea18>	g morning :)
+T 1711690640 18<24Nicu-18>	Hey, Empus 
+T 1711690641 18<29LilMiss18>	Hi Dulcinea 
+T 1711690793 18<25Dulcinea18>	Hola LilMiss
+T 1711690826 18<29LilMiss18>	How many fucking restarts do these cunts get.  Ffs
+T 1711690837 18<19Empus18>	haha
+T 1711690900 18<19Empus18>	so many gaps there
+T 1711690904 18<29LilMiss18>	Yeah!
+T 1711690923 18<29LilMiss18>	Even Jacky boy scored a try! :D
+T 1711690966 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1711690966 22*	26chief gives voice to 18guitarzan
+T 1711690988 18<19guitarzan18>	hi
+T 1711691015 18<19Empus18>	what a kick 
+T 1711691105 18<19Empus18>	that was a picture perfect try
+T 1711691106 18<29LilMiss18>	What a try!
+T 1711691127 18<19guitarzan18>	What try?
+T 1711691148 23*	Ceram (uid380774@5.254.36.5923) has joined
+T 1711691148 22*	26chief gives voice to 18Ceram
+T 1711691158 18<29LilMiss18>	I hope south's regret not keeping taffe
+T 1711691191 18<19Empus18>	dang... lost your early lead :<
+T 1711691212 24*	guitarzan (~shazam@spaetzle.users.undernet.org24) has left (https://www.uspatriotflags.com/wp-content/uploads/2021/02/Trump-Ill-Be-Back-Bumper-Sticker.jpg)
+T 1711691438 18<29LilMiss18>	Yeah :/
+T 1711691486 18*	29LilMiss shakes her head
+T 1711691588 18<19kisser18>	oh i thought she's doesn't move her head or she just talk about football 
+T 1711691601 18<29LilMiss18>	Wtf addo out cold! 
+T 1711691691 18<19Empus18>	he looks shaky 
+T 1711691699 18<29LilMiss18>	That was crazy 
+T 1711691727 18<19Empus18>	ewwww
+T 1711691729 18<19Empus18>	the neck
+T 1711691740 18<19kisser18>	what are you watching guys?
+T 1711691741 18<19Empus18>	he definitely went out, look how he went down
+T 1711691748 18<29LilMiss18>	Are you watching on kayo?
+T 1711691751 18<19Empus18>	yeah
+T 1711691756 18<29LilMiss18>	Ah I'm tv
+T 1711691756 18<19Empus18>	always :>
+T 1711691765 18<29LilMiss18>	They showed it a couple times then stopped 
+T 1711691773 18<19Empus18>	ah kayo has it on repeat
+T 1711691780 18<29LilMiss18>	Of course they do lol
+T 1711691788 18<19Empus18>	he's lucky he didn't snap his neck then
+T 1711691801 18<19Empus18>	kisser: rugby league :>
+T 1711691802 18<29LilMiss18>	But yeh, that looked rough on the neck
+T 1711691809 18<29LilMiss18>	kisser: rugby
+T 1711691875 18<19kisser18>	oh
+T 1711691928 18<19kisser18>	tbh never loved psyhical sports 
+T 1711692211 18<19Empus18>	we can't be friends
+T 1711692214 18<19Empus18>	heh
+T 1711692223 18<29LilMiss18>	Yeh.get out of here
+T 1711692240 18<19Empus18>	😂
+T 1711692242 18<29LilMiss18>	Wooo QLD derby next
+T 1711692243 18<19kisser18>	digital sports
+T 1711692250 18<19kisser18>	dota/leauge/cs
+T 1711692257 18<29LilMiss18>	Think I tipped cowboys
+T 1711692267 18<19Empus18>	LilMiss: what's on the snack table today?
+T 1711692275 18<29LilMiss18>	I just had some prawns
+T 1711692281 23*	mowerfan6444 (webchat@2600:1700:4e7d:800:15f6:1835:605a:174723) has joined
+T 1711692281 22*	26chief gives voice to 18mowerfan6444
+T 1711692284 18<19kisser18>	why the hell is a optical amplifiers
+T 1711692288 18<19kisser18>	is not cheap
+T 1711692289 18*	24^5 smiles
+T 1711692293 18<24^518>	*evil*
+T 1711692311 18<19Empus18>	ohh, nice. bbq?
+T 1711692317 18<29LilMiss18>	Nah
+T 1711692359 18<29LilMiss18>	We weren't religious, but always grew up with no meat on good Friday. That tradition has stuck lol
+T 1711692369 18<19Empus18>	oh right
+T 1711692371 18<19Empus18>	haha, cool
+T 1711692396 18<19Empus18>	fuck I should get some hot cross buns
+T 1711692398 18<19kisser18>	meat is life.
+T 1711692405 18<19kisser18>	we eat meat everyday
+T 1711692408 18<29LilMiss18>	Dad always refused that shit though. "Fuck your fish. I want chops"
+T 1711692410 18<29LilMiss18>	Hahaha
+T 1711692411 18<19kisser18>	if not we are dead
+T 1711692419 18<19Empus18>	haha, yeah meat is life
+T 1711692422 18<29LilMiss18>	I got some for Sunday, Empus 
+T 1711692431 18<19Empus18>	seafood is good though :>
+T 1711692444 18<29LilMiss18>	Yeah. Got some nice barra to have later
+T 1711692447 18<19Empus18>	nice
+T 1711692526 18<19Empus18>	did you fill the house with chocolate too?
+T 1711692596 18<29LilMiss18>	The girls aren't really into chocolate much. But I got them a few things. Peanut m&ms , some rabbit plush (they're into collecting that shit) I think some sour patch Easter box thing
+T 1711692601 18<29LilMiss18>	My kids are weird
+T 1711692625 18<24^518>	why
+T 1711692627 18*	19Rocz I'm out.
+T 1711692633 18<24^518>	bye Rocz:)
+T 1711692634 24*	Rocz has quit (Quit: Adios pendejos!)
+T 1711692639 18<19Empus18>	heh.  I've never been a big chocolate fan...very small doses.  So, I get it :>
+T 1711692668 18<29LilMiss18>	My youngest doesn't even like cake for her birthday 
+T 1711692683 18<29LilMiss18>	So we buy that freddo icecream cake 
+T 1711692686 18<24^518>	:O
+T 1711692691 18<19Empus18>	ice cream > cake
+T 1711692696 18<19Empus18>	haha she is my spirit animal
+T 1711692719 18<29LilMiss18>	Hahaha
+T 1711692721 18<19Empus18>	I also almost said before "I'm done with a freddo"
+T 1711692723 18<19Empus18>	heh
+T 1711692764 18<29LilMiss18>	We have a comp with that cake. Whoever gets the most freddo bits in their piece is the winner. There is no prize. But they get bragging rights haha
+T 1711692801 18<19Empus18>	haha my bro and I used to play that with egg bits in a fish pie, as kids 😂
+T 1711692809 18<29LilMiss18>	Ahahahahhaa
+T 1711692817 18<29LilMiss18>	AJ!!!! 
+T 1711692822 18<29LilMiss18>	JACKY!@@ YEOOOWWWW
+T 1711692830 18<24^518>	hahaha
+T 1711692831 18<29LilMiss18>	Oh wait you're behind. :x
+T 1711692836 18<19Empus18>	shit yeah!
+T 1711692853 18<19Empus18>	haha yeah you were a little ahead of me
+T 1711692944 18<29LilMiss18>	Ffs
+T 1711692959 18<29LilMiss18>	Mitchells taking them all out bahahha
+T 1711692985 18<19Empus18>	that would be a solid nugget of a head 
+T 1711692987 18<19Empus18>	ouch
+T 1711692998 18<29LilMiss18>	Yeah.. fuck
+T 1711693020 18<29LilMiss18>	Haha did you see milne and taffe
+T 1711693021 18<29LilMiss18>	How cute
+T 1711693028 18<19Empus18>	haha
+T 1711693395 18<29LilMiss18>	Fuck sake
+T 1711693537 18<29LilMiss18>	Wooo bin! 
+T 1711693744 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1711693744 22*	26chief gives voice to 18guitarzan
+T 1711693747 24*	guitarzan has quit (Read error: Connection reset by peer)
+T 1711693864 18<29LilMiss18>	Pity skunk there wasn't knocked out
+T 1711693944 18<26KTP18>	jesus
+T 1711693956 18<26KTP18>	rugby gets LilMiss  swearing like a lumberjack
+T 1711693975 18<29LilMiss18>	More so*
+T 1711693980 18<29LilMiss18>	I always swear
+T 1711693985 18<26KTP18>	ok
+T 1711693991 18<29LilMiss18>	Just.. more so when watching rugby  :p
+T 1711693992 18<26KTP18>	I thought you usually said fu ck
+T 1711694008 18<29LilMiss18>	I like to call it vocally passionate 
+T 1711694014 18<26KTP18>	:P
+T 1711694038 18<29LilMiss18>	Empus has heard me during a game ;x
+T 1711694045 18<29LilMiss18>	So has Mammaloot haha
+T 1711694052 23*	asjffsfsads (webchat@2a01:563:317:2c00:5c9f:2585:9feb:c9c923) has joined
+T 1711694052 22*	26chief gives voice to 18asjffsfsads
+T 1711694182 23*	Cuzzler (~Cuzzler@Cuzzler.users.undernet.org23) has joined
+T 1711694182 22*	26chief gives voice to 18Cuzzler
+T 1711694197 24*	28asjffsfsads is now known as 18oasis
+T 1711694229 22*	26chief removes channel operator status from 18Lestat
+T 1711694253 18<29LilMiss18>	Jesus. So many drops today
+T 1711694282 18<29LilMiss18>	Good start on dropping skunk. Now to TKO
+T 1711694282 18<19Empus18>	KTP: haha yeah it has that affect on people :>
+T 1711694297 18<24oasis18>	hi, LilMiss
+T 1711694298 18<24oasis18>	hi, KTP.
+T 1711694299 18<24oasis18>	:<
+T 1711694303 18<26KTP18>	ello
+T 1711694308 18<19Empus18>	I forgot I had streaky bacon in the fridge.  Been making a fry up :>
+T 1711694315 18<29LilMiss18>	Hi ty
+T 1711694325 18<26KTP18>	:  }
+T 1711694350 18<29LilMiss18>	Haha nice
+T 1711694423 24*	28oasis is now known as 18urdud
+T 1711694439 18<29LilMiss18>	Total dud
+T 1711694548 24*	28urdud is now known as 18mal3RN
+T 1711694614 18<29LilMiss18>	Choosing 1 nick and sticking to it would be a good start
+T 1711694628 18<24mal3RN18>	up
+T 1711694630 18<24mal3RN18>	yup lol
+T 1711694663 18<25Dulcinea18>	Helloooo KTP
+T 1711694666 18<25Dulcinea18>	I am hereee
+T 1711694696 24*	28mal3RN is now known as 18myboy
+T 1711694750 18<29ElfStone18>	hello :-)
+T 1711694756 18<22myboy18>	hi, ston3
+T 1711694756 18<22myboy18>	:d
+T 1711694759 18<29LilMiss18>	ElfStone! <3
+T 1711694769 18<29LilMiss18>	My tied first fav Romanian!
+T 1711694787 18<29ElfStone18>	<3 awwww, LilMiss
+T 1711694848 18<29LilMiss18>	Just don't tell schwarz  :x
+T 1711694855 18<22myboy18>	hi, schwarz
+T 1711694859 18<22myboy18>	:x
+T 1711694868 18<29LilMiss18>	If he asks, you're 2nd fav!
+T 1711694916 18<29ElfStone18>	done!
+T 1711694931 18<29LilMiss18>	Fabulous! <3
+T 1711694953 23*	MzMatilda (MzMatilda@hellebore.users.undernet.org23) has joined
+T 1711694953 22*	26chief gives voice to 18MzMatilda
+T 1711694957 18<29MzMatilda18>	greets
+T 1711694962 18<22myboy18>	h3y
+T 1711694971 22*	26X sets channel limit to 24257
+T 1711694971 18<29ElfStone18>	hello
+T 1711694990 18<29LilMiss18>	8 mins to go!
+T 1711694995 18<29LilMiss18>	Shiiiit
+T 1711695000 18<19Empus18>	holding on!
+T 1711695021 18<29LilMiss18>	They are
+T 1711695039 18<19Empus18>	goddamn the Bunnies need this
+T 1711695050 18<29LilMiss18>	They really do :(
+T 1711695054 18<22myboy18>	you, lol
+T 1711695061 18<19Empus18>	and their rampant supporters 😜
+T 1711695068 18<22myboy18>	h3y, Empus
+T 1711695068 18<29LilMiss18>	Yes, we do!
+T 1711695068 18<29LilMiss18>	Hahha
+T 1711695093 18<19Empus18>	bunch of degenerates, they are 😉
+T 1711695099 18<29LilMiss18>	You bet ;)
+T 1711695124 18<19Empus18>	haha, laughed out loud at that
+T 1711695124 18<29LilMiss18>	Tis why we are good buddies eh :p 
+T 1711695125 18<19Empus18>	haha yeah
+T 1711695155 18<19Empus18>	I wonder if ML slept in her Bunnies jersey 
+T 1711695181 18<19Empus18>	shit that was an awesome kick, jsut didn't quite have the case
+T 1711695184 18<29LilMiss18>	Hahha
+T 1711695206 18<19Empus18>	good pressure on 'em though!
+T 1711695211 18<29LilMiss18>	I'm wearing my green dress. So with my red hair.. :D
+T 1711695222 18<19Empus18>	perfect!
+T 1711695267 18<29LilMiss18>	Not overly obvious to jinx it.. but still supportive :p
+T 1711695273 18<19Empus18>	don't say it
+T 1711695281 18<29LilMiss18>	😅😅
+T 1711695363 18<19Empus18>	wonder if Latrell will do nother expletive-filled interview after this one :>
+T 1711695366 FiSHLiM plugin unloaded
+T 1711848562 19*	Now talking on 22#undernet
+T 1711848562 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1711848562 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1711848571 22*	26chief gives voice to 18oni
+T 1711848780 22*	26chief removes ban on 18*!~barnito@104-228-101-014.res.spectrum.com
+T 1711849240 22*	26chief sets ban on 18*!~barnito@104-228-101-014.res.spectrum.com
+T 1711849500 22*	26chief removes ban on 18*!webchat@2a01:563:317:2c00:1d25:cb2a:1c8d:d01
+T 1711849801 22*	26chief removes ban on 18*!~barnito@104-228-101-014.res.spectrum.com
+T 1711850260 22*	26chief sets ban on 18*!~barnito@104-228-101-014.res.spectrum.com
+T 1711850335 20<oni>30	hello 
+T 1711850780 24*	_oZ_ has quit (Quit: Connection closed for inactivity)
+T 1711850783 24*	28PaSsionChaSs is now known as 18EauTerreCiel
+T 1711850820 22*	26chief removes ban on 18*!~barnito@104-228-101-014.res.spectrum.com
+T 1711851182 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1711851182 22*	26chief gives voice to 18guitarzan
+T 1711851282 22*	26chief sets ban on 18*!~barnito@104-228-101-014.res.spectrum.com
+T 1711851456 18<29LilMiss18>	Hey guitarzan 
+T 1711851517 23*	gold^^ (~gold@31.191.252.14223) has joined
+T 1711851517 22*	26chief gives voice to 18gold^^
+T 1711851546 18<19guitarzan18>	Hi.  How are you LilMiss?
+T 1711851603 18<29LilMiss18>	Good here thanks! How are you?
+T 1711851810 22*	26chief gives channel operator status to 18LilMiss
+T 1711851835 18<19guitarzan18>	Doing pretty ok
+T 1711851840 22*	26chief removes ban on 18*!~barnito@104-228-101-014.res.spectrum.com
+T 1711854248 20*	Disconnected (20)
+T 1711854294 19*	Now talking on 22#undernet
+T 1711854294 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1711854294 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1711854305 22*	26chief gives voice to 18oni
+T 1711854585 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1711854585 22*	26chief gives voice to 18guitarzan
+T 1711854639 24*	aero-away has quit (Ping timeout)
+T 1711854967 24*	guitarzan has quit (Read error: Connection reset by peer)
+T 1711855040 24*	Jamm0n has quit (Quit)
+T 1711855224 24*	Rizos has quit (Quit: Connection closed for inactivity)
+T 1711855413 22*	26chief removes channel operator status from 18birthday
+T 1711855535 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1711855535 22*	26chief gives voice to 18guitarzan
+T 1711855855 23*	aero-away (webchat@2a02:2121:6cc:e9a1::4a1e:803f23) has joined
+T 1711855855 22*	26chief gives voice to 18aero-away
+T 1711855932 24*	danm has quit (Quit)
+T 1711856033 18<19guitarzan18>	Never fear, Smith is here...
+T 1711856055 18<22aero-away18>	Hi, guitarzan:)
+T 1711856110 18<19guitarzan18>	How are you?
+T 1711856124 18<22aero-away18>	I am good you,
+T 1711856135 18<19guitarzan18>	Doing w
+T 1711856139 18<19guitarzan18>	well
+T 1711856143 18<22aero-away18>	Ok!
+T 1711856155 18<19guitarzan18>	Just made and finished a latte.
+T 1711856164 18<22aero-away18>	Ok
+T 1711856180 24*	28aero-away is now known as 18floejoeye
+T 1711856206 18<19guitarzan18>	Looking forward to Easter tomorrow.
+T 1711856214 18<29floejoeye18>	Yup
+T 1711856289 18<19guitarzan18>	I hope we get better weather.
+T 1711856402 18<29floejoeye18>	Ok
+T 1711856695 24*	28EauTerreCiel is now known as 18CcChaSse
+T 1711856715 23*	Rocz (~Rocz@Rocz.users.undernet.org23) has joined
+T 1711856715 22*	26chief gives voice to 18Rocz
+T 1711856783 18<19Rocz18>	Thanks chief! Put it on the tribes charge card!
+T 1711856785 23*	cmll (uid621268@uxbridge.irccloud.com23) has joined
+T 1711856785 22*	26chief gives voice to 18cmll
+T 1711856791 18<29floejoeye18>	Hi, rocz
+T 1711856798 18<29floejoeye18>	A,)
+T 1711856841 18<19Rocz18>	This is the second time you've hailed me. I don't know you feel you're a troll.
+T 1711856885 18<29floejoeye18>	Ok
+T 1711857311 24*	floejoeye has quit (Quit: Ping timeout (120 seconds))
+T 1711858031 24*	guitarzan has quit (Read error: EOF from client)
+T 1711858207 23*	millbus (~millbus@137.220.127.23523) has joined
+T 1711858207 22*	26chief gives voice to 18millbus
+T 1711858408 24*	JeepGuy has quit (Quit)
+T 1711859453 24*	cmll has quit (Quit)
+T 1711860375 24*	Bodoo has quit (Quit)
+T 1711860960 24*	MachoTigre has quit (Quit: The Lounge - https://thelounge.chat)
+T 1711860967 23*	gold^^ (~gold@31.191.252.14223) has joined
+T 1711860967 22*	26chief gives voice to 18gold^^
+T 1711860987 23*	MachoTigre (~MachoTigr@MachoTigre.users.undernet.org23) has joined
+T 1711860987 22*	26chief gives voice to 18MachoTigre
+T 1711861047 23*	guitarzan (~shazam@spaetzle.users.undernet.org23) has joined
+T 1711861047 22*	26chief gives voice to 18guitarzan
+T 1711861086 18<19guitarzan18>	hi
+T 1711861139 24*	MachoTigre has quit (Quit: The Lounge - https://thelounge.chat)
+T 1711861167 23*	MachoTigre (~MachoTigr@MachoTigre.users.undernet.org23) has joined
+T 1711861167 22*	26chief gives voice to 18MachoTigre
+T 1711861186 18<19guitarzan18>	[00:59] ** NachoLibre has quit (Quit: The Lounge - https://thelounge.chat)
+T 1711861344 24*	MachoTigre has quit (Quit: The Lounge - https://thelounge.chat)
+T 1711861370 23*	MachoTigre (~MachoTigr@MachoTigre.users.undernet.org23) has joined
+T 1711861370 22*	26chief gives voice to 18MachoTigre
+T 1711861530 24*	MachoTigre has quit (Quit: The Lounge - https://thelounge.chat)
+T 1711861550 23*	MachoTigre (~MachoTigr@MachoTigre.users.undernet.org23) has joined
+T 1711861550 22*	26chief gives voice to 18MachoTigre
+T 1711862265 23*	Dulcinea (uid484530@Dulcinea.users.undernet.org23) has joined
+T 1711862265 22*	26X gives voice to 18Dulcinea
+T 1711862328 18<25Dulcinea18>	g morning:)
+T 1711949068 19*	Now talking on 22#undernet
+T 1711949068 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1711949068 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1711949278 18<27Willux18>	LilMiss: mmm ice cream cake sounds amazing
+T 1711949306 18<29LilMiss18>	We have one here with little chocolate frogs in it. So good
+T 1711949360 18<29LilMiss18>	https://usercontent.irccloud-cdn.com/file/Om1dfeDZ/1000023529.jpg
+T 1711949485 23*	barnito (~barnito@104.228.101.1423) has joined
+T 1711949739 23*	Dulcinea (uid484530@id-484530.helmsley.irccloud.com23) has joined
+T 1711949752 23*	Lubenitsa (uid467082@2a03:5180:f:4::7:208a23) has joined
+T 1711949763 22*	26X sets channel limit to 24256
+T 1711949787 22*	26X gives voice to 18Dulcinea
+T 1711949806 24*	Dulcinea has quit (Registered)
+T 1711949806 23*	Dulcinea (uid484530@Dulcinea.users.undernet.org23) has joined
+T 1711949806 22*	26*.undernet.org gives voice to 18Dulcinea
+T 1711950017 18<25Dulcinea18>	g morning :)
+T 1711950079 18<27chalcedony18>	3,1⌣﹅13,1✿ 3,1⌣﹅13,1✿ 3,1⌣﹅13,1✿ 3,1⌣﹅13,1✿ 3,1⌣﹅13,1✿ 3,1⌣﹅13,1✿ 3,1⌣﹅13,1✿4,1 Dulcinea 13,1✿3,1﹅⌣ 13,1✿3,1﹅⌣ 13,1✿3,1﹅⌣ 13,1✿3,1﹅⌣ 13,1✿3,1﹅⌣ 13,1✿3,1﹅⌣ 13,1✿3,1﹅⌣
+T 1711950091 18<25Dulcinea18>	Ooo chalcedony :****
+T 1711950137 18<27chalcedony18>	LilMiss, that looks delicious and fun!
+T 1711950198 18<29LilMiss18>	Yeah. We do comps to see who gets the most frogs in a piece
+T 1711950457 18<27chalcedony18>	ooh!
+T 1711950627 23*	Acer1 (~droid@Acer.users.undernet.org23) has joined
+T 1711951313 18<29ElfStone18>	hello :-)
+T 1711951439 18<29LilMiss18>	ElfStone!! <3
+T 1711951459 18<29ElfStone18>	hey <3
+T 1711951462 18<29ElfStone18>	how's your day going?
+T 1711951646 18<29LilMiss18>	not too bad thanks :) hows yours looking?
+T 1711951664 18<29ElfStone18>	looking alright. The only one working from my team
+T 1711951671 18<29ElfStone18>	everyone else is off for Easter
+T 1711952134 18<29LilMiss18>	how dedicated you are :P
+T 1711952163 18<29ElfStone18>	I know, right?
+T 1711952168 18*	29ElfStone is awesome
+T 1711952168 18<29ElfStone18>	=))))
+T 1711952330 18<29LilMiss18>	indeed you are!
+T 1711952398 23*	hiena (~cristian@hiena.users.undernet.org23) has joined
+T 1711952399 22*	26X gives voice to 18hiena
+T 1711952401 22*	26X gives channel operator status to 18hiena
+T 1711952415 18*	20arab farts, all rise
+T 1711952478 18*	29ElfStone inhales and faints
+T 1711952497 18*	27Willux counterfarts
+T 1711952507 18*	20arab sidefarts
+T 1711952508 18<29ElfStone18>	stop it people
+T 1711952512 18<20arab18>	my farts blow up
+T 1711952514 18*	29ElfStone opens Undernet's windows
+T 1711952520 18<29ElfStone18>	for fuck's sake
+T 1711952523 18<20arab18>	its linux, has no windows
+T 1711952618 FiSHLiM plugin unloaded
+T 1712031802 19*	Now talking on 22#undernet
+T 1712031802 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1712031802 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1712031803 24*	JeepGuy has quit (Read error: EOF from client)
+T 1712031813 22*	26chief gives voice to 18oni
+T 1712116240 19*	Now talking on 22#undernet
+T 1712116240 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1712116240 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1712116254 22*	26chief gives voice to 18oni
+T 1712116796 23*	ShortFusedF (uid170754@id-170754.lymington.irccloud.com23) has joined
+T 1712116796 22*	26chief gives voice to 18ShortFusedF
+T 1712117146 24*	ShortFusedF has quit (Quit)
+T 1712118317 19*	Now talking on 22#undernet
+T 1712118317 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1712118317 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1712118329 22*	26chief gives voice to 18oni
+T 1712118342 20*	Disconnected (20)
+T 1712118382 >18x@channels.undernet.org<	login oni hYDUywPT
+T 1712118382 -18X-	AUTHENTICATION SUCCESSFUL as oni
+T 1712118382 -18X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+T 1712118388 19*	Now talking on 22#undernet
+T 1712118388 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1712118388 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1712118399 22*	26chief gives voice to 18oni
+T 1712118404 18<22SirBossy18>	I'm not attracted to it
+T 1712118607 18<20arab18>	im tryin to emulate
+T 1712118713 23*	ShortFusedF (uid170754@id-170754.lymington.irccloud.com23) has joined
+T 1712118713 22*	26chief gives voice to 18ShortFusedF
+T 1712119023 23*	FlattenMe43 (uid562236@2a03:5180:f:5::8:943c23) has joined
+T 1712119023 22*	26chief gives voice to 18FlattenMe43
+T 1712119285 24*	FlattenMe43 has quit (Signed off)
+T 1712119311 18<22SirBossy18>	why do you bother with that shit
+T 1712119352 18<24Spear18>	Good Mornings, Turtles!
+T 1712119497 18<19daikon18>	aftie Spear
+T 1712119516 18<24Spear18>	Hola
+T 1712119549 24*	BarnabasDK has quit (Quit: Leaving)
+T 1712119557 18<20arab18>	holla holla
+T 1712119563 23*	SwAk_f (uid88334@id-88334.lymington.irccloud.com23) has joined
+T 1712119563 22*	26chief gives voice to 18SwAk_f
+T 1712119703 22*	26chief gives channel operator status to 18Spear
+T 1712119709 18<19daikon18>	hm i wonder where rebelle is
+T 1712119767 18<24^518>	dunno
+T 1712119794 18<24Spear18>	at work
+T 1712119800 18<24Spear18>	its 3pm where she lives
+T 1712119815 18<19daikon18>	its 1250pm
+T 1712119819 18<19daikon18>	-.-
+T 1712119838 18<24Spear18>	correct
+T 1712119915 18<24Spear18>	its early here. my head is still confused
+T 1712119925 18<19daikon18>	Spear put on those speedos
+T 1712119926 18<19daikon18>	tis time
+T 1712119927 18<19daikon18>	:3
+T 1712119941 18<24Spear18>	to cold
+T 1712119993 18<24Spear18>	4c here
+T 1712120170 18<19daikon18>	very cold 
+T 1712120172 18<19daikon18>	too hot here
+T 1712120176 18<19daikon18>	34C haze
+T 1712120190 18<24Spear18>	manila?
+T 1712120203 18<19daikon18>	yas
+T 1712120215 18<19daikon18>	u can come back sept-feb 
+T 1712120225 18<19daikon18>	so it will be much cooler
+T 1712120276 18<24Spear18>	used to be there between dec/feb
+T 1712120282 18<24Spear18>	last year i was there in jun/jul
+T 1712120284 18<24Spear18>	very wet
+T 1712120303 22*	26chief gives channel operator status to 18^5
+T 1712120314 18<19daikon18>	june july rainy days
+T 1712120323 18<19daikon18>	and the weather is still terrible like
+T 1712120329 18<19daikon18>	hot and wet which makes people sick
+T 1712120338 18<19daikon18>	dec-feb is best for you since ur used to the cold 
+T 1712120348 18<19daikon18>	you'll melt here at these months lol
+T 1712120353 18*	19Rocz I'm pulling the plug. I'll talk with you tomorrow.
+T 1712120357 24*	Rocz has quit (Quit: Adios pendejos!)
+T 1712120397 18<24Spear18>	took a trip to bolinao to live in a nipa hut. it rained so much and was so moist that my lap top nearly died
+T 1712120430 18<19daikon18>	hmm bolinao? 
+T 1712120435 18<19daikon18>	which part? 
+T 1712120456 18<19daikon18>	ahh pangasinan
+T 1712120462 18<19daikon18>	not too far away lol
+T 1712120471 18<24Spear18>	nort/west of luzon
+T 1712120496 18<19daikon18>	a 2 hr drive or so they're famous for their fish paste
+T 1712120507 18<19daikon18>	i'd guess u had terrible signal when u were there
+T 1712120507 18<19daikon18>	lol
+T 1712120526 18<24Spear18>	daikon https://photos.smugmug.com/Stuff/i-nWmtbqZ/0/rv2pqQrF9WPX8RNhFXSLCzb7S4VkpJDBcjT4qDNh/X5/IMG_0116-X5.jpg
+T 1712120563 18<19daikon18>	doesn't look too bad 
+T 1712120568 18<19daikon18>	looks posh nuff already in fact 
+T 1712120571 18<19daikon18>	are u in a hotel or smth?
+T 1712120716 18<24Spear18>	a green resort
+T 1712120755 18<19daikon18>	if im staying in some hotel or resort im more picky on the rooms
+T 1712120758 18<19daikon18>	and esp the toilet
+T 1712120762 18<24Spear18>	but it rained all the time
+T 1712120764 18<19daikon18>	i got used to staying in 5*s
+T 1712120764 18<19daikon18>	lol
+T 1712120775 18<24Spear18>	the cr was very nice
+T 1712120784 18<19daikon18>	yea rainy season 
+T 1712120787 18<24Spear18>	big and clean with tiles
+T 1712120790 18<19daikon18>	thats good at least 
+T 1712120836 18<24Spear18>	all white tiles
+T 1712120843 18<19daikon18>	clean enuff i hope
+T 1712120878 18<24Spear18>	yes, very
+T 1712120904 18<19daikon18>	i cant stand dirty rooms and toilets 
+T 1712120911 18<19daikon18>	i'd run the other way if it was dirty lol
+T 1712121001 18*	20arab yawns
+T 1712121003 18*	20arab slaps daikon a few times
+T 1712121003 24*	m_Rish has quit (Quit: Connection closed for inactivity)
+T 1712121023 18*	19daikon inserts a 10mbit isa network card in arab
+T 1712121057 18*	20arab would slap daikon, but is not being violent today
+T 1712121070 18*	19daikon makes arab unstable with a 2.5 kernel
+T 1712121115 18<24Spear18>	daikon , my gf forgot to turn off the light when she left the cr: https://photos.smugmug.com/Stuff/i-kJ8BZhr/0/FBGZ6TmM9bbwHC5JjxJQTztRpjkqfxqZfRGTkjff5/X5/IMG_0114-X5.jpg
+T 1712121157 18<19daikon18>	umm seriously?
+T 1712121161 18<19daikon18>	thats the toilet?
+T 1712121165 18<24Spear18>	yes
+T 1712121180 18<19daikon18>	yea no pass 
+T 1712121193 18<19daikon18>	gross gross gross ewwww im not showering naked in that toilet
+T 1712121196 18<24Spear18>	at the nipa hut
+T 1712121204 18<19daikon18>	THERES SO MANY INSECTS 
+T 1712121208 18<19daikon18>	scary :x
+T 1712121242 18<24Spear18>	my gf filled it with incects because she didnt turn off the light
+T 1712121248 18<24Spear18>	shes an idiot from bulacan
+T 1712121275 18<19daikon18>	oh so u have to turn off the lights
+T 1712121276 18<19daikon18>	lol 
+T 1712121287 18<19daikon18>	and just coz she's ur ex now she's an idiot?
+T 1712121287 18<19daikon18>	lol
+T 1712121311 18<24Spear18>	nah
+T 1712121355 18<24Spear18>	shes ok
+T 1712121428 18<19daikon18>	as far as i know people from bulacan are nice
+T 1712121438 18<19daikon18>	except if shes not 100% from there
+T 1712121438 18<19daikon18>	lol
+T 1712121498 19*	Now talking on 22#undernet
+T 1712121498 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1712121498 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1712121503 22*	26chief gives voice to 18oni
+T 1712121561 19*	Now talking on 22#undernet
+T 1712121561 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1712121561 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1712121573 22*	26chief gives voice to 18oni
+T 1712121615 18<24Spear18>	she is 100% bulacanese
+T 1712121660 18<19daikon18>	ahh well then she's prolly nice
+T 1712121673 18<19daikon18>	and she really just forgot to turn the lights off lol
+T 1712121678 18<19daikon18>	who ended up cleaning it up Spear?
+T 1712121710 23*	Dulcinea (uid484530@Dulcinea.users.undernet.org23) has joined
+T 1712121710 22*	26X gives voice to 18Dulcinea
+T 1712121716 18<24Spear18>	the maid
+T 1712121725 18<25Dulcinea18>	g morning :)
+T 1712121735 18<24Spear18>	Hola
+T 1712121795 18<25Dulcinea18>	Uuu espaniol
+T 1712121801 18<19daikon18>	ahh there's a maid
+T 1712121801 18<19daikon18>	lol
+T 1712121823 23*	ElfStone (~ElfStone@ElfStone.users.undernet.org23) has joined
+T 1712121823 22*	26chief gives voice to 18ElfStone
+T 1712121835 18<19daikon18>	hello Dulcinea como estas?
+T 1712121843 23*	sorinello (~sorinello@Sorinello.users.undernet.org23) has joined
+T 1712121843 22*	26chief gives voice to 18sorinello
+T 1712121855 18<25Dulcinea18>	Haha
+T 1712121860 18<24^518>	:)
+T 1712122036 18<29ElfStone18>	heya ya'll! :-)
+T 1712122053 18<20AngelOfMercy18>	good morning
+T 1712122200 18<28chief18>	[image: 1093] nick: BuhBye -- date: 2023-12-21 -- url: https://chief.armour.bot/nkDrT.png -- prompt: mici cu mustar and a bottled brandy with 'chosen' as brand
+T 1712547228 19*	Now talking on 22#undernet
+T 1712547228 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1712547228 22*	Topic for 22#undernet set by 26Tripoli (24Sat Feb 24 13:49:22 2024)
+T 1712547233 22*	26chief gives voice to 18oni
+T 1712547423 23*	JeepGuy (~JeepGuy@atr85882.users.undernet.org23) has joined
+T 1712547423 22*	26chief gives voice to 18JeepGuy
+T 1715566727 19*	Now talking on 22#undernet
+T 1715566727 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1715566727 22*	Topic for 22#undernet set by 26Tripoli (24Tue Apr 30 13:47:26 2024)
+T 1715566736 22*	26chief gives voice to 18oni
+T 1715567400 18<28chief18>	[image: 1447] user: telac -- date: 2024-02-23 -- url: https://chief.armour.bot/LnHiO.png -- prompt: a super rich arab guy throwing his macbook in the garbage because it ran out of battery and buying a new one
+T 1715567710 18<20mits`18>	:o
+T 1715568425 23*	TrueCrime_f (uid170754@2a03:5180:f:2::2:9b0223) has joined
+T 1715568425 22*	26chief gives voice to 18TrueCrime_f
+T 1715568956 24*	maclinux has quit (Read error: EOF from client)
+T 1715568992 22*	26chief sets ban on 18*!~MacLinux@89.39.189.223
+T 1715569248 18<25Secoupe18>	LilMiss 
+T 1715570487 18<25SwAk_f18>	looking for your girlfriend, Secoupe ?
+T 1715570552 18<25Secoupe18>	We might see her picture on a milk pint anytime soon.
+T 1715570633 18<25Secoupe18>	damn it, I should of set all that on vegemite instead
+T 1715570661 18<25Secoupe18>	that being said, have a good night! I'm off to bed
+T 1715570668 18<25Secoupe18>	Cheers!
+T 1715571352 18*	27chalcedony smiles
+T 1715571430 22*	26chief gives channel operator status to 18chalcedony
+T 1715571649 24*	TrueCrime_f has quit (Quit)
+T 1715571750 18<24^518>	good morning:)
+T 1715571758 22*	26X gives channel operator status to 18^5
+T 1715572030 22*	26chief removes channel operator status from 18Alan
+T 1715572030 22*	26chief gives voice to 18Alan
+T 1715572768 24*	kb13tr has quit (Read error: Connection reset by peer)
+T 1715573142 22*	26chief sets ban on 18*!~Android@176.33.96.38
+T 1715573700 22*	26chief removes ban on 18*!~Android@176.33.96.38
+T 1715574275 24*	KTP has quit (Quit: Connection closed for inactivity)
+T 1715574602 22*	26chief sets ban on 18*!~Android@94.235.240.33
+T 1715574873 22*	26chief sets ban on 18*!~ss358@208.113.132.254
+T 1715574933 22*	26chief sets ban on 18*!~ss35823@208.113.132.254
+T 1715575200 22*	26chief removes ban on 18*!~Android@94.235.240.33
+T 1715575385 23*	SirBossy (~akkk@HSunrise.users.undernet.org23) has joined
+T 1715575385 22*	26chief gives voice to 18SirBossy
+T 1715575392 18<22SirBossy18>	:)
+T 1715576076 24*	SirBossy has quit (Read error: Connection reset by peer)
+T 1715576171 24*	28}P{ is now known as 18coffees
+T 1715576175 24*	28coffees is now known as 18}P{
+T 1715576230 22*	26chief gives channel operator status to 18Iriselul
+T 1715576555 23*	Seriousaurus (vzin@SilentFury.users.undernet.org23) has joined
+T 1715576555 22*	26chief gives voice to 18Seriousaurus
+T 1715576576 18<20Seriousaurus18>	hello hello
+T 1715576767 18<24^518>	hi Seriousaurus:)
+T 1715576865 23*	Dulcinea (uid484530@id-484530.helmsley.irccloud.com23) has joined
+T 1715576865 22*	26chief gives voice to 18Dulcinea
+T 1715576882 24*	Dulcinea has quit (Registered)
+T 1715576882 23*	Dulcinea (uid484530@Dulcinea.users.undernet.org23) has joined
+T 1715576882 22*	26*.undernet.org gives voice to 18Dulcinea
+T 1715577426 24*	}P{ (~good@name.users.undernet.org24) has left ())
+T 1715577433 23*	}P{ (~good@name.users.undernet.org23) has joined
+T 1715577433 22*	26chief gives channel operator status to 18}P{
+T 1715577435 22*	26chief gives voice to 18}P{
+T 1715577788 18<20Seriousaurus18>	chief: Ever heard of Kratos?
+T 1715577790 18<28chief18>	Seriousaurus: Yes, Kratos is a fierce character from the "God of War" video game series, known for his epic battles against gods and monsters from Greek and Norse mythology. \u00F0\u009F\u008E\u00AE\u00F0\u009F\u0094\u00B1
+T 1715577826 18<20Seriousaurus18>	chief: what is this "\u00F0\u009F\u008E\u00AE\u00F0\u009F\u0094\u00B1" at the end of your statement?
+T 1715577827 18<28chief18>	Seriousaurus: That's a glitch in the matrix! Just kidding, it's a display issue where your device can't properly show the emojis or characters I intended to use. \u00F0\u009F\u00A4\u0096\u00E2\u009C\u00A8
+T 1715577840 18<20Seriousaurus18>	ah
+T 1715577880 18<20Seriousaurus18>	chief: which irc clients can properly display said emojis/control character?
+T 1715577883 18<28chief18>	Seriousaurus: For properly displaying emojis and control characters in IRC, clients like Textual (for MacOS), HexChat (cross-platform), and IRCCloud (web-based) are recommended. \u00F0\u009F\u00A4\u0096\u00E2\u009C\u00A8
+T 1715578105 18<24Spear18>	Good Mornings, Turtles!
+T 1715578141 18<27FrieT18>	quick, hide April!
+T 1715578164 18<25Trilla18>	good morning, #USA Admin: Spear
+T 1715578175 18<24Spear18>	Hola Trilla 
+T 1715578200 18<28chief18>	[image: 1521] nick: scaffold -- date: 2024-03-03 -- url: https://chief.armour.bot/n3y3N.png -- prompt: an old machine guns firing burgers with a McDonald's nearby.
+T 1715578600 23*	chosen- (chosen@thedarkone.eu23) has joined
+T 1715578600 22*	26chief gives voice to 18chosen-
+T 1715578635 22*	26chief removes channel operator status from 18mits`
+T 1715578635 22*	26chief gives channel operator status to 18Spear
+T 1715578669 18<25Dulcinea18>	g morning :)
+T 1715579176 18<20Seriousaurus18>	chief: speak of turtles and lizards
+T 1715579181 18<28chief18>	Seriousaurus: https://chief.armour.bot/JXASf.mp3 (id: 1942)
+T 1715581150 20*	Disconnected (20)
+T 1715581196 19*	Now talking on 22#undernet
+T 1715581196 22*	Topic for 22#undernet is: Welcome to our WONDERFUL NETWORK! | Website: https://undernet.org/ | News: https://undernet.org/news | Stats: https://undernet.irc.ninja/
+T 1715581196 22*	Topic for 22#undernet set by 26Tripoli (24Tue Apr 30 13:47:26 2024)
+T 1715581204 22*	26chief gives voice to 18oni
+T 1715581213 18<24Telac18>	good morning :)
+T 1715581229 18<24^518>	morning Telac:)
+T 1715581235 18<24Telac18>	i see reina took the liberty to kick me in my absense
+T 1715581237 18<24Telac18>	*shakes fist*
+T 1715581238 18<20chosen-18>	ciao ragazzo Telac
+T 1715581241 18<20mits`18>	:o
+T 1715581246 18<24Telac18>	everyone had a nice weekend? :)
+T 1715581247 18<20chosen-18>	ciao cinci
+T 1715581252 18*	24^5 does a [hi 5] chosen- :) [SLAP]
+T 1715581258 18<20chosen-18>	=))
+T 1715581262 18<24^518>	burnin' slap!
+T 1715581264 23*	Rizos (uid547380@Rizos.users.undernet.org23) has joined
+T 1715581264 22*	26chief gives voice to 18Rizos
+T 1715581317 18<20chosen-18>	Rizos, bonjour
+T 1715581359 18<25}P{18>	Hi 5
+T 1715581377 18<25Rizos18>	Helloo !! ^^
+T 1715581393 18<20chosen-18>	!!!!!!!!!!!!!
+T 1715581394 23*	Aisha (uid404429@5.254.36.5823) has joined
+T 1715581394 22*	26chief gives voice to 18Aisha
+T 1715581407 18<25Rizos18>	Comment ca va, chosen- ??
+T 1715581416 18<20chosen-18>	ca va bien
+T 1715581418 23*	hiena (~cristian@hiena.users.undernet.org23) has joined
+T 1715581418 22*	26X gives voice to 18hiena
+T 1715581432 18<26`b18>	hi5 , mozol! alesu! Rizos!
+T 1715581439 22*	26X sets channel limit to 24250
+T 1715581442 18<20chosen-18>	aojourd'hui le soleil brille
+T 1715581455 18<24^518>	hey `b:)
+T 1715581476 18<25Rizos18>	je suis content pour toi chosen-  :))
+T 1715581488 24*	Aisha has quit (Quit)
+T 1715581500 18<25Rizos18>	`b: hello, hello !!
+T 1715581539 18<25Rizos18>	ici c est nuageux  .. chosen- triste jour
+T 1715581598 18<27chalcedony18>	0,14=16,15=16,2=16,12=16,3=16,9=16,5=16,4=16,6=16,13=16,7=16,8=16,10=16,11=8,1 Telac 16,11=16,10=16,8=16,7=16,13=16,6=16,4=16,5=16,9=16,3=16,12=16,2=16,15=0,14=
+T 1715581614 18<20chosen-18>	Rizos, sacra bleu
+T 1715581620 18<20chosen-18>	come to Romania
+T 1715581629 18<27chalcedony18>	12»13«11*09^04*11»04«3æ{4©3æ{6©12»13«11*09^04*11»04«3æ{4©3æ{6©4 hiena 3æ{4©3æ{6©12»13«11*09^04*11»04«3æ{4©3æ{6©12»13«11*09^04*11»04«
+T 1715581631 18<20chosen-18>	ici c'est le petite Paris
+T 1715581634 18<20chosen-18>	:)))
+T 1715581639 22*	26chief gives channel operator status to 18hiena
+T 1715581662 18<25Rizos18>	:)) I'm in Romania 
+T 1715581689 24*	Gende has quit (Ping timeout)
+T 1715581734 18<20chosen-18>	then
+T 1715581744 18<20chosen-18>	i ll give you my location
+T 1715581745 18<20chosen-18>	:))
+T 1715581848 18<25Rizos18>	:)) should I get my bathing suit?
+T 1715581857 18<20chosen-18>	yup
+T 1715581885 18<25hiena18>	heya
+T 1715581901 18<25Rizos18>	:))
+T 1715581909 18<25Rizos18>	hiena: hello!! ^^
+T 1715581964 18<20chosen-18>	https://www.youtube.com/watch?v=OhLOOdI23bE
+T 1715581977 18<20chosen-18>	double click, Rizos
+T 1715581979 18<20chosen-18>	:)
+T 1715582055 18*	28Caden yawns
+T 1715582081 18<25Rizos18>	I'm already dancing, chosen- 
+T 1715582083 18<25hiena18>	hi!
+T 1715582086 18<25Rizos18>	:)))
+T 1715582162 18<20chosen-18>	:D
+T 1715582184 23*	Ceram (uid380774@lymington.irccloud.com23) has joined
+T 1715582184 22*	26chief gives voice to 18Ceram
+T 1715582654 18<25Rizos18>	chosen-: you won't believe me, but the sun came out!! :))))
+T 1715582670 24*	^sleet_ has quit (Quit: Connection closed for inactivity)
+T 1715582691 18<25Rizos18>	A little dizzy , but it came out
+T 1715582698 18<25Rizos18>	Aww <3
+T 1715582725 18<20chosen-18>	see
+T 1715582730 18<20chosen-18>	told ya
+T 1715582733 18<20chosen-18>	:)
+T 1715582794 22*	26Iriselul removes channel operator status from 18Iriselul
+T 1715582814 23*	TrueCrime_f (uid170754@id-170754.lymington.irccloud.com23) has joined
+T 1715582814 22*	26chief gives voice to 18TrueCrime_f
+T 1715582840 18<25Rizos18>	I did the rain dance and chased it away
+T 1715582843 18<25Rizos18>	:))
+T 1715582854 18<20chosen-18>	uga chaka uga chaka
+T 1715582865 18<25Iriselul18>	Come to Ireland Rizos
+T 1715582873 18<20chosen-18>	iaaa
+T 1715582877 18<25Iriselul18>	We need you to dance more often
+T 1715582879 18<25Iriselul18>	;P
+T 1715582885 18<20chosen-18>	i can t have a correct asl
+T 1715582886 18<25}P{18>	Hi Iriselul
+T 1715582887 18<20chosen-18>	hmmm
+T 1715582894 18<25Rizos18>	:))) 
+T 1715582896 18*	20chosen- afk
+T 1715582896 18<25Iriselul18>	Yo p
+T 1715582936 18<25Iriselul18>	Nah chosen-the-unchosen .. (s)he would be beneficial to chase away the rain
+T 1715582943 18<20chosen-18>	=)))))))))
+T 1715582992 18<20chosen-18>	i see
+T 1715582997 18<20chosen-18>	ahaaaaaaa
+T 1715583010 18<25Iriselul18>	Yep... that's all
+T 1715583017 18<25Iriselul18>	Don't get jealous now ;p
+T 1715583026 18<20chosen-18>	i wont !
+T 1715583028 18<20chosen-18>	:))
+T 1715583206 18<24Telac18>	dancing.. who? where?
+T 1715583400 24*	DasBrain has quit (Ping timeout)
+T 1715583440 22*	26chief gives channel operator status to 18Iriselul
+T 1715583677 18*	24Telac stretches. been a rough weekend
+T 1715583684 18<24Telac18>	nice to get online for some peace and quiet ;)
+T 1715583699 18<20chosen-18>	pour some "agua ardente", Telac
+T 1715583714 18<20chosen-18>	:)
+T 1715583740 18<24Telac18>	no no am at work :)
+T 1715583747 18<24Telac18>	had my share of booze the last days
+T 1715583753 18<20chosen-18>	hhahaha
+T 1715583800 18<20chosen-18>	make a beautiful figure, pour some ague ardente instead water 
+T 1715583800 18<20chosen-18>	:))
+T 1715584211 18<20chosen-18>	.i THEPUNISHER
+T 1715584414 22*	26X gives channel operator status to 18chosen-
+T 1715584505 23*	Gende (~Gende@Zax.users.undernet.org23) has joined
+T 1715584505 22*	26chief gives voice to 18Gende
+T 1715584540 18<24Telac18>	hola Gende :)
+T 1715584558 18<27Gende18>	Telac! helloooo 
+T 1715584564 18<24Telac18>	ltns
+T 1715584584 18<27Gende18>	yeah
+T 1715584594 18<27Gende18>	it was a long weekend for u
+T 1715584596 18<27Gende18>	how was it 
+T 1715584640 22*	26chief gives channel operator status to 18Gende
+T 1715584786 18<20mits`18>	husband is snoring beside me and the dog is having a dream
+T 1715584790 18<20mits`18>	his paws moving all over the place
+T 1715584806 18<25}P{18>	Awwww
+T 1715584813 18<20chosen-18>	pffff
+T 1715584824 24*	hiena has quit (Read error: Operation timed out)
+T 1715585084 22*	26X removes channel operator status from 18chosen-
+T 1715585127 18<27chalcedony18>	:)
+T 1715585161 18*	20chosen- slaps chief around a bit with a large trout
+T 1715585164 18<20chosen-18>	!
+T 1715585182 18<20chosen-18>	:)
+T 1715585425 18<20chosen-18>	Rizos !
+T 1715585498 18<26reina18>	Telac 
+T 1715585719 18<28Caden18>	reina <3
+T 1715585830 18<26reina18>	Caden 😍
+T 1715586065 18<24Telac18>	rεiνå
+T 1715586079 18<24Telac18>	Gende: was great, but rough
+T 1715586099 18<29kp0w18>	y0
+T 1715586118 18<24Telac18>	hola kp0w 
+T 1715586127 18<29kp0w18>	Telac hey beautiful
+T 1715586133 18<24^518>	oo oo
+T 1715586163 18<24Telac18>	went to germany and didnt meet you. what gives?
+T 1715586169 18<24Telac18>	i kept lookout for you but never saw you
+T 1715586176 18<26reina18>	Telac
+T 1715586184 18<29kp0w18>	Which parts, tely?
+T 1715586192 18<24Telac18>	Kiel :P
+T 1715586196 18<20chosen-18>	tely ?
+T 1715586198 18<20chosen-18>	wow
+T 1715586201 24*	[Marius] has quit (Registered)
+T 1715586201 23*	[Marius] (marius@marius.users.undernet.org23) has joined
+T 1715586201 22*	26*.undernet.org gives voice to 18[Marius]
+T 1715586212 18<20chosen-18>	:))
+T 1715586236 18<29kp0w18>	Yeah, you were SO close mate
+T 1715586267 18<20chosen-18>	i seee
+T 1715586275 18<20chosen-18>	silly me
+T 1715586276 18<20chosen-18>	sorry
+T 1715586350 18<24Telac18>	kp0w: right? I kept a keen eye on any geek looking german
+T 1715586358 18<24Telac18>	but nobody responded to being called KPOW!
+T 1715586367 18<24Telac18>	except that odd homeless dude, but I didnt think it was you
+T 1715586375 18<20chosen-18>	hahahahahahaha
+T 1715586375 18<20chosen-18>	=))))))))))
+T 1715586377 18<29kp0w18>	Eat me
+T 1715586389 18<24Telac18>	Monday mood, i see :)
+T 1715586389 18<20mits`18>	:o
+T 1715586394 18<29kp0w18>	Haha
+T 1715586399 18<29kp0w18>	Monday blues
+T 1715586414 18<24Telac18>	at least you have nice weather down there
+T 1715586419 18<24Telac18>	we went from 7C to 19C on the trip
+T 1715586440 22*	26chief gives channel operator status to 18kp0w
+T 1715586444 18<29kp0w18>	20c today over here
+T 1715586448 18<29kp0w18>	It's amazeballs
+T 1715586478 18<29kp0w18>	Guten tag [Marius], I see you
+T 1715586479 18<22Appocomaster18>	London has been 20C for a few days
+T 1715586492 18<29kp0w18>	I mean, we are going towards summer amirite?
+T 1715586497 18<29[Marius]18>	good morning kp0w :)
+T 1715586498 18<26reina18>	Lamers, it's 30c here
+T 1715586517 18<22Appocomaster18>	I have to say, I've been to Germany a few times but only to Wurzburg (near Frankfurt) or, a couple of times, Essen (for EssenSpiel)
+T 1715586525 18<22Appocomaster18>	I forgot Germany went as far north as Kiel :p
+T 1715586545 18<29kp0w18>	We're expandable like that :P
+T 1715586567 18<22Appocomaster18>	do you just describe yourself as "basically Denmark"? 
+T 1715586630 18<29kp0w18>	Don't tell Telac that
+T 1715586666 18<22Appocomaster18>	Obviously you have better beer :p
+T 1715586722 18<29kp0w18>	Chocolate too, but don't let the belgians hear you
+T 1715586758 18<29kp0w18>	The only place I admit defeat to is the swiss having the best chocolates out there 
+T 1715586772 18<22Appocomaster18>	what about chocolate from the US?
+T 1715586785 18<22Appocomaster18>	sorry, can't say that with a straight face
+T 1715586805 18<29kp0w18>	For a second there you seemed srs
+T 1715586807 18<29kp0w18>	:D 
+T 1715586837 18<22Appocomaster18>	I'd need to eat a lot of Belgian and Swiss chocolate to compare. just for science ..
+T 1715586851 18<29kp0w18>	I don't know, maybe americans who haven't been to the EU or have tried EU chocolate would be blind enough to think freedoms chocolate is the best
+T 1715586855 18<29kp0w18>	Appocomaster do it
+T 1715586869 18<22Appocomaster18>	lactose intolerant and can't stand too much dark chocolate, so ..
+T 1715586907 18<29kp0w18>	Dark and mint chocolates are the worst 
+T 1715586910 18<22Appocomaster18>	but on the other hand, travelling for work, so if I'm going to be playing the arse trumpet all night, this week is a good week for that
+T 1715586916 18<22Appocomaster18>	YOU TAKE THAT BACK
+T 1715586920 18<29kp0w18>	NEIN!
+T 1715586921 18<22Appocomaster18>	I like mint chocolate
+T 1715586928 18<29kp0w18>	Mother, dat you?
+T 1715586934 18<22Appocomaster18>	I doubt it
+T 1715586937 18<29kp0w18>	Haha
+T 1715586949 18<29kp0w18>	lol @ ass trumpet
+T 1715586960 22*	26X gives channel operator status to 18chosen-
+T 1715586968 18<22Appocomaster18>	arse. I'm British not American :p
+T 1715586989 18<29kp0w18>	Fine, then I expect you to say bo'o'wo'a instead of bottle of water
+T 1715586991 18<29kp0w18>	haha
+T 1715587010 18<22Appocomaster18>	I'm estuary English but not *that* estuary
+T 1715587015 23*	Serena (serena@Serena.users.undernet.org23) has joined
+T 1715587015 22*	26chief gives voice to 18Serena
+T 1715587024 18<22Appocomaster18>	thought I despair of my daughters escaping that
+T 1715587036 18<22Appocomaster18>	my words have all their letters in!
+T 1715587038 18<20chosen-18>	Serena, bby
+T 1715587041 18<20chosen-18>	welcome !
+T 1715587047 18<24Serena18>	Thx:x
+T 1715587055 18<20chosen-18>	cara mia 
+T 1715587062 18<29kp0w18>	Appocomaster h r u? thx, n u? that kinda escape?
+T 1715587080 18<22Appocomaster18>	no, the bo'o'wo'a 
+T 1715587089 18<29kp0w18>	Oh, that deep
+T 1715587090 18<22Appocomaster18>	I'm trying and when my eldest remembers she does speak properly
+T 1715587090 18<29kp0w18>	haha
+T 1715587097 18<22Appocomaster18>	(she's 10)
+T 1715587101 18<22Appocomaster18>	but sometimes letters just go missing
+T 1715587110 18<29kp0w18>	That's so cute :D 
+T 1715587236 18<24Telac18>	we went to a brewery in Kiel, the beer was amazeballs
+T 1715587265 18<29kp0w18>	Nice
+T 1715587315 24*	Rider has quit (Ping timeout)
+T 1715587372 18<20chosen-18>	!seen dulcinea
+T 1715587438 18<24Telac18>	weinerschnitzel mit pommes und bier vom fass
+T 1715587441 18<24Telac18>	awesome mix :)
+T 1715587566 18<20chosen-18>	https://www.youtube.com/watch?v=anf6zHbr9IA
+T 1715587573 18<20chosen-18>	this is the remix, Telac ?
+T 1715587601 18<20chosen-18>	:)
+T 1715587602 18<24Telac18>	could be :D
+T 1715587608 18<20chosen-18>	=))
+T 1715587615 23*	Rider (Rider@Rider.shelltalk.net23) has joined
+T 1715587615 22*	26chief gives voice to 18Rider
+T 1715587638 18<24Telac18>	https://www.youtube.com/watch?v=2L7o0iJY_FU
+T 1715587643 18<24Telac18>	the best song ever made
+T 1715587650 18<24Telac18>	even better than Rickroll
+T 1715587672 18<20chosen-18>	a moment
+T 1715587687 18<20chosen-18>	ahhahahhhahahaah
+T 1715587712 18<20chosen-18>	=))))))))))))))))))))))
+T 1715587751 FiSHLiM plugin unloaded

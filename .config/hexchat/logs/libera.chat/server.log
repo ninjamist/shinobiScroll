@@ -1,0 +1,726 @@
+**** BEGIN LOGGING AT Mon Nov 13 02:34:54 2023
+
+Nov 13 02:34:54 *	Looking up irc.libera.chat
+**** BEGIN LOGGING AT Fri Nov 17 01:48:01 2023
+
+Nov 17 01:48:01 *	Looking up irc.libera.chat
+Nov 17 01:48:01 *	Connecting to irc.libera.chat (130.239.18.120:6697)
+Nov 17 01:48:02 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:48:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:48:02 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:48:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:48:02 *	* Subject: /CN=tungsten.libera.chat
+Nov 17 01:48:02 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:48:02 *	* Certification info:
+Nov 17 01:48:02 *	  Subject:
+Nov 17 01:48:02 *	    CN=tungsten.libera.chat
+Nov 17 01:48:02 *	  Issuer:
+Nov 17 01:48:02 *	    C=US
+Nov 17 01:48:02 *	    O=Let's Encrypt
+Nov 17 01:48:02 *	    CN=R3
+Nov 17 01:48:02 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:48:02 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:48:02 *	  Valid since Sep 25 16:53:08 2023 GM to Dec 24 16:53:07 2023 GM
+Nov 17 01:48:02 *	* Cipher info:
+Nov 17 01:48:02 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:48:02 *	Connected. Now logging in.
+Nov 17 01:48:02 *	*** Checking Ident
+Nov 17 01:48:02 *	*** Looking up your hostname...
+Nov 17 01:48:02 *	*** Couldn't look up your hostname
+Nov 17 01:48:08 *	*** No Ident response
+Nov 17 01:48:08 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:48:08 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:48:08 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:48:09 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:48:09 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:48:09 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Fri Nov 17 01:48:14 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 01:53:58 2023
+
+Nov 17 01:53:58 *	Looking up irc.libera.chat
+Nov 17 01:53:58 *	Connecting to irc.libera.chat (82.96.96.60:6697)
+Nov 17 01:53:59 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:53:59 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:53:59 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:53:59 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:53:59 *	* Subject: /CN=erbium.libera.chat
+Nov 17 01:53:59 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:53:59 *	* Certification info:
+Nov 17 01:53:59 *	  Subject:
+Nov 17 01:53:59 *	    CN=erbium.libera.chat
+Nov 17 01:53:59 *	  Issuer:
+Nov 17 01:53:59 *	    C=US
+Nov 17 01:53:59 *	    O=Let's Encrypt
+Nov 17 01:53:59 *	    CN=R3
+Nov 17 01:53:59 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:53:59 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:53:59 *	  Valid since Sep 25 16:22:25 2023 GM to Dec 24 16:22:24 2023 GM
+Nov 17 01:53:59 *	* Cipher info:
+Nov 17 01:53:59 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:53:59 *	Connected. Now logging in.
+Nov 17 01:53:59 *	*** Checking Ident
+Nov 17 01:53:59 *	*** Looking up your hostname...
+Nov 17 01:53:59 *	*** Couldn't look up your hostname
+Nov 17 01:54:05 *	*** No Ident response
+Nov 17 01:54:05 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:54:05 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:54:05 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:54:05 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:54:05 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:54:05 *	Disconnected (Remote host closed socket)
+Nov 17 01:54:15 Cycling to next server in Libera.Chat...
+Nov 17 01:54:15 *	Disconnected ()
+Nov 17 01:54:15 *	Looking up irc.libera.chat
+Nov 17 01:54:15 *	Connecting to irc.libera.chat (51.89.226.78:6697)
+Nov 17 01:54:16 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:54:16 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:54:16 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:54:16 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:54:16 *	* Subject: /CN=mercury.libera.chat
+Nov 17 01:54:16 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:54:16 *	* Certification info:
+Nov 17 01:54:16 *	  Subject:
+Nov 17 01:54:16 *	    CN=mercury.libera.chat
+Nov 17 01:54:16 *	  Issuer:
+Nov 17 01:54:16 *	    C=US
+Nov 17 01:54:16 *	    O=Let's Encrypt
+Nov 17 01:54:16 *	    CN=R3
+Nov 17 01:54:16 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:54:16 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:54:16 *	  Valid since Sep 25 11:15:54 2023 GM to Dec 24 11:15:53 2023 GM
+Nov 17 01:54:16 *	* Cipher info:
+Nov 17 01:54:16 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:54:16 *	Connected. Now logging in.
+Nov 17 01:54:16 *	*** Checking Ident
+Nov 17 01:54:16 *	*** Looking up your hostname...
+Nov 17 01:54:16 *	*** Couldn't look up your hostname
+Nov 17 01:54:22 *	*** No Ident response
+Nov 17 01:54:22 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:54:22 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:54:22 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:54:22 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:54:22 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:54:22 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Fri Nov 17 01:54:22 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 01:54:50 2023
+
+Nov 17 01:54:50 *	Looking up irc.libera.chat
+Nov 17 01:54:50 *	Connecting to irc.libera.chat (82.96.96.60:6697)
+Nov 17 01:54:51 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:54:51 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:54:51 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:54:51 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:54:51 *	* Subject: /CN=erbium.libera.chat
+Nov 17 01:54:51 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:54:51 *	* Certification info:
+Nov 17 01:54:51 *	  Subject:
+Nov 17 01:54:51 *	    CN=erbium.libera.chat
+Nov 17 01:54:51 *	  Issuer:
+Nov 17 01:54:51 *	    C=US
+Nov 17 01:54:51 *	    O=Let's Encrypt
+Nov 17 01:54:51 *	    CN=R3
+Nov 17 01:54:51 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:54:51 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:54:51 *	  Valid since Sep 25 16:22:25 2023 GM to Dec 24 16:22:24 2023 GM
+Nov 17 01:54:51 *	* Cipher info:
+Nov 17 01:54:51 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:54:51 *	Connected. Now logging in.
+Nov 17 01:54:51 *	*** Checking Ident
+Nov 17 01:54:51 *	*** Looking up your hostname...
+Nov 17 01:54:51 *	*** Couldn't look up your hostname
+Nov 17 01:54:58 *	*** No Ident response
+Nov 17 01:54:58 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:54:58 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:54:58 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:54:58 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:54:58 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:54:58 *	Disconnected (Remote host closed socket)
+Nov 17 01:55:08 Cycling to next server in Libera.Chat...
+Nov 17 01:55:08 *	Disconnected ()
+Nov 17 01:55:08 *	Looking up irc.libera.chat
+Nov 17 01:55:08 *	Connecting to irc.libera.chat (82.96.96.60:6697)
+Nov 17 01:55:09 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:55:09 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:55:09 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:55:09 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:55:09 *	* Subject: /CN=erbium.libera.chat
+Nov 17 01:55:09 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:55:09 *	* Certification info:
+Nov 17 01:55:09 *	  Subject:
+Nov 17 01:55:09 *	    CN=erbium.libera.chat
+Nov 17 01:55:09 *	  Issuer:
+Nov 17 01:55:09 *	    C=US
+Nov 17 01:55:09 *	    O=Let's Encrypt
+Nov 17 01:55:09 *	    CN=R3
+Nov 17 01:55:09 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:55:09 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:55:09 *	  Valid since Sep 25 16:22:25 2023 GM to Dec 24 16:22:24 2023 GM
+Nov 17 01:55:09 *	* Cipher info:
+Nov 17 01:55:09 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:55:09 *	Connected. Now logging in.
+Nov 17 01:55:09 *	*** Checking Ident
+Nov 17 01:55:09 *	*** Looking up your hostname...
+Nov 17 01:55:09 *	*** Couldn't look up your hostname
+Nov 17 01:55:15 *	*** No Ident response
+Nov 17 01:55:15 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:55:15 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:55:15 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:55:15 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:55:15 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:55:15 *	Disconnected (Remote host closed socket)
+Nov 17 01:55:25 Cycling to next server in Libera.Chat...
+Nov 17 01:55:25 *	Disconnected ()
+Nov 17 01:55:25 *	Looking up irc.libera.chat
+Nov 17 01:55:25 *	Connecting to irc.libera.chat (188.240.145.100:6697)
+Nov 17 01:55:26 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:55:26 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:55:26 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:55:26 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:55:26 *	* Subject: /CN=iridium.libera.chat
+Nov 17 01:55:26 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:55:26 *	* Certification info:
+Nov 17 01:55:26 *	  Subject:
+Nov 17 01:55:26 *	    CN=iridium.libera.chat
+Nov 17 01:55:26 *	  Issuer:
+Nov 17 01:55:26 *	    C=US
+Nov 17 01:55:26 *	    O=Let's Encrypt
+Nov 17 01:55:26 *	    CN=R3
+Nov 17 01:55:26 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:55:26 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:55:26 *	  Valid since Sep 25 10:14:42 2023 GM to Dec 24 10:14:41 2023 GM
+Nov 17 01:55:26 *	* Cipher info:
+Nov 17 01:55:26 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:55:26 *	Connected. Now logging in.
+Nov 17 01:55:26 *	*** Checking Ident
+Nov 17 01:55:26 *	*** Looking up your hostname...
+Nov 17 01:55:26 *	*** Couldn't look up your hostname
+Nov 17 01:55:32 *	*** No Ident response
+Nov 17 01:55:32 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:55:32 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:55:33 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:55:33 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:55:33 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:55:33 *	Disconnected (Remote host closed socket)
+Nov 17 01:55:43 Cycling to next server in Libera.Chat...
+Nov 17 01:55:43 *	Disconnected ()
+Nov 17 01:55:43 *	Looking up irc.libera.chat
+Nov 17 01:55:43 *	Connecting to irc.libera.chat (51.89.226.78:6697)
+Nov 17 01:55:44 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:55:44 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:55:44 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:55:44 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:55:44 *	* Subject: /CN=mercury.libera.chat
+Nov 17 01:55:44 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:55:44 *	* Certification info:
+Nov 17 01:55:44 *	  Subject:
+Nov 17 01:55:44 *	    CN=mercury.libera.chat
+Nov 17 01:55:44 *	  Issuer:
+Nov 17 01:55:44 *	    C=US
+Nov 17 01:55:44 *	    O=Let's Encrypt
+Nov 17 01:55:44 *	    CN=R3
+Nov 17 01:55:44 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:55:44 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:55:44 *	  Valid since Sep 25 11:15:54 2023 GM to Dec 24 11:15:53 2023 GM
+Nov 17 01:55:44 *	* Cipher info:
+Nov 17 01:55:44 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:55:44 *	Connected. Now logging in.
+Nov 17 01:55:44 *	*** Checking Ident
+Nov 17 01:55:44 *	*** Looking up your hostname...
+Nov 17 01:55:44 *	*** Couldn't look up your hostname
+**** ENDING LOGGING AT Fri Nov 17 01:55:44 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 01:56:36 2023
+
+Nov 17 01:56:36 *	Looking up irc.libera.chat
+Nov 17 01:56:37 *	Connecting to irc.libera.chat (188.240.145.100:6697)
+Nov 17 01:56:37 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:56:37 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:56:37 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:56:37 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:56:37 *	* Subject: /CN=iridium.libera.chat
+Nov 17 01:56:37 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:56:37 *	* Certification info:
+Nov 17 01:56:37 *	  Subject:
+Nov 17 01:56:37 *	    CN=iridium.libera.chat
+Nov 17 01:56:37 *	  Issuer:
+Nov 17 01:56:37 *	    C=US
+Nov 17 01:56:37 *	    O=Let's Encrypt
+Nov 17 01:56:37 *	    CN=R3
+Nov 17 01:56:37 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:56:37 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:56:37 *	  Valid since Sep 25 10:14:42 2023 GM to Dec 24 10:14:41 2023 GM
+Nov 17 01:56:37 *	* Cipher info:
+Nov 17 01:56:37 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:56:37 *	Connected. Now logging in.
+Nov 17 01:56:37 *	*** Checking Ident
+Nov 17 01:56:37 *	*** Looking up your hostname...
+Nov 17 01:56:37 *	*** Couldn't look up your hostname
+Nov 17 01:56:43 *	*** No Ident response
+Nov 17 01:56:43 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:56:43 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:56:44 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:56:44 *	Authenticating via SASL as oni (PLAIN)
+Nov 17 01:56:45 *	SASL authentication failed
+Nov 17 01:56:48 *	SASL authentication aborted
+Nov 17 01:56:48 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:56:48 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:56:48 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Fri Nov 17 01:56:51 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 01:57:39 2023
+
+Nov 17 01:57:39 *	Looking up irc.libera.chat
+Nov 17 01:57:39 *	Connecting to irc.libera.chat (82.96.96.60:6697)
+Nov 17 01:57:40 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:57:40 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:57:40 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:57:40 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:57:40 *	* Subject: /CN=erbium.libera.chat
+Nov 17 01:57:40 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:57:40 *	* Certification info:
+Nov 17 01:57:40 *	  Subject:
+Nov 17 01:57:40 *	    CN=erbium.libera.chat
+Nov 17 01:57:40 *	  Issuer:
+Nov 17 01:57:40 *	    C=US
+Nov 17 01:57:40 *	    O=Let's Encrypt
+Nov 17 01:57:40 *	    CN=R3
+Nov 17 01:57:40 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:57:40 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:57:40 *	  Valid since Sep 25 16:22:25 2023 GM to Dec 24 16:22:24 2023 GM
+Nov 17 01:57:40 *	* Cipher info:
+Nov 17 01:57:40 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:57:40 *	Connected. Now logging in.
+Nov 17 01:57:40 *	*** Checking Ident
+Nov 17 01:57:40 *	*** Looking up your hostname...
+Nov 17 01:57:40 *	*** Couldn't look up your hostname
+Nov 17 01:57:46 *	*** No Ident response
+Nov 17 01:57:46 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:57:46 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:57:46 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:57:46 *	Authenticating via SASL as oni (PLAIN)
+Nov 17 01:57:47 *	SASL authentication failed
+Nov 17 01:57:48 *	SASL authentication aborted
+Nov 17 01:57:49 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:57:49 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:57:49 *	Disconnected (Remote host closed socket)
+Nov 17 01:57:59 Cycling to next server in Libera.Chat...
+Nov 17 01:57:59 *	Disconnected ()
+Nov 17 01:57:59 *	Looking up irc.libera.chat
+Nov 17 01:57:59 *	Connecting to irc.libera.chat (188.240.145.100:6697)
+Nov 17 01:57:59 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:57:59 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:57:59 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:57:59 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:57:59 *	* Subject: /CN=iridium.libera.chat
+Nov 17 01:57:59 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:57:59 *	* Certification info:
+Nov 17 01:57:59 *	  Subject:
+Nov 17 01:57:59 *	    CN=iridium.libera.chat
+Nov 17 01:57:59 *	  Issuer:
+Nov 17 01:57:59 *	    C=US
+Nov 17 01:57:59 *	    O=Let's Encrypt
+Nov 17 01:57:59 *	    CN=R3
+Nov 17 01:57:59 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:57:59 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:57:59 *	  Valid since Sep 25 10:14:42 2023 GM to Dec 24 10:14:41 2023 GM
+Nov 17 01:57:59 *	* Cipher info:
+Nov 17 01:57:59 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:57:59 *	Connected. Now logging in.
+Nov 17 01:58:00 *	*** Checking Ident
+Nov 17 01:58:00 *	*** Looking up your hostname...
+Nov 17 01:58:00 *	*** Couldn't look up your hostname
+Nov 17 01:58:05 *	*** No Ident response
+Nov 17 01:58:05 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:58:05 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:58:06 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:58:06 *	Authenticating via SASL as oni (PLAIN)
+Nov 17 01:58:06 *	SASL authentication failed
+Nov 17 01:58:07 *	SASL authentication aborted
+Nov 17 01:58:08 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:58:08 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:58:08 *	Disconnected (Remote host closed socket)
+Nov 17 01:58:18 Cycling to next server in Libera.Chat...
+Nov 17 01:58:18 *	Disconnected ()
+Nov 17 01:58:18 *	Looking up irc.libera.chat
+Nov 17 01:58:18 *	Connecting to irc.libera.chat (51.89.226.78:6697)
+Nov 17 01:58:19 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:58:19 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:58:19 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:58:19 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:58:19 *	* Subject: /CN=mercury.libera.chat
+Nov 17 01:58:19 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:58:19 *	* Certification info:
+Nov 17 01:58:19 *	  Subject:
+Nov 17 01:58:19 *	    CN=mercury.libera.chat
+Nov 17 01:58:19 *	  Issuer:
+Nov 17 01:58:19 *	    C=US
+Nov 17 01:58:19 *	    O=Let's Encrypt
+Nov 17 01:58:19 *	    CN=R3
+Nov 17 01:58:19 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:58:19 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:58:19 *	  Valid since Sep 25 11:15:54 2023 GM to Dec 24 11:15:53 2023 GM
+Nov 17 01:58:19 *	* Cipher info:
+Nov 17 01:58:19 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:58:19 *	Connected. Now logging in.
+Nov 17 01:58:19 *	*** Checking Ident
+Nov 17 01:58:19 *	*** Looking up your hostname...
+Nov 17 01:58:19 *	*** Couldn't look up your hostname
+Nov 17 01:58:25 *	*** No Ident response
+Nov 17 01:58:25 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:58:25 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:58:25 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:58:25 *	Authenticating via SASL as oni (PLAIN)
+Nov 17 01:58:26 *	SASL authentication failed
+Nov 17 01:58:27 *	SASL authentication aborted
+Nov 17 01:58:28 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:58:28 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:58:28 *	Disconnected (Remote host closed socket)
+Nov 17 01:58:38 Cycling to next server in Libera.Chat...
+Nov 17 01:58:38 *	Disconnected ()
+Nov 17 01:58:38 *	Looking up irc.libera.chat
+Nov 17 01:58:38 *	Connecting to irc.libera.chat (82.96.96.60:6697)
+Nov 17 01:58:39 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:58:39 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:58:39 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:58:39 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:58:39 *	* Subject: /CN=erbium.libera.chat
+Nov 17 01:58:39 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:58:39 *	* Certification info:
+Nov 17 01:58:39 *	  Subject:
+Nov 17 01:58:39 *	    CN=erbium.libera.chat
+Nov 17 01:58:39 *	  Issuer:
+Nov 17 01:58:39 *	    C=US
+Nov 17 01:58:39 *	    O=Let's Encrypt
+Nov 17 01:58:39 *	    CN=R3
+Nov 17 01:58:39 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:58:39 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:58:39 *	  Valid since Sep 25 16:22:25 2023 GM to Dec 24 16:22:24 2023 GM
+Nov 17 01:58:39 *	* Cipher info:
+Nov 17 01:58:39 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:58:39 *	Connected. Now logging in.
+Nov 17 01:58:39 *	*** Checking Ident
+Nov 17 01:58:39 *	*** Looking up your hostname...
+Nov 17 01:58:39 *	*** Couldn't look up your hostname
+Nov 17 01:58:44 *	*** No Ident response
+Nov 17 01:58:44 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 01:58:44 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 01:58:44 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 01:58:44 *	Authenticating via SASL as oni (PLAIN)
+Nov 17 01:58:45 *	SASL authentication failed
+Nov 17 01:58:46 *	SASL authentication aborted
+Nov 17 01:58:47 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 01:58:47 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 01:58:47 *	Disconnected (Remote host closed socket)
+Nov 17 01:58:57 Cycling to next server in Libera.Chat...
+Nov 17 01:58:57 *	Disconnected ()
+Nov 17 01:58:57 *	Looking up irc.libera.chat
+Nov 17 01:58:57 *	Connecting to irc.libera.chat (188.240.145.100:6697)
+Nov 17 01:58:57 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:58:57 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:58:57 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:58:57 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 01:58:57 *	* Subject: /CN=iridium.libera.chat
+Nov 17 01:58:57 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 01:58:57 *	* Certification info:
+Nov 17 01:58:57 *	  Subject:
+Nov 17 01:58:57 *	    CN=iridium.libera.chat
+Nov 17 01:58:57 *	  Issuer:
+Nov 17 01:58:57 *	    C=US
+Nov 17 01:58:57 *	    O=Let's Encrypt
+Nov 17 01:58:57 *	    CN=R3
+Nov 17 01:58:57 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 01:58:57 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 01:58:57 *	  Valid since Sep 25 10:14:42 2023 GM to Dec 24 10:14:41 2023 GM
+Nov 17 01:58:57 *	* Cipher info:
+Nov 17 01:58:57 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 01:58:57 *	Connected. Now logging in.
+Nov 17 01:58:58 *	*** Checking Ident
+Nov 17 01:58:58 *	*** Looking up your hostname...
+Nov 17 01:58:58 *	*** Couldn't look up your hostname
+**** ENDING LOGGING AT Fri Nov 17 01:58:59 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 02:01:01 2023
+
+Nov 17 02:01:01 *	Looking up irc.libera.chat
+Nov 17 02:01:01 *	Connecting to irc.libera.chat (82.96.96.60:6697)
+Nov 17 02:01:02 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 02:01:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 02:01:02 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 02:01:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 17 02:01:02 *	* Subject: /CN=erbium.libera.chat
+Nov 17 02:01:02 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 17 02:01:02 *	* Certification info:
+Nov 17 02:01:02 *	  Subject:
+Nov 17 02:01:02 *	    CN=erbium.libera.chat
+Nov 17 02:01:02 *	  Issuer:
+Nov 17 02:01:02 *	    C=US
+Nov 17 02:01:02 *	    O=Let's Encrypt
+Nov 17 02:01:02 *	    CN=R3
+Nov 17 02:01:02 *	  Public key algorithm: rsaEncryption (4096 bits)
+Nov 17 02:01:02 *	  Sign algorithm sha256WithRSAEncryption
+Nov 17 02:01:02 *	  Valid since Sep 25 16:22:25 2023 GM to Dec 24 16:22:24 2023 GM
+Nov 17 02:01:02 *	* Cipher info:
+Nov 17 02:01:02 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 17 02:01:02 *	Connected. Now logging in.
+Nov 17 02:01:02 *	*** Checking Ident
+Nov 17 02:01:02 *	*** Looking up your hostname...
+Nov 17 02:01:02 *	*** Couldn't look up your hostname
+Nov 17 02:01:07 *	*** No Ident response
+Nov 17 02:01:07 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 17 02:01:07 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 17 02:01:07 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Nov 17 02:01:07 *	Authenticating via SASL as oni (PLAIN)
+Nov 17 02:01:08 *	SASL authentication failed
+Nov 17 02:01:09 *	SASL authentication aborted
+Nov 17 02:01:10 *	*** Notice -- SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.
+Nov 17 02:01:10 *	Closing Link: 146.70.45.85 (SASL authentication to a NickServ account with a verified email address is required to connect from your current network. Please see https://libera.chat/guides/sasl for configuration assistance.)
+Nov 17 02:01:10 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Fri Nov 17 02:01:14 2023
+
+**** BEGIN LOGGING AT Tue Apr  2 00:22:46 2024
+
+Apr 02 00:22:46 *	Looking up irc.us.libera.chat
+Apr 02 00:22:46 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+Apr 02 00:22:47 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 02 00:22:47 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 02 00:22:47 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 00:22:47 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 02 00:22:47 *	* Subject: /CN=molybdenum.libera.chat
+Apr 02 00:22:47 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 00:22:47 *	* Certification info:
+Apr 02 00:22:47 *	  Subject:
+Apr 02 00:22:47 *	    CN=molybdenum.libera.chat
+Apr 02 00:22:47 *	  Issuer:
+Apr 02 00:22:47 *	    C=US
+Apr 02 00:22:47 *	    O=Let's Encrypt
+Apr 02 00:22:47 *	    CN=R3
+Apr 02 00:22:47 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 02 00:22:47 *	  Sign algorithm sha256WithRSAEncryption
+Apr 02 00:22:47 *	  Valid since Feb  5 05:58:47 2024 GM to May  5 05:58:46 2024 GM
+Apr 02 00:22:47 *	* Cipher info:
+Apr 02 00:22:47 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 02 00:22:47 *	Connected. Now logging in.
+Apr 02 00:22:47 *	*** Checking Ident
+Apr 02 00:22:47 *	*** Looking up your hostname...
+Apr 02 00:22:47 *	*** Couldn't look up your hostname
+Apr 02 00:22:52 *	*** No Ident response
+Apr 02 00:22:52 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Apr 02 00:22:52 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Apr 02 00:22:53 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Apr 02 00:22:53 *	Authenticating via SASL as oni (PLAIN)
+Apr 02 00:22:53 *	SASL authentication failed
+Apr 02 00:22:54 *	SASL authentication aborted
+**** ENDING LOGGING AT Tue Apr  2 00:22:55 2024
+
+**** BEGIN LOGGING AT Tue Apr  2 23:50:04 2024
+
+Apr 02 23:50:04 *	Looking up irc.us.libera.chat
+Apr 02 23:50:05 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+Apr 02 23:50:05 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 02 23:50:05 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 02 23:50:05 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 23:50:05 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 02 23:50:05 *	* Subject: /CN=molybdenum.libera.chat
+Apr 02 23:50:05 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 02 23:50:05 *	* Certification info:
+Apr 02 23:50:05 *	  Subject:
+Apr 02 23:50:05 *	    CN=molybdenum.libera.chat
+Apr 02 23:50:05 *	  Issuer:
+Apr 02 23:50:05 *	    C=US
+Apr 02 23:50:05 *	    O=Let's Encrypt
+Apr 02 23:50:05 *	    CN=R3
+Apr 02 23:50:05 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 02 23:50:05 *	  Sign algorithm sha256WithRSAEncryption
+Apr 02 23:50:05 *	  Valid since Feb  5 05:58:47 2024 GM to May  5 05:58:46 2024 GM
+Apr 02 23:50:05 *	* Cipher info:
+Apr 02 23:50:05 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 02 23:50:05 *	Connected. Now logging in.
+Apr 02 23:50:06 *	*** Checking Ident
+Apr 02 23:50:06 *	*** Looking up your hostname...
+Apr 02 23:50:06 *	*** Couldn't look up your hostname
+Apr 02 23:50:11 *	*** No Ident response
+Apr 02 23:50:12 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Apr 02 23:50:12 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Apr 02 23:50:14 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Apr 02 23:50:14 *	Authenticating via SASL as oni (PLAIN)
+Apr 02 23:50:15 *	SASL authentication failed
+Apr 02 23:50:16 *	SASL authentication aborted
+**** ENDING LOGGING AT Tue Apr  2 23:50:16 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 00:24:41 2024
+
+Apr 03 00:24:41 *	Looking up irc.us.libera.chat
+Apr 03 00:24:41 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+Apr 03 00:24:42 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 00:24:42 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 00:24:42 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 00:24:42 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 00:24:42 *	* Subject: /CN=molybdenum.libera.chat
+Apr 03 00:24:42 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 00:24:42 *	* Certification info:
+Apr 03 00:24:42 *	  Subject:
+Apr 03 00:24:42 *	    CN=molybdenum.libera.chat
+Apr 03 00:24:42 *	  Issuer:
+Apr 03 00:24:42 *	    C=US
+Apr 03 00:24:42 *	    O=Let's Encrypt
+Apr 03 00:24:42 *	    CN=R3
+Apr 03 00:24:42 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 03 00:24:42 *	  Sign algorithm sha256WithRSAEncryption
+Apr 03 00:24:42 *	  Valid since Feb  5 05:58:47 2024 GM to May  5 05:58:46 2024 GM
+Apr 03 00:24:42 *	* Cipher info:
+Apr 03 00:24:42 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 03 00:24:42 *	Connected. Now logging in.
+Apr 03 00:24:42 *	*** Checking Ident
+Apr 03 00:24:42 *	*** Looking up your hostname...
+Apr 03 00:24:42 *	*** Couldn't look up your hostname
+Apr 03 00:24:48 *	*** No Ident response
+Apr 03 00:24:48 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Apr 03 00:24:48 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Apr 03 00:24:49 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Apr 03 00:24:49 *	Authenticating via SASL as oni (PLAIN)
+Apr 03 00:24:49 *	SASL authentication failed
+Apr 03 00:24:50 *	SASL authentication aborted
+**** ENDING LOGGING AT Wed Apr  3 00:24:51 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:17:41 2024
+
+Apr 03 01:17:41 *	Looking up irc.us.libera.chat
+Apr 03 01:17:41 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+Apr 03 01:17:42 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 01:17:42 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 01:17:42 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 01:17:42 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 01:17:42 *	* Subject: /CN=molybdenum.libera.chat
+Apr 03 01:17:42 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 01:17:42 *	* Certification info:
+Apr 03 01:17:42 *	  Subject:
+Apr 03 01:17:42 *	    CN=molybdenum.libera.chat
+Apr 03 01:17:42 *	  Issuer:
+Apr 03 01:17:42 *	    C=US
+Apr 03 01:17:42 *	    O=Let's Encrypt
+Apr 03 01:17:42 *	    CN=R3
+Apr 03 01:17:42 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 03 01:17:42 *	  Sign algorithm sha256WithRSAEncryption
+Apr 03 01:17:42 *	  Valid since Feb  5 05:58:47 2024 GM to May  5 05:58:46 2024 GM
+Apr 03 01:17:42 *	* Cipher info:
+Apr 03 01:17:42 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 03 01:17:42 *	Connected. Now logging in.
+Apr 03 01:17:43 *	*** Checking Ident
+Apr 03 01:17:43 *	*** Looking up your hostname...
+Apr 03 01:17:43 *	*** Couldn't look up your hostname
+Apr 03 01:17:48 *	*** No Ident response
+Apr 03 01:17:48 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Apr 03 01:17:48 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Apr 03 01:17:48 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Apr 03 01:17:49 *	Authenticating via SASL as oni (PLAIN)
+Apr 03 01:17:49 *	SASL authentication failed
+Apr 03 01:17:50 *	SASL authentication aborted
+**** ENDING LOGGING AT Wed Apr  3 01:17:51 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:18:45 2024
+
+Apr 03 01:18:45 *	Looking up irc.us.libera.chat
+Apr 03 01:18:45 *	Connecting to irc.us.libera.chat (2604:6600:2002:15::2:6697)
+Apr 03 01:18:46 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 01:18:46 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 01:18:46 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 01:18:46 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 01:18:46 *	* Subject: /CN=silver.libera.chat
+Apr 03 01:18:46 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 01:18:46 *	* Certification info:
+Apr 03 01:18:46 *	  Subject:
+Apr 03 01:18:46 *	    CN=silver.libera.chat
+Apr 03 01:18:46 *	  Issuer:
+Apr 03 01:18:46 *	    C=US
+Apr 03 01:18:46 *	    O=Let's Encrypt
+Apr 03 01:18:46 *	    CN=R3
+Apr 03 01:18:46 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 03 01:18:46 *	  Sign algorithm sha256WithRSAEncryption
+Apr 03 01:18:46 *	  Valid since Jan 29 16:02:53 2024 GM to Apr 28 16:02:52 2024 GM
+Apr 03 01:18:46 *	* Cipher info:
+Apr 03 01:18:46 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 03 01:18:46 *	Connected. Now logging in.
+Apr 03 01:18:46 *	*** Checking Ident
+Apr 03 01:18:46 *	*** Looking up your hostname...
+Apr 03 01:18:46 *	*** Couldn't look up your hostname
+Apr 03 01:18:53 *	*** No Ident response
+Apr 03 01:18:53 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Apr 03 01:18:53 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Apr 03 01:18:53 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Apr 03 01:18:54 *	Authenticating via SASL as oni (PLAIN)
+Apr 03 01:18:54 *	SASL authentication failed
+Apr 03 01:18:54 *	SASL authentication aborted
+**** ENDING LOGGING AT Wed Apr  3 01:18:56 2024
+
+**** BEGIN LOGGING AT Sun Apr  7 23:33:12 2024
+
+Apr 07 23:33:12 *	Looking up irc.us.libera.chat
+Apr 07 23:33:12 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+Apr 07 23:33:13 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 07 23:33:13 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 07 23:33:13 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 07 23:33:13 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 07 23:33:13 *	* Subject: /CN=molybdenum.libera.chat
+Apr 07 23:33:13 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 07 23:33:13 *	* Certification info:
+Apr 07 23:33:13 *	  Subject:
+Apr 07 23:33:13 *	    CN=molybdenum.libera.chat
+Apr 07 23:33:13 *	  Issuer:
+Apr 07 23:33:13 *	    C=US
+Apr 07 23:33:13 *	    O=Let's Encrypt
+Apr 07 23:33:13 *	    CN=R3
+Apr 07 23:33:13 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 07 23:33:13 *	  Sign algorithm sha256WithRSAEncryption
+Apr 07 23:33:13 *	  Valid since Feb  5 05:58:47 2024 GM to May  5 05:58:46 2024 GM
+Apr 07 23:33:13 *	* Cipher info:
+Apr 07 23:33:13 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 07 23:33:13 *	Connected. Now logging in.
+Apr 07 23:33:14 *	*** Checking Ident
+Apr 07 23:33:14 *	*** Looking up your hostname...
+Apr 07 23:33:14 *	*** Found your hostname: 2603-9001-5f05-7440-0000-42ef-f46d-acfe.inf6.spectrum.com
+Apr 07 23:33:19 *	*** No Ident response
+Apr 07 23:33:19 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Apr 07 23:33:19 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Apr 07 23:33:19 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Apr 07 23:33:19 *	Authenticating via SASL as oni (PLAIN)
+Apr 07 23:33:20 *	SASL authentication failed
+Apr 07 23:33:21 *	SASL authentication aborted
+**** ENDING LOGGING AT Sun Apr  7 23:33:22 2024
+
+**** BEGIN LOGGING AT Sun May 12 22:18:11 2024
+
+May 12 22:18:11 *	Looking up irc.us.libera.chat
+May 12 22:18:12 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+May 12 22:18:13 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 12 22:18:13 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 12 22:18:13 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+May 12 22:18:13 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 12 22:18:13 *	* Subject: /CN=molybdenum.libera.chat
+May 12 22:18:13 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+May 12 22:18:13 *	* Certification info:
+May 12 22:18:13 *	  Subject:
+May 12 22:18:13 *	    CN=molybdenum.libera.chat
+May 12 22:18:13 *	  Issuer:
+May 12 22:18:13 *	    C=US
+May 12 22:18:13 *	    O=Let's Encrypt
+May 12 22:18:13 *	    CN=R3
+May 12 22:18:13 *	  Public key algorithm: rsaEncryption (4096 bits)
+May 12 22:18:13 *	  Sign algorithm sha256WithRSAEncryption
+May 12 22:18:13 *	  Valid since Apr  8 05:32:15 2024 GM to Jul  7 05:32:14 2024 GM
+May 12 22:18:13 *	* Cipher info:
+May 12 22:18:13 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+May 12 22:18:13 *	Connected. Now logging in.
+May 12 22:18:13 *	*** Checking Ident
+May 12 22:18:13 *	*** Looking up your hostname...
+May 12 22:18:13 *	*** Found your hostname: 2603-9001-5f05-7440-0000-31d9-4e2c-9d8a.inf6.spectrum.com
+May 12 22:18:18 *	*** No Ident response
+May 12 22:18:18 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+May 12 22:18:18 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+May 12 22:18:18 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+May 12 22:18:19 *	Authenticating via SASL as oni (PLAIN)
+May 12 22:18:20 *	SASL authentication failed
+May 12 22:18:20 *	SASL authentication aborted
+**** ENDING LOGGING AT Sun May 12 22:18:21 2024
+

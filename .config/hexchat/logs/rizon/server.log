@@ -1,0 +1,528 @@
+**** BEGIN LOGGING AT Thu Nov 16 00:28:06 2023
+
+Nov 16 00:28:06 *	Looking up irc.rizon.net
+**** BEGIN LOGGING AT Thu Nov 16 00:29:07 2023
+
+Nov 16 00:29:07 *	Looking up irc.rizon.net
+Nov 16 00:29:10 *	Connecting to azoce4r44qoumcl4lhzdlwmlawjgkup2tij3aw57l4.map.rizon.net (162.223.8.149:6667)
+Nov 16 00:29:11 *	Connected. Now logging in.
+Nov 16 00:29:11 *	*** Couldn't look up your hostname (cached)
+Nov 16 00:29:11 *	*** Checking Ident
+Nov 16 00:29:13 *	*** No Ident response
+Nov 16 00:29:13 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 16 00:29:13 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 16 00:29:13 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 16 00:29:13 *	*** Banned until Sun Nov 19 05:28:15 2023: [G][peer] Using or hosting open proxies is not permitted - Visit http://abuse.rizon.net for more information. (Akill ID: Q8MTI2RGCY) (2023/11/16 05.28)
+Nov 16 00:29:13 *	Closing Link: 37.19.221.230 (Banned)
+Nov 16 00:29:13 *	Disconnected (Remote host closed socket)
+Nov 16 00:29:23 Cycling to next server in Rizon...
+Nov 16 00:29:23 *	Disconnected ()
+Nov 16 00:29:23 *	Looking up irc.rizon.net
+Nov 16 00:29:25 *	Connecting to azoce4r44qoumcl4lhzdlwmlawjgkup2tij3aw57l4.map.rizon.net (162.223.8.149:6667)
+Nov 16 00:29:25 *	Connected. Now logging in.
+Nov 16 00:29:27 *	*** Couldn't look up your hostname (cached)
+Nov 16 00:29:27 *	*** Checking Ident
+Nov 16 00:29:27 *	*** No Ident response
+Nov 16 00:29:27 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 16 00:29:27 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 16 00:29:30 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 16 00:29:32 *	*** Banned until Sun Nov 19 05:28:15 2023: [G][peer] Using or hosting open proxies is not permitted - Visit http://abuse.rizon.net for more information. (Akill ID: Q8MTI2RGCY) (2023/11/16 05.28)
+Nov 16 00:29:32 *	Closing Link: 37.19.221.230 (Banned)
+Nov 16 00:29:32 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Thu Nov 16 00:29:34 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 00:41:04 2023
+
+Nov 16 00:41:04 *	Looking up irc.rizon.net
+Nov 16 00:41:05 *	Connecting to azoce4r44qoumcl4lhzdlwmlawjgkup2tij3aw57l4.map.rizon.net (188.240.145.30:6667)
+Nov 16 00:41:05 *	Connected. Now logging in.
+Nov 16 00:41:06 *	*** Looking up your hostname...
+Nov 16 00:41:07 *	*** Checking Ident
+Nov 16 00:41:07 *	*** Couldn't look up your hostname
+Nov 16 00:41:07 *	*** No Ident response
+Nov 16 00:41:07 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 16 00:41:07 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 16 00:41:07 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 16 00:41:09 *	*** Banned until Sun Nov 19 06:28:16 2023: [G][peer] Using or hosting open proxies is not permitted - Visit http://abuse.rizon.net for more information. (Akill ID: Q8MTI2RGCY) (2023/11/16 06.28)
+Nov 16 00:41:09 *	Closing Link: 37.19.221.230 (Banned)
+Nov 16 00:41:09 *	Disconnected (Remote host closed socket)
+Nov 16 00:41:19 Cycling to next server in Rizon...
+Nov 16 00:41:19 *	Disconnected ()
+Nov 16 00:41:19 *	Looking up irc.rizon.net
+Nov 16 00:41:19 *	Connecting to azoce4r44qoumcl4lhzdlwmlawjgkup2tij3aw57l4.map.rizon.net (162.223.8.149:6667)
+Nov 16 00:41:19 *	Connected. Now logging in.
+Nov 16 00:41:19 *	*** Looking up your hostname...
+Nov 16 00:41:19 *	*** Checking Ident
+Nov 16 00:41:21 *	*** Couldn't look up your hostname
+Nov 16 00:41:23 *	*** No Ident response
+Nov 16 00:41:23 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 16 00:41:23 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 16 00:41:23 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 16 00:41:24 *	*** Banned until Sun Nov 19 05:28:15 2023: [G][peer] Using or hosting open proxies is not permitted - Visit http://abuse.rizon.net for more information. (Akill ID: Q8MTI2RGCY) (2023/11/16 05.28)
+Nov 16 00:41:24 *	Closing Link: 37.19.221.230 (Banned)
+Nov 16 00:41:24 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Thu Nov 16 00:41:24 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 13:39:33 2023
+
+Nov 16 13:39:33 *	Looking up irc.rizon.net
+Nov 16 13:39:33 *	Connecting to xidojznfwl3ezve367qbthadbknzo5ftuptizu6rra.map.rizon.net (193.70.109.203:6667)
+Nov 16 13:39:34 *	Connected. Now logging in.
+Nov 16 13:39:34 *	*** Looking up your hostname...
+Nov 16 13:39:34 *	*** Checking Ident
+Nov 16 13:39:36 *	*** No Ident response
+Nov 16 13:39:36 *	*** Couldn't look up your hostname
+Nov 16 13:39:36 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 16 13:39:36 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 16 13:39:37 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 16 13:39:38 *	*** Your host is masked (2BE55FAB.2DBD10CB.E419D6B1.IP)
+**** ENDING LOGGING AT Thu Nov 16 13:39:38 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 13:43:59 2023
+
+Nov 16 13:43:59 *	Looking up irc.rizon.net
+Nov 16 13:44:00 *	Connecting to xidojznfwl3ezve367qbthadbknzo5ftuptizu6rra.map.rizon.net (193.70.109.203:6667)
+Nov 16 13:44:00 *	Connected. Now logging in.
+Nov 16 13:44:01 *	*** Looking up your hostname...
+Nov 16 13:44:01 *	*** Checking Ident
+Nov 16 13:44:01 *	*** Couldn't look up your hostname
+Nov 16 13:44:02 *	*** No Ident response
+Nov 16 13:44:02 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 16 13:44:02 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 16 13:44:03 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 16 13:44:04 *	*** Your host is masked (2BE55FAB.2DBD10CB.E419D6B1.IP)
+**** ENDING LOGGING AT Thu Nov 16 13:44:04 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 13:45:04 2023
+
+Nov 16 13:45:04 *	Looking up irc.rizon.net
+Nov 16 13:45:04 *	Connecting to xidojznfwl3ezve367qbthadbknzo5ftuptizu6rra.map.rizon.net (188.240.145.30:6667)
+Nov 16 13:45:04 *	Connected. Now logging in.
+Nov 16 13:45:05 *	*** Looking up your hostname...
+Nov 16 13:45:05 *	*** Checking Ident
+Nov 16 13:45:05 *	*** Couldn't look up your hostname
+Nov 16 13:45:06 *	*** No Ident response
+Nov 16 13:45:06 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 16 13:45:06 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 16 13:45:07 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 16 13:45:08 *	*** Your host is masked (2BE55FAB.2DBD10CB.E419D6B1.IP)
+**** ENDING LOGGING AT Thu Nov 16 13:45:08 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:00:17 2023
+
+Nov 16 14:00:17 *	Looking up irc.rizon.net
+Nov 16 14:00:17 *	Connecting to xidojznfwl3ezve367qbthadbknzo5ftuptizu6rra.map.rizon.net (188.240.145.30:6667)
+Nov 16 14:00:17 *	Connected. Now logging in.
+Nov 16 14:00:18 *	*** Looking up your hostname...
+Nov 16 14:00:18 *	*** Checking Ident
+Nov 16 14:00:18 *	*** Couldn't look up your hostname
+Nov 16 14:00:19 *	*** No Ident response
+Nov 16 14:00:19 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 16 14:00:19 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 16 14:00:19 *	oni_kage00 is already in use. Retrying with oni_kage...
+Nov 16 14:00:19 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 16 14:00:20 *	*** Your host is masked (2BE55FAB.2DBD10CB.E419D6B1.IP)
+**** ENDING LOGGING AT Thu Nov 16 14:00:20 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 01:41:31 2023
+
+Nov 17 01:41:31 *	Looking up irc.rizon.net
+Nov 17 01:41:32 *	Connecting to 2v5f4d34hizdggmrabak2h2knengcropqtbxfgz2zi.map.rizon.net (162.223.8.149:6667)
+Nov 17 01:41:32 *	Connected. Now logging in.
+Nov 17 01:41:32 *	*** Looking up your hostname...
+Nov 17 01:41:32 *	*** Checking Ident
+Nov 17 01:41:32 *	*** Couldn't look up your hostname
+Nov 17 01:41:33 *	*** No Ident response
+Nov 17 01:41:33 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 17 01:41:33 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 17 01:41:34 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 17 01:41:34 *	*** Your host is masked (F56E18A.93F19172.4199D0A6.IP)
+**** ENDING LOGGING AT Fri Nov 17 01:41:34 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 01:48:32 2023
+
+Nov 17 01:48:32 *	Looking up irc.rizon.net
+Nov 17 01:48:32 *	Connecting to 2v5f4d34hizdggmrabak2h2knengcropqtbxfgz2zi.map.rizon.net (162.223.8.149:6667)
+Nov 17 01:48:32 *	Connected. Now logging in.
+Nov 17 01:48:32 *	*** Looking up your hostname...
+Nov 17 01:48:32 *	*** Checking Ident
+Nov 17 01:48:32 *	*** Couldn't look up your hostname
+Nov 17 01:48:34 *	*** No Ident response
+Nov 17 01:48:34 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 17 01:48:34 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 17 01:48:34 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 17 01:48:34 *	*** Your host is masked (F56E18A.93F19172.4199D0A6.IP)
+**** ENDING LOGGING AT Fri Nov 17 01:48:34 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 21:12:25 2023
+
+Nov 17 21:12:25 *	Looking up irc.rizon.net
+Nov 17 21:12:25 *	Connecting to pbxdskoquzp4ia44u4supqejbi6twdjkixir2qq5iy.map.rizon.net (2607:f740:101:60::10:6667)
+Nov 17 21:12:25 *	Connected. Now logging in.
+Nov 17 21:12:25 *	*** Looking up your hostname...
+Nov 17 21:12:25 *	*** Checking Ident
+Nov 17 21:12:26 *	*** Couldn't look up your hostname
+Nov 17 21:12:26 *	*** No Ident response
+Nov 17 21:12:26 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 17 21:12:26 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 17 21:12:26 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 17 21:12:27 *	*** Your host is masked (EE36F734:80434A26:693F009:IP)
+**** ENDING LOGGING AT Fri Nov 17 21:12:27 2023
+
+**** BEGIN LOGGING AT Sun Nov 19 00:06:54 2023
+
+Nov 19 00:06:54 *	Looking up irc.rizon.net
+Nov 19 00:06:54 *	Connecting to yha6riaucbbb4xhvslo55lr4znl4p4crajvq2cbfby.map.rizon.net (2607:f740:101:60::10:6667)
+Nov 19 00:06:54 *	Connected. Now logging in.
+Nov 19 00:06:54 *	*** Looking up your hostname...
+Nov 19 00:06:54 *	*** Checking Ident
+Nov 19 00:06:54 *	*** Couldn't look up your hostname
+Nov 19 00:06:56 *	*** No Ident response
+Nov 19 00:06:56 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 19 00:06:56 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 19 00:06:56 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 19 00:06:56 *	*** Your host is masked (EE36F734:80434A26:693F009:IP)
+**** ENDING LOGGING AT Sun Nov 19 00:06:56 2023
+
+**** BEGIN LOGGING AT Sun Nov 19 23:20:18 2023
+
+Nov 19 23:20:18 *	Looking up irc.rizon.net
+Nov 19 23:20:18 *	Connecting to jttssz3afxru2tqs3t6wilm36uirrcafoo6k2754om.map.rizon.net (2607:f740:101:60::10:6667)
+Nov 19 23:20:19 *	Connected. Now logging in.
+Nov 19 23:20:20 *	*** Looking up your hostname...
+Nov 19 23:20:20 *	*** Checking Ident
+Nov 19 23:20:20 *	*** Couldn't look up your hostname
+Nov 19 23:20:21 *	*** No Ident response
+Nov 19 23:20:21 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 19 23:20:21 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 19 23:20:21 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 19 23:20:22 *	*** Your host is masked (EE36F734:80434A26:693F009:IP)
+**** ENDING LOGGING AT Sun Nov 19 23:20:22 2023
+
+**** BEGIN LOGGING AT Mon Nov 20 22:04:42 2023
+
+Nov 20 22:04:42 *	Looking up irc.rizon.net
+Nov 20 22:04:42 *	Connecting to 5jikitl3nkzzdsiamlqtxax365i4ix73ck2rjnnmyi.map.rizon.net (2607:f740:101:60::10:6667)
+Nov 20 22:06:58 *	Connected. Now logging in.
+Nov 20 22:06:58 *	*** Looking up your hostname...
+Nov 20 22:06:58 *	*** Checking Ident
+Nov 20 22:06:58 *	*** Couldn't look up your hostname
+Nov 20 22:07:00 *	*** No Ident response
+Nov 20 22:07:00 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 20 22:07:00 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 20 22:07:00 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 20 22:07:01 *	*** Your host is masked (EAC7958C:A5F5BCA3:64201BED:IP)
+**** ENDING LOGGING AT Mon Nov 20 22:07:01 2023
+
+**** BEGIN LOGGING AT Mon Nov 20 22:44:25 2023
+
+Nov 20 22:44:25 *	Looking up irc.rizon.net
+Nov 20 22:44:25 *	Connecting to 6mxadbxsayw5zhaqbbb3rbphj5y7xppau3x7zaxkia.map.rizon.net (2607:f740:101:60::10:6667)
+**** ENDING LOGGING AT Mon Nov 20 22:46:40 2023
+
+**** BEGIN LOGGING AT Mon Nov 20 22:58:15 2023
+
+Nov 20 22:58:15 *	Looking up irc.rizon.net
+Nov 20 22:58:15 *	Connecting to 6mxadbxsayw5zhaqbbb3rbphj5y7xppau3x7zaxkia.map.rizon.net (2607:f740:101:60::10:6667)
+**** ENDING LOGGING AT Mon Nov 20 22:58:20 2023
+
+**** BEGIN LOGGING AT Wed Nov 22 22:09:30 2023
+
+Nov 22 22:09:30 *	Looking up irc.rizon.net
+Nov 22 22:09:35 *	Connecting to qydwpw2r3dqzniphwebuipiohcumdi7oj4ya25odnu.map.rizon.net (2607:f740:101:60::10:6667)
+Nov 22 22:11:51 *	Connected. Now logging in.
+Nov 22 22:11:52 *	*** Looking up your hostname...
+Nov 22 22:11:52 *	*** Checking Ident
+Nov 22 22:11:52 *	*** Couldn't look up your hostname
+Nov 22 22:11:53 *	*** No Ident response
+Nov 22 22:11:53 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Nov 22 22:11:53 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Nov 22 22:11:54 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Nov 22 22:11:55 *	*** Your host is masked (EAC7958C:A5F5BCA3:64201BED:IP)
+**** ENDING LOGGING AT Wed Nov 22 22:11:55 2023
+
+**** BEGIN LOGGING AT Sat Dec  2 01:03:06 2023
+
+Dec 02 01:03:06 *	Looking up irc.rizon.net
+Dec 02 01:03:07 *	Connecting to zl6lbbjmlzq6m3rjwh5aux5ivvrglqres3tacfjicm.map.rizon.net (2607:f740:101:60::10:6667)
+Dec 02 01:03:07 *	Connected. Now logging in.
+Dec 02 01:03:07 *	*** Looking up your hostname...
+Dec 02 01:03:07 *	*** Checking Ident
+Dec 02 01:03:07 *	*** Couldn't look up your hostname
+Dec 02 01:03:09 *	*** No Ident response
+Dec 02 01:03:09 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Dec 02 01:03:09 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Dec 02 01:03:09 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Dec 02 01:03:09 *	*** Your host is masked (21E3DBB3:ADE1EE81:ABCB5966:IP)
+**** ENDING LOGGING AT Sat Dec  2 01:03:09 2023
+
+**** BEGIN LOGGING AT Fri Dec  8 01:54:07 2023
+
+Dec 08 01:54:07 *	Looking up irc.rizon.net
+Dec 08 01:54:07 *	Connecting to kots6etqtgm6stkxrhr4h72gk5bsmuuwszd7xpuew4.map.rizon.net (2607:f740:101:60::10:6667)
+Dec 08 01:54:08 *	Connected. Now logging in.
+Dec 08 01:54:08 *	*** Looking up your hostname...
+Dec 08 01:54:08 *	*** Checking Ident
+Dec 08 01:54:09 *	*** Couldn't look up your hostname
+Dec 08 01:54:10 *	*** No Ident response
+Dec 08 01:54:10 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Dec 08 01:54:10 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Dec 08 01:54:10 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Dec 08 01:54:11 *	*** Your host is masked (EE54B882:A443D8EF:39D338D0:IP)
+**** ENDING LOGGING AT Fri Dec  8 01:54:11 2023
+
+**** BEGIN LOGGING AT Mon Dec 18 02:19:45 2023
+
+Dec 18 02:19:45 *	Looking up irc.rizon.net
+Dec 18 02:19:50 *	Connecting to vp4k5yexcl23xjlfb6qel3u3h3jylcyh2ubl3pqxby.map.rizon.net (2607:f740:101:60::10:6667)
+Dec 18 02:19:50 *	Connected. Now logging in.
+Dec 18 02:19:50 *	*** Looking up your hostname...
+Dec 18 02:19:50 *	*** Checking Ident
+Dec 18 02:19:50 *	*** Found your hostname
+Dec 18 02:19:52 *	*** No Ident response
+Dec 18 02:19:52 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Dec 18 02:19:52 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Dec 18 02:19:52 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Dec 18 02:19:52 *	*** Your host is masked (Rizon-9071CE06.inf6.spectrum.com)
+**** ENDING LOGGING AT Mon Dec 18 02:19:52 2023
+
+**** BEGIN LOGGING AT Mon Dec 25 02:28:07 2023
+
+Dec 25 02:28:07 *	Looking up irc.rizon.net
+Dec 25 02:28:08 *	Connecting to xzjucjcopqdt34dhfqk2y2nihtzsgemz6gwyilnc2i.map.rizon.net (2001:41d0:700:1b25:::6667)
+Dec 25 02:28:08 *	Connected. Now logging in.
+Dec 25 02:28:08 *	*** Looking up your hostname...
+Dec 25 02:28:08 *	*** Checking Ident
+Dec 25 02:28:08 *	*** Couldn't look up your hostname
+Dec 25 02:28:10 *	*** No Ident response
+Dec 25 02:28:10 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Dec 25 02:28:10 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Dec 25 02:28:10 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Dec 25 02:28:11 *	*** Your host is masked (55817779:E42C7650:B153F5E:IP)
+**** ENDING LOGGING AT Mon Dec 25 02:28:11 2023
+
+**** BEGIN LOGGING AT Tue Dec 26 22:47:10 2023
+
+Dec 26 22:47:10 *	Looking up irc.rizon.net
+Dec 26 22:47:11 *	Connecting to wtikceqrzagwkzw55in5d47rhr6sxu27bt2nut3jom.map.rizon.net (2001:41d0:8:e709:::6667)
+Dec 26 22:47:11 *	Connected. Now logging in.
+Dec 26 22:47:12 *	*** Looking up your hostname...
+Dec 26 22:47:12 *	*** Checking Ident
+Dec 26 22:47:12 *	*** Couldn't look up your hostname
+Dec 26 22:47:13 *	*** No Ident response
+Dec 26 22:47:13 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Dec 26 22:47:13 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Dec 26 22:47:13 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Dec 26 22:47:14 *	*** Your host is masked (239C0B92:3B39303B:31D8FC2A:IP)
+**** ENDING LOGGING AT Tue Dec 26 22:47:14 2023
+
+**** BEGIN LOGGING AT Fri Feb 23 23:59:12 2024
+
+Feb 23 23:59:12 *	Looking up irc.rizon.net
+Feb 23 23:59:12 *	Connecting to a4vbk66oyinbkjvwb7z2f52g67uhkyxa2gf2i3jbca.map.rizon.net (2001:41d0:700:1b25:::6667)
+Feb 23 23:59:12 *	Connected. Now logging in.
+Feb 23 23:59:12 *	*** Looking up your hostname...
+Feb 23 23:59:12 *	*** Checking Ident
+Feb 23 23:59:12 *	*** Couldn't look up your hostname
+Feb 23 23:59:14 *	*** No Ident response
+Feb 23 23:59:14 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Feb 23 23:59:14 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Feb 23 23:59:15 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Feb 23 23:59:15 *	*** Your host is masked (E59C997B:CED8802:710E7A71:IP)
+**** ENDING LOGGING AT Fri Feb 23 23:59:15 2024
+
+**** BEGIN LOGGING AT Mon Mar 18 03:30:49 2024
+
+Mar 18 03:30:49 *	Looking up irc.rizon.net
+Mar 18 03:30:49 *	Connecting to q2qlimdi5qmfjrx3ib5225vio74nggepqdfslng5iu.map.rizon.net (2607:f740:101:60::10:6667)
+Mar 18 03:30:50 *	Connected. Now logging in.
+Mar 18 03:30:50 *	*** Looking up your hostname...
+Mar 18 03:30:50 *	*** Checking Ident
+Mar 18 03:30:50 *	*** Couldn't look up your hostname
+Mar 18 03:30:52 *	*** No Ident response
+Mar 18 03:30:52 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Mar 18 03:30:52 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Mar 18 03:30:52 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Mar 18 03:30:52 *	*** Your host is masked (6CC236C8:630AF2A9:9F716093:IP)
+**** ENDING LOGGING AT Mon Mar 18 03:30:52 2024
+
+**** BEGIN LOGGING AT Fri Mar 22 22:15:34 2024
+
+Mar 22 22:15:34 *	Looking up irc.rizon.net
+Mar 22 22:15:35 *	Connecting to c5xkgk5sf2rz2gvxhr47znrreorlu4prrimeicbem4.map.rizon.net (2607:f740:101:60::10:6667)
+Mar 22 22:15:35 *	Connected. Now logging in.
+Mar 22 22:15:35 *	*** Looking up your hostname...
+Mar 22 22:15:35 *	*** Checking Ident
+Mar 22 22:15:35 *	*** Couldn't look up your hostname
+Mar 22 22:15:37 *	*** No Ident response
+Mar 22 22:15:37 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Mar 22 22:15:37 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Mar 22 22:15:37 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Mar 22 22:15:37 *	*** Your host is masked (6CB05C53:76AE4626:D19288F9:IP)
+**** ENDING LOGGING AT Fri Mar 22 22:15:37 2024
+
+**** BEGIN LOGGING AT Thu Mar 28 23:01:59 2024
+
+Mar 28 23:01:59 *	Looking up irc.rizon.net
+Mar 28 23:02:01 *	Connecting to 4az67jhdi5xol46rdpi5u2rawf7hqhpoi7o7pbyowe.map.rizon.net (2607:f740:101:60::10:6667)
+Mar 28 23:02:02 *	Connected. Now logging in.
+Mar 28 23:02:02 *	*** Looking up your hostname...
+Mar 28 23:02:02 *	*** Checking Ident
+Mar 28 23:02:02 *	*** Couldn't look up your hostname
+Mar 28 23:02:03 *	*** No Ident response
+Mar 28 23:02:03 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Mar 28 23:02:03 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Mar 28 23:02:04 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Mar 28 23:02:04 *	*** Your host is masked (F1DABAC9:EA4B11CB:DFD80ACF:IP)
+**** ENDING LOGGING AT Thu Mar 28 23:02:04 2024
+
+**** BEGIN LOGGING AT Thu Mar 28 23:45:08 2024
+
+Mar 28 23:45:08 *	Looking up irc.rizon.net
+Mar 28 23:45:08 *	Connecting to f5ish4k74luyv7ac5gese6by5ubiknivjvd5c26uha.map.rizon.net (2607:f740:101:60::10:6667)
+Mar 28 23:45:08 *	Connected. Now logging in.
+Mar 28 23:45:08 *	*** Looking up your hostname...
+Mar 28 23:45:08 *	*** Checking Ident
+Mar 28 23:45:08 *	*** Couldn't look up your hostname
+Mar 28 23:45:10 *	*** No Ident response
+Mar 28 23:45:10 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Mar 28 23:45:10 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Mar 28 23:45:10 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Mar 28 23:45:10 *	*** Your host is masked (F1DABAC9:EA4B11CB:DFD80ACF:IP)
+**** ENDING LOGGING AT Thu Mar 28 23:45:10 2024
+
+**** BEGIN LOGGING AT Sat Mar 30 21:28:45 2024
+
+Mar 30 21:28:45 *	Looking up irc.rizon.net
+Mar 30 21:28:46 *	Connecting to rrkycufsocfwhr7zaawm4zrnlqqkgyz572l4rs3cgu.map.rizon.net (2607:f740:101:60::10:6667)
+Mar 30 21:28:46 *	Connected. Now logging in.
+Mar 30 21:28:47 *	*** Looking up your hostname...
+Mar 30 21:28:47 *	*** Checking Ident
+Mar 30 21:28:47 *	*** Couldn't look up your hostname
+Mar 30 21:28:48 *	*** No Ident response
+Mar 30 21:28:48 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Mar 30 21:28:48 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Mar 30 21:28:48 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Mar 30 21:28:50 *	*** Your host is masked (92D7FCEF:25BFB96C:24B20CC:IP)
+**** ENDING LOGGING AT Sat Mar 30 21:28:50 2024
+
+**** BEGIN LOGGING AT Mon Apr  1 01:23:52 2024
+
+Apr 01 01:23:52 *	Looking up irc.rizon.net
+Apr 01 01:23:52 *	Connecting to ltunvh45lrprk3n4zm3cnajddaw43vttqzhaq5whme.map.rizon.net (2001:41d0:700:1b25:::6667)
+Apr 01 01:23:52 *	Connected. Now logging in.
+Apr 01 01:23:52 *	*** Looking up your hostname...
+Apr 01 01:23:52 *	*** Checking Ident
+Apr 01 01:23:53 *	*** Couldn't look up your hostname
+Apr 01 01:23:54 *	*** No Ident response
+Apr 01 01:23:54 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Apr 01 01:23:54 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Apr 01 01:23:54 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Apr 01 01:23:55 *	*** Your host is masked (92D7FCEF:25BFB96C:24B20CC:IP)
+**** ENDING LOGGING AT Mon Apr  1 01:23:55 2024
+
+**** BEGIN LOGGING AT Tue Apr  2 00:22:46 2024
+
+Apr 02 00:22:46 *	Looking up irc.rizon.net
+Apr 02 00:22:46 *	Connecting to jktwnptm4irmlaxkaauf3seo7gt5ofnnz5z5o4wcm4.map.rizon.net (2001:41d0:8:e709:::6667)
+Apr 02 00:22:46 *	Connected. Now logging in.
+Apr 02 00:22:46 *	*** Looking up your hostname...
+Apr 02 00:22:46 *	*** Checking Ident
+Apr 02 00:22:46 *	*** Couldn't look up your hostname
+Apr 02 00:22:48 *	*** No Ident response
+Apr 02 00:22:48 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Apr 02 00:22:48 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Apr 02 00:22:48 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Apr 02 00:22:49 *	*** Your host is masked (92D7FCEF:25BFB96C:24B20CC:IP)
+**** ENDING LOGGING AT Tue Apr  2 00:22:49 2024
+
+**** BEGIN LOGGING AT Tue Apr  2 23:50:04 2024
+
+Apr 02 23:50:04 *	Looking up irc.rizon.net
+Apr 02 23:50:05 *	Connecting to 24gfzvo743ggolz2akiv2zci6kaoey2a7n5fd3ax6q.map.rizon.net (2001:41d0:8:e709:::6667)
+Apr 02 23:50:05 *	Connected. Now logging in.
+Apr 02 23:50:05 *	*** Looking up your hostname...
+Apr 02 23:50:05 *	*** Checking Ident
+Apr 02 23:50:05 *	*** Couldn't look up your hostname
+Apr 02 23:50:07 *	*** No Ident response
+Apr 02 23:50:07 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Apr 02 23:50:07 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Apr 02 23:50:07 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Apr 02 23:50:08 *	*** Your host is masked (FF471EBF:44B1E3D:67DD13D4:IP)
+**** ENDING LOGGING AT Tue Apr  2 23:50:08 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 00:24:41 2024
+
+Apr 03 00:24:41 *	Looking up irc.rizon.net
+Apr 03 00:24:41 *	Connecting to gk7a6guv3onfbo6hj7kraie7urmkahmt7tft2s4ybu.map.rizon.net (2001:41d0:700:1b25:::6667)
+Apr 03 00:24:42 *	Connected. Now logging in.
+Apr 03 00:24:42 *	*** Looking up your hostname...
+Apr 03 00:24:42 *	*** Checking Ident
+Apr 03 00:24:42 *	*** Couldn't look up your hostname
+Apr 03 00:24:44 *	*** No Ident response
+Apr 03 00:24:44 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Apr 03 00:24:44 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Apr 03 00:24:44 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Apr 03 00:24:45 *	*** Your host is masked (300ECBA9:2D81D110:4160E1A8:IP)
+**** ENDING LOGGING AT Wed Apr  3 00:24:45 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:17:41 2024
+
+Apr 03 01:17:41 *	Looking up irc.rizon.net
+Apr 03 01:17:41 *	Connecting to ry4k5rdgubjj3qvpyshvepa3zmsrag7ddf2ekafwf4.map.rizon.net (2001:41d0:8:e709:::6667)
+Apr 03 01:17:41 *	Connected. Now logging in.
+Apr 03 01:17:42 *	*** Looking up your hostname...
+Apr 03 01:17:42 *	*** Checking Ident
+Apr 03 01:17:42 *	*** Couldn't look up your hostname
+Apr 03 01:17:44 *	*** No Ident response
+Apr 03 01:17:44 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Apr 03 01:17:44 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Apr 03 01:17:44 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Apr 03 01:17:45 *	*** Your host is masked (300ECBA9:2D81D110:4160E1A8:IP)
+**** ENDING LOGGING AT Wed Apr  3 01:17:45 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:18:45 2024
+
+Apr 03 01:18:45 *	Looking up irc.rizon.net
+Apr 03 01:18:46 *	Connecting to ry4k5rdgubjj3qvpyshvepa3zmsrag7ddf2ekafwf4.map.rizon.net (2001:41d0:8:e709:::6667)
+Apr 03 01:18:46 *	Connected. Now logging in.
+Apr 03 01:18:46 *	*** Looking up your hostname...
+Apr 03 01:18:46 *	*** Checking Ident
+Apr 03 01:18:46 *	*** Couldn't look up your hostname
+Apr 03 01:18:48 *	*** No Ident response
+Apr 03 01:18:48 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Apr 03 01:18:48 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Apr 03 01:18:48 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Apr 03 01:18:49 *	*** Your host is masked (300ECBA9:2D81D110:4160E1A8:IP)
+**** ENDING LOGGING AT Wed Apr  3 01:18:49 2024
+
+**** BEGIN LOGGING AT Sun Apr  7 23:33:12 2024
+
+Apr 07 23:33:12 *	Looking up irc.rizon.net
+Apr 07 23:33:12 *	Connecting to z2lqyoff6u4usxeznukbk3xbk3dql7vm7idwi3adhu.map.rizon.net (2001:41d0:700:1b25:::6667)
+Apr 07 23:33:13 *	Connected. Now logging in.
+Apr 07 23:33:13 *	*** Looking up your hostname...
+Apr 07 23:33:13 *	*** Checking Ident
+Apr 07 23:33:14 *	*** Found your hostname
+Apr 07 23:33:15 *	*** No Ident response
+Apr 07 23:33:15 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+Apr 07 23:33:15 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+Apr 07 23:33:15 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+Apr 07 23:33:16 *	*** Your host is masked (Rizon-CE12B55B.inf6.spectrum.com)
+**** ENDING LOGGING AT Sun Apr  7 23:33:16 2024
+
+**** BEGIN LOGGING AT Sun May 12 22:18:11 2024
+
+May 12 22:18:11 *	Looking up irc.rizon.net
+May 12 22:18:12 *	Connecting to rxib3qlibvdobyyybgrwbbv4s5kvf7yff4w5on5b5y.map.rizon.net (2001:41d0:8:e709:::6667)
+May 12 22:18:12 *	Connected. Now logging in.
+May 12 22:18:12 *	*** Looking up your hostname...
+May 12 22:18:12 *	*** Checking Ident
+May 12 22:18:14 *	*** No Ident response
+May 12 22:18:14 *	*** Couldn't look up your hostname
+May 12 22:18:14 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+May 12 22:18:14 *	Capabilities requested: away-notify chghost invite-notify multi-prefix userhost-in-names 
+May 12 22:18:14 *	Capabilities acknowledged: away-notify chghost invite-notify multi-prefix userhost-in-names
+May 12 22:18:14 *	*** Your host is masked (1826F8C0:730918CE:6F9036AF:IP)
+**** ENDING LOGGING AT Sun May 12 22:18:14 2024
+

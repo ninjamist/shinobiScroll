@@ -1,0 +1,1401 @@
+**** BEGIN LOGGING AT Wed Nov 15 23:51:17 2023
+
+Nov 15 23:51:17 *	*** Looking up your hostname
+Nov 15 23:51:17 *	*** Checking Ident
+Nov 15 23:51:18 *	*** Found your hostname
+Nov 15 23:51:26 *	*** No ident response
+**** ENDING LOGGING AT Wed Nov 15 23:51:27 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 23:51:27 2023
+
+Nov 15 23:51:27 *	Welcome to the UnderNet IRC Network, oni_00
+Nov 15 23:51:27 *	Your host is Pipera.RO.EU.Undernet.Org, running version u2.10.12.19
+Nov 15 23:51:27 *	This server was created Fri Mar 22 2019 at 14:17:38 EET
+Nov 15 23:51:27 *	Pipera.RO.EU.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 15 23:51:27 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=50 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 15 23:51:27 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 15 23:51:27 *	There are 3995 users and 12373 invisible on 37 servers
+Nov 15 23:51:27 *	50 :operator(s) online
+Nov 15 23:51:27 *	13 :unknown connection(s)
+Nov 15 23:51:27 *	5719 :channels formed
+Nov 15 23:51:27 *	I have 3202 clients and 1 servers
+Nov 15 23:51:27 *	Highest connection count: 3379 (3378 clients)
+Nov 15 23:51:27 *	- Pipera.RO.EU.Undernet.Org Message of the Day - 
+Nov 15 23:51:27 *	- 2021-5-9 18:12
+Nov 15 23:51:27 *	- 	             ***
+Nov 15 23:51:27 *	- 	            * //*
+Nov 15 23:51:27 *	- 	             //*
+Nov 15 23:51:27 *	- 	   **       **/|      **
+Nov 15 23:51:27 *	- 	 ************//***********
+Nov 15 23:51:27 *	- 	 ***********//************
+Nov 15 23:51:27 *	- 	   **      |/**       **
+Nov 15 23:51:27 *	- 	            **/|
+Nov 15 23:51:27 *	- 	            *//
+Nov 15 23:51:27 *	- 	            //*
+Nov 15 23:51:27 *	- 	           |/**
+Nov 15 23:51:28 *	- 	            **/|
+Nov 15 23:51:28 *	- 	***         *//         ***
+Nov 15 23:51:28 *	- 	 *****      //*      *****
+Nov 15 23:51:28 *	- 	  *******  |/**   *******
+Nov 15 23:51:28 *	- 	       *************
+Nov 15 23:51:28 *	- 	          *******
+Nov 15 23:51:28 *	- 	             *
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	-  _   _           _     ____        _ _
+Nov 15 23:51:28 *	- | | | | ___  ___| |_  / ___|  __ _(_) | ___  _ __
+Nov 15 23:51:28 *	- | |_| |/ _ \/ __| __| \___ \ / _` | | |/ _ \| '__|
+Nov 15 23:51:28 *	- |  _  | (_) \__ \ |_   ___) | (_| | | | (_) | |
+Nov 15 23:51:28 *	- |_| |_|\___/|___/\__| |____/ \__,_|_|_|\___/|_|
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- [ Web Hosting, Dedicated, Managed, VPS & Shared Hosting ]
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	-                       Visit us at,
+Nov 15 23:51:28 *	-              -= https://www.hostsailor.com =-
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- [ Your Host: Pipera.RO.EU.Undernet.org ]
+Nov 15 23:51:28 *	- [ Operating Since: August 27 2018 ]
+Nov 15 23:51:28 *	- [ IPv4: ircu.hostsailor.com ]
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- [ Server usage Policy ]
+Nov 15 23:51:28 *	- [ no clones/drones ] [ no spamming] [ no flooding ]
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- HostSailor can refuse access to anyone using this server
+Nov 15 23:51:28 *	- at any time and without any notice.
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- By using this server you agree to the terms above and also
+Nov 15 23:51:28 *	- are bound by the terms stated in Undernet's Acceptable use
+Nov 15 23:51:28 *	- Policy, which can be viewed at:
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- http://www.undernet.org/aup.php
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- [ Server Information ]
+Nov 15 23:51:28 *	- [ Ports: 6660-6669, 7000 - open for client connections ]
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- For K-Lines: use the /ADMIN command for more information &
+Nov 15 23:51:28 *	- to request a removal.
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- For G-Lines: please e-mail abuse@undernet.org
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- [ Helpful IRC channels ]
+Nov 15 23:51:28 *	- #hostsailor : Official Channel of this server
+Nov 15 23:51:28 *	- #CService : Official X Bot help channel
+Nov 15 23:51:28 *	- #usernames : For help related to usernames
+Nov 15 23:51:28 *	- #help and #userguide : For general IRC related questions
+Nov 15 23:51:28 *	- #vh  : For help with virus/trojan infections
+Nov 15 23:51:28 *	- #zT : For help with takeovers & unregistered channels
+Nov 15 23:51:28 *	- #class : Undernet User Committee's Class Project
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- [ Web-Links ]
+Nov 15 23:51:28 *	- Undernet Official Website: http://www.undernet.org
+Nov 15 23:51:28 *	- Channel Services: http://cservice.undernet.org
+Nov 15 23:51:28 *	- Op-School: https://cservice.undernet.org/main/opschool/
+Nov 15 23:51:28 *	- Users Committee: http://www.user-com.undernet.org/
+Nov 15 23:51:28 *	- #class Project: http://class-undernet.org
+Nov 15 23:51:28 *	- 
+Nov 15 23:51:28 *	- This server is sponsored and hosted by HostSailor WebHosting Solutions 
+Nov 15 23:51:28 *	- https://www.hostsailor.com
+Nov 15 23:51:28 >x@channels.undernet.org<	login oni 
+Nov 15 23:51:28 *	End of /MOTD command.
+Nov 15 23:51:28 *	on 1 ca 1(4) ft 10(10)
+Nov 15 23:51:29 -X-	SYNTAX: LOGIN <username> <password>
+Nov 15 23:52:20 >X@channels.undernet.org<	login oni hYDUywPT
+Nov 15 23:52:21 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 15 23:52:21 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+**** ENDING LOGGING AT Wed Nov 15 23:52:35 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 23:54:59 2023
+
+Nov 15 23:54:59 *	Welcome to the UnderNet IRC Network, oni_00
+Nov 15 23:54:59 *	Your host is LosAngeles.CA.US.Undernet.Org, running version u2.10.12.19
+Nov 15 23:54:59 *	This server was created Mon Nov 15 2021 at 08:04:09 PST
+Nov 15 23:54:59 *	LosAngeles.CA.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 15 23:54:59 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 15 23:54:59 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 15 23:54:59 *	There are 3999 users and 12366 invisible on 37 servers
+Nov 15 23:54:59 *	50 :operator(s) online
+Nov 15 23:54:59 *	16 :unknown connection(s)
+Nov 15 23:54:59 *	5717 :channels formed
+Nov 15 23:54:59 *	I have 1062 clients and 1 servers
+Nov 15 23:54:59 *	Highest connection count: 1250 (1249 clients)
+Nov 15 23:55:00 *	- LosAngeles.CA.US.Undernet.Org Message of the Day - 
+Nov 15 23:55:00 *	- 2020-2-13 4:05
+Nov 15 23:55:00 *	- #################################################################
+Nov 15 23:55:00 *	- #################################################################
+Nov 15 23:55:00 *	- ##     ,--.                                                    ##
+Nov 15 23:55:00 *	- ##     |  |    ,--,--.,--. ,--.,---. ,--.--.                   ##
+Nov 15 23:55:00 *	- ##     |  |   ' ,-.  | \  '  /| .-. :|  .--'                   ##
+Nov 15 23:55:00 *	- ##     |  '--.\ '-'  |  \   ' \   --.|  |                      ##
+Nov 15 23:55:00 *	- ##     `-----' `--`--'.-'  /   `----'`--'                      ##
+Nov 15 23:55:00 *	- ##                    `---'                                    ##
+Nov 15 23:55:00 *	- ##                ,--.  ,--.               ,--.                ##
+Nov 15 23:55:00 *	- ##                |  '--'  | ,---.  ,---.,-'  '-.              ##
+Nov 15 23:55:00 *	- ##                |  .--.  || .-. |(  .-''-.  .-'              ##
+Nov 15 23:55:00 *	- ##                |  |  |  |' '-' '.-'  `) |  |                ##
+Nov 15 23:55:00 *	- ##                `--'  `--' `---' `----'  `--'                ##
+Nov 15 23:55:00 *	- #################################################################
+Nov 15 23:55:00 *	- #################################################################
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # LosAngeles.CA.US.Undernet.Org is sponsored by LayerHost       #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # Looking for a Dedicated Server? WebHosting? Colocation? VPS?  #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # Always Reliable and Always Online https://LayerHost.com       #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # Why choose us?                                                #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # - Stay Online 24/7 even under DDoS attack !                   #
+Nov 15 23:55:00 *	- #   LayerHost is a leader in DDoS Mitigation                    #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # - One of the best customer service, worth a try !             #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # - Multiple Location -> LosAngeles -> Houston                  #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # - We offer Unmetered server and DDoS protection at low price! #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # - Please visit our website https://layerhost.com              #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # - Any questions? Inquiry ?                                    #
+Nov 15 23:55:00 *	- #  - support : support@layerhost.com                            #
+Nov 15 23:55:00 *	- #  - sales: sales@layerhost.com                                 #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # or by phone : +1-833-247-HOST (4678)                          #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # - Follow us on IRC Channel #LayerHost                         #
+Nov 15 23:55:00 *	- # - Follow us on FACEBOOK!                                      #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- # https://www.facebook.com/LayerHost-455322638276975            #
+Nov 15 23:55:00 *	- #                                                               #
+Nov 15 23:55:00 *	- #################################################################
+Nov 15 23:55:00 *	- #################################################################
+Nov 15 23:55:00 *	- 
+Nov 15 23:55:00 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 15 23:55:00 *	End of /MOTD command.
+Nov 15 23:55:00 *	on 1 ca 1(4) ft 10(10)
+Nov 15 23:55:01 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 15 23:55:01 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 15 23:55:32 *	oni :No such channel
+**** ENDING LOGGING AT Wed Nov 15 23:58:02 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 23:58:35 2023
+
+Nov 15 23:58:35 *	Welcome to the UnderNet IRC Network, oni
+Nov 15 23:58:35 *	Your host is dallas.tx.us.undernet.org, running version u2.10.12.19
+Nov 15 23:58:35 *	This server was created Wed Apr 17 2019 at 07:48:51 EDT
+Nov 15 23:58:35 *	dallas.tx.us.undernet.org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 15 23:58:35 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 15 23:58:35 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 15 23:58:35 *	There are 4005 users and 12368 invisible on 37 servers
+Nov 15 23:58:35 *	50 :operator(s) online
+Nov 15 23:58:35 *	21 :unknown connection(s)
+Nov 15 23:58:35 *	5714 :channels formed
+Nov 15 23:58:35 *	I have 1655 clients and 1 servers
+Nov 15 23:58:35 *	Highest connection count: 2108 (2107 clients)
+Nov 15 23:58:35 *	- dallas.tx.us.undernet.org Message of the Day - 
+Nov 15 23:58:35 *	- 2020-7-26 10:38
+Nov 15 23:58:35 *	- SPONSORED BY
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- 8888888b.   .d8888b. Y88b   d88P  .d8888b.  888    888 8888888888P
+Nov 15 23:58:35 *	- 888   Y88b d88P  Y88b Y88b d88P  d88P  Y88b 888    888       d88P
+Nov 15 23:58:35 *	- 888    888 Y88b.       Y88o88P   888    888 888    888      d88P
+Nov 15 23:58:35 *	- 888   d88P  "Y888b.     Y888P    888        8888888888     d88P
+Nov 15 23:58:35 *	- 8888888P"      "Y88b.    888     888        888    888    d88P
+Nov 15 23:58:35 *	- 888              "888    888     888    888 888    888   d88P
+Nov 15 23:58:35 *	- 888        Y88b  d88P    888     Y88b  d88P 888    888  d88P
+Nov 15 23:58:35 *	- 888         "Y8888P"     888      "Y8888P"  888    888 d8888888888
+Nov 15 23:58:35 *	-                           NETWORKS
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- Dedicated / Colocation Solutions / Private Cloud and MORE
+Nov 15 23:58:35 *	-               Website: https://www.psychz.net/
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- The use of this server & network is a privilege,not a right.
+Nov 15 23:58:35 *	- The network operators may deny network access to anyone,
+Nov 15 23:58:35 *	- for any reason,at their sole discretion.
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- -= Welcome to dallas.tx.us.undernet.org =-
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- ########### Network Info ##############
+Nov 15 23:58:35 *	-             WEBSITES
+Nov 15 23:58:35 *	- o Official Website: http://www.undernet.org
+Nov 15 23:58:35 *	- o Users Committee: http://www.user-com.undernet.org/
+Nov 15 23:58:35 *	- o Channel Services: http://cservice.undernet.org
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- ########## Useful Channels ############
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	-      #Psychz : Our sponsor channel.
+Nov 15 23:58:35 *	-      #CService : Official X Help Channel
+Nov 15 23:58:35 *	-      #Userguide : For General IRC Questions
+Nov 15 23:58:35 *	-      #Usernames : Usernames Help Channel
+Nov 15 23:58:35 *	-      #Help : General IRC Questions / IRC Operator Assistance
+Nov 15 23:58:35 *	-      #Undernet : User-Com Chat Channel
+Nov 15 23:58:35 *	-      #ircayuda : Spanish help channel
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	-      For Information regarding G-Lines / K-lines email abuse@undernet.org
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- ############ Server Guidelines ###########
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 *	- o No flooding channels, users, staff members, or spamming.
+Nov 15 23:58:35 *	- o No distribution of copyrighted material or pornography.
+Nov 15 23:58:35 *	- o No clones.
+Nov 15 23:58:35 *	- o No channel takeovers.
+Nov 15 23:58:35 *	- o No attempts to disrupt network services.
+Nov 15 23:58:35 *	- o No spamming and/or advertising.
+Nov 15 23:58:35 *	- o No advertising other IRC networks
+Nov 15 23:58:35 *	- 
+Nov 15 23:58:35 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 15 23:58:35 *	End of /MOTD command.
+Nov 15 23:58:35 *	on 1 ca 1(4) ft 10(10)
+Nov 15 23:58:36 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 15 23:58:36 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 16 00:00:13 *	oni.users.undernet.org :is now your hidden host
+Nov 16 00:00:13 *	oni sets mode +x on oni
+**** ENDING LOGGING AT Thu Nov 16 00:04:30 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 00:16:26 2023
+
+Nov 16 00:16:26 *	Welcome to the UnderNet IRC Network, oni
+Nov 16 00:16:26 *	Your host is Miami.FL.US.Undernet.Org, running version u2.10.12.19
+Nov 16 00:16:26 *	This server was created Fri Jan 14 2022 at 21:39:44 EST
+Nov 16 00:16:26 *	Miami.FL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 16 00:16:26 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 16 00:16:26 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 16 00:16:26 *	There are 3974 users and 12358 invisible on 37 servers
+Nov 16 00:16:26 *	50 :operator(s) online
+Nov 16 00:16:26 *	14 :unknown connection(s)
+Nov 16 00:16:26 *	5705 :channels formed
+Nov 16 00:16:26 *	I have 800 clients and 1 servers
+Nov 16 00:16:26 *	Highest connection count: 906 (905 clients)
+Nov 16 00:16:26 *	- Miami.FL.US.Undernet.Org Message of the Day - 
+Nov 16 00:16:26 *	- 2022-8-20 12:48
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-         Miami.FL.US.Undernet.Org SPONSORED BY
+Nov 16 00:16:26 *	-         .%%.......%%%%...%%%%%%..%%%%%%..%%%%%%..%%..%%..%%%%%...%%%%%%.
+Nov 16 00:16:26 *	-         .%%......%%..%%....%%......%%......%%....%%..%%..%%..%%..%%.....
+Nov 16 00:16:26 *	-         .%%......%%%%%%....%%......%%......%%....%%..%%..%%..%%..%%%%...
+Nov 16 00:16:26 *	-         .%%......%%..%%....%%......%%......%%....%%..%%..%%..%%..%%.....
+Nov 16 00:16:26 *	-         .%%%%%%..%%..%%....%%....%%%%%%....%%.....%%%%...%%%%%...%%%%%%.SH
+Nov 16 00:16:26 *	-         ................................................................
+Nov 16 00:16:26 *	-             - Dedicated Server / DDoS Protection / Cloud and MORE -
+Nov 16 00:16:26 *	-                             - www.latitude.sh -
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-  Latitude.sh are a technology company committed to serving other companies with 
+Nov 16 00:16:26 *	-  cutting-edge internet infrastructure products that helps make the internet 
+Nov 16 00:16:26 *	-  faster and safer. Companies of all sizes use our platform to run their 
+Nov 16 00:16:26 *	-  applications and manage their business.
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-  latitude provides powerful, rock-solid hardware and a software platform that 
+Nov 16 00:16:26 *	-  delivers huge amounts of processing power and low latency at an unmatched level
+Nov 16 00:16:26 *	-  of automation. We enable our clients to scale their systems as new needs arise,
+Nov 16 00:16:26 *	-  always keeping in mind that our priority is to help them grow their businesses 
+Nov 16 00:16:26 *	-  so that we can grow ours.
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-  That is why we only hire the very best people to operate our servers and to 
+Nov 16 00:16:26 *	-  serve our customers. We work with dedicated teams to maximize our clients IT 
+Nov 16 00:16:26 *	-  workloads, from initial setup to every minute moving forward. And even though 
+Nov 16 00:16:26 *	-  our automation gives peace of mind to our clients, we make sure its always easy
+Nov 16 00:16:26 *	-  to talk to someone.
+Nov 16 00:16:26 *	-  
+Nov 16 00:16:26 *	-  -------- Disclaimer -----------------------------------------------------
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-      The use of this server & network is a privilege, not a right.
+Nov 16 00:16:26 *	-      The network operators may deny network access to anyone,
+Nov 16 00:16:26 *	-      for any reason, at their sole discretion.
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-  -------- Server Guidelines ----------------------------------------------
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-     o No flooding channels, users, staff members, or spamming.
+Nov 16 00:16:26 *	-     o No distribution of copyrighted material or pornography.
+Nov 16 00:16:26 *	-     o No clones.
+Nov 16 00:16:26 *	-     o No channel takeovers.
+Nov 16 00:16:26 *	-     o No attempts to disrupt network services.
+Nov 16 00:16:26 *	-     o No spamming and/or advertising.
+Nov 16 00:16:26 *	-     o No advertising other IRC networks
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-  -------- Useful Channels ------------------------------------------------
+Nov 16 00:16:26 *	-  
+Nov 16 00:16:26 *	-      #latitude	: Our sponsor channel
+Nov 16 00:16:26 *	-      #CService	: Official X Help Channel
+Nov 16 00:16:26 *	-      #Usernames : Usernames Help Channel
+Nov 16 00:16:26 *	-      #Help	: General IRC Questions / IRC Operator Assistance
+Nov 16 00:16:26 *	-      #Undernet	: User-Com Chat Channel
+Nov 16 00:16:26 *	-      #zT	: Help relating opless channel.
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-      For Information regarding G-Lines / K-lines email abuse@undernet.org
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-  -------- Useful Website ------------------------------------------------
+Nov 16 00:16:26 *	- 
+Nov 16 00:16:26 *	-    o Official Website: http://www.undernet.org
+Nov 16 00:16:26 *	-    o Users Committee: http://www.user-com.undernet.org/
+Nov 16 00:16:26 *	-    o Channel Services: http://cservice.undernet.org
+Nov 16 00:16:26 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 16 00:16:26 *	End of /MOTD command.
+Nov 16 00:16:26 *	on 1 ca 1(4) ft 10(10)
+Nov 16 00:16:27 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 16 00:16:27 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 16 00:17:17 *	oni.users.undernet.org :is now your hidden host
+Nov 16 00:17:17 *	oni sets mode +x on oni
+Nov 16 00:41:35 Perl interface unloaded
+**** ENDING LOGGING AT Thu Nov 16 00:41:35 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 13:37:59 2023
+
+Nov 16 13:37:59 *	Welcome to the UnderNet IRC Network, oni
+Nov 16 13:37:59 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Nov 16 13:37:59 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Nov 16 13:37:59 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 16 13:37:59 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 16 13:37:59 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 16 13:37:59 *	There are 4249 users and 12546 invisible on 37 servers
+Nov 16 13:37:59 *	51 :operator(s) online
+Nov 16 13:37:59 *	17 :unknown connection(s)
+Nov 16 13:37:59 *	5757 :channels formed
+Nov 16 13:37:59 *	I have 598 clients and 1 servers
+Nov 16 13:37:59 *	Highest connection count: 1794 (1793 clients)
+Nov 16 13:37:59 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 16 13:37:59 *	MOTD File is missing
+Nov 16 13:37:59 *	on 1 ca 1(4) ft 10(10)
+Nov 16 13:38:00 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 16 13:38:00 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 16 13:38:40 *	oni.users.undernet.org :is now your hidden host
+Nov 16 13:38:40 *	oni sets mode +x on oni
+**** ENDING LOGGING AT Thu Nov 16 14:12:58 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:12:58 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:13:15 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:13:15 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:13:50 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:13:50 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:14:21 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:14:21 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:15:12 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:15:12 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:17:51 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:17:51 2023
+
+Nov 16 14:27:02 Perl interface unloaded
+**** ENDING LOGGING AT Thu Nov 16 14:27:02 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 01:41:43 2023
+
+Nov 17 01:41:43 *	Welcome to the UnderNet IRC Network, oni
+Nov 17 01:41:43 *	Your host is dallas.tx.us.undernet.org, running version u2.10.12.19
+Nov 17 01:41:43 *	This server was created Wed Apr 17 2019 at 07:48:51 EDT
+Nov 17 01:41:43 *	dallas.tx.us.undernet.org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 17 01:41:43 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 17 01:41:43 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 17 01:41:43 *	There are 3971 users and 12349 invisible on 37 servers
+Nov 17 01:41:43 *	47 :operator(s) online
+Nov 17 01:41:43 *	15 :unknown connection(s)
+Nov 17 01:41:43 *	5698 :channels formed
+Nov 17 01:41:43 *	I have 1653 clients and 1 servers
+Nov 17 01:41:43 *	Highest connection count: 2108 (2107 clients)
+Nov 17 01:41:43 *	- dallas.tx.us.undernet.org Message of the Day - 
+Nov 17 01:41:43 *	- 2020-7-26 10:38
+Nov 17 01:41:43 *	- SPONSORED BY
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- 8888888b.   .d8888b. Y88b   d88P  .d8888b.  888    888 8888888888P
+Nov 17 01:41:43 *	- 888   Y88b d88P  Y88b Y88b d88P  d88P  Y88b 888    888       d88P
+Nov 17 01:41:43 *	- 888    888 Y88b.       Y88o88P   888    888 888    888      d88P
+Nov 17 01:41:43 *	- 888   d88P  "Y888b.     Y888P    888        8888888888     d88P
+Nov 17 01:41:43 *	- 8888888P"      "Y88b.    888     888        888    888    d88P
+Nov 17 01:41:43 *	- 888              "888    888     888    888 888    888   d88P
+Nov 17 01:41:43 *	- 888        Y88b  d88P    888     Y88b  d88P 888    888  d88P
+Nov 17 01:41:43 *	- 888         "Y8888P"     888      "Y8888P"  888    888 d8888888888
+Nov 17 01:41:43 *	-                           NETWORKS
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- Dedicated / Colocation Solutions / Private Cloud and MORE
+Nov 17 01:41:43 *	-               Website: https://www.psychz.net/
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- The use of this server & network is a privilege,not a right.
+Nov 17 01:41:43 *	- The network operators may deny network access to anyone,
+Nov 17 01:41:43 *	- for any reason,at their sole discretion.
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- -= Welcome to dallas.tx.us.undernet.org =-
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- ########### Network Info ##############
+Nov 17 01:41:43 *	-             WEBSITES
+Nov 17 01:41:43 *	- o Official Website: http://www.undernet.org
+Nov 17 01:41:43 *	- o Users Committee: http://www.user-com.undernet.org/
+Nov 17 01:41:43 *	- o Channel Services: http://cservice.undernet.org
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- ########## Useful Channels ############
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	-      #Psychz : Our sponsor channel.
+Nov 17 01:41:43 *	-      #CService : Official X Help Channel
+Nov 17 01:41:43 *	-      #Userguide : For General IRC Questions
+Nov 17 01:41:43 *	-      #Usernames : Usernames Help Channel
+Nov 17 01:41:43 *	-      #Help : General IRC Questions / IRC Operator Assistance
+Nov 17 01:41:43 *	-      #Undernet : User-Com Chat Channel
+Nov 17 01:41:43 *	-      #ircayuda : Spanish help channel
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	-      For Information regarding G-Lines / K-lines email abuse@undernet.org
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- ############ Server Guidelines ###########
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 *	- o No flooding channels, users, staff members, or spamming.
+Nov 17 01:41:43 *	- o No distribution of copyrighted material or pornography.
+Nov 17 01:41:43 *	- o No clones.
+Nov 17 01:41:43 *	- o No channel takeovers.
+Nov 17 01:41:43 *	- o No attempts to disrupt network services.
+Nov 17 01:41:43 *	- o No spamming and/or advertising.
+Nov 17 01:41:43 *	- o No advertising other IRC networks
+Nov 17 01:41:43 *	- 
+Nov 17 01:41:43 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 17 01:41:43 *	End of /MOTD command.
+Nov 17 01:41:43 *	on 1 ca 1(4) ft 10(10)
+Nov 17 01:41:43 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 17 01:41:43 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 17 01:42:21 *	oni.users.undernet.org :is now your hidden host
+Nov 17 01:42:21 *	oni sets mode +x on oni
+Nov 17 01:48:27 Perl interface unloaded
+**** ENDING LOGGING AT Fri Nov 17 01:48:27 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 01:48:41 2023
+
+Nov 17 01:48:41 *	Welcome to the UnderNet IRC Network, oni
+Nov 17 01:48:41 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Nov 17 01:48:41 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Nov 17 01:48:41 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 17 01:48:41 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 17 01:48:41 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 17 01:48:41 *	There are 3969 users and 12337 invisible on 37 servers
+Nov 17 01:48:41 *	47 :operator(s) online
+Nov 17 01:48:41 *	20 :unknown connection(s)
+Nov 17 01:48:41 *	5700 :channels formed
+Nov 17 01:48:41 *	I have 571 clients and 1 servers
+Nov 17 01:48:41 *	Highest connection count: 1794 (1793 clients)
+Nov 17 01:48:41 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 17 01:48:41 *	MOTD File is missing
+Nov 17 01:48:41 *	on 1 ca 1(4) ft 10(10)
+Nov 17 01:48:41 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 17 01:48:41 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 17 01:50:17 *	oni.users.undernet.org :is now your hidden host
+**** ENDING LOGGING AT Fri Nov 17 01:51:27 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 21:12:35 2023
+
+Nov 17 21:12:35 *	Welcome to the UnderNet IRC Network, oni
+Nov 17 21:12:35 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Nov 17 21:12:35 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Nov 17 21:12:35 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 17 21:12:35 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 17 21:12:35 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 17 21:12:35 *	There are 4116 users and 12450 invisible on 37 servers
+Nov 17 21:12:35 *	49 :operator(s) online
+Nov 17 21:12:35 *	14 :unknown connection(s)
+Nov 17 21:12:35 *	5749 :channels formed
+Nov 17 21:12:35 *	I have 736 clients and 1 servers
+Nov 17 21:12:35 *	Highest connection count: 1794 (1793 clients)
+Nov 17 21:12:35 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 17 21:12:35 *	MOTD File is missing
+Nov 17 21:12:35 *	on 1 ca 1(4) ft 10(10)
+Nov 17 21:12:35 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 17 21:12:35 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 17 21:13:56 *	oni.users.undernet.org :is now your hidden host
+Nov 17 21:13:56 *	oni sets mode +x on oni
+**** ENDING LOGGING AT Fri Nov 17 21:41:03 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 21:41:03 2023
+
+Nov 18 01:14:49 Perl interface unloaded
+**** ENDING LOGGING AT Sat Nov 18 01:14:49 2023
+
+**** BEGIN LOGGING AT Sun Nov 19 00:07:04 2023
+
+Nov 19 00:07:04 *	Welcome to the UnderNet IRC Network, oni
+Nov 19 00:07:04 *	Your host is dallas.tx.us.undernet.org, running version u2.10.12.19
+Nov 19 00:07:04 *	This server was created Wed Apr 17 2019 at 07:48:51 EDT
+Nov 19 00:07:04 *	dallas.tx.us.undernet.org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 19 00:07:04 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 19 00:07:04 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 19 00:07:04 *	There are 4145 users and 12487 invisible on 37 servers
+Nov 19 00:07:04 *	51 :operator(s) online
+Nov 19 00:07:04 *	15 :unknown connection(s)
+Nov 19 00:07:04 *	5736 :channels formed
+Nov 19 00:07:04 *	I have 1524 clients and 1 servers
+Nov 19 00:07:04 *	Highest connection count: 2108 (2107 clients)
+Nov 19 00:07:04 *	- dallas.tx.us.undernet.org Message of the Day - 
+Nov 19 00:07:04 *	- 2020-7-26 10:38
+Nov 19 00:07:04 *	- SPONSORED BY
+Nov 19 00:07:04 *	- 
+Nov 19 00:07:04 *	- 8888888b.   .d8888b. Y88b   d88P  .d8888b.  888    888 8888888888P
+Nov 19 00:07:04 *	- 888   Y88b d88P  Y88b Y88b d88P  d88P  Y88b 888    888       d88P
+Nov 19 00:07:04 *	- 888    888 Y88b.       Y88o88P   888    888 888    888      d88P
+Nov 19 00:07:04 *	- 888   d88P  "Y888b.     Y888P    888        8888888888     d88P
+Nov 19 00:07:04 *	- 8888888P"      "Y88b.    888     888        888    888    d88P
+Nov 19 00:07:04 *	- 888              "888    888     888    888 888    888   d88P
+Nov 19 00:07:05 *	- 888        Y88b  d88P    888     Y88b  d88P 888    888  d88P
+Nov 19 00:07:05 *	- 888         "Y8888P"     888      "Y8888P"  888    888 d8888888888
+Nov 19 00:07:05 *	-                           NETWORKS
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	- Dedicated / Colocation Solutions / Private Cloud and MORE
+Nov 19 00:07:05 *	-               Website: https://www.psychz.net/
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	- The use of this server & network is a privilege,not a right.
+Nov 19 00:07:05 *	- The network operators may deny network access to anyone,
+Nov 19 00:07:05 *	- for any reason,at their sole discretion.
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	- -= Welcome to dallas.tx.us.undernet.org =-
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	- ########### Network Info ##############
+Nov 19 00:07:05 *	-             WEBSITES
+Nov 19 00:07:05 *	- o Official Website: http://www.undernet.org
+Nov 19 00:07:05 *	- o Users Committee: http://www.user-com.undernet.org/
+Nov 19 00:07:05 *	- o Channel Services: http://cservice.undernet.org
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	- ########## Useful Channels ############
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	-      #Psychz : Our sponsor channel.
+Nov 19 00:07:05 *	-      #CService : Official X Help Channel
+Nov 19 00:07:05 *	-      #Userguide : For General IRC Questions
+Nov 19 00:07:05 *	-      #Usernames : Usernames Help Channel
+Nov 19 00:07:05 *	-      #Help : General IRC Questions / IRC Operator Assistance
+Nov 19 00:07:05 *	-      #Undernet : User-Com Chat Channel
+Nov 19 00:07:05 *	-      #ircayuda : Spanish help channel
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	-      For Information regarding G-Lines / K-lines email abuse@undernet.org
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	- ############ Server Guidelines ###########
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 *	- o No flooding channels, users, staff members, or spamming.
+Nov 19 00:07:05 *	- o No distribution of copyrighted material or pornography.
+Nov 19 00:07:05 *	- o No clones.
+Nov 19 00:07:05 *	- o No channel takeovers.
+Nov 19 00:07:05 *	- o No attempts to disrupt network services.
+Nov 19 00:07:05 *	- o No spamming and/or advertising.
+Nov 19 00:07:05 *	- o No advertising other IRC networks
+Nov 19 00:07:05 *	- 
+Nov 19 00:07:05 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 19 00:07:05 *	End of /MOTD command.
+Nov 19 00:07:05 *	on 1 ca 1(4) ft 10(10)
+Nov 19 00:07:06 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 19 00:07:06 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 19 00:07:46 *	oni.users.undernet.org :is now your hidden host
+Nov 19 00:07:46 *	oni sets mode +x on oni
+**** ENDING LOGGING AT Sun Nov 19 00:10:34 2023
+
+**** BEGIN LOGGING AT Sun Nov 19 00:10:34 2023
+
+Nov 19 01:49:52 Perl interface unloaded
+**** ENDING LOGGING AT Sun Nov 19 01:49:52 2023
+
+**** BEGIN LOGGING AT Sun Nov 19 23:20:30 2023
+
+Nov 19 23:20:30 *	Welcome to the UnderNet IRC Network, oni
+Nov 19 23:20:30 *	Your host is Pipera.RO.EU.Undernet.Org, running version u2.10.12.19
+Nov 19 23:20:30 *	This server was created Fri Mar 22 2019 at 14:17:38 EET
+Nov 19 23:20:30 *	Pipera.RO.EU.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 19 23:20:30 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=50 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 19 23:20:30 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 19 23:20:30 *	There are 4104 users and 12503 invisible on 37 servers
+Nov 19 23:20:30 *	51 :operator(s) online
+Nov 19 23:20:30 *	8 :unknown connection(s)
+Nov 19 23:20:31 *	5760 :channels formed
+Nov 19 23:20:31 *	I have 3146 clients and 1 servers
+Nov 19 23:20:31 *	Highest connection count: 3379 (3378 clients)
+Nov 19 23:20:31 *	- Pipera.RO.EU.Undernet.Org Message of the Day - 
+Nov 19 23:20:31 *	- 2021-5-9 18:12
+Nov 19 23:20:31 *	- 	             ***
+Nov 19 23:20:31 *	- 	            * //*
+Nov 19 23:20:31 *	- 	             //*
+Nov 19 23:20:31 *	- 	   **       **/|      **
+Nov 19 23:20:31 *	- 	 ************//***********
+Nov 19 23:20:31 *	- 	 ***********//************
+Nov 19 23:20:31 *	- 	   **      |/**       **
+Nov 19 23:20:31 *	- 	            **/|
+Nov 19 23:20:31 *	- 	            *//
+Nov 19 23:20:31 *	- 	            //*
+Nov 19 23:20:31 *	- 	           |/**
+Nov 19 23:20:31 *	- 	            **/|
+Nov 19 23:20:32 *	- 	***         *//         ***
+Nov 19 23:20:32 *	- 	 *****      //*      *****
+Nov 19 23:20:32 *	- 	  *******  |/**   *******
+Nov 19 23:20:32 *	- 	       *************
+Nov 19 23:20:32 *	- 	          *******
+Nov 19 23:20:32 *	- 	             *
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	-  _   _           _     ____        _ _
+Nov 19 23:20:32 *	- | | | | ___  ___| |_  / ___|  __ _(_) | ___  _ __
+Nov 19 23:20:32 *	- | |_| |/ _ \/ __| __| \___ \ / _` | | |/ _ \| '__|
+Nov 19 23:20:32 *	- |  _  | (_) \__ \ |_   ___) | (_| | | | (_) | |
+Nov 19 23:20:32 *	- |_| |_|\___/|___/\__| |____/ \__,_|_|_|\___/|_|
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- [ Web Hosting, Dedicated, Managed, VPS & Shared Hosting ]
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	-                       Visit us at,
+Nov 19 23:20:32 *	-              -= https://www.hostsailor.com =-
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- [ Your Host: Pipera.RO.EU.Undernet.org ]
+Nov 19 23:20:32 *	- [ Operating Since: August 27 2018 ]
+Nov 19 23:20:32 *	- [ IPv4: ircu.hostsailor.com ]
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- [ Server usage Policy ]
+Nov 19 23:20:32 *	- [ no clones/drones ] [ no spamming] [ no flooding ]
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- HostSailor can refuse access to anyone using this server
+Nov 19 23:20:32 *	- at any time and without any notice.
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- By using this server you agree to the terms above and also
+Nov 19 23:20:32 *	- are bound by the terms stated in Undernet's Acceptable use
+Nov 19 23:20:32 *	- Policy, which can be viewed at:
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- http://www.undernet.org/aup.php
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- [ Server Information ]
+Nov 19 23:20:32 *	- [ Ports: 6660-6669, 7000 - open for client connections ]
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- For K-Lines: use the /ADMIN command for more information &
+Nov 19 23:20:32 *	- to request a removal.
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- For G-Lines: please e-mail abuse@undernet.org
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- [ Helpful IRC channels ]
+Nov 19 23:20:32 *	- #hostsailor : Official Channel of this server
+Nov 19 23:20:32 *	- #CService : Official X Bot help channel
+Nov 19 23:20:32 *	- #usernames : For help related to usernames
+Nov 19 23:20:32 *	- #help and #userguide : For general IRC related questions
+Nov 19 23:20:32 *	- #vh  : For help with virus/trojan infections
+Nov 19 23:20:32 *	- #zT : For help with takeovers & unregistered channels
+Nov 19 23:20:32 *	- #class : Undernet User Committee's Class Project
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- [ Web-Links ]
+Nov 19 23:20:32 *	- Undernet Official Website: http://www.undernet.org
+Nov 19 23:20:32 *	- Channel Services: http://cservice.undernet.org
+Nov 19 23:20:32 *	- Op-School: https://cservice.undernet.org/main/opschool/
+Nov 19 23:20:32 *	- Users Committee: http://www.user-com.undernet.org/
+Nov 19 23:20:32 *	- #class Project: http://class-undernet.org
+Nov 19 23:20:32 *	- 
+Nov 19 23:20:32 *	- This server is sponsored and hosted by HostSailor WebHosting Solutions 
+Nov 19 23:20:32 *	- https://www.hostsailor.com
+Nov 19 23:20:32 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 19 23:20:32 *	End of /MOTD command.
+Nov 19 23:20:32 *	on 1 ca 1(4) ft 10(10)
+Nov 19 23:20:33 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 19 23:20:33 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 19 23:20:53 *	oni.users.undernet.org :is now your hidden host
+Nov 19 23:20:53 *	oni sets mode +x on oni
+Nov 20 00:55:00 Perl interface unloaded
+**** ENDING LOGGING AT Mon Nov 20 00:55:00 2023
+
+**** BEGIN LOGGING AT Mon Nov 20 22:04:57 2023
+
+Nov 20 22:04:57 *	Welcome to the UnderNet IRC Network, oni
+Nov 20 22:04:57 *	Your host is Pipera.RO.EU.Undernet.Org, running version u2.10.12.19
+Nov 20 22:04:57 *	This server was created Fri Mar 22 2019 at 14:17:38 EET
+Nov 20 22:04:57 *	Pipera.RO.EU.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 20 22:04:57 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=50 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 20 22:04:57 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 20 22:04:57 *	There are 4046 users and 10578 invisible on 37 servers
+Nov 20 22:04:57 *	53 :operator(s) online
+Nov 20 22:04:57 *	11 :unknown connection(s)
+Nov 20 22:04:57 *	5742 :channels formed
+Nov 20 22:04:57 *	I have 2901 clients and 1 servers
+Nov 20 22:04:57 *	Highest connection count: 3379 (3378 clients)
+Nov 20 22:04:57 *	- Pipera.RO.EU.Undernet.Org Message of the Day - 
+Nov 20 22:04:58 *	- 2021-5-9 18:12
+Nov 20 22:04:58 *	- 	             ***
+Nov 20 22:04:58 *	- 	            * //*
+Nov 20 22:04:58 *	- 	             //*
+Nov 20 22:04:58 *	- 	   **       **/|      **
+Nov 20 22:04:58 *	- 	 ************//***********
+Nov 20 22:04:58 *	- 	 ***********//************
+Nov 20 22:04:58 *	- 	   **      |/**       **
+Nov 20 22:04:58 *	- 	            **/|
+Nov 20 22:04:58 *	- 	            *//
+Nov 20 22:04:58 *	- 	            //*
+Nov 20 22:04:58 *	- 	           |/**
+Nov 20 22:04:58 *	- 	            **/|
+Nov 20 22:04:59 *	- 	***         *//         ***
+Nov 20 22:04:59 *	- 	 *****      //*      *****
+Nov 20 22:04:59 *	- 	  *******  |/**   *******
+Nov 20 22:04:59 *	- 	       *************
+Nov 20 22:04:59 *	- 	          *******
+Nov 20 22:04:59 *	- 	             *
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	-  _   _           _     ____        _ _
+Nov 20 22:04:59 *	- | | | | ___  ___| |_  / ___|  __ _(_) | ___  _ __
+Nov 20 22:04:59 *	- | |_| |/ _ \/ __| __| \___ \ / _` | | |/ _ \| '__|
+Nov 20 22:04:59 *	- |  _  | (_) \__ \ |_   ___) | (_| | | | (_) | |
+Nov 20 22:04:59 *	- |_| |_|\___/|___/\__| |____/ \__,_|_|_|\___/|_|
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- [ Web Hosting, Dedicated, Managed, VPS & Shared Hosting ]
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	-                       Visit us at,
+Nov 20 22:04:59 *	-              -= https://www.hostsailor.com =-
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- [ Your Host: Pipera.RO.EU.Undernet.org ]
+Nov 20 22:04:59 *	- [ Operating Since: August 27 2018 ]
+Nov 20 22:04:59 *	- [ IPv4: ircu.hostsailor.com ]
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- [ Server usage Policy ]
+Nov 20 22:04:59 *	- [ no clones/drones ] [ no spamming] [ no flooding ]
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- HostSailor can refuse access to anyone using this server
+Nov 20 22:04:59 *	- at any time and without any notice.
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- By using this server you agree to the terms above and also
+Nov 20 22:04:59 *	- are bound by the terms stated in Undernet's Acceptable use
+Nov 20 22:04:59 *	- Policy, which can be viewed at:
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- http://www.undernet.org/aup.php
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- [ Server Information ]
+Nov 20 22:04:59 *	- [ Ports: 6660-6669, 7000 - open for client connections ]
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- For K-Lines: use the /ADMIN command for more information &
+Nov 20 22:04:59 *	- to request a removal.
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- For G-Lines: please e-mail abuse@undernet.org
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- [ Helpful IRC channels ]
+Nov 20 22:04:59 *	- #hostsailor : Official Channel of this server
+Nov 20 22:04:59 *	- #CService : Official X Bot help channel
+Nov 20 22:04:59 *	- #usernames : For help related to usernames
+Nov 20 22:04:59 *	- #help and #userguide : For general IRC related questions
+Nov 20 22:04:59 *	- #vh  : For help with virus/trojan infections
+Nov 20 22:04:59 *	- #zT : For help with takeovers & unregistered channels
+Nov 20 22:04:59 *	- #class : Undernet User Committee's Class Project
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- [ Web-Links ]
+Nov 20 22:04:59 *	- Undernet Official Website: http://www.undernet.org
+Nov 20 22:04:59 *	- Channel Services: http://cservice.undernet.org
+Nov 20 22:04:59 *	- Op-School: https://cservice.undernet.org/main/opschool/
+Nov 20 22:04:59 *	- Users Committee: http://www.user-com.undernet.org/
+Nov 20 22:04:59 *	- #class Project: http://class-undernet.org
+Nov 20 22:04:59 *	- 
+Nov 20 22:04:59 *	- This server is sponsored and hosted by HostSailor WebHosting Solutions 
+Nov 20 22:04:59 *	- https://www.hostsailor.com
+Nov 20 22:04:59 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 20 22:04:59 *	End of /MOTD command.
+Nov 20 22:04:59 *	on 1 ca 1(4) ft 10(10)
+Nov 20 22:05:00 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 20 22:05:00 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 20 22:05:26 *	oni.users.undernet.org :is now your hidden host
+Nov 20 22:05:26 *	oni sets mode +x on oni
+Nov 20 22:44:22 Perl interface unloaded
+**** ENDING LOGGING AT Mon Nov 20 22:44:22 2023
+
+**** BEGIN LOGGING AT Mon Nov 20 22:47:02 2023
+
+Nov 20 22:47:02 *	Welcome to the UnderNet IRC Network, oni
+Nov 20 22:47:02 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Nov 20 22:47:02 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Nov 20 22:47:02 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 20 22:47:02 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 20 22:47:02 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 20 22:47:02 *	There are 4062 users and 10599 invisible on 37 servers
+Nov 20 22:47:02 *	53 :operator(s) online
+Nov 20 22:47:02 *	10 :unknown connection(s)
+Nov 20 22:47:03 *	5742 :channels formed
+Nov 20 22:47:03 *	I have 740 clients and 1 servers
+Nov 20 22:47:03 *	Highest connection count: 1794 (1793 clients)
+Nov 20 22:47:03 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 20 22:47:03 *	MOTD File is missing
+Nov 20 22:47:03 *	on 1 ca 1(4) ft 10(10)
+Nov 20 22:47:03 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 20 22:47:03 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 20 22:47:35 *	oni.users.undernet.org :is now your hidden host
+Nov 20 22:47:35 *	oni sets mode +x on oni
+Nov 20 23:58:43 Perl interface unloaded
+**** ENDING LOGGING AT Mon Nov 20 23:58:43 2023
+
+**** BEGIN LOGGING AT Wed Nov 22 22:10:07 2023
+
+Nov 22 22:10:07 *	Welcome to the UnderNet IRC Network, oni
+Nov 22 22:10:07 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Nov 22 22:10:07 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Nov 22 22:10:07 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Nov 22 22:10:07 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Nov 22 22:10:07 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Nov 22 22:10:07 *	There are 4078 users and 10625 invisible on 37 servers
+Nov 22 22:10:07 *	48 :operator(s) online
+Nov 22 22:10:07 *	22 :unknown connection(s)
+Nov 22 22:10:07 *	5743 :channels formed
+Nov 22 22:10:07 *	I have 879 clients and 1 servers
+Nov 22 22:10:07 *	Highest connection count: 1794 (1793 clients)
+Nov 22 22:10:07 >x@channels.undernet.org<	login oni hYDUywPT
+Nov 22 22:10:07 *	MOTD File is missing
+Nov 22 22:10:07 *	on 1 ca 1(4) ft 10(10)
+Nov 22 22:10:07 -X-	AUTHENTICATION SUCCESSFUL as oni
+Nov 22 22:10:07 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Nov 22 22:11:22 *	oni.users.undernet.org :is now your hidden host
+Nov 22 22:11:22 *	oni sets mode +x on oni
+Nov 23 03:12:01 Perl interface unloaded
+**** ENDING LOGGING AT Thu Nov 23 03:12:01 2023
+
+**** BEGIN LOGGING AT Sat Dec  2 01:03:37 2023
+
+Dec 02 01:03:37 *	Welcome to the UnderNet IRC Network, oni
+Dec 02 01:03:37 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Dec 02 01:03:37 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Dec 02 01:03:37 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Dec 02 01:03:37 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Dec 02 01:03:37 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Dec 02 01:03:37 *	There are 4159 users and 11399 invisible on 37 servers
+Dec 02 01:03:37 *	50 :operator(s) online
+Dec 02 01:03:37 *	13 :unknown connection(s)
+Dec 02 01:03:37 *	5832 :channels formed
+Dec 02 01:03:37 *	I have 1456 clients and 1 servers
+Dec 02 01:03:37 *	Highest connection count: 1794 (1793 clients)
+Dec 02 01:03:37 >x@channels.undernet.org<	login oni hYDUywPT
+Dec 02 01:03:37 *	MOTD File is missing
+Dec 02 01:03:37 *	on 1 ca 1(4) ft 10(10)
+Dec 02 01:03:37 -X-	AUTHENTICATION SUCCESSFUL as oni
+Dec 02 01:03:37 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Dec 02 01:04:02 *	+x :No such channel
+Dec 02 01:04:17 *	oni.users.undernet.org :is now your hidden host
+Dec 02 01:04:17 *	oni sets mode +x on oni
+Dec 02 01:08:00 Perl interface unloaded
+**** ENDING LOGGING AT Sat Dec  2 01:08:00 2023
+
+**** BEGIN LOGGING AT Fri Dec  8 01:54:38 2023
+
+Dec 08 01:54:38 *	Welcome to the UnderNet IRC Network, oni
+Dec 08 01:54:38 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Dec 08 01:54:38 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Dec 08 01:54:38 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Dec 08 01:54:38 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Dec 08 01:54:38 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Dec 08 01:54:38 *	There are 4234 users and 12321 invisible on 37 servers
+Dec 08 01:54:38 *	49 :operator(s) online
+Dec 08 01:54:38 *	17 :unknown connection(s)
+Dec 08 01:54:38 *	5957 :channels formed
+Dec 08 01:54:38 *	I have 1518 clients and 1 servers
+Dec 08 01:54:38 *	Highest connection count: 1794 (1793 clients)
+Dec 08 01:54:38 >x@channels.undernet.org<	login oni hYDUywPT
+Dec 08 01:54:38 *	MOTD File is missing
+Dec 08 01:54:38 *	on 1 ca 1(4) ft 10(10)
+Dec 08 01:54:39 -X-	AUTHENTICATION SUCCESSFUL as oni
+Dec 08 01:54:39 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Dec 08 01:55:06 *	oni.users.undernet.org :is now your hidden host
+Dec 08 01:55:06 *	oni sets mode +x on oni
+Dec 08 03:10:47 Perl interface unloaded
+**** ENDING LOGGING AT Fri Dec  8 03:10:47 2023
+
+**** BEGIN LOGGING AT Mon Dec 18 02:20:20 2023
+
+Dec 18 02:20:20 *	Welcome to the UnderNet IRC Network, oni
+Dec 18 02:20:20 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Dec 18 02:20:20 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Dec 18 02:20:20 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Dec 18 02:20:20 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Dec 18 02:20:20 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Dec 18 02:20:20 *	There are 4190 users and 12333 invisible on 37 servers
+Dec 18 02:20:20 *	48 :operator(s) online
+Dec 18 02:20:20 *	15 :unknown connection(s)
+Dec 18 02:20:20 *	5979 :channels formed
+Dec 18 02:20:20 *	I have 2134 clients and 1 servers
+Dec 18 02:20:20 *	Highest connection count: 2226 (2225 clients)
+Dec 18 02:20:20 >x@channels.undernet.org<	login oni hYDUywPT
+Dec 18 02:20:20 *	MOTD File is missing
+Dec 18 02:20:20 *	on 1 ca 1(4) ft 10(10)
+Dec 18 02:20:20 -X-	AUTHENTICATION SUCCESSFUL as oni
+Dec 18 02:20:20 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Dec 18 02:20:46 *	oni.users.undernet.org :is now your hidden host
+Dec 18 02:20:46 *	oni sets mode +x on oni
+Dec 18 02:27:42 Perl interface unloaded
+**** ENDING LOGGING AT Mon Dec 18 02:27:42 2023
+
+**** BEGIN LOGGING AT Mon Dec 25 02:28:39 2023
+
+Dec 25 02:28:39 *	Welcome to the UnderNet IRC Network, oni
+Dec 25 02:28:39 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Dec 25 02:28:39 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Dec 25 02:28:39 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Dec 25 02:28:39 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Dec 25 02:28:39 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Dec 25 02:28:39 *	There are 4138 users and 12196 invisible on 37 servers
+Dec 25 02:28:39 *	50 :operator(s) online
+Dec 25 02:28:39 *	17 :unknown connection(s)
+Dec 25 02:28:40 *	5938 :channels formed
+Dec 25 02:28:40 *	I have 2139 clients and 1 servers
+Dec 25 02:28:40 *	Highest connection count: 2353 (2352 clients)
+Dec 25 02:28:40 >x@channels.undernet.org<	login oni hYDUywPT
+Dec 25 02:28:40 *	MOTD File is missing
+Dec 25 02:28:40 *	on 1 ca 1(4) ft 10(10)
+Dec 25 02:28:41 -X-	AUTHENTICATION SUCCESSFUL as oni
+Dec 25 02:28:41 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Dec 25 02:29:10 *	oni.users.undernet.org :is now your hidden host
+Dec 25 02:29:10 *	oni sets mode +x on oni
+Dec 25 02:53:18 Perl interface unloaded
+**** ENDING LOGGING AT Mon Dec 25 02:53:18 2023
+
+**** BEGIN LOGGING AT Tue Dec 26 22:47:42 2023
+
+Dec 26 22:47:42 *	Welcome to the UnderNet IRC Network, oni
+Dec 26 22:47:42 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Dec 26 22:47:42 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Dec 26 22:47:42 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Dec 26 22:47:42 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Dec 26 22:47:42 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Dec 26 22:47:42 *	There are 4220 users and 12399 invisible on 37 servers
+Dec 26 22:47:42 *	48 :operator(s) online
+Dec 26 22:47:42 *	16 :unknown connection(s)
+Dec 26 22:47:42 *	5941 :channels formed
+Dec 26 22:47:42 *	I have 2210 clients and 1 servers
+Dec 26 22:47:42 *	Highest connection count: 2353 (2352 clients)
+Dec 26 22:47:42 >x@channels.undernet.org<	login oni hYDUywPT
+Dec 26 22:47:42 *	MOTD File is missing
+Dec 26 22:47:42 *	on 1 ca 1(4) ft 10(10)
+Dec 26 22:47:42 -X-	AUTHENTICATION SUCCESSFUL as oni
+Dec 26 22:47:42 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Dec 26 22:48:09 *	oni.users.undernet.org :is now your hidden host
+Dec 26 22:48:09 *	oni sets mode +x on oni
+Dec 26 23:07:01 Perl interface unloaded
+**** ENDING LOGGING AT Tue Dec 26 23:07:01 2023
+
+**** BEGIN LOGGING AT Fri Feb 23 23:59:42 2024
+
+Feb 23 23:59:42 *	Welcome to the UnderNet IRC Network, oni
+Feb 23 23:59:42 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Feb 23 23:59:42 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Feb 23 23:59:42 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Feb 23 23:59:42 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Feb 23 23:59:42 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Feb 23 23:59:42 *	There are 4406 users and 12722 invisible on 36 servers
+Feb 23 23:59:42 *	48 :operator(s) online
+Feb 23 23:59:42 *	19 :unknown connection(s)
+Feb 23 23:59:42 *	5922 :channels formed
+Feb 23 23:59:42 *	I have 1515 clients and 1 servers
+Feb 23 23:59:42 *	Highest connection count: 2388 (2387 clients)
+Feb 23 23:59:42 >x@channels.undernet.org<	login oni hYDUywPT
+Feb 23 23:59:42 *	MOTD File is missing
+Feb 23 23:59:42 *	on 1 ca 1(4) ft 10(10)
+Feb 23 23:59:42 -X-	AUTHENTICATION SUCCESSFUL as oni
+Feb 23 23:59:42 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Feb 24 00:01:12 *	oni.users.undernet.org :is now your hidden host
+Feb 24 00:01:12 *	oni sets mode +x on oni
+Feb 24 01:22:18 *	No ping reply for 1024 seconds, disconnecting.
+Feb 24 01:22:18 *	Disconnected ()
+Feb 24 01:22:28 *	Looking up chicago.il.us.undernet.org
+Feb 24 01:22:28 *	Connecting to chicago.il.us.undernet.org (2607:8500:154::2:6660)
+Feb 24 01:22:28 *	Connected. Now logging in.
+Feb 24 01:22:28 *	*** Looking up your hostname
+Feb 24 01:22:28 *	*** Checking Ident
+Feb 24 01:22:28 *	*** Found your hostname
+Feb 24 01:22:37 *	*** No ident response
+Feb 24 01:22:59 *	Welcome to the UnderNet IRC Network, oni
+Feb 24 01:22:59 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Feb 24 01:22:59 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Feb 24 01:22:59 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Feb 24 01:22:59 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Feb 24 01:22:59 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Feb 24 01:22:59 *	There are 4395 users and 12658 invisible on 36 servers
+Feb 24 01:22:59 *	48 :operator(s) online
+Feb 24 01:22:59 *	5 :unknown connection(s)
+Feb 24 01:22:59 *	5917 :channels formed
+Feb 24 01:22:59 *	I have 1502 clients and 1 servers
+Feb 24 01:22:59 *	Highest connection count: 2388 (2387 clients)
+Feb 24 01:22:59 *	MOTD File is missing
+Feb 24 01:22:59 *	on 1 ca 1(4) ft 10(10)
+Feb 24 01:36:39 *	No ping reply for 291 seconds, disconnecting.
+Feb 24 01:36:39 *	Disconnected ()
+Feb 24 01:36:49 *	Looking up chicago.il.us.undernet.org
+Feb 24 01:36:49 *	Connecting to chicago.il.us.undernet.org (2607:8500:154::2:6660)
+Feb 24 01:36:50 *	Connected. Now logging in.
+Feb 24 01:36:50 *	*** Looking up your hostname
+Feb 24 01:36:50 *	*** Checking Ident
+Feb 24 01:36:50 *	*** Found your hostname
+Feb 24 01:36:59 *	*** No ident response
+Feb 24 01:37:20 *	Welcome to the UnderNet IRC Network, oni
+Feb 24 01:37:20 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Feb 24 01:37:20 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Feb 24 01:37:20 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Feb 24 01:37:20 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Feb 24 01:37:20 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Feb 24 01:37:20 *	There are 4372 users and 12648 invisible on 36 servers
+Feb 24 01:37:20 *	48 :operator(s) online
+Feb 24 01:37:20 *	12 :unknown connection(s)
+Feb 24 01:37:20 *	5917 :channels formed
+Feb 24 01:37:20 *	I have 1494 clients and 1 servers
+Feb 24 01:37:20 *	Highest connection count: 2388 (2387 clients)
+Feb 24 01:37:20 *	MOTD File is missing
+Feb 24 01:37:20 *	on 1 ca 1(4) ft 10(10) tr
+Feb 24 01:40:39 *	No ping reply for 90 seconds, disconnecting.
+Feb 24 01:40:39 *	Disconnected ()
+Feb 24 01:40:49 *	Looking up chicago.il.us.undernet.org
+Feb 24 01:40:49 *	Connecting to chicago.il.us.undernet.org (2607:8500:154::2:6660)
+Feb 24 01:40:49 *	Connected. Now logging in.
+Feb 24 01:40:49 *	*** Looking up your hostname
+Feb 24 01:40:50 *	*** Checking Ident
+Feb 24 01:40:50 *	*** Couldn't look up your hostname
+Feb 24 01:40:50 *	oni is already in use. Retrying with onikage_00...
+Feb 24 01:40:59 *	*** No ident response
+Feb 24 01:41:10 Perl interface unloaded
+**** ENDING LOGGING AT Sat Feb 24 01:41:10 2024
+
+**** BEGIN LOGGING AT Fri Mar 22 22:16:05 2024
+
+Mar 22 22:16:05 *	Welcome to the UnderNet IRC Network, oni
+Mar 22 22:16:05 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Mar 22 22:16:05 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Mar 22 22:16:05 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Mar 22 22:16:05 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Mar 22 22:16:05 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Mar 22 22:16:05 *	There are 4483 users and 27339 invisible on 36 servers
+Mar 22 22:16:05 *	45 :operator(s) online
+Mar 22 22:16:05 *	14 :unknown connection(s)
+Mar 22 22:16:05 *	5954 :channels formed
+Mar 22 22:16:05 *	I have 3771 clients and 1 servers
+Mar 22 22:16:05 *	Highest connection count: 3988 (3987 clients)
+Mar 22 22:16:05 >x@channels.undernet.org<	login oni hYDUywPT
+Mar 22 22:16:05 *	MOTD File is missing
+Mar 22 22:16:05 *	on 1 ca 1(4) ft 10(10)
+Mar 22 22:16:06 -X-	AUTHENTICATION SUCCESSFUL as oni
+Mar 22 22:16:06 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Mar 22 22:19:19 Perl interface unloaded
+**** ENDING LOGGING AT Fri Mar 22 22:19:19 2024
+
+**** BEGIN LOGGING AT Thu Mar 28 23:02:33 2024
+
+Mar 28 23:02:33 *	Welcome to the UnderNet IRC Network, oni
+Mar 28 23:02:33 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Mar 28 23:02:33 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Mar 28 23:02:33 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Mar 28 23:02:33 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Mar 28 23:02:33 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Mar 28 23:02:33 *	There are 4710 users and 11467 invisible on 36 servers
+Mar 28 23:02:33 *	41 :operator(s) online
+Mar 28 23:02:33 *	11 :unknown connection(s)
+Mar 28 23:02:33 *	5876 :channels formed
+Mar 28 23:02:33 *	I have 1472 clients and 1 servers
+Mar 28 23:02:33 *	Highest connection count: 4810 (4809 clients)
+Mar 28 23:02:33 >x@channels.undernet.org<	login oni hYDUywPT
+Mar 28 23:02:33 *	MOTD File is missing
+Mar 28 23:02:33 *	on 1 ca 1(4) ft 10(10)
+Mar 28 23:02:34 -X-	AUTHENTICATION SUCCESSFUL as oni
+Mar 28 23:02:34 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Mar 28 23:03:08 *	+x :No such channel
+Mar 28 23:03:21 *	oni.users.undernet.org :is now your hidden host
+Mar 28 23:03:21 *	oni sets mode +x on oni
+Mar 28 23:18:53 Perl interface unloaded
+**** ENDING LOGGING AT Thu Mar 28 23:18:53 2024
+
+**** BEGIN LOGGING AT Thu Mar 28 23:45:39 2024
+
+Mar 28 23:45:39 *	Welcome to the UnderNet IRC Network, oni
+Mar 28 23:45:39 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Mar 28 23:45:39 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Mar 28 23:45:39 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Mar 28 23:45:39 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Mar 28 23:45:39 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Mar 28 23:45:39 *	There are 4650 users and 11570 invisible on 36 servers
+Mar 28 23:45:39 *	41 :operator(s) online
+Mar 28 23:45:39 *	14 :unknown connection(s)
+Mar 28 23:45:39 *	5863 :channels formed
+Mar 28 23:45:39 *	I have 1477 clients and 1 servers
+Mar 28 23:45:39 *	Highest connection count: 4810 (4809 clients)
+Mar 28 23:45:39 >x@channels.undernet.org<	login oni hYDUywPT
+Mar 28 23:45:39 *	MOTD File is missing
+Mar 28 23:45:39 *	on 1 ca 1(4) ft 10(10)
+Mar 28 23:45:40 -X-	AUTHENTICATION SUCCESSFUL as oni
+Mar 28 23:45:40 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Mar 28 23:46:24 *	oni.users.undernet.org :is now your hidden host
+Mar 28 23:46:24 *	oni sets mode +x on oni
+Mar 29 02:56:06 Perl interface unloaded
+**** ENDING LOGGING AT Fri Mar 29 02:56:06 2024
+
+**** BEGIN LOGGING AT Sat Mar 30 21:29:16 2024
+
+Mar 30 21:29:16 *	Welcome to the UnderNet IRC Network, oni
+Mar 30 21:29:16 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Mar 30 21:29:16 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Mar 30 21:29:16 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Mar 30 21:29:16 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Mar 30 21:29:16 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Mar 30 21:29:16 *	There are 4760 users and 11660 invisible on 36 servers
+Mar 30 21:29:16 *	42 :operator(s) online
+Mar 30 21:29:16 *	13 :unknown connection(s)
+Mar 30 21:29:16 *	5893 :channels formed
+Mar 30 21:29:16 *	I have 1553 clients and 1 servers
+Mar 30 21:29:16 *	Highest connection count: 4810 (4809 clients)
+Mar 30 21:29:16 >x@channels.undernet.org<	login oni hYDUywPT
+Mar 30 21:29:16 *	MOTD File is missing
+Mar 30 21:29:16 *	on 1 ca 1(4) ft 10(10)
+Mar 30 21:29:16 -X-	AUTHENTICATION SUCCESSFUL as oni
+Mar 30 21:29:16 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Mar 30 21:29:30 *	oni.users.undernet.org :is now your hidden host
+Mar 30 21:29:30 *	oni sets mode +x on oni
+**** ENDING LOGGING AT Sat Mar 30 21:39:11 2024
+
+**** BEGIN LOGGING AT Sat Mar 30 21:39:11 2024
+
+Mar 30 23:04:08 *	No ping reply for 2271 seconds, disconnecting.
+Mar 30 23:04:08 *	Disconnected ()
+Mar 30 23:04:18 *	Looking up chicago.il.us.undernet.org
+Mar 30 23:04:18 *	Connecting to chicago.il.us.undernet.org (2607:8500:154::2:6660)
+Mar 30 23:04:18 *	Connected. Now logging in.
+Mar 30 23:04:18 *	*** Looking up your hostname
+Mar 30 23:04:18 *	*** Checking Ident
+Mar 30 23:04:18 *	*** Couldn't look up your hostname
+Mar 30 23:04:26 *	*** No ident response
+Mar 30 23:04:48 *	Welcome to the UnderNet IRC Network, oni
+Mar 30 23:04:48 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Mar 30 23:04:48 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Mar 30 23:04:48 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Mar 30 23:04:48 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Mar 30 23:04:48 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Mar 30 23:04:48 *	There are 4716 users and 11597 invisible on 36 servers
+Mar 30 23:04:48 *	42 :operator(s) online
+Mar 30 23:04:48 *	15 :unknown connection(s)
+Mar 30 23:04:48 *	5880 :channels formed
+Mar 30 23:04:48 *	I have 1555 clients and 1 servers
+Mar 30 23:04:48 *	Highest connection count: 4810 (4809 clients)
+Mar 30 23:04:48 *	MOTD File is missing
+Mar 30 23:04:48 *	on 1 ca 1(4) ft 10(10)
+Mar 30 23:16:16 *	oni.users.undernet.org :is now your hidden host
+Mar 30 23:16:16 *	oni sets mode +x on oni
+Mar 31 01:19:54 Perl interface unloaded
+**** ENDING LOGGING AT Sun Mar 31 01:19:54 2024
+
+**** BEGIN LOGGING AT Mon Apr  1 01:24:22 2024
+
+Apr 01 01:24:22 *	Welcome to the UnderNet IRC Network, oni
+Apr 01 01:24:22 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Apr 01 01:24:22 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Apr 01 01:24:22 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Apr 01 01:24:22 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Apr 01 01:24:22 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Apr 01 01:24:22 *	There are 4613 users and 11430 invisible on 36 servers
+Apr 01 01:24:22 *	45 :operator(s) online
+Apr 01 01:24:22 *	22 :unknown connection(s)
+Apr 01 01:24:22 *	5877 :channels formed
+Apr 01 01:24:22 *	I have 1545 clients and 1 servers
+Apr 01 01:24:22 *	Highest connection count: 4810 (4809 clients)
+Apr 01 01:24:22 >x@channels.undernet.org<	login oni hYDUywPT
+Apr 01 01:24:22 *	MOTD File is missing
+Apr 01 01:24:22 *	on 1 ca 1(4) ft 10(10)
+Apr 01 01:24:22 -X-	AUTHENTICATION SUCCESSFUL as oni
+Apr 01 01:24:22 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Apr 01 01:31:15 *	oni.users.undernet.org :is now your hidden host
+Apr 01 01:31:15 *	oni sets mode +x on oni
+Apr 01 02:23:38 Perl interface unloaded
+**** ENDING LOGGING AT Mon Apr  1 02:23:38 2024
+
+**** BEGIN LOGGING AT Tue Apr  2 00:23:17 2024
+
+Apr 02 00:23:17 *	Welcome to the UnderNet IRC Network, oni
+Apr 02 00:23:17 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Apr 02 00:23:17 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Apr 02 00:23:17 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Apr 02 00:23:17 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Apr 02 00:23:17 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Apr 02 00:23:17 *	There are 4552 users and 11162 invisible on 36 servers
+Apr 02 00:23:17 *	39 :operator(s) online
+Apr 02 00:23:17 *	15 :unknown connection(s)
+Apr 02 00:23:17 *	5883 :channels formed
+Apr 02 00:23:17 *	I have 1501 clients and 1 servers
+Apr 02 00:23:17 *	Highest connection count: 4810 (4809 clients)
+Apr 02 00:23:17 >x@channels.undernet.org<	login oni hYDUywPT
+Apr 02 00:23:17 *	MOTD File is missing
+Apr 02 00:23:17 *	on 1 ca 1(4) ft 10(10)
+Apr 02 00:23:17 -X-	AUTHENTICATION SUCCESSFUL as oni
+Apr 02 00:23:17 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Apr 02 00:23:37 *	oni.users.undernet.org :is now your hidden host
+Apr 02 00:23:37 *	oni sets mode +x on oni
+Apr 02 00:35:43 Perl interface unloaded
+**** ENDING LOGGING AT Tue Apr  2 00:35:43 2024
+
+**** BEGIN LOGGING AT Tue Apr  2 23:50:35 2024
+
+Apr 02 23:50:35 *	Welcome to the UnderNet IRC Network, oni
+Apr 02 23:50:35 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Apr 02 23:50:35 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Apr 02 23:50:35 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Apr 02 23:50:35 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Apr 02 23:50:35 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Apr 02 23:50:35 *	There are 4644 users and 11411 invisible on 36 servers
+Apr 02 23:50:35 *	42 :operator(s) online
+Apr 02 23:50:35 *	17 :unknown connection(s)
+Apr 02 23:50:35 *	5876 :channels formed
+Apr 02 23:50:35 *	I have 1555 clients and 1 servers
+Apr 02 23:50:35 *	Highest connection count: 4810 (4809 clients)
+Apr 02 23:50:35 >x@channels.undernet.org<	login oni hYDUywPT
+Apr 02 23:50:35 *	MOTD File is missing
+Apr 02 23:50:35 *	on 1 ca 1(4) ft 10(10)
+Apr 02 23:50:35 -X-	AUTHENTICATION SUCCESSFUL as oni
+Apr 02 23:50:35 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Apr 03 00:10:50 *	oni.users.undernet.org :is now your hidden host
+Apr 03 00:10:50 *	oni sets mode +x on oni
+Apr 03 00:13:11 Perl interface unloaded
+**** ENDING LOGGING AT Wed Apr  3 00:13:11 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 00:25:12 2024
+
+Apr 03 00:25:12 *	Welcome to the UnderNet IRC Network, oni
+Apr 03 00:25:12 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Apr 03 00:25:12 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Apr 03 00:25:12 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Apr 03 00:25:12 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Apr 03 00:25:12 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Apr 03 00:25:12 *	There are 4626 users and 11371 invisible on 36 servers
+Apr 03 00:25:12 *	42 :operator(s) online
+Apr 03 00:25:12 *	17 :unknown connection(s)
+Apr 03 00:25:12 *	5860 :channels formed
+Apr 03 00:25:12 *	I have 1538 clients and 1 servers
+Apr 03 00:25:12 *	Highest connection count: 4810 (4809 clients)
+Apr 03 00:25:12 >x@channels.undernet.org<	login oni hYDUywPT
+Apr 03 00:25:12 *	MOTD File is missing
+Apr 03 00:25:12 *	on 1 ca 1(4) ft 10(10)
+Apr 03 00:25:12 -X-	AUTHENTICATION SUCCESSFUL as oni
+Apr 03 00:25:12 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Apr 03 00:25:42 *	No ping reply for 61 seconds, disconnecting.
+Apr 03 00:25:42 *	Disconnected ()
+Apr 03 00:25:52 *	Looking up chicago.il.us.undernet.org
+Apr 03 00:25:52 *	Connecting to chicago.il.us.undernet.org (2607:8500:154::2:6660)
+Apr 03 00:25:52 *	Connected. Now logging in.
+Apr 03 00:25:52 *	*** Looking up your hostname
+Apr 03 00:25:52 *	*** Checking Ident
+Apr 03 00:25:52 *	*** Couldn't look up your hostname
+Apr 03 00:26:01 *	*** No ident response
+Apr 03 00:26:22 *	Welcome to the UnderNet IRC Network, oni
+Apr 03 00:26:22 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Apr 03 00:26:22 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Apr 03 00:26:22 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Apr 03 00:26:22 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Apr 03 00:26:22 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Apr 03 00:26:22 *	There are 4626 users and 11366 invisible on 36 servers
+Apr 03 00:26:22 *	42 :operator(s) online
+Apr 03 00:26:22 *	14 :unknown connection(s)
+Apr 03 00:26:22 *	5858 :channels formed
+Apr 03 00:26:22 *	I have 1539 clients and 1 servers
+Apr 03 00:26:22 *	Highest connection count: 4810 (4809 clients)
+Apr 03 00:26:22 *	MOTD File is missing
+Apr 03 00:26:22 *	on 1 ca 2(4) ft 8(10) tr
+Apr 03 00:27:08 *	oni.users.undernet.org :is now your hidden host
+Apr 03 00:27:08 *	oni sets mode +x on oni
+Apr 03 01:17:36 Perl interface unloaded
+**** ENDING LOGGING AT Wed Apr  3 01:17:36 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:18:12 2024
+
+Apr 03 01:18:12 *	Welcome to the UnderNet IRC Network, oni
+Apr 03 01:18:12 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Apr 03 01:18:12 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Apr 03 01:18:12 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Apr 03 01:18:12 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Apr 03 01:18:12 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Apr 03 01:18:12 *	There are 4630 users and 11347 invisible on 36 servers
+Apr 03 01:18:12 *	42 :operator(s) online
+Apr 03 01:18:12 *	19 :unknown connection(s)
+Apr 03 01:18:12 *	5863 :channels formed
+Apr 03 01:18:12 *	I have 1546 clients and 1 servers
+Apr 03 01:18:12 *	Highest connection count: 4810 (4809 clients)
+Apr 03 01:18:12 >x@channels.undernet.org<	login oni hYDUywPT
+Apr 03 01:18:12 *	MOTD File is missing
+Apr 03 01:18:12 *	on 1 ca 1(4) ft 10(10) tr
+Apr 03 01:18:13 -X-	AUTHENTICATION SUCCESSFUL as oni
+Apr 03 01:18:13 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Apr 03 01:18:41 Perl interface unloaded
+**** ENDING LOGGING AT Wed Apr  3 01:18:41 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:19:16 2024
+
+Apr 03 01:19:16 *	Welcome to the UnderNet IRC Network, oni
+Apr 03 01:19:16 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Apr 03 01:19:16 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Apr 03 01:19:16 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Apr 03 01:19:16 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Apr 03 01:19:16 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Apr 03 01:19:16 *	There are 4625 users and 11351 invisible on 36 servers
+Apr 03 01:19:16 *	42 :operator(s) online
+Apr 03 01:19:16 *	14 :unknown connection(s)
+Apr 03 01:19:16 *	5870 :channels formed
+Apr 03 01:19:16 *	I have 1548 clients and 1 servers
+Apr 03 01:19:16 *	Highest connection count: 4810 (4809 clients)
+Apr 03 01:19:16 >x@channels.undernet.org<	login oni hYDUywPT
+Apr 03 01:19:16 *	MOTD File is missing
+Apr 03 01:19:16 *	on 1 ca 2(4) ft 10(10) tr
+Apr 03 01:19:16 -X-	AUTHENTICATION SUCCESSFUL as oni
+Apr 03 01:19:16 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Apr 03 01:23:20 *	oni.users.undernet.org :is now your hidden host
+Apr 03 01:23:20 *	oni sets mode +x on oni
+Apr 03 01:31:33 Perl interface unloaded
+**** ENDING LOGGING AT Wed Apr  3 01:31:33 2024
+
+**** BEGIN LOGGING AT Sun Apr  7 23:33:43 2024
+
+Apr 07 23:33:43 *	Welcome to the UnderNet IRC Network, oni
+Apr 07 23:33:43 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+Apr 07 23:33:43 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+Apr 07 23:33:43 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+Apr 07 23:33:43 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+Apr 07 23:33:43 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+Apr 07 23:33:43 *	There are 4653 users and 11442 invisible on 36 servers
+Apr 07 23:33:43 *	47 :operator(s) online
+Apr 07 23:33:43 *	13 :unknown connection(s)
+Apr 07 23:33:43 *	5861 :channels formed
+Apr 07 23:33:43 *	I have 1566 clients and 1 servers
+Apr 07 23:33:43 *	Highest connection count: 4810 (4809 clients)
+Apr 07 23:33:43 >x@channels.undernet.org<	login oni hYDUywPT
+Apr 07 23:33:43 *	MOTD File is missing
+Apr 07 23:33:43 *	on 1 ca 1(4) ft 10(10)
+Apr 07 23:33:43 -X-	AUTHENTICATION SUCCESSFUL as oni
+Apr 07 23:33:43 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+Apr 07 23:34:14 *	oni.users.undernet.org :is now your hidden host
+Apr 07 23:34:14 *	oni sets mode +x on oni
+**** BEGIN LOGGING AT Sun May 12 22:18:42 2024
+
+May 12 22:18:42 *	Welcome to the UnderNet IRC Network, oni
+May 12 22:18:42 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+May 12 22:18:42 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+May 12 22:18:42 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+May 12 22:18:42 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+May 12 22:18:42 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+May 12 22:18:42 *	There are 4665 users and 13053 invisible on 37 servers
+May 12 22:18:42 *	47 :operator(s) online
+May 12 22:18:42 *	22 :unknown connection(s)
+May 12 22:18:42 *	5842 :channels formed
+May 12 22:18:42 *	I have 1814 clients and 1 servers
+May 12 22:18:42 *	Highest connection count: 4810 (4809 clients)
+May 12 22:18:42 >x@channels.undernet.org<	login oni hYDUywPT
+May 12 22:18:42 *	MOTD File is missing
+May 12 22:18:42 *	on 1 ca 1(4) ft 10(10)
+May 12 22:18:42 -X-	AUTHENTICATION SUCCESSFUL as oni
+May 12 22:18:42 -X-	Remember: Nobody from CService will ever ask you for your password, do NOT give out your password to anyone claiming to be CService.
+May 12 22:21:03 *	oni.users.undernet.org :is now your hidden host
+May 12 22:21:03 *	oni sets mode +x on oni
+May 13 02:19:10 *	No ping reply for 1888 seconds, disconnecting.
+May 13 02:19:10 *	Disconnected ()
+May 13 02:19:20 *	Looking up chicago.il.us.undernet.org
+May 13 02:19:20 *	Connecting to chicago.il.us.undernet.org (2607:8500:154::2:6660)
+May 13 02:19:20 *	Connected. Now logging in.
+May 13 02:19:20 *	*** Looking up your hostname
+May 13 02:19:20 *	*** Checking Ident
+May 13 02:19:20 *	*** Found your hostname
+May 13 02:19:29 *	*** No ident response
+May 13 02:19:50 *	Welcome to the UnderNet IRC Network, oni
+May 13 02:19:50 *	Your host is Chicago.IL.US.Undernet.Org, running version u2.10.12.19
+May 13 02:19:50 *	This server was created Wed Apr 15 2020 at 22:02:43 UTC
+May 13 02:19:50 *	Chicago.IL.US.Undernet.Org u2.10.12.19 diOoswkgx biklmnopstvrDdRcC bklov
+May 13 02:19:50 *	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=25 MODES=6 MAXCHANNELS=40 MAXBANS=100 NICKLEN=12 :are supported by this server
+May 13 02:19:50 *	MAXNICKLEN=15 TOPICLEN=160 AWAYLEN=160 KICKLEN=160 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDdRcC CASEMAPPING=rfc1459 NETWORK=UnderNet :are supported by this server
+May 13 02:19:50 *	There are 4566 users and 12969 invisible on 37 servers
+May 13 02:19:50 *	47 :operator(s) online
+May 13 02:19:50 *	14 :unknown connection(s)
+May 13 02:19:50 *	5835 :channels formed
+May 13 02:19:50 *	I have 1799 clients and 1 servers
+May 13 02:19:50 *	Highest connection count: 4810 (4809 clients)
+May 13 02:19:50 *	MOTD File is missing
+May 13 02:19:50 *	on 1 ca 1(4) ft 10(10)
+May 13 04:09:11 Perl interface unloaded
+**** ENDING LOGGING AT Mon May 13 04:09:11 2024
+

@@ -1,0 +1,38 @@
+T 1699926678 19*	Now talking on 22#libreplanet
+T 1699926678 22*	Topic for 22#libreplanet is: Submit your session for LibrePlanet 2024 -- https://libreplanet.org/2024/ | This month's LibrePlanet featured resource: LibrePlanet Denver -- https://libreplanet.org/wiki/Group:LibrePlanet_Denver
+T 1699926678 22*	Topic for 22#libreplanet set by 26miriamb!~miriam@fsf/staff/miriamb (24Thu Nov  2 14:23:39 2023)
+T 1699927850 24*	davisr has quit (Remote host closed the connection)
+T 1699927876 FiSHLiM plugin unloaded
+T 1699927902 19*	Now talking on 22#libreplanet
+T 1699927902 22*	Topic for 22#libreplanet is: Submit your session for LibrePlanet 2024 -- https://libreplanet.org/2024/ | This month's LibrePlanet featured resource: LibrePlanet Denver -- https://libreplanet.org/wiki/Group:LibrePlanet_Denver
+T 1699927902 22*	Topic for 22#libreplanet set by 26miriamb!~miriam@fsf/staff/miriamb (24Thu Nov  2 14:23:39 2023)
+T 1700094452 19*	Now talking on 22#libreplanet
+T 1700094452 22*	Topic for 22#libreplanet is: Submit your session for LibrePlanet 2024 -- https://libreplanet.org/2024/ | This month's LibrePlanet featured resource: LibrePlanet Denver -- https://libreplanet.org/wiki/Group:LibrePlanet_Denver
+T 1700094452 22*	Topic for 22#libreplanet set by 26miriamb!~miriam@fsf/staff/miriamb (24Thu Nov  2 14:23:39 2023)
+T 1700094564 19*	Now talking on 22#libreplanet
+T 1700094564 22*	Topic for 22#libreplanet is: Submit your session for LibrePlanet 2024 -- https://libreplanet.org/2024/ | This month's LibrePlanet featured resource: LibrePlanet Denver -- https://libreplanet.org/wiki/Group:LibrePlanet_Denver
+T 1700094564 22*	Topic for 22#libreplanet set by 26miriamb!~miriam@fsf/staff/miriamb (24Thu Nov  2 14:23:39 2023)
+T 1700094741 19*	Now talking on 22#libreplanet
+T 1700094741 22*	Topic for 22#libreplanet is: Submit your session for LibrePlanet 2024 -- https://libreplanet.org/2024/ | This month's LibrePlanet featured resource: LibrePlanet Denver -- https://libreplanet.org/wiki/Group:LibrePlanet_Denver
+T 1700094741 22*	Topic for 22#libreplanet set by 26miriamb!~miriam@fsf/staff/miriamb (24Thu Nov  2 14:23:39 2023)
+T 1700095446 19*	Now talking on 22#libreplanet
+T 1700095446 22*	Topic for 22#libreplanet is: Submit your session for LibrePlanet 2024 -- https://libreplanet.org/2024/ | This month's LibrePlanet featured resource: LibrePlanet Denver -- https://libreplanet.org/wiki/Group:LibrePlanet_Denver
+T 1700095446 22*	Topic for 22#libreplanet set by 26miriamb!~miriam@fsf/staff/miriamb (24Thu Nov  2 14:23:39 2023)
+T 1700095599 24*	macrohumanity has quit (Ping timeout: 246 seconds)
+T 1700096129 23*	macrohumanity (~macrohuma@c-75-70-220-56.hsd1.co.comcast.net23) has joined
+T 1700096989 24*	jacobk has quit (Ping timeout: 268 seconds)
+T 1700097279 24*	kts has quit (Ping timeout: 246 seconds)
+T 1700097544 24*	wolftune has quit (Ping timeout: 268 seconds)
+T 1700097657 24*	macrohumanity has quit (Ping timeout: 246 seconds)
+T 1700097868 23*	lxo (~lxo@gateway/tor-sasl/lxo23) has joined
+T 1700097904 24*	isf has quit (Quit: WeeChat 3.5)
+T 1700098324 23*	kts (~kts@103.73.236.2123) has joined
+T 1700098353 23*	isf (~isf@fsf/member/iShareFreedom23) has joined
+T 1700098861 23*	macrohumanity (~macrohuma@c-75-70-220-56.hsd1.co.comcast.net23) has joined
+T 1700099589 24*	isf has quit (Quit: WeeChat 3.5)
+T 1700099604 23*	onikage01 (~oni@2600:1006:b189:2109:79e7:3d17:6464:5a6b23) has joined
+T 1700099605 24*	onikage01 has quit (Read error: Connection reset by peer)
+T 1700108355 19*	Now talking on 22#libreplanet
+T 1700108355 22*	Topic for 22#libreplanet is: Submit your session for LibrePlanet 2024 -- https://libreplanet.org/2024/ | This month's LibrePlanet featured resource: LibrePlanet Denver -- https://libreplanet.org/wiki/Group:LibrePlanet_Denver
+T 1700108355 22*	Topic for 22#libreplanet set by 26miriamb!~miriam@fsf/staff/miriamb (24Thu Nov  2 14:23:39 2023)
+T 1700110420 24*	jacobk has quit (Ping timeout: 268 seconds)

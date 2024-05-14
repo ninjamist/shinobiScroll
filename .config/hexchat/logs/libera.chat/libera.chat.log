@@ -1,0 +1,2546 @@
+**** BEGIN LOGGING AT Mon Nov 13 02:34:56 2023
+
+Nov 13 02:34:56 *	*** Checking Ident
+Nov 13 02:34:56 *	*** Looking up your hostname...
+Nov 13 02:34:56 *	*** Couldn't look up your hostname
+Nov 13 02:35:01 *	*** No Ident response
+Nov 13 02:35:02 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Nov 13 02:35:02 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg 
+Nov 13 02:35:02 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix account-tag cap-notify server-time solanum.chat/identify-msg
+**** ENDING LOGGING AT Mon Nov 13 02:35:02 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 02:35:02 2023
+
+Nov 13 02:35:02 *	Welcome to the Libera.Chat Internet Relay Chat Network oni
+Nov 13 02:35:02 *	Your host is iridium.libera.chat[2001:6b0:78::100/6697], running version solanum-1.0-dev
+Nov 13 02:35:02 *	This server was created Wed Sep 6 2023 at 00:43:03 UTC
+Nov 13 02:35:02 *	iridium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 13 02:35:02 *	ACCOUNTEXTBAN=a KNOCK SAFELIST ELIST=CMNTU MONITOR=100 CALLERID=g FNC WHOX ETRACE CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 13 02:35:02 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 13 02:35:02 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 13 02:35:02 *	There are 67 users and 32692 invisible on 28 servers
+Nov 13 02:35:02 *	37 :IRC Operators online
+Nov 13 02:35:02 *	25 :unknown connection(s)
+Nov 13 02:35:02 *	22762 :channels formed
+Nov 13 02:35:02 *	I have 2409 clients and 1 servers
+Nov 13 02:35:02 *	2409 2934 :Current local users 2409, max 2934
+Nov 13 02:35:02 *	32759 34818 :Current global users 32759, max 34818
+Nov 13 02:35:02 *	Highest connection count: 2935 (2934 clients) (159048 connections received)
+Nov 13 02:35:02 *	- iridium.libera.chat Message of the Day - 
+Nov 13 02:35:02 *	- This server provided by NORDUnet/SUNET
+Nov 13 02:35:02 *	- Welcome to Libera Chat, the IRC network for
+Nov 13 02:35:02 *	- free & open-source software and peer directed projects.
+Nov 13 02:35:02 *	-  
+Nov 13 02:35:02 *	- Use of Libera Chat is governed by our network policies.
+Nov 13 02:35:02 *	-  
+Nov 13 02:35:02 *	- To reduce network abuses we perform open proxy checks
+Nov 13 02:35:02 *	- on hosts at connection time.
+Nov 13 02:35:02 *	-  
+Nov 13 02:35:02 *	- Please visit us in #libera for questions and support.
+Nov 13 02:35:02 *	-  
+Nov 13 02:35:02 *	- Website and documentation:  https://libera.chat
+Nov 13 02:35:02 *	- Webchat:                    https://web.libera.chat
+Nov 13 02:35:02 *	- Network policies:           https://libera.chat/policies
+Nov 13 02:35:02 *	- Email:                      support@libera.chat
+Nov 13 02:35:02 *	End of /MOTD command.
+Nov 13 02:35:02 *	oni sets mode +Z on oni
+Nov 13 02:35:02 *	oni sets mode +i on oni
+Nov 13 02:35:02 *	oni sets mode +w on oni
+Nov 13 02:35:02 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ IDENTIFY oni <password>
+Nov 13 02:35:31 Sysinfo plugin unloaded
+Nov 13 02:35:31 Perl interface unloaded
+Nov 13 02:35:31 FiSHLiM plugin unloaded
+Nov 13 02:35:31 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 13 02:35:31 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 02:42:51 2023
+
+Nov 13 02:42:50 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 13 02:42:50 *	Your host is iridium.libera.chat[2001:6b0:78::100/6697], running version solanum-1.0-dev
+Nov 13 02:42:50 *	This server was created Wed Sep 6 2023 at 00:43:03 UTC
+Nov 13 02:42:50 *	iridium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 13 02:42:50 *	ACCOUNTEXTBAN=a KNOCK SAFELIST ELIST=CMNTU MONITOR=100 CALLERID=g FNC WHOX ETRACE CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 13 02:42:50 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 13 02:42:50 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 13 02:42:50 *	There are 67 users and 32786 invisible on 28 servers
+Nov 13 02:42:50 *	39 :IRC Operators online
+Nov 13 02:42:50 *	83 :unknown connection(s)
+Nov 13 02:42:50 *	22773 :channels formed
+Nov 13 02:42:50 *	I have 2454 clients and 1 servers
+Nov 13 02:42:50 *	2454 2934 :Current local users 2454, max 2934
+Nov 13 02:42:50 *	32853 34818 :Current global users 32853, max 34818
+Nov 13 02:42:50 *	Highest connection count: 2935 (2934 clients) (159132 connections received)
+Nov 13 02:42:50 *	- iridium.libera.chat Message of the Day - 
+Nov 13 02:42:50 *	- This server provided by NORDUnet/SUNET
+Nov 13 02:42:50 *	- Welcome to Libera Chat, the IRC network for
+Nov 13 02:42:50 *	- free & open-source software and peer directed projects.
+Nov 13 02:42:50 *	-  
+Nov 13 02:42:50 *	- Use of Libera Chat is governed by our network policies.
+Nov 13 02:42:50 *	-  
+Nov 13 02:42:50 *	- To reduce network abuses we perform open proxy checks
+Nov 13 02:42:50 *	- on hosts at connection time.
+Nov 13 02:42:50 *	-  
+Nov 13 02:42:50 *	- Please visit us in #libera for questions and support.
+Nov 13 02:42:50 *	-  
+Nov 13 02:42:50 *	- Website and documentation:  https://libera.chat
+Nov 13 02:42:50 *	- Webchat:                    https://web.libera.chat
+Nov 13 02:42:50 *	- Network policies:           https://libera.chat/policies
+Nov 13 02:42:50 *	- Email:                      support@libera.chat
+Nov 13 02:42:50 *	End of /MOTD command.
+Nov 13 02:42:50 *	oni_00 sets mode +Z on oni_00
+Nov 13 02:42:50 *	oni_00 sets mode +i on oni_00
+Nov 13 02:42:50 *	oni_00 sets mode +w on oni_00
+Nov 13 02:44:05 *	Disconnected ()
+**** ENDING LOGGING AT Mon Nov 13 02:44:49 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 02:47:11 2023
+
+Nov 13 02:47:10 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 13 02:47:10 *	Your host is iridium.libera.chat[2001:6b0:78::100/6697], running version solanum-1.0-dev
+Nov 13 02:47:10 *	This server was created Wed Sep 6 2023 at 00:43:03 UTC
+Nov 13 02:47:10 *	iridium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 13 02:47:10 *	ACCOUNTEXTBAN=a KNOCK SAFELIST ELIST=CMNTU MONITOR=100 CALLERID=g FNC WHOX ETRACE CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 13 02:47:10 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 13 02:47:10 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 13 02:47:10 *	There are 67 users and 32842 invisible on 28 servers
+Nov 13 02:47:10 *	39 :IRC Operators online
+Nov 13 02:47:10 *	86 :unknown connection(s)
+Nov 13 02:47:10 *	22794 :channels formed
+Nov 13 02:47:10 *	I have 2486 clients and 1 servers
+Nov 13 02:47:10 *	2486 2934 :Current local users 2486, max 2934
+Nov 13 02:47:10 *	32909 34818 :Current global users 32909, max 34818
+Nov 13 02:47:10 *	Highest connection count: 2935 (2934 clients) (159204 connections received)
+Nov 13 02:47:10 *	- iridium.libera.chat Message of the Day - 
+Nov 13 02:47:10 *	- This server provided by NORDUnet/SUNET
+Nov 13 02:47:10 *	- Welcome to Libera Chat, the IRC network for
+Nov 13 02:47:10 *	- free & open-source software and peer directed projects.
+Nov 13 02:47:10 *	-  
+Nov 13 02:47:10 *	- Use of Libera Chat is governed by our network policies.
+Nov 13 02:47:10 *	-  
+Nov 13 02:47:10 *	- To reduce network abuses we perform open proxy checks
+Nov 13 02:47:10 *	- on hosts at connection time.
+Nov 13 02:47:10 *	-  
+Nov 13 02:47:10 *	- Please visit us in #libera for questions and support.
+Nov 13 02:47:10 *	-  
+Nov 13 02:47:10 *	- Website and documentation:  https://libera.chat
+Nov 13 02:47:10 *	- Webchat:                    https://web.libera.chat
+Nov 13 02:47:10 *	- Network policies:           https://libera.chat/policies
+Nov 13 02:47:10 *	- Email:                      support@libera.chat
+Nov 13 02:47:10 *	End of /MOTD command.
+Nov 13 02:47:10 *	oni_00 sets mode +Z on oni_00
+Nov 13 02:47:10 *	oni_00 sets mode +i on oni_00
+Nov 13 02:47:10 *	oni_00 sets mode +w on oni_00
+Nov 13 02:47:37 *	Disconnected ()
+**** ENDING LOGGING AT Mon Nov 13 02:48:03 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 14:50:49 2023
+
+Nov 13 14:50:50 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 13 14:50:50 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Nov 13 14:50:50 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Nov 13 14:50:50 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 13 14:50:50 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 13 14:50:50 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 13 14:50:50 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 13 14:50:50 *	There are 72 users and 33533 invisible on 28 servers
+Nov 13 14:50:50 *	39 :IRC Operators online
+Nov 13 14:50:50 *	30 :unknown connection(s)
+Nov 13 14:50:50 *	22820 :channels formed
+Nov 13 14:50:50 *	I have 2442 clients and 1 servers
+Nov 13 14:50:50 *	2442 2596 :Current local users 2442, max 2596
+Nov 13 14:50:50 *	33605 34404 :Current global users 33605, max 34404
+Nov 13 14:50:50 *	Highest connection count: 2597 (2596 clients) (20163 connections received)
+Nov 13 14:50:50 *	- molybdenum.libera.chat Message of the Day - 
+Nov 13 14:50:50 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	- Molybdenum has been known throughout history, though its
+Nov 13 14:50:50 *	- properties meant that it was confused with lead ores. It was
+Nov 13 14:50:50 *	- first identified as a distinct element in 1778, meaning our
+Nov 13 14:50:50 *	- modern understanding of its existence reaches about as far
+Nov 13 14:50:50 *	- back as American independence.
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Nov 13 14:50:50 *	- highest temperature of any element.
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	- While pure molybdenum is only about as strong as tooth enamel,
+Nov 13 14:50:50 *	- it forms strong alloys that are resistant to corrosion and
+Nov 13 14:50:50 *	- stable under varying temperatures. As a result, these alloys
+Nov 13 14:50:50 *	- are used for metal armour plates, high-performance aircraft
+Nov 13 14:50:50 *	- parts, and pumps for molten metal flows.
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	- In its elemental form, it can be used as a fertiliser, and the
+Nov 13 14:50:50 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Nov 13 14:50:50 *	- an important medical radioisotope used for 3D bone scans and
+Nov 13 14:50:50 *	- the investigation of blood flow when diagnosing heart disease.
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	- Welcome to Libera Chat, the IRC network for
+Nov 13 14:50:50 *	- free & open-source software and peer directed projects.
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	- Use of Libera Chat is governed by our network policies.
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	- To reduce network abuses we perform open proxy checks
+Nov 13 14:50:50 *	- on hosts at connection time.
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	- Please visit us in #libera for questions and support.
+Nov 13 14:50:50 *	-  
+Nov 13 14:50:50 *	- Website and documentation:  https://libera.chat
+Nov 13 14:50:50 *	- Webchat:                    https://web.libera.chat
+Nov 13 14:50:50 *	- Network policies:           https://libera.chat/policies
+Nov 13 14:50:50 *	- Email:                      support@libera.chat
+Nov 13 14:50:50 *	End of /MOTD command.
+Nov 13 14:50:50 *	oni_00 sets mode +Z on oni_00
+Nov 13 14:50:50 *	oni_00 sets mode +i on oni_00
+Nov 13 14:50:50 *	oni_00 sets mode +w on oni_00
+Nov 13 15:09:26 Sysinfo plugin unloaded
+Nov 13 15:09:26 Perl interface unloaded
+Nov 13 15:09:26 FiSHLiM	hexchat_print called without a valid context.
+Nov 13 15:09:26 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 13 15:09:26 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 19:37:02 2023
+
+Nov 13 19:37:02 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 13 19:37:02 *	Your host is cadmium.libera.chat[2620:95:4007::95/6697], running version solanum-1.0-dev
+Nov 13 19:37:02 *	This server was created Mon Nov 13 2023 at 20:36:17 UTC
+Nov 13 19:37:02 *	cadmium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 13 19:37:02 *	ACCOUNTEXTBAN=a CALLERID=g WHOX ETRACE FNC SAFELIST ELIST=CMNTU KNOCK MONITOR=100 CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 13 19:37:02 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 13 19:37:02 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 13 19:37:02 *	There are 69 users and 32260 invisible on 28 servers
+Nov 13 19:37:02 *	39 :IRC Operators online
+Nov 13 19:37:02 *	288 :unknown connection(s)
+Nov 13 19:37:02 *	22723 :channels formed
+Nov 13 19:37:02 *	I have 396 clients and 1 servers
+Nov 13 19:37:02 *	396 410 :Current local users 396, max 410
+Nov 13 19:37:02 *	32329 33493 :Current global users 32329, max 33493
+Nov 13 19:37:02 *	Highest connection count: 411 (410 clients) (1187 connections received)
+Nov 13 19:37:02 *	- cadmium.libera.chat Message of the Day - 
+Nov 13 19:37:02 *	- This server kindly provided by Mach Dilemma (www.m-d.net)
+Nov 13 19:37:02 *	- Welcome to Libera Chat, the IRC network for
+Nov 13 19:37:02 *	- free & open-source software and peer directed projects.
+Nov 13 19:37:02 *	-  
+Nov 13 19:37:02 *	- Use of Libera Chat is governed by our network policies.
+Nov 13 19:37:02 *	-  
+Nov 13 19:37:02 *	- To reduce network abuses we perform open proxy checks
+Nov 13 19:37:02 *	- on hosts at connection time.
+Nov 13 19:37:02 *	-  
+Nov 13 19:37:02 *	- Please visit us in #libera for questions and support.
+Nov 13 19:37:02 *	-  
+Nov 13 19:37:02 *	- Website and documentation:  https://libera.chat
+Nov 13 19:37:02 *	- Webchat:                    https://web.libera.chat
+Nov 13 19:37:02 *	- Network policies:           https://libera.chat/policies
+Nov 13 19:37:02 *	- Email:                      support@libera.chat
+Nov 13 19:37:02 *	End of /MOTD command.
+Nov 13 19:37:02 *	oni_00 sets mode +Z on oni_00
+Nov 13 19:37:02 *	oni_00 sets mode +i on oni_00
+Nov 13 19:37:02 *	oni_00 sets mode +w on oni_00
+Nov 13 21:11:16 Sysinfo plugin unloaded
+Nov 13 21:11:16 Perl interface unloaded
+Nov 13 21:11:16 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 13 21:11:16 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 21:11:36 2023
+
+Nov 13 21:11:36 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 13 21:11:36 *	Your host is cadmium.libera.chat[2620:95:4007::95/6697], running version solanum-1.0-dev
+Nov 13 21:11:36 *	This server was created Mon Nov 13 2023 at 20:36:17 UTC
+Nov 13 21:11:36 *	cadmium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 13 21:11:36 *	ACCOUNTEXTBAN=a CALLERID=g WHOX ETRACE FNC SAFELIST ELIST=CMNTU KNOCK MONITOR=100 CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 13 21:11:36 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 13 21:11:36 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 13 21:11:36 *	There are 69 users and 32025 invisible on 28 servers
+Nov 13 21:11:36 *	39 :IRC Operators online
+Nov 13 21:11:36 *	370 :unknown connection(s)
+Nov 13 21:11:36 *	22598 :channels formed
+Nov 13 21:11:36 *	I have 650 clients and 1 servers
+Nov 13 21:11:36 *	650 655 :Current local users 650, max 655
+Nov 13 21:11:36 *	32094 33493 :Current global users 32094, max 33493
+Nov 13 21:11:36 *	Highest connection count: 656 (655 clients) (2021 connections received)
+Nov 13 21:11:36 *	- cadmium.libera.chat Message of the Day - 
+Nov 13 21:11:36 *	- This server kindly provided by Mach Dilemma (www.m-d.net)
+Nov 13 21:11:36 *	- Welcome to Libera Chat, the IRC network for
+Nov 13 21:11:36 *	- free & open-source software and peer directed projects.
+Nov 13 21:11:36 *	-  
+Nov 13 21:11:36 *	- Use of Libera Chat is governed by our network policies.
+Nov 13 21:11:36 *	-  
+Nov 13 21:11:36 *	- To reduce network abuses we perform open proxy checks
+Nov 13 21:11:36 *	- on hosts at connection time.
+Nov 13 21:11:36 *	-  
+Nov 13 21:11:36 *	- Please visit us in #libera for questions and support.
+Nov 13 21:11:36 *	-  
+Nov 13 21:11:36 *	- Website and documentation:  https://libera.chat
+Nov 13 21:11:36 *	- Webchat:                    https://web.libera.chat
+Nov 13 21:11:36 *	- Network policies:           https://libera.chat/policies
+Nov 13 21:11:36 *	- Email:                      support@libera.chat
+Nov 13 21:11:36 *	End of /MOTD command.
+Nov 13 21:11:36 *	oni_00 sets mode +Z on oni_00
+Nov 13 21:11:36 *	oni_00 sets mode +i on oni_00
+Nov 13 21:11:36 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Mon Nov 13 21:14:52 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 21:14:52 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:27:26 2023
+
+Nov 15 19:27:26 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 15 19:27:26 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Nov 15 19:27:26 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Nov 15 19:27:26 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 15 19:27:26 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 15 19:27:26 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 15 19:27:26 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 15 19:27:26 *	There are 69 users and 32238 invisible on 28 servers
+Nov 15 19:27:26 *	40 :IRC Operators online
+Nov 15 19:27:26 *	270 :unknown connection(s)
+Nov 15 19:27:26 *	22746 :channels formed
+Nov 15 19:27:26 *	I have 2260 clients and 1 servers
+Nov 15 19:27:26 *	2260 2316 :Current local users 2260, max 2316
+Nov 15 19:27:26 *	32307 34074 :Current global users 32307, max 34074
+Nov 15 19:27:26 *	Highest connection count: 2317 (2316 clients) (15272 connections received)
+Nov 15 19:27:26 *	- silver.libera.chat Message of the Day - 
+Nov 15 19:27:26 *	- This server is provided by Psychz Networks.
+Nov 15 19:27:26 *	-  
+Nov 15 19:27:26 *	- Welcome to Libera Chat, the IRC network for
+Nov 15 19:27:26 *	- free & open-source software and peer directed projects.
+Nov 15 19:27:26 *	-  
+Nov 15 19:27:26 *	- Use of Libera Chat is governed by our network policies.
+Nov 15 19:27:26 *	-  
+Nov 15 19:27:26 *	- To reduce network abuses we perform open proxy checks
+Nov 15 19:27:26 *	- on hosts at connection time.
+Nov 15 19:27:26 *	-  
+Nov 15 19:27:26 *	- Please visit us in #libera for questions and support.
+Nov 15 19:27:26 *	-  
+Nov 15 19:27:26 *	- Website and documentation:  https://libera.chat
+Nov 15 19:27:26 *	- Webchat:                    https://web.libera.chat
+Nov 15 19:27:26 *	- Network policies:           https://libera.chat/policies
+Nov 15 19:27:26 *	- Email:                      support@libera.chat
+Nov 15 19:27:26 *	End of /MOTD command.
+Nov 15 19:27:26 *	oni_00 sets mode +Z on oni_00
+Nov 15 19:27:26 *	oni_00 sets mode +i on oni_00
+Nov 15 19:27:26 *	oni_00 sets mode +w on oni_00
+Nov 15 19:28:57 Sysinfo plugin unloaded
+Nov 15 19:28:57 Perl interface unloaded
+Nov 15 19:28:57 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Nov 15 19:28:57 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:29:18 2023
+
+Nov 15 19:29:18 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 15 19:29:18 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Nov 15 19:29:18 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Nov 15 19:29:18 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 15 19:29:18 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 15 19:29:18 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 15 19:29:18 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 15 19:29:18 *	There are 69 users and 32246 invisible on 28 servers
+Nov 15 19:29:18 *	40 :IRC Operators online
+Nov 15 19:29:18 *	246 :unknown connection(s)
+Nov 15 19:29:18 *	22745 :channels formed
+Nov 15 19:29:18 *	I have 2266 clients and 1 servers
+Nov 15 19:29:18 *	2266 2316 :Current local users 2266, max 2316
+Nov 15 19:29:18 *	32315 34074 :Current global users 32315, max 34074
+Nov 15 19:29:18 *	Highest connection count: 2317 (2316 clients) (15290 connections received)
+Nov 15 19:29:18 *	- silver.libera.chat Message of the Day - 
+Nov 15 19:29:18 *	- This server is provided by Psychz Networks.
+Nov 15 19:29:18 *	-  
+Nov 15 19:29:18 *	- Welcome to Libera Chat, the IRC network for
+Nov 15 19:29:18 *	- free & open-source software and peer directed projects.
+Nov 15 19:29:18 *	-  
+Nov 15 19:29:18 *	- Use of Libera Chat is governed by our network policies.
+Nov 15 19:29:18 *	-  
+Nov 15 19:29:18 *	- To reduce network abuses we perform open proxy checks
+Nov 15 19:29:18 *	- on hosts at connection time.
+Nov 15 19:29:18 *	-  
+Nov 15 19:29:18 *	- Please visit us in #libera for questions and support.
+Nov 15 19:29:18 *	-  
+Nov 15 19:29:18 *	- Website and documentation:  https://libera.chat
+Nov 15 19:29:18 *	- Webchat:                    https://web.libera.chat
+Nov 15 19:29:18 *	- Network policies:           https://libera.chat/policies
+Nov 15 19:29:18 *	- Email:                      support@libera.chat
+Nov 15 19:29:18 *	End of /MOTD command.
+Nov 15 19:29:18 *	oni_00 sets mode +Z on oni_00
+Nov 15 19:29:18 *	oni_00 sets mode +i on oni_00
+Nov 15 19:29:18 *	oni_00 sets mode +w on oni_00
+**** BEGIN LOGGING AT Wed Nov 15 19:32:15 2023
+
+Nov 15 19:32:15 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 15 19:32:15 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Nov 15 19:32:15 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Nov 15 19:32:15 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 15 19:32:15 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 15 19:32:15 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 15 19:32:15 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 15 19:32:15 *	There are 69 users and 32238 invisible on 28 servers
+Nov 15 19:32:15 *	40 :IRC Operators online
+Nov 15 19:32:15 *	254 :unknown connection(s)
+Nov 15 19:32:15 *	22748 :channels formed
+Nov 15 19:32:15 *	I have 2260 clients and 1 servers
+Nov 15 19:32:15 *	2260 2316 :Current local users 2260, max 2316
+Nov 15 19:32:15 *	32307 34074 :Current global users 32307, max 34074
+Nov 15 19:32:15 *	Highest connection count: 2317 (2316 clients) (15308 connections received)
+Nov 15 19:32:15 *	- silver.libera.chat Message of the Day - 
+Nov 15 19:32:15 *	- This server is provided by Psychz Networks.
+Nov 15 19:32:15 *	-  
+Nov 15 19:32:15 *	- Welcome to Libera Chat, the IRC network for
+Nov 15 19:32:15 *	- free & open-source software and peer directed projects.
+Nov 15 19:32:15 *	-  
+Nov 15 19:32:15 *	- Use of Libera Chat is governed by our network policies.
+Nov 15 19:32:15 *	-  
+Nov 15 19:32:15 *	- To reduce network abuses we perform open proxy checks
+Nov 15 19:32:15 *	- on hosts at connection time.
+Nov 15 19:32:15 *	-  
+Nov 15 19:32:15 *	- Please visit us in #libera for questions and support.
+Nov 15 19:32:15 *	-  
+Nov 15 19:32:15 *	- Website and documentation:  https://libera.chat
+Nov 15 19:32:15 *	- Webchat:                    https://web.libera.chat
+Nov 15 19:32:15 *	- Network policies:           https://libera.chat/policies
+Nov 15 19:32:15 *	- Email:                      support@libera.chat
+Nov 15 19:32:15 *	End of /MOTD command.
+Nov 15 19:32:15 *	oni_00 sets mode +Z on oni_00
+Nov 15 19:32:15 *	oni_00 sets mode +i on oni_00
+Nov 15 19:32:15 *	oni_00 sets mode +w on oni_00
+**** BEGIN LOGGING AT Wed Nov 15 19:44:00 2023
+
+Nov 15 19:44:00 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 15 19:44:00 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Nov 15 19:44:00 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Nov 15 19:44:00 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 15 19:44:00 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 15 19:44:00 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 15 19:44:00 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 15 19:44:00 *	There are 69 users and 32216 invisible on 28 servers
+Nov 15 19:44:00 *	40 :IRC Operators online
+Nov 15 19:44:00 *	248 :unknown connection(s)
+Nov 15 19:44:00 *	22744 :channels formed
+Nov 15 19:44:00 *	I have 2272 clients and 1 servers
+Nov 15 19:44:00 *	2272 2316 :Current local users 2272, max 2316
+Nov 15 19:44:00 *	32285 34074 :Current global users 32285, max 34074
+Nov 15 19:44:00 *	Highest connection count: 2317 (2316 clients) (15382 connections received)
+Nov 15 19:44:00 *	- silver.libera.chat Message of the Day - 
+Nov 15 19:44:00 *	- This server is provided by Psychz Networks.
+Nov 15 19:44:00 *	-  
+Nov 15 19:44:00 *	- Welcome to Libera Chat, the IRC network for
+Nov 15 19:44:00 *	- free & open-source software and peer directed projects.
+Nov 15 19:44:00 *	-  
+Nov 15 19:44:00 *	- Use of Libera Chat is governed by our network policies.
+Nov 15 19:44:00 *	-  
+Nov 15 19:44:00 *	- To reduce network abuses we perform open proxy checks
+Nov 15 19:44:00 *	- on hosts at connection time.
+Nov 15 19:44:00 *	-  
+Nov 15 19:44:00 *	- Please visit us in #libera for questions and support.
+Nov 15 19:44:00 *	-  
+Nov 15 19:44:00 *	- Website and documentation:  https://libera.chat
+Nov 15 19:44:00 *	- Webchat:                    https://web.libera.chat
+Nov 15 19:44:00 *	- Network policies:           https://libera.chat/policies
+Nov 15 19:44:00 *	- Email:                      support@libera.chat
+Nov 15 19:44:00 *	End of /MOTD command.
+Nov 15 19:44:00 *	oni_00 sets mode +Z on oni_00
+Nov 15 19:44:00 *	oni_00 sets mode +i on oni_00
+Nov 15 19:44:00 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Wed Nov 15 19:47:25 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:47:25 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:48:21 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:48:21 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:48:58 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:48:58 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:50:13 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:50:13 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:50:37 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:50:37 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:50:58 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:50:58 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:51:18 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:51:18 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:51:48 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:51:48 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:52:32 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:52:32 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:53:11 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:53:11 2023
+
+**** ENDING LOGGING AT Wed Nov 15 19:53:51 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:53:51 2023
+
+**** ENDING LOGGING AT Wed Nov 15 20:36:26 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 20:36:26 2023
+
+**** ENDING LOGGING AT Wed Nov 15 20:37:07 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 20:37:07 2023
+
+Nov 15 20:46:27 *	##chat ##chat-overflow :Forwarding to another channel
+**** BEGIN LOGGING AT Wed Nov 15 20:52:57 2023
+
+Nov 15 20:52:57 *	Welcome to the Libera.Chat Internet Relay Chat Network onikage01
+Nov 15 20:52:57 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Nov 15 20:52:57 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Nov 15 20:52:57 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 15 20:52:57 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 15 20:52:57 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 15 20:52:57 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 15 20:52:57 *	There are 70 users and 32188 invisible on 28 servers
+Nov 15 20:52:57 *	40 :IRC Operators online
+Nov 15 20:52:57 *	308 :unknown connection(s)
+Nov 15 20:52:57 *	22670 :channels formed
+Nov 15 20:52:57 *	I have 2326 clients and 1 servers
+Nov 15 20:52:57 *	2326 2332 :Current local users 2326, max 2332
+Nov 15 20:52:57 *	32258 34074 :Current global users 32258, max 34074
+Nov 15 20:52:57 *	Highest connection count: 2333 (2332 clients) (15908 connections received)
+Nov 15 20:52:57 *	- silver.libera.chat Message of the Day - 
+Nov 15 20:52:57 *	- This server is provided by Psychz Networks.
+Nov 15 20:52:57 *	-  
+Nov 15 20:52:57 *	- Welcome to Libera Chat, the IRC network for
+Nov 15 20:52:57 *	- free & open-source software and peer directed projects.
+Nov 15 20:52:57 *	-  
+Nov 15 20:52:57 *	- Use of Libera Chat is governed by our network policies.
+Nov 15 20:52:57 *	-  
+Nov 15 20:52:57 *	- To reduce network abuses we perform open proxy checks
+Nov 15 20:52:57 *	- on hosts at connection time.
+Nov 15 20:52:57 *	-  
+Nov 15 20:52:57 *	- Please visit us in #libera for questions and support.
+Nov 15 20:52:57 *	-  
+Nov 15 20:52:57 *	- Website and documentation:  https://libera.chat
+Nov 15 20:52:57 *	- Webchat:                    https://web.libera.chat
+Nov 15 20:52:57 *	- Network policies:           https://libera.chat/policies
+Nov 15 20:52:57 *	- Email:                      support@libera.chat
+Nov 15 20:52:57 *	End of /MOTD command.
+Nov 15 20:52:57 *	onikage01 sets mode +Z on onikage01
+Nov 15 20:52:57 *	onikage01 sets mode +i on onikage01
+Nov 15 20:52:57 *	onikage01 sets mode +w on onikage01
+Nov 15 20:52:59 Sysinfo plugin unloaded
+Nov 15 20:52:59 Perl interface unloaded
+Nov 15 20:52:59 FiSHLiM plugin unloaded
+Nov 15 20:52:59 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Nov 15 20:52:59 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 20:53:18 2023
+
+Nov 15 20:53:18 *	Welcome to the Libera.Chat Internet Relay Chat Network onikage01
+Nov 15 20:53:18 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Nov 15 20:53:18 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Nov 15 20:53:18 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 15 20:53:18 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 15 20:53:18 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 15 20:53:18 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 15 20:53:18 *	There are 70 users and 32181 invisible on 28 servers
+Nov 15 20:53:18 *	40 :IRC Operators online
+Nov 15 20:53:18 *	264 :unknown connection(s)
+Nov 15 20:53:18 *	22671 :channels formed
+Nov 15 20:53:18 *	I have 2322 clients and 1 servers
+Nov 15 20:53:18 *	2322 2332 :Current local users 2322, max 2332
+Nov 15 20:53:18 *	32251 34074 :Current global users 32251, max 34074
+Nov 15 20:53:18 *	Highest connection count: 2333 (2332 clients) (15910 connections received)
+Nov 15 20:53:18 *	- silver.libera.chat Message of the Day - 
+Nov 15 20:53:18 *	- This server is provided by Psychz Networks.
+Nov 15 20:53:18 *	-  
+Nov 15 20:53:18 *	- Welcome to Libera Chat, the IRC network for
+Nov 15 20:53:18 *	- free & open-source software and peer directed projects.
+Nov 15 20:53:18 *	-  
+Nov 15 20:53:18 *	- Use of Libera Chat is governed by our network policies.
+Nov 15 20:53:18 *	-  
+Nov 15 20:53:18 *	- To reduce network abuses we perform open proxy checks
+Nov 15 20:53:18 *	- on hosts at connection time.
+Nov 15 20:53:18 *	-  
+Nov 15 20:53:18 *	- Please visit us in #libera for questions and support.
+Nov 15 20:53:18 *	-  
+Nov 15 20:53:18 *	- Website and documentation:  https://libera.chat
+Nov 15 20:53:18 *	- Webchat:                    https://web.libera.chat
+Nov 15 20:53:18 *	- Network policies:           https://libera.chat/policies
+Nov 15 20:53:18 *	- Email:                      support@libera.chat
+Nov 15 20:53:18 *	End of /MOTD command.
+Nov 15 20:53:18 *	onikage01 sets mode +Z on onikage01
+Nov 15 20:53:18 *	onikage01 sets mode +i on onikage01
+Nov 15 20:53:18 *	onikage01 sets mode +w on onikage01
+**** BEGIN LOGGING AT Wed Nov 15 23:19:09 2023
+
+Nov 15 23:19:09 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 15 23:19:09 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Nov 15 23:19:09 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Nov 15 23:19:09 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 15 23:19:09 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 15 23:19:09 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 15 23:19:09 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 15 23:19:09 *	There are 71 users and 31734 invisible on 28 servers
+Nov 15 23:19:09 *	40 :IRC Operators online
+Nov 15 23:19:09 *	222 :unknown connection(s)
+Nov 15 23:19:09 *	22662 :channels formed
+Nov 15 23:19:09 *	I have 2320 clients and 1 servers
+Nov 15 23:19:09 *	2320 2382 :Current local users 2320, max 2382
+Nov 15 23:19:09 *	31805 34074 :Current global users 31805, max 34074
+Nov 15 23:19:09 *	Highest connection count: 2383 (2382 clients) (16943 connections received)
+Nov 15 23:19:09 *	- silver.libera.chat Message of the Day - 
+Nov 15 23:19:09 *	- This server is provided by Psychz Networks.
+Nov 15 23:19:09 *	-  
+Nov 15 23:19:09 *	- Welcome to Libera Chat, the IRC network for
+Nov 15 23:19:09 *	- free & open-source software and peer directed projects.
+Nov 15 23:19:09 *	-  
+Nov 15 23:19:09 *	- Use of Libera Chat is governed by our network policies.
+Nov 15 23:19:09 *	-  
+Nov 15 23:19:09 *	- To reduce network abuses we perform open proxy checks
+Nov 15 23:19:09 *	- on hosts at connection time.
+Nov 15 23:19:09 *	-  
+Nov 15 23:19:09 *	- Please visit us in #libera for questions and support.
+Nov 15 23:19:09 *	-  
+Nov 15 23:19:09 *	- Website and documentation:  https://libera.chat
+Nov 15 23:19:09 *	- Webchat:                    https://web.libera.chat
+Nov 15 23:19:09 *	- Network policies:           https://libera.chat/policies
+Nov 15 23:19:09 *	- Email:                      support@libera.chat
+Nov 15 23:19:09 *	End of /MOTD command.
+Nov 15 23:19:09 *	oni_00 sets mode +Z on oni_00
+Nov 15 23:19:09 *	oni_00 sets mode +i on oni_00
+Nov 15 23:19:09 *	oni_00 sets mode +w on oni_00
+Nov 16 00:04:30 Sysinfo plugin unloaded
+Nov 16 00:04:30 Perl interface unloaded
+Nov 16 00:04:30 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Nov 16 00:04:30 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 00:16:20 2023
+
+Nov 16 00:16:20 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 16 00:16:20 *	Your host is cadmium.libera.chat[103.196.37.95/6697], running version solanum-1.0-dev
+Nov 16 00:16:20 *	This server was created Mon Nov 13 2023 at 20:36:17 UTC
+Nov 16 00:16:20 *	cadmium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 16 00:16:20 *	ACCOUNTEXTBAN=a CALLERID=g WHOX ETRACE FNC SAFELIST ELIST=CMNTU KNOCK MONITOR=100 CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 16 00:16:20 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 16 00:16:20 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 16 00:16:20 *	There are 70 users and 31776 invisible on 28 servers
+Nov 16 00:16:20 *	39 :IRC Operators online
+Nov 16 00:16:20 *	148 :unknown connection(s)
+Nov 16 00:16:20 *	22682 :channels formed
+Nov 16 00:16:20 *	I have 2400 clients and 1 servers
+Nov 16 00:16:20 *	2400 2990 :Current local users 2400, max 2990
+Nov 16 00:16:20 *	31846 34367 :Current global users 31846, max 34367
+Nov 16 00:16:20 *	Highest connection count: 2991 (2990 clients) (14543 connections received)
+Nov 16 00:16:20 *	- cadmium.libera.chat Message of the Day - 
+Nov 16 00:16:20 *	- This server kindly provided by Mach Dilemma (www.m-d.net)
+Nov 16 00:16:20 *	- Welcome to Libera Chat, the IRC network for
+Nov 16 00:16:20 *	- free & open-source software and peer directed projects.
+Nov 16 00:16:20 *	-  
+Nov 16 00:16:20 *	- Use of Libera Chat is governed by our network policies.
+Nov 16 00:16:20 *	-  
+Nov 16 00:16:20 *	- To reduce network abuses we perform open proxy checks
+Nov 16 00:16:20 *	- on hosts at connection time.
+Nov 16 00:16:20 *	-  
+Nov 16 00:16:20 *	- Please visit us in #libera for questions and support.
+Nov 16 00:16:20 *	-  
+Nov 16 00:16:20 *	- Website and documentation:  https://libera.chat
+Nov 16 00:16:20 *	- Webchat:                    https://web.libera.chat
+Nov 16 00:16:20 *	- Network policies:           https://libera.chat/policies
+Nov 16 00:16:20 *	- Email:                      support@libera.chat
+Nov 16 00:16:20 *	End of /MOTD command.
+Nov 16 00:16:20 *	oni_00 sets mode +Z on oni_00
+Nov 16 00:16:20 *	oni_00 sets mode +i on oni_00
+Nov 16 00:16:20 *	oni_00 sets mode +w on oni_00
+Nov 16 00:41:35 Sysinfo plugin unloaded
+Nov 16 00:41:35 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Nov 16 00:41:35 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 13:37:55 2023
+
+Nov 16 13:37:55 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 16 13:37:55 *	Your host is mercury.libera.chat[51.89.226.78/6697], running version solanum-1.0-dev
+Nov 16 13:37:55 *	This server was created Thu Nov 16 2023 at 06:35:18 UTC
+Nov 16 13:37:55 *	mercury.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 16 13:37:55 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 16 13:37:55 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 16 13:37:55 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 16 13:37:55 *	There are 75 users and 33556 invisible on 28 servers
+Nov 16 13:37:55 *	38 :IRC Operators online
+Nov 16 13:37:55 *	65 :unknown connection(s)
+Nov 16 13:37:55 *	22898 :channels formed
+Nov 16 13:37:55 *	I have 2203 clients and 1 servers
+Nov 16 13:37:55 *	2203 2222 :Current local users 2203, max 2222
+Nov 16 13:37:55 *	33631 34437 :Current global users 33631, max 34437
+Nov 16 13:37:55 *	Highest connection count: 2223 (2222 clients) (8733 connections received)
+Nov 16 13:37:55 *	- mercury.libera.chat Message of the Day - 
+Nov 16 13:37:55 *	- -[ Mercury ]-[ Atomic number: 80 ]-[ Chemical symbol: Hg ]-
+Nov 16 13:37:55 *	-  
+Nov 16 13:37:55 *	- Known since antiquity, Mercury is a heavy, liquid metal
+Nov 16 13:37:55 *	- element at room temperature - the only such element. Despite
+Nov 16 13:37:55 *	- the wide ranging use, mercury is a relatively rare element,
+Nov 16 13:37:55 *	- though this is mitigated by its ore deposits tending to be
+Nov 16 13:37:55 *	- highly concentrated.
+Nov 16 13:37:55 *	-  
+Nov 16 13:37:55 *	- The uses of mercury include medical applications such as
+Nov 16 13:37:55 *	- dental amalgams, topical antiseptic compounds, and blood
+Nov 16 13:37:55 *	- pressure meters.  Outside of medicine, mercury can be found
+Nov 16 13:37:55 *	- in telescopes to form flat mirror surfaces, as well as
+Nov 16 13:37:55 *	- parabolic surfaces when their container is spun. Mercury has
+Nov 16 13:37:55 *	- historically and continues to be used in many other
+Nov 16 13:37:55 *	- industries and applications.
+Nov 16 13:37:55 *	-  
+Nov 16 13:37:55 *	-  
+Nov 16 13:37:55 *	- Welcome to Libera Chat, the IRC network for
+Nov 16 13:37:55 *	- free & open-source software and peer directed projects.
+Nov 16 13:37:55 *	-  
+Nov 16 13:37:55 *	- Use of Libera Chat is governed by our network policies.
+Nov 16 13:37:55 *	-  
+Nov 16 13:37:55 *	- To reduce network abuses we perform open proxy checks
+Nov 16 13:37:55 *	- on hosts at connection time.
+Nov 16 13:37:55 *	-  
+Nov 16 13:37:55 *	- Please visit us in #libera for questions and support.
+Nov 16 13:37:55 *	-  
+Nov 16 13:37:55 *	- Website and documentation:  https://libera.chat
+Nov 16 13:37:55 *	- Webchat:                    https://web.libera.chat
+Nov 16 13:37:55 *	- Network policies:           https://libera.chat/policies
+Nov 16 13:37:55 *	- Email:                      support@libera.chat
+Nov 16 13:37:55 *	End of /MOTD command.
+Nov 16 13:37:55 *	oni_00 sets mode +Z on oni_00
+Nov 16 13:37:55 *	oni_00 sets mode +i on oni_00
+Nov 16 13:37:55 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Thu Nov 16 14:12:58 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:12:58 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:13:15 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:13:15 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:13:50 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:13:50 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:14:21 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:14:21 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:15:12 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:15:12 2023
+
+**** ENDING LOGGING AT Thu Nov 16 14:17:51 2023
+
+**** BEGIN LOGGING AT Thu Nov 16 14:17:51 2023
+
+Nov 16 14:27:02 Sysinfo plugin unloaded
+Nov 16 14:27:02 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Nov 16 14:27:02 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 21:12:34 2023
+
+Nov 17 21:12:34 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 17 21:12:34 *	Your host is zirconium.libera.chat[2001:4b7a:a008::6667/6697], running version solanum-1.0-dev
+Nov 17 21:12:34 *	This server was created Fri Nov 17 2023 at 08:47:16 UTC
+Nov 17 21:12:34 *	zirconium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 17 21:12:34 *	ACCOUNTEXTBAN=a ETRACE WHOX FNC MONITOR=100 SAFELIST ELIST=CMNTU CALLERID=g KNOCK CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 17 21:12:34 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 17 21:12:34 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 17 21:12:34 *	There are 71 users and 31463 invisible on 28 servers
+Nov 17 21:12:34 *	39 :IRC Operators online
+Nov 17 21:12:34 *	165 :unknown connection(s)
+Nov 17 21:12:34 *	22730 :channels formed
+Nov 17 21:12:34 *	I have 1669 clients and 1 servers
+Nov 17 21:12:34 *	1669 1822 :Current local users 1669, max 1822
+Nov 17 21:12:34 *	31534 33921 :Current global users 31534, max 33921
+Nov 17 21:12:34 *	Highest connection count: 1823 (1822 clients) (9797 connections received)
+Nov 17 21:12:34 *	- zirconium.libera.chat Message of the Day - 
+Nov 17 21:12:34 *	- This server provided by Seeweb <https://www.seeweb.it/>
+Nov 17 21:12:34 *	- Welcome to Libera Chat, the IRC network for
+Nov 17 21:12:34 *	- free & open-source software and peer directed projects.
+Nov 17 21:12:34 *	-  
+Nov 17 21:12:34 *	- Use of Libera Chat is governed by our network policies.
+Nov 17 21:12:34 *	-  
+Nov 17 21:12:34 *	- To reduce network abuses we perform open proxy checks
+Nov 17 21:12:34 *	- on hosts at connection time.
+Nov 17 21:12:34 *	-  
+Nov 17 21:12:34 *	- Please visit us in #libera for questions and support.
+Nov 17 21:12:34 *	-  
+Nov 17 21:12:34 *	- Website and documentation:  https://libera.chat
+Nov 17 21:12:34 *	- Webchat:                    https://web.libera.chat
+Nov 17 21:12:34 *	- Network policies:           https://libera.chat/policies
+Nov 17 21:12:34 *	- Email:                      support@libera.chat
+Nov 17 21:12:34 *	End of /MOTD command.
+Nov 17 21:12:34 *	oni_00 sets mode +Z on oni_00
+Nov 17 21:12:34 *	oni_00 sets mode +i on oni_00
+Nov 17 21:12:34 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Fri Nov 17 21:41:03 2023
+
+**** BEGIN LOGGING AT Fri Nov 17 21:41:03 2023
+
+Nov 18 01:14:49 Sysinfo plugin unloaded
+Nov 18 01:14:49 Checksum plugin unloaded
+**** ENDING LOGGING AT Sat Nov 18 01:14:49 2023
+
+**** BEGIN LOGGING AT Sun Nov 19 00:07:03 2023
+
+Nov 19 00:07:03 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 19 00:07:03 *	Your host is zirconium.libera.chat[2001:4b7a:a008::6667/6697], running version solanum-1.0-dev
+Nov 19 00:07:03 *	This server was created Fri Nov 17 2023 at 08:47:16 UTC
+Nov 19 00:07:03 *	zirconium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 19 00:07:03 *	ACCOUNTEXTBAN=a ETRACE WHOX FNC MONITOR=100 SAFELIST ELIST=CMNTU CALLERID=g KNOCK CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 19 00:07:03 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 19 00:07:03 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 19 00:07:03 *	There are 73 users and 31230 invisible on 28 servers
+Nov 19 00:07:03 *	38 :IRC Operators online
+Nov 19 00:07:03 *	138 :unknown connection(s)
+Nov 19 00:07:03 *	22536 :channels formed
+Nov 19 00:07:03 *	I have 1869 clients and 1 servers
+Nov 19 00:07:03 *	1869 2114 :Current local users 1869, max 2114
+Nov 19 00:07:03 *	31303 33921 :Current global users 31303, max 33921
+Nov 19 00:07:03 *	Highest connection count: 2115 (2114 clients) (15401 connections received)
+Nov 19 00:07:03 *	- zirconium.libera.chat Message of the Day - 
+Nov 19 00:07:03 *	- This server provided by Seeweb <https://www.seeweb.it/>
+Nov 19 00:07:03 *	- Welcome to Libera Chat, the IRC network for
+Nov 19 00:07:03 *	- free & open-source software and peer directed projects.
+Nov 19 00:07:03 *	-  
+Nov 19 00:07:03 *	- Use of Libera Chat is governed by our network policies.
+Nov 19 00:07:03 *	-  
+Nov 19 00:07:03 *	- To reduce network abuses we perform open proxy checks
+Nov 19 00:07:03 *	- on hosts at connection time.
+Nov 19 00:07:03 *	-  
+Nov 19 00:07:03 *	- Please visit us in #libera for questions and support.
+Nov 19 00:07:03 *	-  
+Nov 19 00:07:03 *	- Website and documentation:  https://libera.chat
+Nov 19 00:07:03 *	- Webchat:                    https://web.libera.chat
+Nov 19 00:07:03 *	- Network policies:           https://libera.chat/policies
+Nov 19 00:07:03 *	- Email:                      support@libera.chat
+Nov 19 00:07:03 *	End of /MOTD command.
+Nov 19 00:07:03 *	oni_00 sets mode +Z on oni_00
+Nov 19 00:07:03 *	oni_00 sets mode +i on oni_00
+Nov 19 00:07:03 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Sun Nov 19 00:10:34 2023
+
+**** BEGIN LOGGING AT Sun Nov 19 00:10:34 2023
+
+Nov 19 01:46:17 *	##chat ##chat-overflow :Forwarding to another channel
+Nov 19 01:49:52 Sysinfo plugin unloaded
+Nov 19 01:49:52 Checksum plugin unloaded
+**** ENDING LOGGING AT Sun Nov 19 01:49:52 2023
+
+**** BEGIN LOGGING AT Sun Nov 19 23:20:29 2023
+
+Nov 19 23:20:29 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 19 23:20:29 *	Your host is zirconium.libera.chat[2001:4b7a:a008::6667/6697], running version solanum-1.0-dev
+Nov 19 23:20:29 *	This server was created Fri Nov 17 2023 at 08:47:16 UTC
+Nov 19 23:20:29 *	zirconium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 19 23:20:29 *	ACCOUNTEXTBAN=a ETRACE WHOX FNC MONITOR=100 SAFELIST ELIST=CMNTU CALLERID=g KNOCK CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 19 23:20:29 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 19 23:20:29 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 19 23:20:29 *	There are 70 users and 31710 invisible on 28 servers
+Nov 19 23:20:29 *	38 :IRC Operators online
+Nov 19 23:20:29 *	44 :unknown connection(s)
+Nov 19 23:20:29 *	21536 :channels formed
+Nov 19 23:20:29 *	I have 1791 clients and 1 servers
+Nov 19 23:20:29 *	1791 2114 :Current local users 1791, max 2114
+Nov 19 23:20:29 *	31780 33921 :Current global users 31780, max 33921
+Nov 19 23:20:29 *	Highest connection count: 2115 (2114 clients) (17718 connections received)
+Nov 19 23:20:29 *	- zirconium.libera.chat Message of the Day - 
+Nov 19 23:20:29 *	- This server provided by Seeweb <https://www.seeweb.it/>
+Nov 19 23:20:29 *	- Welcome to Libera Chat, the IRC network for
+Nov 19 23:20:29 *	- free & open-source software and peer directed projects.
+Nov 19 23:20:29 *	-  
+Nov 19 23:20:29 *	- Use of Libera Chat is governed by our network policies.
+Nov 19 23:20:29 *	-  
+Nov 19 23:20:29 *	- To reduce network abuses we perform open proxy checks
+Nov 19 23:20:29 *	- on hosts at connection time.
+Nov 19 23:20:29 *	-  
+Nov 19 23:20:29 *	- Please visit us in #libera for questions and support.
+Nov 19 23:20:29 *	-  
+Nov 19 23:20:29 *	- Website and documentation:  https://libera.chat
+Nov 19 23:20:29 *	- Webchat:                    https://web.libera.chat
+Nov 19 23:20:29 *	- Network policies:           https://libera.chat/policies
+Nov 19 23:20:29 *	- Email:                      support@libera.chat
+Nov 19 23:20:29 *	End of /MOTD command.
+Nov 19 23:20:29 *	oni_00 sets mode +Z on oni_00
+Nov 19 23:20:29 *	oni_00 sets mode +i on oni_00
+Nov 19 23:20:29 *	oni_00 sets mode +w on oni_00
+Nov 20 00:55:00 Sysinfo plugin unloaded
+Nov 20 00:55:00 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 20 00:55:00 2023
+
+**** BEGIN LOGGING AT Mon Nov 20 22:04:53 2023
+
+Nov 20 22:04:52 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 20 22:04:52 *	Your host is zirconium.libera.chat[2001:4b7a:a008::6667/6697], running version solanum-1.0-dev
+Nov 20 22:04:52 *	This server was created Fri Nov 17 2023 at 08:47:16 UTC
+Nov 20 22:04:52 *	zirconium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 20 22:04:52 *	ACCOUNTEXTBAN=a ETRACE WHOX FNC MONITOR=100 SAFELIST ELIST=CMNTU CALLERID=g KNOCK CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 20 22:04:52 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 20 22:04:52 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 20 22:04:52 *	There are 71 users and 32087 invisible on 28 servers
+Nov 20 22:04:52 *	37 :IRC Operators online
+Nov 20 22:04:52 *	214 :unknown connection(s)
+Nov 20 22:04:52 *	21657 :channels formed
+Nov 20 22:04:52 *	I have 1869 clients and 1 servers
+Nov 20 22:04:52 *	1869 2114 :Current local users 1869, max 2114
+Nov 20 22:04:52 *	32158 34347 :Current global users 32158, max 34347
+Nov 20 22:04:52 *	Highest connection count: 2115 (2114 clients) (21380 connections received)
+Nov 20 22:04:52 *	- zirconium.libera.chat Message of the Day - 
+Nov 20 22:04:52 *	- This server provided by Seeweb <https://www.seeweb.it/>
+Nov 20 22:04:52 *	- Welcome to Libera Chat, the IRC network for
+Nov 20 22:04:52 *	- free & open-source software and peer directed projects.
+Nov 20 22:04:52 *	-  
+Nov 20 22:04:52 *	- Use of Libera Chat is governed by our network policies.
+Nov 20 22:04:52 *	-  
+Nov 20 22:04:52 *	- To reduce network abuses we perform open proxy checks
+Nov 20 22:04:52 *	- on hosts at connection time.
+Nov 20 22:04:52 *	-  
+Nov 20 22:04:52 *	- Please visit us in #libera for questions and support.
+Nov 20 22:04:52 *	-  
+Nov 20 22:04:52 *	- Website and documentation:  https://libera.chat
+Nov 20 22:04:52 *	- Webchat:                    https://web.libera.chat
+Nov 20 22:04:52 *	- Network policies:           https://libera.chat/policies
+Nov 20 22:04:52 *	- Email:                      support@libera.chat
+Nov 20 22:04:52 *	End of /MOTD command.
+Nov 20 22:04:52 *	oni_00 sets mode +Z on oni_00
+Nov 20 22:04:52 *	oni_00 sets mode +i on oni_00
+Nov 20 22:04:52 *	oni_00 sets mode +w on oni_00
+Nov 20 22:44:22 Sysinfo plugin unloaded
+Nov 20 22:44:22 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 20 22:44:22 2023
+
+**** BEGIN LOGGING AT Mon Nov 20 22:44:35 2023
+
+Nov 20 22:44:35 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 20 22:44:35 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Nov 20 22:44:35 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Nov 20 22:44:35 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 20 22:44:35 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 20 22:44:35 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 20 22:44:35 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 20 22:44:35 *	There are 71 users and 32073 invisible on 28 servers
+Nov 20 22:44:35 *	38 :IRC Operators online
+Nov 20 22:44:35 *	21672 :channels formed
+Nov 20 22:44:35 *	I have 1916 clients and 1 servers
+Nov 20 22:44:35 *	1916 3047 :Current local users 1916, max 3047
+Nov 20 22:44:35 *	32144 34437 :Current global users 32144, max 34437
+Nov 20 22:44:35 *	Highest connection count: 3048 (3047 clients) (25414 connections received)
+Nov 20 22:44:35 *	- molybdenum.libera.chat Message of the Day - 
+Nov 20 22:44:35 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	- Molybdenum has been known throughout history, though its
+Nov 20 22:44:35 *	- properties meant that it was confused with lead ores. It was
+Nov 20 22:44:35 *	- first identified as a distinct element in 1778, meaning our
+Nov 20 22:44:35 *	- modern understanding of its existence reaches about as far
+Nov 20 22:44:35 *	- back as American independence.
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Nov 20 22:44:35 *	- highest temperature of any element.
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	- While pure molybdenum is only about as strong as tooth enamel,
+Nov 20 22:44:35 *	- it forms strong alloys that are resistant to corrosion and
+Nov 20 22:44:35 *	- stable under varying temperatures. As a result, these alloys
+Nov 20 22:44:35 *	- are used for metal armour plates, high-performance aircraft
+Nov 20 22:44:35 *	- parts, and pumps for molten metal flows.
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	- In its elemental form, it can be used as a fertiliser, and the
+Nov 20 22:44:35 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Nov 20 22:44:35 *	- an important medical radioisotope used for 3D bone scans and
+Nov 20 22:44:35 *	- the investigation of blood flow when diagnosing heart disease.
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	- Welcome to Libera Chat, the IRC network for
+Nov 20 22:44:35 *	- free & open-source software and peer directed projects.
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	- Use of Libera Chat is governed by our network policies.
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	- To reduce network abuses we perform open proxy checks
+Nov 20 22:44:35 *	- on hosts at connection time.
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	- Please visit us in #libera for questions and support.
+Nov 20 22:44:35 *	-  
+Nov 20 22:44:35 *	- Website and documentation:  https://libera.chat
+Nov 20 22:44:35 *	- Webchat:                    https://web.libera.chat
+Nov 20 22:44:35 *	- Network policies:           https://libera.chat/policies
+Nov 20 22:44:35 *	- Email:                      support@libera.chat
+Nov 20 22:44:35 *	End of /MOTD command.
+Nov 20 22:44:35 *	oni_00 sets mode +Z on oni_00
+Nov 20 22:44:35 *	oni_00 sets mode +i on oni_00
+Nov 20 22:44:35 *	oni_00 sets mode +w on oni_00
+Nov 20 23:58:43 Sysinfo plugin unloaded
+Nov 20 23:58:43 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Nov 20 23:58:43 2023
+
+**** BEGIN LOGGING AT Wed Nov 22 22:09:44 2023
+
+Nov 22 22:09:44 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Nov 22 22:09:44 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Nov 22 22:09:44 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Nov 22 22:09:44 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Nov 22 22:09:44 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Nov 22 22:09:44 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Nov 22 22:09:44 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Nov 22 22:09:44 *	There are 71 users and 32234 invisible on 28 servers
+Nov 22 22:09:44 *	40 :IRC Operators online
+Nov 22 22:09:44 *	22 :unknown connection(s)
+Nov 22 22:09:44 *	21849 :channels formed
+Nov 22 22:09:44 *	I have 1900 clients and 1 servers
+Nov 22 22:09:44 *	1900 2647 :Current local users 1900, max 2647
+Nov 22 22:09:44 *	32305 34524 :Current global users 32305, max 34524
+Nov 22 22:09:44 *	Highest connection count: 2648 (2647 clients) (31694 connections received)
+Nov 22 22:09:44 *	- silver.libera.chat Message of the Day - 
+Nov 22 22:09:44 *	- This server is provided by Psychz Networks.
+Nov 22 22:09:44 *	-  
+Nov 22 22:09:44 *	- Welcome to Libera Chat, the IRC network for
+Nov 22 22:09:44 *	- free & open-source software and peer directed projects.
+Nov 22 22:09:44 *	-  
+Nov 22 22:09:44 *	- Use of Libera Chat is governed by our network policies.
+Nov 22 22:09:44 *	-  
+Nov 22 22:09:44 *	- To reduce network abuses we perform open proxy checks
+Nov 22 22:09:44 *	- on hosts at connection time.
+Nov 22 22:09:44 *	-  
+Nov 22 22:09:44 *	- Please visit us in #libera for questions and support.
+Nov 22 22:09:44 *	-  
+Nov 22 22:09:44 *	- Website and documentation:  https://libera.chat
+Nov 22 22:09:44 *	- Webchat:                    https://web.libera.chat
+Nov 22 22:09:44 *	- Network policies:           https://libera.chat/policies
+Nov 22 22:09:44 *	- Email:                      support@libera.chat
+Nov 22 22:09:44 *	End of /MOTD command.
+Nov 22 22:09:44 *	oni_00 sets mode +Z on oni_00
+Nov 22 22:09:44 *	oni_00 sets mode +i on oni_00
+Nov 22 22:09:44 *	oni_00 sets mode +w on oni_00
+Nov 23 03:12:01 Sysinfo plugin unloaded
+Nov 23 03:12:01 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Nov 23 03:12:01 2023
+
+**** BEGIN LOGGING AT Sat Dec  2 01:03:16 2023
+
+Dec 02 01:03:16 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Dec 02 01:03:16 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Dec 02 01:03:16 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Dec 02 01:03:16 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Dec 02 01:03:16 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Dec 02 01:03:16 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Dec 02 01:03:16 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Dec 02 01:03:16 *	There are 68 users and 31734 invisible on 28 servers
+Dec 02 01:03:16 *	40 :IRC Operators online
+Dec 02 01:03:16 *	18 :unknown connection(s)
+Dec 02 01:03:16 *	22047 :channels formed
+Dec 02 01:03:16 *	I have 1792 clients and 1 servers
+Dec 02 01:03:16 *	1792 2647 :Current local users 1792, max 2647
+Dec 02 01:03:16 *	31802 34731 :Current global users 31802, max 34731
+Dec 02 01:03:16 *	Highest connection count: 2648 (2647 clients) (71836 connections received)
+Dec 02 01:03:16 *	- silver.libera.chat Message of the Day - 
+Dec 02 01:03:16 *	- This server is provided by Psychz Networks.
+Dec 02 01:03:16 *	-  
+Dec 02 01:03:16 *	- Welcome to Libera Chat, the IRC network for
+Dec 02 01:03:16 *	- free & open-source software and peer directed projects.
+Dec 02 01:03:16 *	-  
+Dec 02 01:03:16 *	- Use of Libera Chat is governed by our network policies.
+Dec 02 01:03:16 *	-  
+Dec 02 01:03:16 *	- To reduce network abuses we perform open proxy checks
+Dec 02 01:03:16 *	- on hosts at connection time.
+Dec 02 01:03:16 *	-  
+Dec 02 01:03:16 *	- Please visit us in #libera for questions and support.
+Dec 02 01:03:16 *	-  
+Dec 02 01:03:16 *	- Website and documentation:  https://libera.chat
+Dec 02 01:03:16 *	- Webchat:                    https://web.libera.chat
+Dec 02 01:03:16 *	- Network policies:           https://libera.chat/policies
+Dec 02 01:03:16 *	- Email:                      support@libera.chat
+Dec 02 01:03:16 *	End of /MOTD command.
+Dec 02 01:03:16 *	oni_00 sets mode +Z on oni_00
+Dec 02 01:03:16 *	oni_00 sets mode +i on oni_00
+Dec 02 01:03:16 *	oni_00 sets mode +w on oni_00
+Dec 02 01:08:00 Sysinfo plugin unloaded
+Dec 02 01:08:00 Checksum plugin unloaded
+**** ENDING LOGGING AT Sat Dec  2 01:08:00 2023
+
+**** BEGIN LOGGING AT Fri Dec  8 01:54:17 2023
+
+Dec 08 01:54:17 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Dec 08 01:54:17 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Dec 08 01:54:17 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Dec 08 01:54:17 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Dec 08 01:54:17 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Dec 08 01:54:17 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Dec 08 01:54:17 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Dec 08 01:54:17 *	There are 68 users and 32977 invisible on 28 servers
+Dec 08 01:54:17 *	41 :IRC Operators online
+Dec 08 01:54:17 *	1 :unknown connection(s)
+Dec 08 01:54:17 *	21987 :channels formed
+Dec 08 01:54:17 *	I have 2010 clients and 1 servers
+Dec 08 01:54:17 *	2010 2647 :Current local users 2010, max 2647
+Dec 08 01:54:17 *	33045 35145 :Current global users 33045, max 35145
+Dec 08 01:54:17 *	Highest connection count: 2648 (2647 clients) (89837 connections received)
+Dec 08 01:54:17 *	- silver.libera.chat Message of the Day - 
+Dec 08 01:54:17 *	- This server is provided by Psychz Networks.
+Dec 08 01:54:17 *	-  
+Dec 08 01:54:17 *	- Welcome to Libera Chat, the IRC network for
+Dec 08 01:54:17 *	- free & open-source software and peer directed projects.
+Dec 08 01:54:17 *	-  
+Dec 08 01:54:17 *	- Use of Libera Chat is governed by our network policies.
+Dec 08 01:54:17 *	-  
+Dec 08 01:54:17 *	- To reduce network abuses we perform open proxy checks
+Dec 08 01:54:17 *	- on hosts at connection time.
+Dec 08 01:54:17 *	-  
+Dec 08 01:54:17 *	- Please visit us in #libera for questions and support.
+Dec 08 01:54:17 *	-  
+Dec 08 01:54:17 *	- Website and documentation:  https://libera.chat
+Dec 08 01:54:17 *	- Webchat:                    https://web.libera.chat
+Dec 08 01:54:17 *	- Network policies:           https://libera.chat/policies
+Dec 08 01:54:17 *	- Email:                      support@libera.chat
+Dec 08 01:54:17 *	End of /MOTD command.
+Dec 08 01:54:17 *	oni_00 sets mode +Z on oni_00
+Dec 08 01:54:17 *	oni_00 sets mode +i on oni_00
+Dec 08 01:54:17 *	oni_00 sets mode +w on oni_00
+Dec 08 03:10:47 Sysinfo plugin unloaded
+Dec 08 03:10:47 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Dec  8 03:10:47 2023
+
+**** BEGIN LOGGING AT Mon Dec 18 02:19:59 2023
+
+Dec 18 02:19:58 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Dec 18 02:19:58 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Dec 18 02:19:58 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Dec 18 02:19:58 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Dec 18 02:19:58 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Dec 18 02:19:58 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Dec 18 02:19:58 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Dec 18 02:19:58 *	There are 67 users and 32966 invisible on 28 servers
+Dec 18 02:19:58 *	41 :IRC Operators online
+Dec 18 02:19:58 *	1 :unknown connection(s)
+Dec 18 02:19:58 *	22313 :channels formed
+Dec 18 02:19:58 *	I have 2150 clients and 1 servers
+Dec 18 02:19:58 *	2150 3047 :Current local users 2150, max 3047
+Dec 18 02:19:58 *	33033 35144 :Current global users 33033, max 35144
+Dec 18 02:19:58 *	Highest connection count: 3048 (3047 clients) (76878 connections received)
+Dec 18 02:19:58 *	- molybdenum.libera.chat Message of the Day - 
+Dec 18 02:19:58 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Dec 18 02:19:58 *	-  
+Dec 18 02:19:58 *	- Molybdenum has been known throughout history, though its
+Dec 18 02:19:58 *	- properties meant that it was confused with lead ores. It was
+Dec 18 02:19:58 *	- first identified as a distinct element in 1778, meaning our
+Dec 18 02:19:58 *	- modern understanding of its existence reaches about as far
+Dec 18 02:19:58 *	- back as American independence.
+Dec 18 02:19:58 *	-  
+Dec 18 02:19:58 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Dec 18 02:19:58 *	- highest temperature of any element.
+Dec 18 02:19:58 *	-  
+Dec 18 02:19:58 *	- While pure molybdenum is only about as strong as tooth enamel,
+Dec 18 02:19:58 *	- it forms strong alloys that are resistant to corrosion and
+Dec 18 02:19:59 *	- stable under varying temperatures. As a result, these alloys
+Dec 18 02:19:59 *	- are used for metal armour plates, high-performance aircraft
+Dec 18 02:19:59 *	- parts, and pumps for molten metal flows.
+Dec 18 02:19:59 *	-  
+Dec 18 02:19:59 *	- In its elemental form, it can be used as a fertiliser, and the
+Dec 18 02:19:59 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Dec 18 02:19:59 *	- an important medical radioisotope used for 3D bone scans and
+Dec 18 02:19:59 *	- the investigation of blood flow when diagnosing heart disease.
+Dec 18 02:19:59 *	-  
+Dec 18 02:19:59 *	-  
+Dec 18 02:19:59 *	- Welcome to Libera Chat, the IRC network for
+Dec 18 02:19:59 *	- free & open-source software and peer directed projects.
+Dec 18 02:19:59 *	-  
+Dec 18 02:19:59 *	- Use of Libera Chat is governed by our network policies.
+Dec 18 02:19:59 *	-  
+Dec 18 02:19:59 *	- To reduce network abuses we perform open proxy checks
+Dec 18 02:19:59 *	- on hosts at connection time.
+Dec 18 02:19:59 *	-  
+Dec 18 02:19:59 *	- Please visit us in #libera for questions and support.
+Dec 18 02:19:59 *	-  
+Dec 18 02:19:59 *	- Website and documentation:  https://libera.chat
+Dec 18 02:19:59 *	- Webchat:                    https://web.libera.chat
+Dec 18 02:19:59 *	- Network policies:           https://libera.chat/policies
+Dec 18 02:19:59 *	- Email:                      support@libera.chat
+Dec 18 02:19:59 *	End of /MOTD command.
+Dec 18 02:19:59 *	oni_00 sets mode +Z on oni_00
+Dec 18 02:19:59 *	oni_00 sets mode +i on oni_00
+Dec 18 02:19:59 *	oni_00 sets mode +w on oni_00
+Dec 18 02:23:45 *	No ping reply for 89 seconds, disconnecting.
+Dec 18 02:23:45 *	Disconnected ()
+Dec 18 02:23:55 *	Looking up irc.us.libera.chat
+Dec 18 02:23:56 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+Dec 18 02:27:42 Sysinfo plugin unloaded
+Dec 18 02:27:42 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Dec 18 02:27:42 2023
+
+**** BEGIN LOGGING AT Mon Dec 25 02:28:18 2023
+
+Dec 25 02:28:18 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Dec 25 02:28:18 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Dec 25 02:28:18 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Dec 25 02:28:18 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Dec 25 02:28:18 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Dec 25 02:28:18 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Dec 25 02:28:18 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Dec 25 02:28:18 *	There are 65 users and 31859 invisible on 28 servers
+Dec 25 02:28:18 *	41 :IRC Operators online
+Dec 25 02:28:18 *	107 :unknown connection(s)
+Dec 25 02:28:18 *	22216 :channels formed
+Dec 25 02:28:18 *	I have 2115 clients and 1 servers
+Dec 25 02:28:18 *	2115 2752 :Current local users 2115, max 2752
+Dec 25 02:28:18 *	31924 35145 :Current global users 31924, max 35145
+Dec 25 02:28:18 *	Highest connection count: 2753 (2752 clients) (124984 connections received)
+Dec 25 02:28:18 *	- silver.libera.chat Message of the Day - 
+Dec 25 02:28:18 *	- This server is provided by Psychz Networks.
+Dec 25 02:28:18 *	-  
+Dec 25 02:28:18 *	- Welcome to Libera Chat, the IRC network for
+Dec 25 02:28:18 *	- free & open-source software and peer directed projects.
+Dec 25 02:28:18 *	-  
+Dec 25 02:28:18 *	- Use of Libera Chat is governed by our network policies.
+Dec 25 02:28:18 *	-  
+Dec 25 02:28:18 *	- To reduce network abuses we perform open proxy checks
+Dec 25 02:28:18 *	- on hosts at connection time.
+Dec 25 02:28:18 *	-  
+Dec 25 02:28:18 *	- Please visit us in #libera for questions and support.
+Dec 25 02:28:18 *	-  
+Dec 25 02:28:18 *	- Website and documentation:  https://libera.chat
+Dec 25 02:28:18 *	- Webchat:                    https://web.libera.chat
+Dec 25 02:28:18 *	- Network policies:           https://libera.chat/policies
+Dec 25 02:28:18 *	- Email:                      support@libera.chat
+Dec 25 02:28:18 *	End of /MOTD command.
+Dec 25 02:28:18 *	oni_00 sets mode +Z on oni_00
+Dec 25 02:28:18 *	oni_00 sets mode +i on oni_00
+Dec 25 02:28:18 *	oni_00 sets mode +w on oni_00
+Dec 25 02:53:18 Sysinfo plugin unloaded
+Dec 25 02:53:18 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Dec 25 02:53:18 2023
+
+**** BEGIN LOGGING AT Tue Dec 26 22:47:21 2023
+
+Dec 26 22:47:20 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Dec 26 22:47:20 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Dec 26 22:47:20 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Dec 26 22:47:20 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Dec 26 22:47:20 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Dec 26 22:47:20 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Dec 26 22:47:20 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Dec 26 22:47:20 *	There are 65 users and 32424 invisible on 28 servers
+Dec 26 22:47:20 *	41 :IRC Operators online
+Dec 26 22:47:20 *	69 :unknown connection(s)
+Dec 26 22:47:20 *	22320 :channels formed
+Dec 26 22:47:20 *	I have 2137 clients and 1 servers
+Dec 26 22:47:20 *	2137 3047 :Current local users 2137, max 3047
+Dec 26 22:47:20 *	32489 35144 :Current global users 32489, max 35144
+Dec 26 22:47:20 *	Highest connection count: 3048 (3047 clients) (97818 connections received)
+Dec 26 22:47:20 *	- molybdenum.libera.chat Message of the Day - 
+Dec 26 22:47:20 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	- Molybdenum has been known throughout history, though its
+Dec 26 22:47:20 *	- properties meant that it was confused with lead ores. It was
+Dec 26 22:47:20 *	- first identified as a distinct element in 1778, meaning our
+Dec 26 22:47:20 *	- modern understanding of its existence reaches about as far
+Dec 26 22:47:20 *	- back as American independence.
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Dec 26 22:47:20 *	- highest temperature of any element.
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	- While pure molybdenum is only about as strong as tooth enamel,
+Dec 26 22:47:20 *	- it forms strong alloys that are resistant to corrosion and
+Dec 26 22:47:20 *	- stable under varying temperatures. As a result, these alloys
+Dec 26 22:47:20 *	- are used for metal armour plates, high-performance aircraft
+Dec 26 22:47:20 *	- parts, and pumps for molten metal flows.
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	- In its elemental form, it can be used as a fertiliser, and the
+Dec 26 22:47:20 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Dec 26 22:47:20 *	- an important medical radioisotope used for 3D bone scans and
+Dec 26 22:47:20 *	- the investigation of blood flow when diagnosing heart disease.
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	- Welcome to Libera Chat, the IRC network for
+Dec 26 22:47:20 *	- free & open-source software and peer directed projects.
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	- Use of Libera Chat is governed by our network policies.
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	- To reduce network abuses we perform open proxy checks
+Dec 26 22:47:20 *	- on hosts at connection time.
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	- Please visit us in #libera for questions and support.
+Dec 26 22:47:20 *	-  
+Dec 26 22:47:20 *	- Website and documentation:  https://libera.chat
+Dec 26 22:47:20 *	- Webchat:                    https://web.libera.chat
+Dec 26 22:47:20 *	- Network policies:           https://libera.chat/policies
+Dec 26 22:47:20 *	- Email:                      support@libera.chat
+Dec 26 22:47:20 *	End of /MOTD command.
+Dec 26 22:47:20 *	oni_00 sets mode +Z on oni_00
+Dec 26 22:47:20 *	oni_00 sets mode +i on oni_00
+Dec 26 22:47:20 *	oni_00 sets mode +w on oni_00
+Dec 26 23:07:01 Sysinfo plugin unloaded
+Dec 26 23:07:01 Checksum plugin unloaded
+**** ENDING LOGGING AT Tue Dec 26 23:07:01 2023
+
+**** BEGIN LOGGING AT Fri Feb 23 23:59:21 2024
+
+Feb 23 23:59:21 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Feb 23 23:59:21 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Feb 23 23:59:21 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Feb 23 23:59:21 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Feb 23 23:59:21 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Feb 23 23:59:21 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Feb 23 23:59:21 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Feb 23 23:59:21 *	There are 66 users and 32943 invisible on 28 servers
+Feb 23 23:59:21 *	41 :IRC Operators online
+Feb 23 23:59:21 *	22526 :channels formed
+Feb 23 23:59:21 *	I have 2103 clients and 1 servers
+Feb 23 23:59:21 *	2103 2780 :Current local users 2103, max 2780
+Feb 23 23:59:21 *	33009 36895 :Current global users 33009, max 36895
+Feb 23 23:59:21 *	Highest connection count: 2781 (2780 clients) (283133 connections received)
+Feb 23 23:59:21 *	- silver.libera.chat Message of the Day - 
+Feb 23 23:59:21 *	- This server is provided by Psychz Networks.
+Feb 23 23:59:21 *	-  
+Feb 23 23:59:21 *	- Welcome to Libera Chat, the IRC network for
+Feb 23 23:59:21 *	- free & open-source software and peer directed projects.
+Feb 23 23:59:21 *	-  
+Feb 23 23:59:21 *	- Use of Libera Chat is governed by our network policies.
+Feb 23 23:59:21 *	-  
+Feb 23 23:59:21 *	- To reduce network abuses we perform open proxy checks
+Feb 23 23:59:21 *	- on hosts at connection time.
+Feb 23 23:59:21 *	-  
+Feb 23 23:59:21 *	- Please visit us in #libera for questions and support.
+Feb 23 23:59:21 *	-  
+Feb 23 23:59:21 *	- Website and documentation:  https://libera.chat
+Feb 23 23:59:21 *	- Webchat:                    https://web.libera.chat
+Feb 23 23:59:21 *	- Network policies:           https://libera.chat/policies
+Feb 23 23:59:21 *	- Email:                      support@libera.chat
+Feb 23 23:59:21 *	End of /MOTD command.
+Feb 23 23:59:21 *	oni_00 sets mode +Z on oni_00
+Feb 23 23:59:21 *	oni_00 sets mode +i on oni_00
+Feb 23 23:59:21 *	oni_00 sets mode +w on oni_00
+Feb 24 01:22:18 *	No ping reply for 1025 seconds, disconnecting.
+Feb 24 01:22:18 *	Disconnected ()
+Feb 24 01:22:28 *	Looking up irc.us.libera.chat
+Feb 24 01:22:28 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+Feb 24 01:22:29 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Feb 24 01:22:29 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Feb 24 01:22:29 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Feb 24 01:22:29 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Feb 24 01:22:29 *	* Subject: /CN=molybdenum.libera.chat
+Feb 24 01:22:29 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Feb 24 01:22:29 *	* Certification info:
+Feb 24 01:22:29 *	  Subject:
+Feb 24 01:22:29 *	    CN=molybdenum.libera.chat
+Feb 24 01:22:29 *	  Issuer:
+Feb 24 01:22:29 *	    C=US
+Feb 24 01:22:29 *	    O=Let's Encrypt
+Feb 24 01:22:29 *	    CN=R3
+Feb 24 01:22:29 *	  Public key algorithm: rsaEncryption (4096 bits)
+Feb 24 01:22:29 *	  Sign algorithm sha256WithRSAEncryption
+Feb 24 01:22:29 *	  Valid since Feb  5 05:58:47 2024 GM to May  5 05:58:46 2024 GM
+Feb 24 01:22:29 *	* Cipher info:
+Feb 24 01:22:29 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Feb 24 01:22:29 *	Connected. Now logging in.
+Feb 24 01:22:29 *	*** Checking Ident
+Feb 24 01:22:29 *	*** Looking up your hostname...
+Feb 24 01:22:29 *	*** Found your hostname: 2603-9001-5f05-7440-0000-40b6-bd17-21c8.inf6.spectrum.com
+Feb 24 01:22:34 *	*** No Ident response
+Feb 24 01:22:34 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512,SCRAM-SHA-256,SCRAM-SHA-1 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Feb 24 01:22:34 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Feb 24 01:22:34 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Feb 24 01:22:35 *	Authenticating via SASL as oni (PLAIN)
+Feb 24 01:22:35 *	SASL authentication failed
+Feb 24 01:22:36 *	SASL authentication aborted
+Feb 24 01:22:37 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Feb 24 01:22:37 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Feb 24 01:22:37 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Feb 24 01:22:37 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Feb 24 01:22:37 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Feb 24 01:22:37 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Feb 24 01:22:37 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Feb 24 01:22:37 *	There are 66 users and 32942 invisible on 28 servers
+Feb 24 01:22:37 *	41 :IRC Operators online
+Feb 24 01:22:37 *	37 :unknown connection(s)
+Feb 24 01:22:37 *	22548 :channels formed
+Feb 24 01:22:37 *	I have 2116 clients and 1 servers
+Feb 24 01:22:37 *	2116 3361 :Current local users 2116, max 3361
+Feb 24 01:22:37 *	33008 36895 :Current global users 33008, max 36895
+Feb 24 01:22:37 *	Highest connection count: 3362 (3361 clients) (249413 connections received)
+Feb 24 01:22:37 *	- molybdenum.libera.chat Message of the Day - 
+Feb 24 01:22:37 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	- Molybdenum has been known throughout history, though its
+Feb 24 01:22:37 *	- properties meant that it was confused with lead ores. It was
+Feb 24 01:22:37 *	- first identified as a distinct element in 1778, meaning our
+Feb 24 01:22:37 *	- modern understanding of its existence reaches about as far
+Feb 24 01:22:37 *	- back as American independence.
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Feb 24 01:22:37 *	- highest temperature of any element.
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	- While pure molybdenum is only about as strong as tooth enamel,
+Feb 24 01:22:37 *	- it forms strong alloys that are resistant to corrosion and
+Feb 24 01:22:37 *	- stable under varying temperatures. As a result, these alloys
+Feb 24 01:22:37 *	- are used for metal armour plates, high-performance aircraft
+Feb 24 01:22:37 *	- parts, and pumps for molten metal flows.
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	- In its elemental form, it can be used as a fertiliser, and the
+Feb 24 01:22:37 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Feb 24 01:22:37 *	- an important medical radioisotope used for 3D bone scans and
+Feb 24 01:22:37 *	- the investigation of blood flow when diagnosing heart disease.
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	- Welcome to Libera Chat, the IRC network for
+Feb 24 01:22:37 *	- free & open-source software and peer directed projects.
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	- Use of Libera Chat is governed by our network policies.
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	- To reduce network abuses we perform open proxy checks
+Feb 24 01:22:37 *	- on hosts at connection time.
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	- Please visit us in #libera for questions and support.
+Feb 24 01:22:37 *	-  
+Feb 24 01:22:37 *	- Website and documentation:  https://libera.chat
+Feb 24 01:22:37 *	- Webchat:                    https://web.libera.chat
+Feb 24 01:22:37 *	- Network policies:           https://libera.chat/policies
+Feb 24 01:22:37 *	- Email:                      support@libera.chat
+Feb 24 01:22:37 *	End of /MOTD command.
+Feb 24 01:36:39 *	No ping reply for 291 seconds, disconnecting.
+Feb 24 01:36:39 *	Disconnected ()
+Feb 24 01:36:49 *	Looking up irc.us.libera.chat
+Feb 24 01:36:49 *	Connecting to irc.us.libera.chat (2604:6600:2002:15::2:6697)
+Feb 24 01:36:51 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Feb 24 01:36:51 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Feb 24 01:36:51 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Feb 24 01:36:51 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Feb 24 01:36:51 *	* Subject: /CN=silver.libera.chat
+Feb 24 01:36:51 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Feb 24 01:36:51 *	* Certification info:
+Feb 24 01:36:51 *	  Subject:
+Feb 24 01:36:51 *	    CN=silver.libera.chat
+Feb 24 01:36:51 *	  Issuer:
+Feb 24 01:36:51 *	    C=US
+Feb 24 01:36:51 *	    O=Let's Encrypt
+Feb 24 01:36:51 *	    CN=R3
+Feb 24 01:36:51 *	  Public key algorithm: rsaEncryption (4096 bits)
+Feb 24 01:36:51 *	  Sign algorithm sha256WithRSAEncryption
+Feb 24 01:36:51 *	  Valid since Jan 29 16:02:53 2024 GM to Apr 28 16:02:52 2024 GM
+Feb 24 01:36:51 *	* Cipher info:
+Feb 24 01:36:51 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Feb 24 01:36:51 *	Connected. Now logging in.
+Feb 24 01:36:51 *	*** Checking Ident
+Feb 24 01:36:51 *	*** Looking up your hostname...
+Feb 24 01:36:51 *	*** Found your hostname: 2603-9001-5f05-7440-0000-40b6-bd17-21c8.inf6.spectrum.com
+Feb 24 01:36:56 *	*** No Ident response
+Feb 24 01:36:56 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512,SCRAM-SHA-256,SCRAM-SHA-1 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Feb 24 01:36:56 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Feb 24 01:36:56 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Feb 24 01:36:57 *	Authenticating via SASL as oni (PLAIN)
+Feb 24 01:36:57 *	SASL authentication failed
+Feb 24 01:36:58 *	SASL authentication aborted
+Feb 24 01:37:00 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Feb 24 01:37:00 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Feb 24 01:37:00 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Feb 24 01:37:00 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Feb 24 01:37:00 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Feb 24 01:37:00 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Feb 24 01:37:00 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Feb 24 01:37:00 *	There are 66 users and 32945 invisible on 28 servers
+Feb 24 01:37:00 *	41 :IRC Operators online
+Feb 24 01:37:00 *	1 :unknown connection(s)
+Feb 24 01:37:00 *	22544 :channels formed
+Feb 24 01:37:00 *	I have 2100 clients and 1 servers
+Feb 24 01:37:00 *	2100 2780 :Current local users 2100, max 2780
+Feb 24 01:37:00 *	33011 36895 :Current global users 33011, max 36895
+Feb 24 01:37:00 *	Highest connection count: 2781 (2780 clients) (283323 connections received)
+Feb 24 01:37:00 *	- silver.libera.chat Message of the Day - 
+Feb 24 01:37:00 *	- This server is provided by Psychz Networks.
+Feb 24 01:37:00 *	-  
+Feb 24 01:37:00 *	- Welcome to Libera Chat, the IRC network for
+Feb 24 01:37:00 *	- free & open-source software and peer directed projects.
+Feb 24 01:37:00 *	-  
+Feb 24 01:37:00 *	- Use of Libera Chat is governed by our network policies.
+Feb 24 01:37:00 *	-  
+Feb 24 01:37:00 *	- To reduce network abuses we perform open proxy checks
+Feb 24 01:37:00 *	- on hosts at connection time.
+Feb 24 01:37:00 *	-  
+Feb 24 01:37:00 *	- Please visit us in #libera for questions and support.
+Feb 24 01:37:00 *	-  
+Feb 24 01:37:00 *	- Website and documentation:  https://libera.chat
+Feb 24 01:37:00 *	- Webchat:                    https://web.libera.chat
+Feb 24 01:37:00 *	- Network policies:           https://libera.chat/policies
+Feb 24 01:37:00 *	- Email:                      support@libera.chat
+Feb 24 01:37:00 *	End of /MOTD command.
+Feb 24 01:40:39 *	No ping reply for 90 seconds, disconnecting.
+Feb 24 01:40:39 *	Disconnected ()
+Feb 24 01:40:49 *	Looking up irc.us.libera.chat
+Feb 24 01:40:49 *	Connecting to irc.us.libera.chat (2604:6600:2002:15::2:6697)
+Feb 24 01:40:50 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Feb 24 01:40:50 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Feb 24 01:40:50 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Feb 24 01:40:50 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Feb 24 01:40:50 *	* Subject: /CN=silver.libera.chat
+Feb 24 01:40:50 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Feb 24 01:40:50 *	* Certification info:
+Feb 24 01:40:50 *	  Subject:
+Feb 24 01:40:50 *	    CN=silver.libera.chat
+Feb 24 01:40:50 *	  Issuer:
+Feb 24 01:40:50 *	    C=US
+Feb 24 01:40:50 *	    O=Let's Encrypt
+Feb 24 01:40:50 *	    CN=R3
+Feb 24 01:40:50 *	  Public key algorithm: rsaEncryption (4096 bits)
+Feb 24 01:40:50 *	  Sign algorithm sha256WithRSAEncryption
+Feb 24 01:40:50 *	  Valid since Jan 29 16:02:53 2024 GM to Apr 28 16:02:52 2024 GM
+Feb 24 01:40:50 *	* Cipher info:
+Feb 24 01:40:50 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Feb 24 01:40:50 *	Connected. Now logging in.
+Feb 24 01:40:50 *	*** Checking Ident
+Feb 24 01:40:50 *	*** Looking up your hostname...
+Feb 24 01:40:50 *	*** Couldn't look up your hostname
+Feb 24 01:40:57 *	*** No Ident response
+Feb 24 01:40:58 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512,SCRAM-SHA-256,SCRAM-SHA-1 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Feb 24 01:40:58 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Feb 24 01:40:58 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Feb 24 01:40:59 *	Authenticating via SASL as oni (PLAIN)
+Feb 24 01:40:59 *	SASL authentication failed
+Feb 24 01:40:59 *	SASL authentication aborted
+Feb 24 01:41:00 *	Welcome to the Libera.Chat Internet Relay Chat Network onikage01
+Feb 24 01:41:00 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Feb 24 01:41:00 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Feb 24 01:41:00 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Feb 24 01:41:00 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Feb 24 01:41:00 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Feb 24 01:41:00 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Feb 24 01:41:00 *	There are 66 users and 32961 invisible on 28 servers
+Feb 24 01:41:00 *	41 :IRC Operators online
+Feb 24 01:41:00 *	1 :unknown connection(s)
+Feb 24 01:41:00 *	22539 :channels formed
+Feb 24 01:41:00 *	I have 2100 clients and 1 servers
+Feb 24 01:41:00 *	2100 2780 :Current local users 2100, max 2780
+Feb 24 01:41:00 *	33027 36895 :Current global users 33027, max 36895
+Feb 24 01:41:00 *	Highest connection count: 2781 (2780 clients) (283324 connections received)
+Feb 24 01:41:00 *	- silver.libera.chat Message of the Day - 
+Feb 24 01:41:00 *	- This server is provided by Psychz Networks.
+Feb 24 01:41:00 *	-  
+Feb 24 01:41:00 *	- Welcome to Libera Chat, the IRC network for
+Feb 24 01:41:00 *	- free & open-source software and peer directed projects.
+Feb 24 01:41:00 *	-  
+Feb 24 01:41:00 *	- Use of Libera Chat is governed by our network policies.
+Feb 24 01:41:00 *	-  
+Feb 24 01:41:00 *	- To reduce network abuses we perform open proxy checks
+Feb 24 01:41:00 *	- on hosts at connection time.
+Feb 24 01:41:00 *	-  
+Feb 24 01:41:00 *	- Please visit us in #libera for questions and support.
+Feb 24 01:41:00 *	-  
+Feb 24 01:41:00 *	- Website and documentation:  https://libera.chat
+Feb 24 01:41:00 *	- Webchat:                    https://web.libera.chat
+Feb 24 01:41:00 *	- Network policies:           https://libera.chat/policies
+Feb 24 01:41:00 *	- Email:                      support@libera.chat
+Feb 24 01:41:00 *	End of /MOTD command.
+Feb 24 01:41:10 Sysinfo plugin unloaded
+Feb 24 01:41:10 Checksum plugin unloaded
+**** ENDING LOGGING AT Sat Feb 24 01:41:10 2024
+
+**** BEGIN LOGGING AT Fri Mar 22 22:15:44 2024
+
+Mar 22 22:15:44 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Mar 22 22:15:44 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Mar 22 22:15:44 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Mar 22 22:15:44 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Mar 22 22:15:44 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Mar 22 22:15:44 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Mar 22 22:15:44 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Mar 22 22:15:44 *	There are 69 users and 33237 invisible on 28 servers
+Mar 22 22:15:44 *	41 :IRC Operators online
+Mar 22 22:15:44 *	1 :unknown connection(s)
+Mar 22 22:15:44 *	22815 :channels formed
+Mar 22 22:15:44 *	I have 2159 clients and 1 servers
+Mar 22 22:15:44 *	2159 2884 :Current local users 2159, max 2884
+Mar 22 22:15:44 *	33306 37286 :Current global users 33306, max 37286
+Mar 22 22:15:44 *	Highest connection count: 2885 (2884 clients) (369482 connections received)
+Mar 22 22:15:44 *	- silver.libera.chat Message of the Day - 
+Mar 22 22:15:44 *	- This server is provided by Psychz Networks.
+Mar 22 22:15:44 *	-  
+Mar 22 22:15:44 *	- Welcome to Libera Chat, the IRC network for
+Mar 22 22:15:44 *	- free & open-source software and peer directed projects.
+Mar 22 22:15:44 *	-  
+Mar 22 22:15:44 *	- Use of Libera Chat is governed by our network policies.
+Mar 22 22:15:44 *	-  
+Mar 22 22:15:44 *	- To reduce network abuses we perform open proxy checks
+Mar 22 22:15:44 *	- on hosts at connection time.
+Mar 22 22:15:44 *	-  
+Mar 22 22:15:44 *	- Please visit us in #libera for questions and support.
+Mar 22 22:15:44 *	-  
+Mar 22 22:15:44 *	- Website and documentation:  https://libera.chat
+Mar 22 22:15:44 *	- Webchat:                    https://web.libera.chat
+Mar 22 22:15:44 *	- Network policies:           https://libera.chat/policies
+Mar 22 22:15:44 *	- Email:                      support@libera.chat
+Mar 22 22:15:44 *	End of /MOTD command.
+Mar 22 22:15:44 *	oni_00 sets mode +Z on oni_00
+Mar 22 22:15:44 *	oni_00 sets mode +i on oni_00
+Mar 22 22:15:44 *	oni_00 sets mode +w on oni_00
+Mar 22 22:19:19 Sysinfo plugin unloaded
+Mar 22 22:19:19 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Mar 22 22:19:19 2024
+
+**** BEGIN LOGGING AT Thu Mar 28 23:02:12 2024
+
+Mar 28 23:02:11 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Mar 28 23:02:11 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Mar 28 23:02:11 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Mar 28 23:02:11 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Mar 28 23:02:11 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Mar 28 23:02:11 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Mar 28 23:02:11 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Mar 28 23:02:11 *	There are 73 users and 33392 invisible on 28 servers
+Mar 28 23:02:11 *	42 :IRC Operators online
+Mar 28 23:02:11 *	123 :unknown connection(s)
+Mar 28 23:02:11 *	22823 :channels formed
+Mar 28 23:02:11 *	I have 2191 clients and 1 servers
+Mar 28 23:02:11 *	2191 2884 :Current local users 2191, max 2884
+Mar 28 23:02:11 *	33465 37286 :Current global users 33465, max 37286
+Mar 28 23:02:11 *	Highest connection count: 2885 (2884 clients) (384273 connections received)
+Mar 28 23:02:11 *	- silver.libera.chat Message of the Day - 
+Mar 28 23:02:11 *	- This server is provided by Psychz Networks.
+Mar 28 23:02:11 *	-  
+Mar 28 23:02:11 *	- Welcome to Libera Chat, the IRC network for
+Mar 28 23:02:11 *	- free & open-source software and peer directed projects.
+Mar 28 23:02:11 *	-  
+Mar 28 23:02:11 *	- Use of Libera Chat is governed by our network policies.
+Mar 28 23:02:11 *	-  
+Mar 28 23:02:11 *	- To reduce network abuses we perform open proxy checks
+Mar 28 23:02:11 *	- on hosts at connection time.
+Mar 28 23:02:11 *	-  
+Mar 28 23:02:11 *	- Please visit us in #libera for questions and support.
+Mar 28 23:02:11 *	-  
+Mar 28 23:02:11 *	- Website and documentation:  https://libera.chat
+Mar 28 23:02:11 *	- Webchat:                    https://web.libera.chat
+Mar 28 23:02:11 *	- Network policies:           https://libera.chat/policies
+Mar 28 23:02:11 *	- Email:                      support@libera.chat
+Mar 28 23:02:11 *	End of /MOTD command.
+Mar 28 23:02:11 *	oni_00 sets mode +Z on oni_00
+Mar 28 23:02:11 *	oni_00 sets mode +i on oni_00
+Mar 28 23:02:11 *	oni_00 sets mode +w on oni_00
+Mar 28 23:18:53 Sysinfo plugin unloaded
+Mar 28 23:18:53 Checksum plugin unloaded
+**** ENDING LOGGING AT Thu Mar 28 23:18:53 2024
+
+**** BEGIN LOGGING AT Thu Mar 28 23:45:18 2024
+
+Mar 28 23:45:18 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Mar 28 23:45:18 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Mar 28 23:45:18 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Mar 28 23:45:18 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Mar 28 23:45:18 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Mar 28 23:45:18 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Mar 28 23:45:18 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Mar 28 23:45:18 *	There are 73 users and 33326 invisible on 28 servers
+Mar 28 23:45:18 *	42 :IRC Operators online
+Mar 28 23:45:18 *	305 :unknown connection(s)
+Mar 28 23:45:18 *	22779 :channels formed
+Mar 28 23:45:18 *	I have 2229 clients and 1 servers
+Mar 28 23:45:18 *	2229 2884 :Current local users 2229, max 2884
+Mar 28 23:45:18 *	33399 37286 :Current global users 33399, max 37286
+Mar 28 23:45:18 *	Highest connection count: 2885 (2884 clients) (384369 connections received)
+Mar 28 23:45:18 *	- silver.libera.chat Message of the Day - 
+Mar 28 23:45:18 *	- This server is provided by Psychz Networks.
+Mar 28 23:45:18 *	-  
+Mar 28 23:45:18 *	- Welcome to Libera Chat, the IRC network for
+Mar 28 23:45:18 *	- free & open-source software and peer directed projects.
+Mar 28 23:45:18 *	-  
+Mar 28 23:45:18 *	- Use of Libera Chat is governed by our network policies.
+Mar 28 23:45:18 *	-  
+Mar 28 23:45:18 *	- To reduce network abuses we perform open proxy checks
+Mar 28 23:45:18 *	- on hosts at connection time.
+Mar 28 23:45:18 *	-  
+Mar 28 23:45:18 *	- Please visit us in #libera for questions and support.
+Mar 28 23:45:18 *	-  
+Mar 28 23:45:18 *	- Website and documentation:  https://libera.chat
+Mar 28 23:45:18 *	- Webchat:                    https://web.libera.chat
+Mar 28 23:45:18 *	- Network policies:           https://libera.chat/policies
+Mar 28 23:45:18 *	- Email:                      support@libera.chat
+Mar 28 23:45:18 *	End of /MOTD command.
+Mar 28 23:45:18 *	oni_00 sets mode +Z on oni_00
+Mar 28 23:45:18 *	oni_00 sets mode +i on oni_00
+Mar 28 23:45:18 *	oni_00 sets mode +w on oni_00
+Mar 29 02:56:06 Sysinfo plugin unloaded
+Mar 29 02:56:06 Checksum plugin unloaded
+**** ENDING LOGGING AT Fri Mar 29 02:56:06 2024
+
+**** BEGIN LOGGING AT Sat Mar 30 21:28:58 2024
+
+Mar 30 21:28:58 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Mar 30 21:28:58 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Mar 30 21:28:58 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Mar 30 21:28:58 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Mar 30 21:28:58 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Mar 30 21:28:58 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Mar 30 21:28:58 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Mar 30 21:28:58 *	There are 73 users and 33057 invisible on 28 servers
+Mar 30 21:28:58 *	40 :IRC Operators online
+Mar 30 21:28:58 *	22853 :channels formed
+Mar 30 21:28:58 *	I have 2226 clients and 1 servers
+Mar 30 21:28:58 *	2226 2884 :Current local users 2226, max 2884
+Mar 30 21:28:58 *	33130 37286 :Current global users 33130, max 37286
+Mar 30 21:28:58 *	Highest connection count: 2885 (2884 clients) (388637 connections received)
+Mar 30 21:28:58 *	- silver.libera.chat Message of the Day - 
+Mar 30 21:28:58 *	- This server is provided by Psychz Networks.
+Mar 30 21:28:58 *	-  
+Mar 30 21:28:58 *	- Welcome to Libera Chat, the IRC network for
+Mar 30 21:28:58 *	- free & open-source software and peer directed projects.
+Mar 30 21:28:58 *	-  
+Mar 30 21:28:58 *	- Use of Libera Chat is governed by our network policies.
+Mar 30 21:28:58 *	-  
+Mar 30 21:28:58 *	- To reduce network abuses we perform open proxy checks
+Mar 30 21:28:58 *	- on hosts at connection time.
+Mar 30 21:28:58 *	-  
+Mar 30 21:28:58 *	- Please visit us in #libera for questions and support.
+Mar 30 21:28:58 *	-  
+Mar 30 21:28:58 *	- Website and documentation:  https://libera.chat
+Mar 30 21:28:58 *	- Webchat:                    https://web.libera.chat
+Mar 30 21:28:58 *	- Network policies:           https://libera.chat/policies
+Mar 30 21:28:58 *	- Email:                      support@libera.chat
+Mar 30 21:28:58 *	End of /MOTD command.
+Mar 30 21:28:58 *	oni_00 sets mode +Z on oni_00
+Mar 30 21:28:58 *	oni_00 sets mode +i on oni_00
+Mar 30 21:28:58 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Sat Mar 30 21:39:11 2024
+
+**** BEGIN LOGGING AT Sat Mar 30 21:39:11 2024
+
+Mar 30 23:04:08 *	No ping reply for 2272 seconds, disconnecting.
+Mar 30 23:04:08 *	Disconnected ()
+Mar 30 23:04:18 *	Looking up irc.us.libera.chat
+Mar 30 23:04:18 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+Mar 30 23:04:19 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Mar 30 23:04:19 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Mar 30 23:04:19 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Mar 30 23:04:19 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Mar 30 23:04:19 *	* Subject: /CN=molybdenum.libera.chat
+Mar 30 23:04:19 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Mar 30 23:04:19 *	* Certification info:
+Mar 30 23:04:19 *	  Subject:
+Mar 30 23:04:19 *	    CN=molybdenum.libera.chat
+Mar 30 23:04:19 *	  Issuer:
+Mar 30 23:04:19 *	    C=US
+Mar 30 23:04:19 *	    O=Let's Encrypt
+Mar 30 23:04:19 *	    CN=R3
+Mar 30 23:04:19 *	  Public key algorithm: rsaEncryption (4096 bits)
+Mar 30 23:04:19 *	  Sign algorithm sha256WithRSAEncryption
+Mar 30 23:04:19 *	  Valid since Feb  5 05:58:47 2024 GM to May  5 05:58:46 2024 GM
+Mar 30 23:04:19 *	* Cipher info:
+Mar 30 23:04:19 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Mar 30 23:04:19 *	Connected. Now logging in.
+Mar 30 23:04:19 *	*** Checking Ident
+Mar 30 23:04:19 *	*** Looking up your hostname...
+Mar 30 23:04:19 *	*** Couldn't look up your hostname
+Mar 30 23:04:25 *	*** No Ident response
+Mar 30 23:04:25 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Mar 30 23:04:25 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Mar 30 23:04:25 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Mar 30 23:04:26 *	Authenticating via SASL as oni (PLAIN)
+Mar 30 23:04:26 *	SASL authentication failed
+Mar 30 23:04:27 *	SASL authentication aborted
+Mar 30 23:04:27 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Mar 30 23:04:27 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Mar 30 23:04:27 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Mar 30 23:04:27 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Mar 30 23:04:27 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Mar 30 23:04:27 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Mar 30 23:04:27 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Mar 30 23:04:27 *	There are 71 users and 32956 invisible on 27 servers
+Mar 30 23:04:27 *	40 :IRC Operators online
+Mar 30 23:04:27 *	344 :unknown connection(s)
+Mar 30 23:04:27 *	22722 :channels formed
+Mar 30 23:04:27 *	I have 2228 clients and 1 servers
+Mar 30 23:04:27 *	2228 3361 :Current local users 2228, max 3361
+Mar 30 23:04:27 *	33027 37286 :Current global users 33027, max 37286
+Mar 30 23:04:27 *	Highest connection count: 3362 (3361 clients) (399859 connections received)
+Mar 30 23:04:27 *	- molybdenum.libera.chat Message of the Day - 
+Mar 30 23:04:27 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	- Molybdenum has been known throughout history, though its
+Mar 30 23:04:27 *	- properties meant that it was confused with lead ores. It was
+Mar 30 23:04:27 *	- first identified as a distinct element in 1778, meaning our
+Mar 30 23:04:27 *	- modern understanding of its existence reaches about as far
+Mar 30 23:04:27 *	- back as American independence.
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Mar 30 23:04:27 *	- highest temperature of any element.
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	- While pure molybdenum is only about as strong as tooth enamel,
+Mar 30 23:04:27 *	- it forms strong alloys that are resistant to corrosion and
+Mar 30 23:04:27 *	- stable under varying temperatures. As a result, these alloys
+Mar 30 23:04:27 *	- are used for metal armour plates, high-performance aircraft
+Mar 30 23:04:27 *	- parts, and pumps for molten metal flows.
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	- In its elemental form, it can be used as a fertiliser, and the
+Mar 30 23:04:27 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Mar 30 23:04:27 *	- an important medical radioisotope used for 3D bone scans and
+Mar 30 23:04:27 *	- the investigation of blood flow when diagnosing heart disease.
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	- Welcome to Libera Chat, the IRC network for
+Mar 30 23:04:27 *	- free & open-source software and peer directed projects.
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	- Use of Libera Chat is governed by our network policies.
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	- To reduce network abuses we perform open proxy checks
+Mar 30 23:04:27 *	- on hosts at connection time.
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	- Please visit us in #libera for questions and support.
+Mar 30 23:04:27 *	-  
+Mar 30 23:04:27 *	- Website and documentation:  https://libera.chat
+Mar 30 23:04:27 *	- Webchat:                    https://web.libera.chat
+Mar 30 23:04:27 *	- Network policies:           https://libera.chat/policies
+Mar 30 23:04:27 *	- Email:                      support@libera.chat
+Mar 30 23:04:27 *	End of /MOTD command.
+Mar 31 01:19:54 Sysinfo plugin unloaded
+Mar 31 01:19:54 Checksum plugin unloaded
+**** ENDING LOGGING AT Sun Mar 31 01:19:54 2024
+
+**** BEGIN LOGGING AT Mon Apr  1 01:24:01 2024
+
+Apr 01 01:24:01 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Apr 01 01:24:01 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Apr 01 01:24:01 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Apr 01 01:24:01 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 01 01:24:01 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Apr 01 01:24:01 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Apr 01 01:24:01 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Apr 01 01:24:01 *	There are 71 users and 33260 invisible on 28 servers
+Apr 01 01:24:01 *	41 :IRC Operators online
+Apr 01 01:24:01 *	25 :unknown connection(s)
+Apr 01 01:24:01 *	22659 :channels formed
+Apr 01 01:24:01 *	I have 2232 clients and 1 servers
+Apr 01 01:24:01 *	2232 2884 :Current local users 2232, max 2884
+Apr 01 01:24:01 *	33331 37286 :Current global users 33331, max 37286
+Apr 01 01:24:01 *	Highest connection count: 2885 (2884 clients) (391078 connections received)
+Apr 01 01:24:01 *	- silver.libera.chat Message of the Day - 
+Apr 01 01:24:01 *	- This server is provided by Psychz Networks.
+Apr 01 01:24:01 *	-  
+Apr 01 01:24:01 *	- Welcome to Libera Chat, the IRC network for
+Apr 01 01:24:01 *	- free & open-source software and peer directed projects.
+Apr 01 01:24:01 *	-  
+Apr 01 01:24:01 *	- Use of Libera Chat is governed by our network policies.
+Apr 01 01:24:01 *	-  
+Apr 01 01:24:01 *	- To reduce network abuses we perform open proxy checks
+Apr 01 01:24:01 *	- on hosts at connection time.
+Apr 01 01:24:01 *	-  
+Apr 01 01:24:01 *	- Please visit us in #libera for questions and support.
+Apr 01 01:24:01 *	-  
+Apr 01 01:24:01 *	- Website and documentation:  https://libera.chat
+Apr 01 01:24:01 *	- Webchat:                    https://web.libera.chat
+Apr 01 01:24:01 *	- Network policies:           https://libera.chat/policies
+Apr 01 01:24:01 *	- Email:                      support@libera.chat
+Apr 01 01:24:01 *	End of /MOTD command.
+Apr 01 01:24:01 *	oni_00 sets mode +Z on oni_00
+Apr 01 01:24:01 *	oni_00 sets mode +i on oni_00
+Apr 01 01:24:01 *	oni_00 sets mode +w on oni_00
+Apr 01 02:23:38 Sysinfo plugin unloaded
+Apr 01 02:23:38 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Apr  1 02:23:38 2024
+
+**** BEGIN LOGGING AT Tue Apr  2 00:22:55 2024
+
+Apr 02 00:22:56 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Apr 02 00:22:56 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Apr 02 00:22:56 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Apr 02 00:22:56 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 02 00:22:56 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Apr 02 00:22:56 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Apr 02 00:22:56 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Apr 02 00:22:56 *	There are 71 users and 33468 invisible on 28 servers
+Apr 02 00:22:56 *	43 :IRC Operators online
+Apr 02 00:22:56 *	50 :unknown connection(s)
+Apr 02 00:22:56 *	22802 :channels formed
+Apr 02 00:22:56 *	I have 2268 clients and 1 servers
+Apr 02 00:22:56 *	2268 3361 :Current local users 2268, max 3361
+Apr 02 00:22:56 *	33539 37286 :Current global users 33539, max 37286
+Apr 02 00:22:56 *	Highest connection count: 3362 (3361 clients) (405883 connections received)
+Apr 02 00:22:56 *	- molybdenum.libera.chat Message of the Day - 
+Apr 02 00:22:56 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	- Molybdenum has been known throughout history, though its
+Apr 02 00:22:56 *	- properties meant that it was confused with lead ores. It was
+Apr 02 00:22:56 *	- first identified as a distinct element in 1778, meaning our
+Apr 02 00:22:56 *	- modern understanding of its existence reaches about as far
+Apr 02 00:22:56 *	- back as American independence.
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Apr 02 00:22:56 *	- highest temperature of any element.
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	- While pure molybdenum is only about as strong as tooth enamel,
+Apr 02 00:22:56 *	- it forms strong alloys that are resistant to corrosion and
+Apr 02 00:22:56 *	- stable under varying temperatures. As a result, these alloys
+Apr 02 00:22:56 *	- are used for metal armour plates, high-performance aircraft
+Apr 02 00:22:56 *	- parts, and pumps for molten metal flows.
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	- In its elemental form, it can be used as a fertiliser, and the
+Apr 02 00:22:56 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Apr 02 00:22:56 *	- an important medical radioisotope used for 3D bone scans and
+Apr 02 00:22:56 *	- the investigation of blood flow when diagnosing heart disease.
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	- Welcome to Libera Chat, the IRC network for
+Apr 02 00:22:56 *	- free & open-source software and peer directed projects.
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	- Use of Libera Chat is governed by our network policies.
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	- To reduce network abuses we perform open proxy checks
+Apr 02 00:22:56 *	- on hosts at connection time.
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	- Please visit us in #libera for questions and support.
+Apr 02 00:22:56 *	-  
+Apr 02 00:22:56 *	- Website and documentation:  https://libera.chat
+Apr 02 00:22:56 *	- Webchat:                    https://web.libera.chat
+Apr 02 00:22:56 *	- Network policies:           https://libera.chat/policies
+Apr 02 00:22:56 *	- Email:                      support@libera.chat
+Apr 02 00:22:56 *	End of /MOTD command.
+Apr 02 00:22:56 *	oni_00 sets mode +Z on oni_00
+Apr 02 00:22:56 *	oni_00 sets mode +i on oni_00
+Apr 02 00:22:56 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Tue Apr  2 00:35:43 2024
+
+**** BEGIN LOGGING AT Tue Apr  2 23:50:16 2024
+
+Apr 02 23:50:19 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Apr 02 23:50:19 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Apr 02 23:50:19 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Apr 02 23:50:19 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 02 23:50:19 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Apr 02 23:50:19 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Apr 02 23:50:19 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Apr 02 23:50:19 *	There are 72 users and 33696 invisible on 27 servers
+Apr 02 23:50:19 *	42 :IRC Operators online
+Apr 02 23:50:19 *	175 :unknown connection(s)
+Apr 02 23:50:19 *	22730 :channels formed
+Apr 02 23:50:19 *	I have 2288 clients and 1 servers
+Apr 02 23:50:19 *	2288 3361 :Current local users 2288, max 3361
+Apr 02 23:50:19 *	33768 37286 :Current global users 33768, max 37286
+Apr 02 23:50:19 *	Highest connection count: 3362 (3361 clients) (409597 connections received)
+Apr 02 23:50:19 *	- molybdenum.libera.chat Message of the Day - 
+Apr 02 23:50:19 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Apr 02 23:50:19 *	-  
+Apr 02 23:50:20 *	- Molybdenum has been known throughout history, though its
+Apr 02 23:50:20 *	- properties meant that it was confused with lead ores. It was
+Apr 02 23:50:20 *	- first identified as a distinct element in 1778, meaning our
+Apr 02 23:50:20 *	- modern understanding of its existence reaches about as far
+Apr 02 23:50:20 *	- back as American independence.
+Apr 02 23:50:20 *	-  
+Apr 02 23:50:20 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Apr 02 23:50:20 *	- highest temperature of any element.
+Apr 02 23:50:20 *	-  
+Apr 02 23:50:20 *	- While pure molybdenum is only about as strong as tooth enamel,
+Apr 02 23:50:20 *	- it forms strong alloys that are resistant to corrosion and
+Apr 02 23:50:20 *	- stable under varying temperatures. As a result, these alloys
+Apr 02 23:50:20 *	- are used for metal armour plates, high-performance aircraft
+Apr 02 23:50:20 *	- parts, and pumps for molten metal flows.
+Apr 02 23:50:20 *	-  
+Apr 02 23:50:20 *	- In its elemental form, it can be used as a fertiliser, and the
+Apr 02 23:50:20 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Apr 02 23:50:20 *	- an important medical radioisotope used for 3D bone scans and
+Apr 02 23:50:20 *	- the investigation of blood flow when diagnosing heart disease.
+Apr 02 23:50:20 *	-  
+Apr 02 23:50:20 *	-  
+Apr 02 23:50:20 *	- Welcome to Libera Chat, the IRC network for
+Apr 02 23:50:20 *	- free & open-source software and peer directed projects.
+Apr 02 23:50:20 *	-  
+Apr 02 23:50:20 *	- Use of Libera Chat is governed by our network policies.
+Apr 02 23:50:20 *	-  
+Apr 02 23:50:20 *	- To reduce network abuses we perform open proxy checks
+Apr 02 23:50:20 *	- on hosts at connection time.
+Apr 02 23:50:20 *	-  
+Apr 02 23:50:20 *	- Please visit us in #libera for questions and support.
+Apr 02 23:50:20 *	-  
+Apr 02 23:50:20 *	- Website and documentation:  https://libera.chat
+Apr 02 23:50:20 *	- Webchat:                    https://web.libera.chat
+Apr 02 23:50:20 *	- Network policies:           https://libera.chat/policies
+Apr 02 23:50:20 *	- Email:                      support@libera.chat
+Apr 02 23:50:20 *	End of /MOTD command.
+Apr 02 23:50:20 *	oni_00 sets mode +Z on oni_00
+Apr 02 23:50:20 *	oni_00 sets mode +i on oni_00
+Apr 02 23:50:20 *	oni_00 sets mode +w on oni_00
+Apr 03 00:08:05 *	No ping reply for 64 seconds, disconnecting.
+Apr 03 00:08:05 *	Disconnected ()
+Apr 03 00:08:15 *	Looking up irc.us.libera.chat
+Apr 03 00:08:15 *	Connecting to irc.us.libera.chat (2604:6600:2002:15::2:6697)
+Apr 03 00:09:26 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 00:09:26 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 00:09:26 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 00:09:26 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Apr 03 00:09:26 *	* Subject: /CN=silver.libera.chat
+Apr 03 00:09:26 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Apr 03 00:09:26 *	* Certification info:
+Apr 03 00:09:26 *	  Subject:
+Apr 03 00:09:26 *	    CN=silver.libera.chat
+Apr 03 00:09:26 *	  Issuer:
+Apr 03 00:09:26 *	    C=US
+Apr 03 00:09:26 *	    O=Let's Encrypt
+Apr 03 00:09:26 *	    CN=R3
+Apr 03 00:09:26 *	  Public key algorithm: rsaEncryption (4096 bits)
+Apr 03 00:09:26 *	  Sign algorithm sha256WithRSAEncryption
+Apr 03 00:09:26 *	  Valid since Jan 29 16:02:53 2024 GM to Apr 28 16:02:52 2024 GM
+Apr 03 00:09:26 *	* Cipher info:
+Apr 03 00:09:26 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Apr 03 00:09:26 *	Connected. Now logging in.
+Apr 03 00:09:28 *	*** Checking Ident
+Apr 03 00:09:28 *	*** Looking up your hostname...
+Apr 03 00:09:28 *	*** Couldn't look up your hostname
+Apr 03 00:09:33 *	*** No Ident response
+Apr 03 00:09:33 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+Apr 03 00:09:33 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+Apr 03 00:09:34 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+Apr 03 00:09:34 *	Authenticating via SASL as oni (PLAIN)
+Apr 03 00:09:35 *	SASL authentication failed
+Apr 03 00:09:35 *	SASL authentication aborted
+Apr 03 00:09:39 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Apr 03 00:09:39 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Apr 03 00:09:39 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Apr 03 00:09:39 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 03 00:09:39 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Apr 03 00:09:39 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Apr 03 00:09:39 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Apr 03 00:09:39 *	There are 72 users and 33699 invisible on 27 servers
+Apr 03 00:09:39 *	42 :IRC Operators online
+Apr 03 00:09:39 *	194 :unknown connection(s)
+Apr 03 00:09:39 *	22715 :channels formed
+Apr 03 00:09:39 *	I have 2296 clients and 1 servers
+Apr 03 00:09:39 *	2296 2884 :Current local users 2296, max 2884
+Apr 03 00:09:39 *	33771 37286 :Current global users 33771, max 37286
+Apr 03 00:09:39 *	Highest connection count: 2885 (2884 clients) (396821 connections received)
+Apr 03 00:09:39 *	- silver.libera.chat Message of the Day - 
+Apr 03 00:09:39 *	- This server is provided by Psychz Networks.
+Apr 03 00:09:39 *	-  
+Apr 03 00:09:39 *	- Welcome to Libera Chat, the IRC network for
+Apr 03 00:09:39 *	- free & open-source software and peer directed projects.
+Apr 03 00:09:39 *	-  
+Apr 03 00:09:39 *	- Use of Libera Chat is governed by our network policies.
+Apr 03 00:09:39 *	-  
+Apr 03 00:09:39 *	- To reduce network abuses we perform open proxy checks
+Apr 03 00:09:39 *	- on hosts at connection time.
+Apr 03 00:09:39 *	-  
+Apr 03 00:09:39 *	- Please visit us in #libera for questions and support.
+Apr 03 00:09:39 *	-  
+Apr 03 00:09:39 *	- Website and documentation:  https://libera.chat
+Apr 03 00:09:39 *	- Webchat:                    https://web.libera.chat
+Apr 03 00:09:39 *	- Network policies:           https://libera.chat/policies
+Apr 03 00:09:39 *	- Email:                      support@libera.chat
+Apr 03 00:09:39 *	End of /MOTD command.
+Apr 03 00:12:05 *	No ping reply for 90 seconds, disconnecting.
+Apr 03 00:12:05 *	Disconnected ()
+Apr 03 00:12:15 *	Looking up irc.us.libera.chat
+Apr 03 00:12:21 *	Connecting to irc.us.libera.chat (2604:6600:2002:15::2:6697)
+Apr 03 00:12:23 *	Connection failed ((167772454) error:0A000126:SSL routines::unexpected eof while reading)
+**** ENDING LOGGING AT Wed Apr  3 00:13:11 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 00:24:51 2024
+
+Apr 03 00:24:50 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Apr 03 00:24:50 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Apr 03 00:24:50 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Apr 03 00:24:50 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 03 00:24:50 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Apr 03 00:24:50 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Apr 03 00:24:50 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Apr 03 00:24:50 *	There are 71 users and 33694 invisible on 27 servers
+Apr 03 00:24:50 *	42 :IRC Operators online
+Apr 03 00:24:50 *	65 :unknown connection(s)
+Apr 03 00:24:50 *	22731 :channels formed
+Apr 03 00:24:50 *	I have 2296 clients and 1 servers
+Apr 03 00:24:50 *	2296 3361 :Current local users 2296, max 3361
+Apr 03 00:24:50 *	33765 37286 :Current global users 33765, max 37286
+Apr 03 00:24:50 *	Highest connection count: 3362 (3361 clients) (409721 connections received)
+Apr 03 00:24:50 *	- molybdenum.libera.chat Message of the Day - 
+Apr 03 00:24:50 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	- Molybdenum has been known throughout history, though its
+Apr 03 00:24:50 *	- properties meant that it was confused with lead ores. It was
+Apr 03 00:24:50 *	- first identified as a distinct element in 1778, meaning our
+Apr 03 00:24:50 *	- modern understanding of its existence reaches about as far
+Apr 03 00:24:50 *	- back as American independence.
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Apr 03 00:24:50 *	- highest temperature of any element.
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	- While pure molybdenum is only about as strong as tooth enamel,
+Apr 03 00:24:50 *	- it forms strong alloys that are resistant to corrosion and
+Apr 03 00:24:50 *	- stable under varying temperatures. As a result, these alloys
+Apr 03 00:24:50 *	- are used for metal armour plates, high-performance aircraft
+Apr 03 00:24:50 *	- parts, and pumps for molten metal flows.
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	- In its elemental form, it can be used as a fertiliser, and the
+Apr 03 00:24:50 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Apr 03 00:24:50 *	- an important medical radioisotope used for 3D bone scans and
+Apr 03 00:24:50 *	- the investigation of blood flow when diagnosing heart disease.
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	- Welcome to Libera Chat, the IRC network for
+Apr 03 00:24:50 *	- free & open-source software and peer directed projects.
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	- Use of Libera Chat is governed by our network policies.
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	- To reduce network abuses we perform open proxy checks
+Apr 03 00:24:50 *	- on hosts at connection time.
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	- Please visit us in #libera for questions and support.
+Apr 03 00:24:50 *	-  
+Apr 03 00:24:50 *	- Website and documentation:  https://libera.chat
+Apr 03 00:24:50 *	- Webchat:                    https://web.libera.chat
+Apr 03 00:24:50 *	- Network policies:           https://libera.chat/policies
+Apr 03 00:24:50 *	- Email:                      support@libera.chat
+Apr 03 00:24:50 *	End of /MOTD command.
+Apr 03 00:24:50 *	oni_00 sets mode +Z on oni_00
+Apr 03 00:24:50 *	oni_00 sets mode +i on oni_00
+Apr 03 00:24:50 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Wed Apr  3 01:17:36 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:17:51 2024
+
+Apr 03 01:17:50 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Apr 03 01:17:50 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Apr 03 01:17:50 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Apr 03 01:17:50 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 03 01:17:50 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Apr 03 01:17:50 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Apr 03 01:17:50 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Apr 03 01:17:50 *	There are 71 users and 33915 invisible on 27 servers
+Apr 03 01:17:50 *	42 :IRC Operators online
+Apr 03 01:17:50 *	44 :unknown connection(s)
+Apr 03 01:17:50 *	22768 :channels formed
+Apr 03 01:17:50 *	I have 2327 clients and 1 servers
+Apr 03 01:17:50 *	2327 3361 :Current local users 2327, max 3361
+Apr 03 01:17:50 *	33986 37286 :Current global users 33986, max 37286
+Apr 03 01:17:50 *	Highest connection count: 3362 (3361 clients) (409890 connections received)
+Apr 03 01:17:50 *	- molybdenum.libera.chat Message of the Day - 
+Apr 03 01:17:50 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	- Molybdenum has been known throughout history, though its
+Apr 03 01:17:50 *	- properties meant that it was confused with lead ores. It was
+Apr 03 01:17:50 *	- first identified as a distinct element in 1778, meaning our
+Apr 03 01:17:50 *	- modern understanding of its existence reaches about as far
+Apr 03 01:17:50 *	- back as American independence.
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Apr 03 01:17:50 *	- highest temperature of any element.
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	- While pure molybdenum is only about as strong as tooth enamel,
+Apr 03 01:17:50 *	- it forms strong alloys that are resistant to corrosion and
+Apr 03 01:17:50 *	- stable under varying temperatures. As a result, these alloys
+Apr 03 01:17:50 *	- are used for metal armour plates, high-performance aircraft
+Apr 03 01:17:50 *	- parts, and pumps for molten metal flows.
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	- In its elemental form, it can be used as a fertiliser, and the
+Apr 03 01:17:50 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Apr 03 01:17:50 *	- an important medical radioisotope used for 3D bone scans and
+Apr 03 01:17:50 *	- the investigation of blood flow when diagnosing heart disease.
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	- Welcome to Libera Chat, the IRC network for
+Apr 03 01:17:50 *	- free & open-source software and peer directed projects.
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	- Use of Libera Chat is governed by our network policies.
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	- To reduce network abuses we perform open proxy checks
+Apr 03 01:17:50 *	- on hosts at connection time.
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	- Please visit us in #libera for questions and support.
+Apr 03 01:17:50 *	-  
+Apr 03 01:17:50 *	- Website and documentation:  https://libera.chat
+Apr 03 01:17:50 *	- Webchat:                    https://web.libera.chat
+Apr 03 01:17:50 *	- Network policies:           https://libera.chat/policies
+Apr 03 01:17:50 *	- Email:                      support@libera.chat
+Apr 03 01:17:50 *	End of /MOTD command.
+Apr 03 01:17:50 *	oni_00 sets mode +Z on oni_00
+Apr 03 01:17:50 *	oni_00 sets mode +i on oni_00
+Apr 03 01:17:50 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Wed Apr  3 01:18:41 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:18:56 2024
+
+Apr 03 01:18:55 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Apr 03 01:18:55 *	Your host is silver.libera.chat[2604:6600:2002:15::2/6697], running version solanum-1.0-dev
+Apr 03 01:18:55 *	This server was created Wed Nov 15 2023 at 03:39:04 UTC
+Apr 03 01:18:55 *	silver.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 03 01:18:55 *	ACCOUNTEXTBAN=a ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g MONITOR=100 KNOCK WHOX CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Apr 03 01:18:55 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Apr 03 01:18:55 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Apr 03 01:18:55 *	There are 71 users and 33925 invisible on 27 servers
+Apr 03 01:18:55 *	42 :IRC Operators online
+Apr 03 01:18:55 *	303 :unknown connection(s)
+Apr 03 01:18:55 *	22768 :channels formed
+Apr 03 01:18:55 *	I have 2372 clients and 1 servers
+Apr 03 01:18:55 *	2372 2884 :Current local users 2372, max 2884
+Apr 03 01:18:55 *	33996 37286 :Current global users 33996, max 37286
+Apr 03 01:18:55 *	Highest connection count: 2885 (2884 clients) (397075 connections received)
+Apr 03 01:18:55 *	- silver.libera.chat Message of the Day - 
+Apr 03 01:18:55 *	- This server is provided by Psychz Networks.
+Apr 03 01:18:55 *	-  
+Apr 03 01:18:55 *	- Welcome to Libera Chat, the IRC network for
+Apr 03 01:18:55 *	- free & open-source software and peer directed projects.
+Apr 03 01:18:55 *	-  
+Apr 03 01:18:55 *	- Use of Libera Chat is governed by our network policies.
+Apr 03 01:18:55 *	-  
+Apr 03 01:18:55 *	- To reduce network abuses we perform open proxy checks
+Apr 03 01:18:55 *	- on hosts at connection time.
+Apr 03 01:18:55 *	-  
+Apr 03 01:18:55 *	- Please visit us in #libera for questions and support.
+Apr 03 01:18:55 *	-  
+Apr 03 01:18:55 *	- Website and documentation:  https://libera.chat
+Apr 03 01:18:55 *	- Webchat:                    https://web.libera.chat
+Apr 03 01:18:55 *	- Network policies:           https://libera.chat/policies
+Apr 03 01:18:55 *	- Email:                      support@libera.chat
+Apr 03 01:18:55 *	End of /MOTD command.
+Apr 03 01:18:55 *	oni_00 sets mode +Z on oni_00
+Apr 03 01:18:55 *	oni_00 sets mode +i on oni_00
+Apr 03 01:18:55 *	oni_00 sets mode +w on oni_00
+**** ENDING LOGGING AT Wed Apr  3 01:31:33 2024
+
+**** BEGIN LOGGING AT Sun Apr  7 23:33:22 2024
+
+Apr 07 23:33:21 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+Apr 07 23:33:21 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+Apr 07 23:33:21 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+Apr 07 23:33:21 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+Apr 07 23:33:21 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+Apr 07 23:33:21 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+Apr 07 23:33:21 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+Apr 07 23:33:21 *	There are 68 users and 33401 invisible on 28 servers
+Apr 07 23:33:21 *	42 :IRC Operators online
+Apr 07 23:33:21 *	46 :unknown connection(s)
+Apr 07 23:33:21 *	22801 :channels formed
+Apr 07 23:33:21 *	I have 2196 clients and 1 servers
+Apr 07 23:33:21 *	2196 3361 :Current local users 2196, max 3361
+Apr 07 23:33:21 *	33469 37286 :Current global users 33469, max 37286
+Apr 07 23:33:21 *	Highest connection count: 3362 (3361 clients) (425684 connections received)
+Apr 07 23:33:21 *	- molybdenum.libera.chat Message of the Day - 
+Apr 07 23:33:21 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	- Molybdenum has been known throughout history, though its
+Apr 07 23:33:21 *	- properties meant that it was confused with lead ores. It was
+Apr 07 23:33:21 *	- first identified as a distinct element in 1778, meaning our
+Apr 07 23:33:21 *	- modern understanding of its existence reaches about as far
+Apr 07 23:33:21 *	- back as American independence.
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+Apr 07 23:33:21 *	- highest temperature of any element.
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	- While pure molybdenum is only about as strong as tooth enamel,
+Apr 07 23:33:21 *	- it forms strong alloys that are resistant to corrosion and
+Apr 07 23:33:21 *	- stable under varying temperatures. As a result, these alloys
+Apr 07 23:33:21 *	- are used for metal armour plates, high-performance aircraft
+Apr 07 23:33:21 *	- parts, and pumps for molten metal flows.
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	- In its elemental form, it can be used as a fertiliser, and the
+Apr 07 23:33:21 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+Apr 07 23:33:21 *	- an important medical radioisotope used for 3D bone scans and
+Apr 07 23:33:21 *	- the investigation of blood flow when diagnosing heart disease.
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	- Welcome to Libera Chat, the IRC network for
+Apr 07 23:33:21 *	- free & open-source software and peer directed projects.
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	- Use of Libera Chat is governed by our network policies.
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	- To reduce network abuses we perform open proxy checks
+Apr 07 23:33:21 *	- on hosts at connection time.
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	- Please visit us in #libera for questions and support.
+Apr 07 23:33:21 *	-  
+Apr 07 23:33:21 *	- Website and documentation:  https://libera.chat
+Apr 07 23:33:21 *	- Webchat:                    https://web.libera.chat
+Apr 07 23:33:21 *	- Network policies:           https://libera.chat/policies
+Apr 07 23:33:21 *	- Email:                      support@libera.chat
+Apr 07 23:33:21 *	End of /MOTD command.
+Apr 07 23:33:21 *	oni_00 sets mode +Z on oni_00
+Apr 07 23:33:21 *	oni_00 sets mode +i on oni_00
+Apr 07 23:33:21 *	oni_00 sets mode +w on oni_00
+**** BEGIN LOGGING AT Sun May 12 22:18:21 2024
+
+May 12 22:18:20 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+May 12 22:18:20 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+May 12 22:18:20 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+May 12 22:18:20 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+May 12 22:18:20 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+May 12 22:18:20 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+May 12 22:18:20 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+May 12 22:18:20 *	There are 67 users and 33256 invisible on 28 servers
+May 12 22:18:20 *	43 :IRC Operators online
+May 12 22:18:20 *	430 :unknown connection(s)
+May 12 22:18:20 *	22960 :channels formed
+May 12 22:18:20 *	I have 2216 clients and 1 servers
+May 12 22:18:20 *	2216 3361 :Current local users 2216, max 3361
+May 12 22:18:20 *	33323 37286 :Current global users 33323, max 37286
+May 12 22:18:20 *	Highest connection count: 3362 (3361 clients) (527816 connections received)
+May 12 22:18:20 *	- molybdenum.libera.chat Message of the Day - 
+May 12 22:18:20 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	- Molybdenum has been known throughout history, though its
+May 12 22:18:20 *	- properties meant that it was confused with lead ores. It was
+May 12 22:18:20 *	- first identified as a distinct element in 1778, meaning our
+May 12 22:18:20 *	- modern understanding of its existence reaches about as far
+May 12 22:18:20 *	- back as American independence.
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+May 12 22:18:20 *	- highest temperature of any element.
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	- While pure molybdenum is only about as strong as tooth enamel,
+May 12 22:18:20 *	- it forms strong alloys that are resistant to corrosion and
+May 12 22:18:20 *	- stable under varying temperatures. As a result, these alloys
+May 12 22:18:20 *	- are used for metal armour plates, high-performance aircraft
+May 12 22:18:20 *	- parts, and pumps for molten metal flows.
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	- In its elemental form, it can be used as a fertiliser, and the
+May 12 22:18:20 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+May 12 22:18:20 *	- an important medical radioisotope used for 3D bone scans and
+May 12 22:18:20 *	- the investigation of blood flow when diagnosing heart disease.
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	- Welcome to Libera Chat, the IRC network for
+May 12 22:18:20 *	- free & open-source software and peer directed projects.
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	- Use of Libera Chat is governed by our network policies.
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	- To reduce network abuses we perform open proxy checks
+May 12 22:18:20 *	- on hosts at connection time.
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	- Please visit us in #libera for questions and support.
+May 12 22:18:20 *	-  
+May 12 22:18:20 *	- Website and documentation:  https://libera.chat
+May 12 22:18:20 *	- Webchat:                    https://web.libera.chat
+May 12 22:18:20 *	- Network policies:           https://libera.chat/policies
+May 12 22:18:20 *	- Email:                      support@libera.chat
+May 12 22:18:20 *	End of /MOTD command.
+May 12 22:18:20 *	oni_00 sets mode +Z on oni_00
+May 12 22:18:20 *	oni_00 sets mode +i on oni_00
+May 12 22:18:20 *	oni_00 sets mode +w on oni_00
+May 13 00:11:12 *	No ping reply for 90 seconds, disconnecting.
+May 13 00:11:12 *	Disconnected ()
+May 13 00:11:22 *	Looking up irc.us.libera.chat
+May 13 00:11:22 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+May 13 00:11:23 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 13 00:11:23 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 13 00:11:23 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+May 13 00:11:23 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 13 00:11:23 *	* Subject: /CN=molybdenum.libera.chat
+May 13 00:11:23 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+May 13 00:11:23 *	* Certification info:
+May 13 00:11:23 *	  Subject:
+May 13 00:11:23 *	    CN=molybdenum.libera.chat
+May 13 00:11:23 *	  Issuer:
+May 13 00:11:23 *	    C=US
+May 13 00:11:23 *	    O=Let's Encrypt
+May 13 00:11:23 *	    CN=R3
+May 13 00:11:23 *	  Public key algorithm: rsaEncryption (4096 bits)
+May 13 00:11:23 *	  Sign algorithm sha256WithRSAEncryption
+May 13 00:11:23 *	  Valid since Apr  8 05:32:15 2024 GM to Jul  7 05:32:14 2024 GM
+May 13 00:11:23 *	* Cipher info:
+May 13 00:11:23 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+May 13 00:11:23 *	Connected. Now logging in.
+May 13 00:11:23 *	*** Checking Ident
+May 13 00:11:23 *	*** Looking up your hostname...
+May 13 00:11:23 *	*** Found your hostname: 2603-9001-5f05-7440-0000-31d9-4e2c-9d8a.inf6.spectrum.com
+May 13 00:11:29 *	*** No Ident response
+May 13 00:11:29 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+May 13 00:11:29 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+May 13 00:11:29 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+May 13 00:11:29 *	Authenticating via SASL as oni (PLAIN)
+May 13 00:11:30 *	SASL authentication failed
+May 13 00:11:31 *	SASL authentication aborted
+May 13 00:11:31 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+May 13 00:11:31 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+May 13 00:11:31 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+May 13 00:11:31 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+May 13 00:11:31 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+May 13 00:11:31 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+May 13 00:11:31 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+May 13 00:11:31 *	There are 66 users and 33260 invisible on 28 servers
+May 13 00:11:31 *	43 :IRC Operators online
+May 13 00:11:31 *	164 :unknown connection(s)
+May 13 00:11:31 *	22957 :channels formed
+May 13 00:11:31 *	I have 2202 clients and 1 servers
+May 13 00:11:31 *	2202 3361 :Current local users 2202, max 3361
+May 13 00:11:31 *	33326 37286 :Current global users 33326, max 37286
+May 13 00:11:31 *	Highest connection count: 3362 (3361 clients) (528028 connections received)
+May 13 00:11:31 *	- molybdenum.libera.chat Message of the Day - 
+May 13 00:11:31 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	- Molybdenum has been known throughout history, though its
+May 13 00:11:31 *	- properties meant that it was confused with lead ores. It was
+May 13 00:11:31 *	- first identified as a distinct element in 1778, meaning our
+May 13 00:11:31 *	- modern understanding of its existence reaches about as far
+May 13 00:11:31 *	- back as American independence.
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+May 13 00:11:31 *	- highest temperature of any element.
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	- While pure molybdenum is only about as strong as tooth enamel,
+May 13 00:11:31 *	- it forms strong alloys that are resistant to corrosion and
+May 13 00:11:31 *	- stable under varying temperatures. As a result, these alloys
+May 13 00:11:31 *	- are used for metal armour plates, high-performance aircraft
+May 13 00:11:31 *	- parts, and pumps for molten metal flows.
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	- In its elemental form, it can be used as a fertiliser, and the
+May 13 00:11:31 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+May 13 00:11:31 *	- an important medical radioisotope used for 3D bone scans and
+May 13 00:11:31 *	- the investigation of blood flow when diagnosing heart disease.
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	- Welcome to Libera Chat, the IRC network for
+May 13 00:11:31 *	- free & open-source software and peer directed projects.
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	- Use of Libera Chat is governed by our network policies.
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	- To reduce network abuses we perform open proxy checks
+May 13 00:11:31 *	- on hosts at connection time.
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	- Please visit us in #libera for questions and support.
+May 13 00:11:31 *	-  
+May 13 00:11:31 *	- Website and documentation:  https://libera.chat
+May 13 00:11:31 *	- Webchat:                    https://web.libera.chat
+May 13 00:11:31 *	- Network policies:           https://libera.chat/policies
+May 13 00:11:31 *	- Email:                      support@libera.chat
+May 13 00:11:31 *	End of /MOTD command.
+May 13 00:35:12 *	No ping reply for 90 seconds, disconnecting.
+May 13 00:35:12 *	Disconnected ()
+May 13 00:35:22 *	Looking up irc.us.libera.chat
+May 13 00:35:22 *	Connecting to irc.us.libera.chat (2604:6600:2002:15::2:6697)
+May 13 00:42:08 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 13 00:42:08 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 13 00:42:08 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+May 13 00:42:08 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 13 00:42:08 *	* Subject: /CN=calcium.libera.chat
+May 13 00:42:08 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+May 13 00:42:08 *	* Certification info:
+May 13 00:42:08 *	  Subject:
+May 13 00:42:08 *	    CN=calcium.libera.chat
+May 13 00:42:08 *	  Issuer:
+May 13 00:42:08 *	    C=US
+May 13 00:42:08 *	    O=Let's Encrypt
+May 13 00:42:08 *	    CN=R3
+May 13 00:42:08 *	  Public key algorithm: rsaEncryption (4096 bits)
+May 13 00:42:08 *	  Sign algorithm sha256WithRSAEncryption
+May 13 00:42:08 *	  Valid since Apr  1 05:12:16 2024 GM to Jun 30 05:12:15 2024 GM
+May 13 00:42:08 *	* Cipher info:
+May 13 00:42:08 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+May 13 00:42:08 *	Connected. Now logging in.
+May 13 00:42:08 *	*** Checking Ident
+May 13 00:42:08 *	*** Looking up your hostname...
+May 13 00:42:08 *	*** No Ident response
+May 13 00:42:08 *	*** Found your hostname: syn-184-088-174-000.biz.spectrum.com
+May 13 00:42:08 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+May 13 00:42:08 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+May 13 00:42:08 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+May 13 00:42:09 *	Authenticating via SASL as oni (PLAIN)
+May 13 00:42:09 *	SASL authentication failed
+May 13 00:42:10 *	SASL authentication aborted
+May 13 00:42:12 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+May 13 00:42:12 *	Your host is calcium.libera.chat[64.86.243.186/6697], running version solanum-1.0-dev
+May 13 00:42:12 *	This server was created Mon Nov 13 2023 at 21:34:42 UTC
+May 13 00:42:12 *	calcium.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+May 13 00:42:12 *	ACCOUNTEXTBAN=a ETRACE SAFELIST ELIST=CMNTU MONITOR=100 CALLERID=g FNC WHOX KNOCK CHANTYPES=# EXCEPTS INVEX :are supported by this server
+May 13 00:42:12 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+May 13 00:42:12 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+May 13 00:42:12 *	There are 67 users and 33263 invisible on 28 servers
+May 13 00:42:12 *	43 :IRC Operators online
+May 13 00:42:12 *	3 :unknown connection(s)
+May 13 00:42:12 *	22976 :channels formed
+May 13 00:42:12 *	I have 2167 clients and 1 servers
+May 13 00:42:12 *	2167 2971 :Current local users 2167, max 2971
+May 13 00:42:12 *	33330 37286 :Current global users 33330, max 37286
+May 13 00:42:12 *	Highest connection count: 2972 (2971 clients) (386829 connections received)
+May 13 00:42:12 *	- calcium.libera.chat Message of the Day - 
+May 13 00:42:12 *	- Welcome to Libera Chat, the IRC network for
+May 13 00:42:12 *	- free & open-source software and peer directed projects.
+May 13 00:42:12 *	-  
+May 13 00:42:12 *	- Use of Libera Chat is governed by our network policies.
+May 13 00:42:12 *	-  
+May 13 00:42:12 *	- To reduce network abuses we perform open proxy checks
+May 13 00:42:12 *	- on hosts at connection time.
+May 13 00:42:12 *	-  
+May 13 00:42:12 *	- Please visit us in #libera for questions and support.
+May 13 00:42:12 *	-  
+May 13 00:42:12 *	- Website and documentation:  https://libera.chat
+May 13 00:42:12 *	- Webchat:                    https://web.libera.chat
+May 13 00:42:12 *	- Network policies:           https://libera.chat/policies
+May 13 00:42:12 *	- Email:                      support@libera.chat
+May 13 00:42:12 *	End of /MOTD command.
+May 13 02:19:10 *	No ping reply for 1888 seconds, disconnecting.
+May 13 02:19:10 *	Disconnected ()
+May 13 02:19:20 *	Looking up irc.us.libera.chat
+May 13 02:19:20 *	Connecting to irc.us.libera.chat (2607:5300:205:300::ae0:6697)
+May 13 02:19:21 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 13 02:19:21 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 13 02:19:21 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+May 13 02:19:21 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 13 02:19:21 *	* Subject: /CN=molybdenum.libera.chat
+May 13 02:19:21 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+May 13 02:19:21 *	* Certification info:
+May 13 02:19:21 *	  Subject:
+May 13 02:19:21 *	    CN=molybdenum.libera.chat
+May 13 02:19:21 *	  Issuer:
+May 13 02:19:21 *	    C=US
+May 13 02:19:21 *	    O=Let's Encrypt
+May 13 02:19:21 *	    CN=R3
+May 13 02:19:21 *	  Public key algorithm: rsaEncryption (4096 bits)
+May 13 02:19:21 *	  Sign algorithm sha256WithRSAEncryption
+May 13 02:19:21 *	  Valid since Apr  8 05:32:15 2024 GM to Jul  7 05:32:14 2024 GM
+May 13 02:19:21 *	* Cipher info:
+May 13 02:19:21 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+May 13 02:19:21 *	Connected. Now logging in.
+May 13 02:19:21 *	*** Checking Ident
+May 13 02:19:21 *	*** Looking up your hostname...
+May 13 02:19:21 *	*** Found your hostname: 2603-9001-5f05-7440-0000-31d9-4e2c-9d8a.inf6.spectrum.com
+May 13 02:19:26 *	*** No Ident response
+May 13 02:19:26 *	Capabilities supported: account-notify away-notify chghost extended-join multi-prefix sasl=PLAIN,ECDSA-NIST256P-CHALLENGE,EXTERNAL,SCRAM-SHA-512 tls account-tag cap-notify echo-message server-time solanum.chat/identify-msg solanum.chat/oper solanum.chat/realhost
+May 13 02:19:26 *	Capabilities requested: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg 
+May 13 02:19:26 *	Capabilities acknowledged: account-notify away-notify chghost extended-join multi-prefix sasl account-tag cap-notify server-time solanum.chat/identify-msg
+May 13 02:19:27 *	Authenticating via SASL as oni (PLAIN)
+May 13 02:19:27 *	SASL authentication failed
+May 13 02:19:28 *	SASL authentication aborted
+May 13 02:19:29 *	Welcome to the Libera.Chat Internet Relay Chat Network oni_00
+May 13 02:19:29 *	Your host is molybdenum.libera.chat[2607:5300:205:300::ae0/6697], running version solanum-1.0-dev
+May 13 02:19:29 *	This server was created Sat Nov 11 2023 at 02:04:41 UTC
+May 13 02:19:29 *	molybdenum.libera.chat solanum-1.0-dev DGIMQRSZaghilopsuwz CFILMPQRSTbcefgijklmnopqrstuvz bkloveqjfI
+May 13 02:19:29 *	ACCOUNTEXTBAN=a WHOX KNOCK MONITOR=100 ETRACE FNC SAFELIST ELIST=CMNTU CALLERID=g CHANTYPES=# EXCEPTS INVEX :are supported by this server
+May 13 02:19:29 *	CHANMODES=eIbq,k,flj,CFLMPQRSTcgimnprstuz CHANLIMIT=#:250 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=Libera.Chat STATUSMSG=@+ CASEMAPPING=rfc1459 NICKLEN=16 MAXNICKLEN=16 CHANNELLEN=50 TOPICLEN=390 :are supported by this server
+May 13 02:19:29 *	DEAF=D TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,agjrxz :are supported by this server
+May 13 02:19:29 *	There are 67 users and 34277 invisible on 28 servers
+May 13 02:19:29 *	43 :IRC Operators online
+May 13 02:19:29 *	10 :unknown connection(s)
+May 13 02:19:29 *	23139 :channels formed
+May 13 02:19:29 *	I have 2259 clients and 1 servers
+May 13 02:19:29 *	2259 3361 :Current local users 2259, max 3361
+May 13 02:19:29 *	34344 37286 :Current global users 34344, max 37286
+May 13 02:19:29 *	Highest connection count: 3362 (3361 clients) (528382 connections received)
+May 13 02:19:29 *	- molybdenum.libera.chat Message of the Day - 
+May 13 02:19:29 *	- -[ Molybdenum ]-[ Atomic number: 42 ]-[ Chemical symbol: Mo ]-
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	- Molybdenum has been known throughout history, though its
+May 13 02:19:29 *	- properties meant that it was confused with lead ores. It was
+May 13 02:19:29 *	- first identified as a distinct element in 1778, meaning our
+May 13 02:19:29 *	- modern understanding of its existence reaches about as far
+May 13 02:19:29 *	- back as American independence.
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	- Molybdenum has a very high melting point, 2623°C, the fifth-
+May 13 02:19:29 *	- highest temperature of any element.
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	- While pure molybdenum is only about as strong as tooth enamel,
+May 13 02:19:29 *	- it forms strong alloys that are resistant to corrosion and
+May 13 02:19:29 *	- stable under varying temperatures. As a result, these alloys
+May 13 02:19:29 *	- are used for metal armour plates, high-performance aircraft
+May 13 02:19:29 *	- parts, and pumps for molten metal flows.
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	- In its elemental form, it can be used as a fertiliser, and the
+May 13 02:19:29 *	- isotope molybdenum-99 is used as a source of technetium-99m,
+May 13 02:19:29 *	- an important medical radioisotope used for 3D bone scans and
+May 13 02:19:29 *	- the investigation of blood flow when diagnosing heart disease.
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	- Welcome to Libera Chat, the IRC network for
+May 13 02:19:29 *	- free & open-source software and peer directed projects.
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	- Use of Libera Chat is governed by our network policies.
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	- To reduce network abuses we perform open proxy checks
+May 13 02:19:29 *	- on hosts at connection time.
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	- Please visit us in #libera for questions and support.
+May 13 02:19:29 *	-  
+May 13 02:19:29 *	- Website and documentation:  https://libera.chat
+May 13 02:19:29 *	- Webchat:                    https://web.libera.chat
+May 13 02:19:29 *	- Network policies:           https://libera.chat/policies
+May 13 02:19:29 *	- Email:                      support@libera.chat
+May 13 02:19:29 *	End of /MOTD command.
+**** ENDING LOGGING AT Mon May 13 04:09:11 2024
+

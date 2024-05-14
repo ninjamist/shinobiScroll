@@ -1,0 +1,6 @@
+T 1699864328 19*	Now talking on 22#linux
+T 1699864328 22*	Topic for 22#linux is: Welcome to #linux | Home of the freenode linux community | linux discussion and support | every Linux distribution is welcome | snapd is a problem, not a solution
+T 1699864328 22*	Topic for 22#linux set by 26y2k!y2k@freenode/staff/y2k (24Sun Nov  5 21:19:16 2023)
+T 1699866370 19*	Now talking on 22#linux
+T 1699866370 22*	Topic for 22#linux is: Welcome to #linux | Home of the freenode linux community | linux discussion and support | every Linux distribution is welcome | snapd is a problem, not a solution
+T 1699866370 22*	Topic for 22#linux set by 26y2k!y2k@freenode/staff/y2k (24Sun Nov  5 21:19:16 2023)

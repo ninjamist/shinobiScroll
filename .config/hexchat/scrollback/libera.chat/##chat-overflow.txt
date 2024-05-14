@@ -1,0 +1,9 @@
+T 1700099187 19*	Now talking on 22##chat-overflow
+T 1700099187 22*	Topic for 22##chat-overflow is: If you find yourself here trying to join ##chat, please identify and try joining ##chat again (reference '/msg nickserv help identify' and/or '/msg nickserv help register' for assistance). This is to help curtail spam, we apologize for the inconvenience | SASL is preferred https://libera.chat/guides/sasl
+T 1700099187 22*	Topic for 22##chat-overflow set by 26MetaNova!zero-one@user/metanova (24Wed May 19 21:05:03 2021)
+T 1700099187 -18ChanServ-	[##chat-overflow] If you find yourself here trying to join ##chat, please identify and try joining ##chat again (reference '/msg nickserv help identify' and/or '/msg nickserv help register' for assistance)
+T 1700099207 24*	adils (~adils@128.201.143.13924) has left
+T 1700376377 19*	Now talking on 22##chat-overflow
+T 1700376377 22*	Topic for 22##chat-overflow is: If you find yourself here trying to join ##chat, please identify and try joining ##chat again (reference '/msg nickserv help identify' and/or '/msg nickserv help register' for assistance). This is to help curtail spam, we apologize for the inconvenience | SASL is preferred https://libera.chat/guides/sasl
+T 1700376377 22*	Topic for 22##chat-overflow set by 26MetaNova!zero-one@user/metanova (24Wed May 19 21:05:03 2021)
+T 1700376377 -18ChanServ-	[##chat-overflow] If you find yourself here trying to join ##chat, please identify and try joining ##chat again (reference '/msg nickserv help identify' and/or '/msg nickserv help register' for assistance)

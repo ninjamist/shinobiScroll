@@ -1,0 +1,105 @@
+T 1699923887 19*	Now talking on 22#ruby
+T 1699923887 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1699923887 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1699925135 24*	grenierm has quit (Quit: Client closed)
+T 1699925631 24*	xlymian has quit (Ping timeout: 260 seconds)
+T 1699925964 23*	grenierm (~grenierm@pool-96-244-208-140.bltmmd.fios.verizon.net23) has joined
+T 1699927730 24*	bougyman has quit (Server closed connection)
+T 1699927764 23*	bougyman (~bougyman@user/bougyman23) has joined
+T 1699927825 24*	CRISPR has quit (Ping timeout: 260 seconds)
+T 1699927902 19*	Now talking on 22#ruby
+T 1699927902 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1699927902 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700094452 19*	Now talking on 22#ruby
+T 1700094452 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1700094452 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700094564 19*	Now talking on 22#ruby
+T 1700094564 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1700094564 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700094741 19*	Now talking on 22#ruby
+T 1700094741 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1700094741 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700094769 23*	gr33n7007h (~gr33n7007@user/gr33n7007h23) has joined
+T 1700095446 19*	Now talking on 22#ruby
+T 1700095446 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1700095446 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700096552 23*	parimek (~parimek@85.140.163.1823) has joined
+T 1700096633 24*	parimek has quit (Remote host closed the connection)
+T 1700096928 24*	sphex has quit (Server closed connection)
+T 1700096944 23*	sphex (~nobody@66.110.146.9123) has joined
+T 1700097352 24*	donofrio has quit (Remote host closed the connection)
+T 1700097377 23*	donofrio (~donofrio@c-68-40-123-196.hsd1.mi.comcast.net23) has joined
+T 1700099604 23*	onikage01 (~oni@2600:1006:b189:2109:79e7:3d17:6464:5a6b23) has joined
+T 1700099605 24*	onikage01 has quit (Read error: Connection reset by peer)
+T 1700108355 19*	Now talking on 22#ruby
+T 1700108355 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1700108355 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700108640 23*	constellati0n (~constella@136.49.126.4623) has joined
+T 1700108914 24*	constellati0n has quit (Ping timeout: 256 seconds)
+T 1700110683 24*	miah has quit (Server closed connection)
+T 1700110702 23*	miah (~miah@pottery.chia-pet.org23) has joined
+T 1700110996 23*	_ht (~Thunderbi@28-52-174-82.ftth.glasoperator.nl23) has joined
+T 1700111786 19*	Now talking on 22#ruby
+T 1700111786 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1700111786 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700159881 19*	Now talking on 22#ruby
+T 1700159881 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1700159881 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700160231 23*	xlymian (~user@192-222-185-9.qc.cable.ebox.net23) has joined
+T 1700160975 23*	u0_a115 (~u0_a115@196.27.120.1423) has joined
+T 1700161275 24*	hololeap has quit (Server closed connection)
+T 1700161292 23*	hololeap (~quassel@user/hololeap23) has joined
+T 1700161295 24*	paris has quit (Ping timeout: 268 seconds)
+T 1700273560 19*	Now talking on 22#ruby
+T 1700273560 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1700273560 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700273874 24*	constxqt has quit (Ping timeout: 260 seconds)
+T 1700274573 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700274805 24*	___nick___ has quit (Quit: https://quassel-irc.org - Chat comfortably. Anywhere.)
+T 1700274855 24*	constxqt has quit (Ping timeout: 246 seconds)
+T 1700274933 23*	___nick___ (~quassel@host31-53-26-100.range31-53.btcentralplus.com23) has joined
+T 1700274933 24*	___nick___ has quit (Client Quit)
+T 1700275067 23*	___nick___ (~quassel@host31-53-26-100.range31-53.btcentralplus.com23) has joined
+T 1700275366 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700275645 24*	constxqt has quit (Ping timeout: 255 seconds)
+T 1700275716 24*	xlymian has quit (Ping timeout: 246 seconds)
+T 1700276121 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700276590 24*	constxqt has quit (Ping timeout: 260 seconds)
+T 1700276675 23*	ox1eef_ (~mrleef@al-quran.reflectslight.io23) has joined
+T 1700277432 24*	sam113101 has quit (Server closed connection)
+T 1700277461 23*	sam113101 (~sam@modemcable198.166-202-24.mc.videotron.ca23) has joined
+T 1700277850 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700278234 24*	constxqt has quit (Ping timeout: 256 seconds)
+T 1700278352 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700279919 24*	edr has quit (Quit: Leaving)
+T 1700280046 24*	constxqt has quit (Ping timeout: 255 seconds)
+T 1700280443 24*	bambanxx has quit (Quit: My MacBook Air has gone to sleep. ZZZzzz…)
+T 1700281524 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700281912 24*	constxqt has quit (Ping timeout: 276 seconds)
+T 1700282188 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700282600 23*	grenierm (~grenierm@pool-96-244-208-140.bltmmd.fios.verizon.net23) has joined
+T 1700282746 24*	constxqt has quit (Ping timeout: 255 seconds)
+T 1700282860 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700283958 24*	constxqt has quit (Ping timeout: 264 seconds)
+T 1700284812 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700285847 24*	Vonter has quit (Ping timeout: 256 seconds)
+T 1700285921 23*	Vonter (~Vonter@user/vonter23) has joined
+T 1700286046 24*	constxqt has quit (Ping timeout: 264 seconds)
+T 1700286416 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700286715 24*	constxqt has quit (Ping timeout: 255 seconds)
+T 1700287255 23*	constxqt (~constxd@hlfxns017vw-134-41-2-187.dhcp-dynamic.fibreop.ns.bellaliant.net23) has joined
+T 1700287558 24*	constxqt has quit (Ping timeout: 264 seconds)
+T 1700287962 23*	wand (~user@gateway/tor-sasl/wand23) has joined
+T 1700370429 19*	Now talking on 22#ruby
+T 1700370429 22*	Topic for 22#ruby is: Ruby 3.2.2, 3.1.4, 3.3.0-preview3: https://www.ruby-lang.org | Rules: https://ruby-community.com |  Logs: https://libera.irclog.whitequark.org/ruby
+T 1700370429 22*	Topic for 22#ruby set by 26havenwood!~havenwood@about/ruby/havenwood (24Sun Nov 12 11:24:08 2023)
+T 1700370871 24*	wand has quit (Ping timeout: 240 seconds)
+T 1700372142 23*	grenierm (~grenierm@pool-96-244-208-140.bltmmd.fios.verizon.net23) has joined
+T 1700372669 23*	teclator (~quassel@85.155.119.38.dyn.user.ono.com23) has joined
+T 1700372803 24*	teclator has quit (Client Quit)
+T 1700372975 23*	CrazyEddy (~CrazyEddy@2600:1700:1690:57d0:de4a:3eff:fe88:cc5f23) has joined
+T 1700373162 23*	Linux_Kerio (~Linux_Ker@chello085216193138.chello.sk23) has joined
+T 1700373399 23*	madoff (~madoff@154.159.237.22923) has joined
+T 1700373516 24*	madoff has quit (Quit: Leaving)
+T 1700374311 23*	paris (~androirc@amarseille-655-1-65-7.w92-133.abo.wanadoo.fr23) has joined
+T 1700374764 24*	Tempesta has quit (Quit: See ya!)

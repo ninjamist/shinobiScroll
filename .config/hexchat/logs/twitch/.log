@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Mon Apr  1 01:31:29 2024
+
+Apr 01 01:31:29 *	Connecting to irc.chat.twitch.tv (44.227.173.36:6697)
+Apr 01 01:31:30 *	* Subject: /C=US/O=Amazon/CN=Amazon Root CA 1
+Apr 01 01:31:30 *	* Issuer: /C=US/O=Amazon/CN=Amazon Root CA 1
+Apr 01 01:31:30 *	* Subject: /C=US/O=Amazon/CN=Amazon RSA 2048 M02
+Apr 01 01:31:30 *	* Issuer: /C=US/O=Amazon/CN=Amazon Root CA 1
+Apr 01 01:31:30 *	* Subject: /CN=irc.chat.twitch.tv
+Apr 01 01:31:30 *	* Issuer: /C=US/O=Amazon/CN=Amazon RSA 2048 M02
+Apr 01 01:31:30 *	* Certification info:
+Apr 01 01:31:30 *	  Subject:
+Apr 01 01:31:30 *	    CN=irc.chat.twitch.tv
+Apr 01 01:31:30 *	  Issuer:
+Apr 01 01:31:30 *	    C=US
+Apr 01 01:31:30 *	    O=Amazon
+Apr 01 01:31:30 *	    CN=Amazon RSA 2048 M02
+Apr 01 01:31:30 *	  Public key algorithm: rsaEncryption (2048 bits)
+Apr 01 01:31:30 *	  Sign algorithm sha256WithRSAEncryption
+Apr 01 01:31:30 *	  Valid since Jan 29 00:00:00 2024 GM to Feb 27 23:59:59 2025 GM
+Apr 01 01:31:30 *	* Cipher info:
+Apr 01 01:31:30 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES128-GCM-SHA256 (128 bits)
+Apr 01 01:31:30 *	Connected. Now logging in.

@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Mon Nov 13 03:12:21 2023
+
+Nov 13 03:12:21 *	Connecting to chat.freenode.net (2600:3c00::f03c:93ff:fea1:990d:6697)
+Nov 13 03:12:22 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:12:22 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:12:22 *	* Subject: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:12:22 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:12:22 *	* Subject: /CN=nebula.freenode.net
+Nov 13 03:12:22 *	* Issuer: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:12:22 *	* Certification info:
+Nov 13 03:12:22 *	  Subject:
+Nov 13 03:12:22 *	    CN=nebula.freenode.net
+Nov 13 03:12:22 *	  Issuer:
+Nov 13 03:12:22 *	    C=AT
+Nov 13 03:12:22 *	    O=ZeroSSL
+Nov 13 03:12:22 *	    CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:12:22 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 13 03:12:22 *	  Sign algorithm sha384WithRSAEncryption
+Nov 13 03:12:22 *	  Valid since Oct 12 00:00:00 2023 GM to Jan 10 23:59:59 2024 GM
+Nov 13 03:12:22 *	* Cipher info:
+Nov 13 03:12:22 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 03:12:22 *	Connected. Now logging in.

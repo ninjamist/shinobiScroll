@@ -1,0 +1,2033 @@
+T 1700096219 19*	Now talking on 22##anime
+T 1700096219 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Mieruko-chan (chosen by DPA) | Manga of the Week: Killing Me! (chosen by Urchin[emacs])
+T 1700096219 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 12 02:59:59 2023)
+T 1700096256 20<oni_00>30	hello
+T 1700096265 18<27ButterNoodle18>	henlo
+T 1700096459 18<20S_T_A_N18>	heblo
+T 1700096531 18<29Urchin[emacs]18>	!anyquote
+T 1700096531 18<24ImoutoBot18>	Urchin[emacs]: (161 / 258) <M​ootPoot> b​eaky: I ordered silicone boobies to give my daki oppai
+T 1700096532 24*	Aurora_v_kosmose has quit (Quit: brb)
+T 1700096565 19<Urchin[emacs]>	oni_00: welcome
+T 1700096616 20<oni_00>30	thank you Urchin
+T 1700096622 23*	Aurora_v_kosmose (~LispyLigh@user/lispylights23) has joined
+T 1700096622 18*	24ImoutoBot welcomes A​urora_v_kosmose (9 / 11): <A​urora_v_kosmose> Wemembew to UwU
+T 1700096664 18<28repoman18>	wb Aurora_v_kosmose 
+T 1700096933 18<29Urchin[emacs]18>	!anyquote
+T 1700096933 18<24ImoutoBot18>	Urchin[emacs]: (5 / 5) <hid|ninja> bage​lsan: ancient roman who put dick in male slave were not gay
+T 1700096938 18<28hassoon18>	!whatever
+T 1700096941 18<28hassoon18>	!lulz
+T 1700096944 18<28hassoon18>	!meh
+T 1700096949 18<28hassoon18>	!help
+T 1700096949 18<24ImoutoBot18>	hassoon: Commands: !aboutquote !addquote !anidb !anime !animeupdate !ann !anyquote !aotw !c !delquote !findquote !g !help !hotw !later !mal !memo !more !motw !ops !picks !quote !random !restorequote !rotatepicks !seen !translate !updateanime !updatetopic
+T 1700096965 18<28hassoon18>	!seen Urchin[emacs] 
+T 1700096965 18<24ImoutoBot18>	hassoon: Urchin[emacs] was last seen in ##anime 32 seconds ago: <Urchin[emacs]> !anyquote
+T 1700097172 23*	redstarcomrade (~redstarco@cpe-76-90-240-226.socal.res.rr.com23) has joined
+T 1700097629 23*	lily123 (uid614397@id-614397.tinside.irccloud.com23) has joined
+T 1700097629 18*	24ImoutoBot welcomes l​ily123 (1 / 4): <l​ily123> a​migojapan: no, we're fat
+T 1700097660 18<28lily12318>	good morning
+T 1700097669 18<28hassoon18>	'morning
+T 1700097674 18<29Urchin[emacs]18>	hi
+T 1700097680 18<28hassoon18>	wa'r yo up to this mornin'
+T 1700097681 18<28hassoon18>	?
+T 1700097704 18<28lily12318>	Urchin[emacs]: hi
+T 1700097920 18<28lily12318>	hassoon: hi
+T 1700098113 18<28repoman18>	wb lily123 
+T 1700098117 18<28repoman18>	Sapphirus: I finished it.
+T 1700098173 18<28lily12318>	repoman: hi
+T 1700098219 18<28repoman18>	what's up lily123 
+T 1700098303 18<28lily12318>	repoman: I'm fine. I slept 10 hours for the first time.
+T 1700098336 23*	omero (~omero@user/omero23) has joined
+T 1700098337 18*	24ImoutoBot welcomes o​mero (2 / 7): <o​mero> oh... ok. its a yt thing <o​mero> thus SFW <o​mero> not interested then
+T 1700098374 24*	jbwncster has quit (Quit: Connection closed for inactivity)
+T 1700098678 24*	28death916_ is now known as 18death916
+T 1700098979 23*	adils (~adils@128.201.143.13923) has joined
+T 1700099008 23*	rosco (~rosco@175.136.157.14923) has joined
+T 1700099061 24*	Nirugili has quit (Ping timeout: 268 seconds)
+T 1700099212 24*	adils (~adils@128.201.143.13924) has left (Leaving)
+T 1700099598 24*	omero has quit (Ping timeout: 256 seconds)
+T 1700111021 19*	Now talking on 22##anime
+T 1700111021 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Mieruko-chan (chosen by DPA) | Manga of the Week: Killing Me! (chosen by Urchin[emacs])
+T 1700111021 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 12 02:59:59 2023)
+T 1700111070 FiSHLiM plugin unloaded
+T 1700111786 19*	Now talking on 22##anime
+T 1700111786 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Mieruko-chan (chosen by DPA) | Manga of the Week: Killing Me! (chosen by Urchin[emacs])
+T 1700111786 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 12 02:59:59 2023)
+T 1700112141 23*	matt__ (~matt@c-73-204-251-184.hsd1.fl.comcast.net23) has joined
+T 1700112159 24*	matt_ has quit (Ping timeout: 268 seconds)
+T 1700112251 24*	Ogobaga has quit (Quit: Konversation terminated!)
+T 1700112272 23*	Ogobaga (~guu@user/Ogobaga23) has joined
+T 1700112466 18<26Jigsy18>	[05:14:51] Closing Link: user/jigsy (Server closed connection)
+T 1700112468 18<26Jigsy18>	???
+T 1700112595 18<26MootPoot18>	128core cpus letsgooo
+T 1700112607 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1700113103 24*	DrPhibes has quit (Quit: Bye.)
+T 1700113135 23*	DrPhibes (~DrPhibes@45.14.195.9723) has joined
+T 1700159881 19*	Now talking on 22##anime
+T 1700159881 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Mieruko-chan (chosen by DPA) | Manga of the Week: Killing Me! (chosen by Urchin[emacs])
+T 1700159881 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 12 02:59:59 2023)
+T 1700160370 24*	mobivme2 has quit (Ping timeout: 268 seconds)
+T 1700160570 23*	mobivme2 (~mobivme@130.105.134.5923) has joined
+T 1700160592 24*	Posterdati has quit (Quit: KVIrc 5.0.0 Aria http://www.kvirc.net/)
+T 1700160615 23*	Posterdati (~Posterdat@user/Posterdati23) has joined
+T 1700160634 24*	Posterdati has quit (Client Quit)
+T 1700160652 18<24ImoutoBot18>	New episode for: Under Ninja | Episode: 7
+T 1700160654 23*	Posterdati (~Posterdat@user/Posterdati23) has joined
+T 1700160723 24*	Posterdati has quit (Remote host closed the connection)
+T 1700160723 22*	26Suzuka sets ban on 18*!*@user/Posterdati$##anime-help
+T 1700161067 24*	mobivme2 has quit (Ping timeout: 256 seconds)
+T 1700161368 24*	Mindi has quit (Server closed connection)
+T 1700161379 23*	Mindi (~Mindi@mindinet.org23) has joined
+T 1700161570 23*	zato (~zato@user/zato23) has joined
+T 1700161843 24*	sinjini has quit (Ping timeout: 246 seconds)
+T 1700162009 24*	jra has quit (Server closed connection)
+T 1700162019 23*	jra (~jra@static.216.21.90.157.clients.your-server.de23) has joined
+T 1700162262 24*	EpicKitty has quit (Server closed connection)
+T 1700162273 23*	EpicKitty (EpicKitty@bouncer.landofkittens.club23) has joined
+T 1700162273 18*	24ImoutoBot welcomes E​picKitty (1 / 1): <E​picKitty> E​picKitty has no quotes.
+T 1700162612 23*	sinjini (~sinjini@user/sinjini23) has joined
+T 1700162752 18<24ImoutoBot18>	New episode for: Fight Da!! Pyuta | Episode: 5
+T 1700162752 18<24ImoutoBot18>	New episode for: Rurouni Kenshin: Meiji Kenkaku Romantan (TV) | Episode: 20
+T 1700162822 FiSHLiM plugin unloaded
+T 1700273560 19*	Now talking on 22##anime
+T 1700273560 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Mieruko-chan (chosen by DPA) | Manga of the Week: Killing Me! (chosen by Urchin[emacs])
+T 1700273560 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 12 02:59:59 2023)
+T 1700273825 24*	NEYi has quit (Read error: Connection reset by peer)
+T 1700273900 23*	Urchin[emacs] (~user@user/urchin23) has joined
+T 1700273900 18*	24ImoutoBot welcomes U​rchin[emacs] (28 / 38): <U​rchin[emacs]> aquarium yuri bait is somehow a genre
+T 1700273930 18<28repoman18>	hi
+T 1700273935 18<28repoman18>	amigojapan: 
+T 1700274213 18<24amigojapan18>	hey repoman !
+T 1700274314 23*	zoorat (~Thunderbi@user/zoorat23) has joined
+T 1700274328 18<28repoman18>	amigojapan: I smoked even more today
+T 1700274330 18<28repoman18>	I feel great
+T 1700274344 18<24amigojapan18>	hmmm
+T 1700274562 23*	britney (~britney@2607:fea8:f24:8800::227e23) has joined
+T 1700274769 18<27ButterNoodle18>	https://imgur.com/a/ioTMYwf
+T 1700274769 18<24ImoutoBot18>	[title] Imgur: The magic of the Internet
+T 1700275385 23*	camscout101 (~Thunderbi@user/camscout10123) has joined
+T 1700276063 18<24amigojapan18>	yo ButterNoodle 
+T 1700276072 20<oni_00>30	hi all
+T 1700276079 19<amigojapan>	hi oni_00 
+T 1700276413 24*	camscout101 has quit (Ping timeout: 276 seconds)
+T 1700276542 18<26Sapphirus18>	!later tell repoman the blue orchestra is another good one. Second season confirmed, too.
+T 1700276547 23*	camscout101 (~Thunderbi@user/camscout10123) has joined
+T 1700276558 18<28repoman18>	Sapphirus: 
+T 1700276568 18<28repoman18>	let's be honest
+T 1700276580 18<28repoman18>	mafuyus song is great
+T 1700276683 18<28repoman18>	hi lily123 
+T 1700276725 18<28repoman18>	wb britney 
+T 1700277189 18<24amigojapan18>	repoman: besides drugs whats new?
+T 1700277193 23*	NEYi (~NEYi@109.251.216.3823) has joined
+T 1700277193 18*	24ImoutoBot welcomes N​EYi (1 / 1): <N​EYi> If I'll rob a bank succesfully - I'll be in a huge advantage.
+T 1700277297 18<19britney18>	repoman, thanks :)
+T 1700277303 18<19britney18>	someone is DDoSing me
+T 1700277306 23*	safan41 (~safan41@157.185.123.14923) has joined
+T 1700277306 24*	vyHamii has quit (Quit: Leaving)
+T 1700277310 18<24amigojapan18>	hi britney 
+T 1700277324 18<19britney18>	hi amigojapan 
+T 1700277326 18<24amigojapan18>	britney:  hmmm, ddos is temporary
+T 1700277333 18<19britney18>	yeah
+T 1700277343 18<19britney18>	i have no evidence but i've been critical of microsoft
+T 1700277357 18<28lily12318>	repoman: hi
+T 1700277366 18<24amigojapan18>	well, I have been critical of microsoft too
+T 1700277383 18<24amigojapan18>	but I am using skype since before microsoft bought it
+T 1700277477 18<28lily12318>	Sapphirus: and britney  hi
+T 1700277529 24*	el has quit (*.net *.split)
+T 1700277553 23*	el (el@libera/staff/el23) has joined
+T 1700277744 18<24amigojapan18>	!memo ButterNoodle  there is also the famicom mini classic https://www.amazon.co.jp/dp/B01M1VMFUA/
+T 1700277773 18<24amigojapan18>	!memo ButterNoodle  that should be usable with modern TVs probably even HDMI
+T 1700277814 18<26Sapphirus18>	repoman, yes.
+T 1700277819 18<26Sapphirus18>	hi lily123 
+T 1700278058 24*	safan41 has quit (Quit: Quit)
+T 1700278145 24*	Nirugili has quit (Ping timeout: 245 seconds)
+T 1700278177 18<19britney18>	yeah but microsoft has been messing with me my whole life amigojapan 
+T 1700278190 18<19britney18>	they got me fired from my job
+T 1700278207 18<19britney18>	they're trying to take my website offline
+T 1700278212 18<24amigojapan18>	ah I see
+T 1700278218 18<19britney18>	they doxxed my wife and got her fired
+T 1700278270 18<24amigojapan18>	well, I dont know what to say
+T 1700278274 18<19britney18>	these people, they're terrorists
+T 1700278280 18<19britney18>	software terrorists
+T 1700278300 18<24amigojapan18>	I use linux only
+T 1700278315 18<26Sapphirus18>	Sounds more delusional than something IsambardPrince would say.
+T 1700278316 18<24amigojapan18>	the only microsoft thing I still use I think is skype
+T 1700278358 18<19britney18>	Sapphirus, lol im joking
+T 1700278364 18<19britney18>	these are all things claimed by techrights
+T 1700278411 18<27mixfix4118>	!a puella magi madoka
+T 1700278412 18<24ImoutoBot18>	mixfix41: Puella Magi Madoka Magica (TV Series, 12 episodes) | Finished airing | http://anidb.net/a8069 | http://myanimelist.net/anime/9756 (4 more)
+T 1700278426 18<24amigojapan18>	!seen IsambardPrince
+T 1700278426 18<24ImoutoBot18>	amigojapan: IsambardPrince was last seen in ##anime 1 month and 27 days ago: <IsambardPrince> They're doing something fucked again.
+T 1700278478 18<24amigojapan18>	hmmm , now that I am on a PC, I should try to modeify my quick basic IRC client to log into libera and not freenode
+T 1700278641 18<19britney18>	qbasic?
+T 1700278675 18<26Sapphirus18>	Time to watch some Jujitsu Kaisen on a Friday evening.
+T 1700278853 18<24ImoutoBot18>	New episode for: Shadowverse Flame | Episode: 70
+T 1700278909 23*	quickbasicIRC (~a@softbank060103079043.bbtec.net23) has joined
+T 1700278919 18<29quickbasicIRC18>	 hello?
+T 1700278929 18<29quickbasicIRC18>	 !anyquote
+T 1700278963 18<24amigojapan18>	oh the bot is down
+T 1700278980 18<24amigojapan18>	quickbasicIRC is my irc client for quick basic 64!! its working good!
+T 1700279045 18<29quickbasicIRC18>	 !quote amigojapan
+T 1700279070 18<24amigojapan18>	lets see if it does nto get disconnected by ping
+T 1700279138 24*	camscout101 has quit (Remote host closed the connection)
+T 1700279151 23*	camscout101 (~Thunderbi@user/camscout10123) has joined
+T 1700279155 18<27ButterNoodle18>	!quote quickbasicIRC
+T 1700279156 18<24ImoutoBot18>	ButterNoodle: quickbasicIRC has no quotes.
+T 1700279160 18<27ButterNoodle18>	new phone who dis
+T 1700279162 18<29quickbasicIRC18>	 lily123 hi
+T 1700279167 18<27ButterNoodle18>	hi hi o/
+T 1700279189 18<29quickbasicIRC18>	 butternoodle this is my irc client in quick basic, form amigojapan
+T 1700279201 18<27ButterNoodle18>	very nice!
+T 1700279216 18<29quickbasicIRC18>	 thanks it is also only like 40 lines of code
+T 1700279245 18<29quickbasicIRC18>	 I need to add it to my homepage
+T 1700279304 18<24amigojapan18>	ButterNoodle:  https://gist.github.com/amigojapan/e21e07223861d9e17a0a5513b5a0c88d
+T 1700279305 18<24ImoutoBot18>	[title] quickbasic_IRC_client_for_QB64.bas · GitHub
+T 1700279339 18<24amigojapan18>	ButterNoodle:  if you want I will give you the neww version which connects to libera insxtead of freenode, but i think that is easy to figure out
+T 1700279430 18<29quickbasicIRC18>	 yeah, it survives ping!
+T 1700279449 23*	rosco (~rosco@175.136.157.14923) has joined
+T 1700279476 24*	quickbasicIRC has quit (Remote host closed the connection)
+T 1700279497 18<26Sapphirus18>	Surprised that Libera still supports non-TLS connections
+T 1700279602 18<19britney18>	that is weird
+T 1700279664 23*	quickbasicIRC (~a@softbank060103079043.bbtec.net23) has joined
+T 1700279675 18<29quickbasicIRC18>	 yeah, sorry for the spam, I will take it offlinme
+T 1700279682 18<29quickbasicIRC18>	 offline
+T 1700279686 24*	quickbasicIRC has quit (Remote host closed the connection)
+T 1700279871 18<27ButterNoodle18>	amigojapan: nice, will play :3
+T 1700279903 18<26Sapphirus18>	you know it's a serious episode when they don't even play the intro
+T 1700279980 18<28DaddiesMoneys18>	s/am,/erm,
+T 1700279992 18<28DaddiesMoneys18>	s/am\,/erm\,
+T 1700280002 18<28DaddiesMoneys18>	oh I thought s// worked in this channel.
+T 1700280137 18<24amigojapan18>	ButterNoodle:  there I put the bas file and the binary file for linux on github, but I will need to boot into windows to make a windows version, and I will need help form someone with a mac to make a mac version https://github.com/amigojapan/qb64_irc_client
+T 1700280138 18<24ImoutoBot18>	[title] GitHub - amigojapan/qb64_irc_client
+T 1700280166 18<24amigojapan18>	DaddiesMoneys:  are you trying out my irc client?
+T 1700280171 18<28DaddiesMoneys18>	oh no
+T 1700280176 18<24amigojapan18>	ah ok
+T 1700280177 18<28DaddiesMoneys18>	amigojapan: what do you mean
+T 1700280185 18<28DaddiesMoneys18>	I though this channel had a bot that does s// substutition
+T 1700280193 18<28DaddiesMoneys18>	*substitution
+T 1700280208 18<24amigojapan18>	DaddiesMoneys:  I thought you were having troubel using backspace in my IRC client https://github.com/amigojapan/qb64_irc_client
+T 1700280208 18<24ImoutoBot18>	[title] GitHub - amigojapan/qb64_irc_client
+T 1700280221 18<28DaddiesMoneys18>	ohh I see
+T 1700280228 18<28DaddiesMoneys18>	oh no I'm absolutely fine over here
+T 1700280232 18<28DaddiesMoneys18>	amigojapan: also, hello to you :)
+T 1700280233 18<19britney18>	cool
+T 1700280235 18<24amigojapan18>	ah ok
+T 1700280422 18<24amigojapan18>	one thing I liked about Unity is that is could make versions for all three platforms withoght needing to have the systems
+T 1700280429 18<24amigojapan18>	but no more unity for me
+T 1700280764 18<19britney18>	umm do you know what basic is?
+T 1700280781 18<19britney18>	windows users can literally just run qb64 and run the bas file
+T 1700280918 23*	DunceCotus (~taraxanoi@user/duncecotus23) has joined
+T 1700280918 18*	24ImoutoBot welcomes D​unceCotus (8 / 54): <D​unceCotus> zoidberg: e​mmeka, corner gas animated series has ended :( D​unceCotus: have you seen Seth Rogan's Corner Grass
+T 1700280963 18<19britney18>	!seen IsambardPrince
+T 1700280963 18<24ImoutoBot18>	britney: IsambardPrince was last seen in ##anime 1 month and 27 days ago: <IsambardPrince> They're doing something fucked again.
+T 1700281004 18<25DunceCotus18>	https://voca.ro/1hBhfO0v7Aom
+T 1700281006 18<24ImoutoBot18>	[title] Vocaroo | Online voice recorder
+T 1700281052 24*	emmeka has quit (Quit: Â, atsunai ikKanattuovusilu!)
+T 1700281111 18<24amigojapan18>	hey its DunceCotus !!
+T 1700281166 18<25DunceCotus18>	hey amigojapan 
+T 1700281310 18<19britney18>	hmmm
+T 1700281320 18<19britney18>	so mario bros movie 2023 rips are all camrips
+T 1700281334 18<19britney18>	but i happen to have amazon video prime
+T 1700281442 18<24amigojapan18>	britney:  isthat not supposed to be one of hte worst movires of all times?
+T 1700281487 18<25DunceCotus18>	amigojapan, no that's the early 90s version
+T 1700281502 18<25DunceCotus18>	but the new one wasn't too great either
+T 1700281507 18<24amigojapan18>	ah ok, DunceCotus , I forgot there was a new one
+T 1700281508 18<19britney18>	actually, some people say that about the 90s one
+T 1700281512 18<19britney18>	but its a cult classic
+T 1700281532 18<25DunceCotus18>	both have some dumb shit 
+T 1700281533 18<24amigojapan18>	I see britney 
+T 1700281545 18<25DunceCotus18>	the 90s one has more dumb shit
+T 1700281556 18<25DunceCotus18>	but was fun if you were a kid in the 90s I guess
+T 1700281605 18<25DunceCotus18>	however I remember being really disappointed/confused when I first watched it as a kidder
+T 1700281624 18<19britney18>	i watch it all the time as an adult
+T 1700281628 18<19britney18>	its cheesy in a good way
+T 1700281633 18<19britney18>	kinda like hackers
+T 1700281646 18<25DunceCotus18>	I hear the making of it was an absolute 'shit show'
+T 1700281665 18<25DunceCotus18>	and it may have been what killed Bob Hoskins :(
+T 1700281829 20<oni_00>30	movies from the 90's were the best!!
+T 1700281924 19<DunceCotus>	oni_00, eh some
+T 1700282020 20<oni_00>30	you can
+T 1700282092 23*	quickbasicIRC (~a@97-120-125-210.ptld.qwest.net23) has joined
+T 1700282102 20<oni_00>30	I think they are timeless
+T 1700282112 24*	quickbasicIRC has quit (Remote host closed the connection)
+T 1700282294 23*	ashtin (~oxy@canopy2.5151.simplybits.net23) has joined
+T 1700282295 18*	24ImoutoBot welcomes a​shtin (1 / 1): <a​shtin> <-sad panda
+T 1700282315 20<oni_00>30	there are alot of cult classics born during that time. In the mouth of madness is still one of my all tim favs
+T 1700282330 23*	aaabbb (sitku@bitcoinshell.mooo.com23) has joined
+T 1700282330 18*	24ImoutoBot welcomes a​aabbb (3 / 3): <a​aabbb> japan will take over the world with cuteness
+T 1700282403 24*	NEYi has quit (Quit: Leaving)
+T 1700282417 24*	rosco has quit (Quit: Lost terminal)
+T 1700282443 20<oni_00>30	Terminator, predetor, aliens, goodfellas, pulp fiction, resivour dogs
+T 1700282481 24*	Sxem has quit (Quit: Leaving)
+T 1700282492 24*	zoorat has quit (Quit: zoorat)
+T 1700282719 20<oni_00>30	the only thing that was bad about the 90's was how hard it was to find anime
+T 1700282758 18<24amigojapan18>	DunceCotus:  probably they shoudl have just let japan make an anime for mario brothers
+T 1700282813 18<25DunceCotus18>	amigojapan, I think they made an animated cartoon
+T 1700282830 18<24amigojapan18>	ah cool! DunceCotus 
+T 1700282841 18<24amigojapan18>	DunceCotus:  Japanese?
+T 1700282855 18<19britney18>	yeah there was the Mario bros cartoons
+T 1700282863 18<29ashtin18>	super mario bros super show!
+T 1700282867 18<27mixfix4118>	kinda interesting point you bring up. it only makes me wonder the status of tech at that time as well
+T 1700282870 18<24amigojapan18>	I dont think a western cartoon can be good 
+T 1700282877 18<19britney18>	lmao
+T 1700282897 18<19britney18>	Transformers, Ghostbusters, G.I Joe
+T 1700282899 18<19britney18>	TMNT
+T 1700282915 20<oni_00>30	captain n and the game master
+T 1700282917 18<24amigojapan18>	britney:  transformers was an anime
+T 1700282928 18<29ashtin18>	https://www.wcostream.tv/anime/the-super-mario-bros-super-show
+T 1700282928 18<24ImoutoBot18>	[title] The Super Mario Bros. Super Show! | Watch cartoons online, Watch anime online, English dub anime
+T 1700282940 18<25DunceCotus18>	amigojapan, the simpsons?
+T 1700282947 18<19britney18>	south park
+T 1700282955 18<24amigojapan18>	DunceCotus:  I mean aout mario, sice it is a Japanese product
+T 1700283000 18<27mixfix4118>	those times are still around its just been opening because the code is out there
+T 1700283019 18<27mixfix4118>	not talking about anime but games
+T 1700283231 18<27mixfix4118>	those movies are cunny
+T 1700283472 24*	ashtin has quit (Quit: Leaving)
+T 1700283564 23*	camscout102 (~Thunderbi@user/camscout10123) has joined
+T 1700283589 24*	camscout101 has quit (Read error: Connection reset by peer)
+T 1700283589 24*	28camscout102 is now known as 18camscout101
+T 1700284241 18<27mixfix4118>	!a te
+T 1700284242 18<24ImoutoBot18>	mixfix41: Muv-Luv Alternative: Total Eclipse (TV Series, 24 episodes) | Finished airing | http://anidb.net/a8549 | http://myanimelist.net/anime/11021
+T 1700285050 24*	BillyZane has quit (Ping timeout: 246 seconds)
+T 1700285104 18<28lily12318>	Jigsy: Will they sleep now?
+T 1700285194 23*	BillyZane (~BillyZane@user/BillyZane23) has joined
+T 1700285195 18*	24ImoutoBot welcomes B​illyZane (39 / 72): <B​illyZane> B​co1981, life's too short to watch shitty anime <B​illyZane> B​co1981, you gotta get through the good ones, and spend the rest of the time banging beautiful women and surfing monster waves
+T 1700285203 23*	fufu (~zato@user/zato23) has joined
+T 1700285205 18<28lily12318>	Jigsy: 間違えた！今もう眠る？
+T 1700285237 24*	fufu has quit (Remote host closed the connection)
+T 1700285275 18<24amigojapan18>	hi BillyZane 
+T 1700285307 18<28lily12318>	「you」
+T 1700285317 18<24amigojapan18>	"you"
+T 1700285348 18<28lily12318>	BinarySavior: hello
+T 1700285392 18<28lily12318>	BillyZane: hello
+T 1700285392 24*	zato has quit (Ping timeout: 255 seconds)
+T 1700285861 24*	THCA has quit (Quit: Connection closed for inactivity)
+T 1700286169 18*	27ButterNoodle is workingn
+T 1700286214 18<27ButterNoodle18>	who the fuck are all these new nicks in here...
+T 1700286223 18<27ButterNoodle18>	#makeanimegreatagain
+T 1700286233 18<27ButterNoodle18>	:#
+T 1700286292 18<27ButterNoodle18>	!seen Jigsy 
+T 1700286292 18<24ImoutoBot18>	ButterNoodle: Jigsy was last seen in ##anime 4 hours and 57 minutes ago: <Jigsy> You know, I've been seeing the word ubiquitous everywhere lately.
+T 1700286317 18*	27ButterNoodle hears his cat pooping
+T 1700286353 18<27ButterNoodle18>	:|
+T 1700286447 18<28lily12318>	ButterNoodle: ?
+T 1700286671 18<26Sapphirus18>	dr. stone was also great this week. damn
+T 1700287340 23*	Nirugili (~Thunderbi@user/Nirugili23) has joined
+T 1700287347 23*	nanashi (~nanashi@115.187.56.14623) has joined
+T 1700287347 18*	24ImoutoBot welcomes n​anashi (5 / 5): <N​anashi> * N​anashi confronts N​anobot with a threat that he may become Picobot.
+T 1700287365 18<27BillyZane18>	sup amigojapan
+T 1700287428 18<24amigojapan18>	hey BillyZane . was just starting to watch an anime
+T 1700287464 18<27BillyZane18>	oh, which one?
+T 1700287474 18<24amigojapan18>	BillyZane:  I dont know the english name
+T 1700287485 18<24amigojapan18>	!a teikoku monogatari
+T 1700287485 18<24ImoutoBot18>	amigojapan: Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story (TV Series, 12 episodes) | Next episode: #7 (ETA: 9 hours, 58 minutes) | http://anidb.net/a17608 | http://myanimelist.net/anime/52962
+T 1700287493 18<24amigojapan18>	thats it BillyZane 
+T 1700287528 18<27BillyZane18>	looks like it's ongoing
+T 1700287536 18<24amigojapan18>	yes
+T 1700287557 18<27BillyZane18>	i started watching 'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You'
+T 1700287585 18<24amigojapan18>	yeah, that is not something I woudl watch
+T 1700287590 18<27BillyZane18>	i'm reading the premise of that show though, looks interesting
+T 1700287612 23*	CuffLimbs (~SparePart@user/CuffLimbs23) has joined
+T 1700287612 18*	24ImoutoBot welcomes C​uffLimbs (7 / 20): <C​uffLimbs> lunch walks, always make me more hungry
+T 1700287623 18<24amigojapan18>	hey CuffLimbs 
+T 1700287638 18<19CuffLimbs18>	hi
+T 1700287640 18<28lily12318>	CuffLimbs: hello
+T 1700287643 18<19CuffLimbs18>	hi
+T 1700287688 18<19CuffLimbs18>	down with the nastiest case of notcovid since decade
+T 1700287696 18<19CuffLimbs18>	barely slept at all
+T 1700287716 18<24amigojapan18>	ouch CuffLimbs , feel batter soon
+T 1700287749 18<19CuffLimbs18>	throat is like needles, i dont know what dimension all this snot manifests from
+T 1700287754 23*	rosco (~rosco@175.136.157.14923) has joined
+T 1700287827 18<26MootPoot18>	lol
+T 1700287829 18<28lily12318>	CuffLimbs: That's tough.
+T 1700287830 18<24amigojapan18>	CuffLimbs:  lots of liquids...
+T 1700287832 18<19CuffLimbs18>	ears hurt from the pressure from all the snot removal
+T 1700287845 18<19CuffLimbs18>	its like fucking land of snot and paper tissue 
+T 1700287858 18<26MootPoot18>	my Achilles  hurts
+T 1700287862 18<26MootPoot18>	for fucks sake
+T 1700287867 18<19CuffLimbs18>	MootPoot cut it away ! 
+T 1700287873 18*	26MootPoot grabs the knife
+T 1700287874 18<24amigojapan18>	bbl
+T 1700287887 18<29Urchin[emacs]18>	no, you're supposed to use an arrow!
+T 1700287894 18<26MootPoot18>	tomato tomato
+T 1700287902 18<19CuffLimbs18>	Urchin[emacs] thats for knees ! 
+T 1700287943 18<25DunceCotus18>	CuffLimbs, sounds like it could be serious (like mono), get thee to hospital
+T 1700287974 18<25DunceCotus18>	CuffLimbs, can you swallow?
+T 1700287982 18<19CuffLimbs18>	easily 
+T 1700287994 18<19CuffLimbs18>	and breathing is fine too
+T 1700288010 18<19aaabbb18>	tht's what he said
+T 1700288022 18<25DunceCotus18>	but your throat is like needles?
+T 1700288028 18<19CuffLimbs18>	yes DunceCotus
+T 1700288032 18<25DunceCotus18>	uuuhuh.
+T 1700288037 18*	26MootPoot limply drags his leg
+T 1700288043 18<19CuffLimbs18>	its from the soreness not from swelling 
+T 1700288067 18<25DunceCotus18>	could it take a cock
+T 1700288070 18<26MootPoot18>	 no
+T 1700288076 18<26MootPoot18>	It could work as a cock though
+T 1700288081 18<25DunceCotus18>	O.o
+T 1700288086 18<19CuffLimbs18>	:D 
+T 1700288089 FiSHLiM plugin unloaded
+T 1700370429 19*	Now talking on 22##anime
+T 1700370429 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Mieruko-chan (chosen by DPA) | Manga of the Week: Killing Me! (chosen by Urchin[emacs])
+T 1700370429 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 12 02:59:59 2023)
+T 1700370496 20<oni_00>30	hello all
+T 1700370531 24*	dgcampea has quit (Remote host closed the connection)
+T 1700370539 23*	dgcampea (~dgc@user/dgcampea23) has joined
+T 1700370604 23*	DunceCotus (~taraxanoi@user/duncecotus23) has joined
+T 1700370604 18*	24ImoutoBot welcomes D​unceCotus (32 / 54): <D​unceCotus> cock and balls <|INXS|> domascus stee​l
+T 1700370626 18<27ButterNoodle18>	!seen all
+T 1700370626 18<24ImoutoBot18>	ButterNoodle: all was last seen in #anime 9 years and 2 months ago: * All is now known as Guest69471
+T 1700370787 24*	ZdrytchX has quit (Ping timeout: 255 seconds)
+T 1700371163 18<24amigojapan18>	Sapphirus: I think the only things tablets really really need is an easy way to develop web apps with the posibility of using a debugger
+T 1700371311 18<24amigojapan18>	Sapphirus: oh, kiwi browser already offers the chomium debuger for mobiles!
+T 1700371513 18<24amigojapan18>	so all you really need is to pay a service like sakura to put your apps on the cloud with server side. sakura offers SQLite and PHP for only about 10 USD per YEAR
+T 1700371538 18<24amigojapan18>	I think I will get that service pretty soon, after I develop a certain app locally
+T 1700371620 18<29Urchin[emacs]18>	MootPoot: https://www.youtube.com/watch?v=bXzTXD_OJo0
+T 1700371621 18<24ImoutoBot18>	[youtube] Interview with a Senior C# Developer | Duration: 10 minutes, 56 seconds
+T 1700372960 24*	Aurora_v_kosmose has quit (Remote host closed the connection)
+T 1700372994 23*	Aurora_v_kosmose (~LispyLigh@user/lispylights23) has joined
+T 1700372994 18*	24ImoutoBot welcomes A​urora_v_kosmose (3 / 11): <A​urora_v_kosmose> Yuri is god.
+T 1700373002 18<20PancakeMatsuri18>	lily123, There are high concentrations of selenium in the thyroid gland, where there are several selenium-containing enzymes regulating thyroid function. If the body does not have enough selenium, it can lead to autoimmune thyroid conditions such as Hashimoto’s disease and Graves’ disease. Both of these conditions cause the body to create antibodies that attack the thyroid gland, leading to an overactive thyroid (hyperthyroidism)
+T 1700373002 18<20PancakeMatsuri18>	 or underactive thyroid (hypothyroidism).
+T 1700373112 18<27mixfix4118>	!seen emekka
+T 1700373112 18<24ImoutoBot18>	mixfix41: I haven't seen emekka before.
+T 1700373116 18<27mixfix4118>	!seen emmeka
+T 1700373116 18<24ImoutoBot18>	mixfix41: emmeka was last seen in ##anime 1 day and 3 hours ago: <emmeka> seems to be up to date.
+T 1700373548 23*	rosco (~rosco@175.136.157.14923) has joined
+T 1700374613 23*	nulldoot (~nulldoot@user/nulldoot23) has joined
+T 1700374613 18*	24ImoutoBot welcomes n​ulldoot (1 / 1): <n​ulldoot> alexansh> n​ulldoot: I will mark you as NSFW-dependecy person.
+T 1700375270 23*	Nirugili (~Thunderbi@user/Nirugili23) has joined
+T 1700375479 24*	Terminus- has quit (Quit: ZNC 1.8.2 - https://znc.in)
+T 1700375514 23*	Terminus (~null@user/terminus23) has joined
+T 1700375514 18*	24ImoutoBot welcomes T​erminus (11 / 14): <T​erminus> nothing sme​lls as good as cute gf's sweaty feet <b​eaky> T​erminus what about socks <T​erminus> b​eaky: toes fit into nostrils better than socks
+T 1700376238 18<25DunceCotus18>	amigojapan, corporeal being is rather confronting
+T 1700376307 18<25DunceCotus18>	everything seems poised for violence to occur, or sort of 'primed' for a painful destruction or territorialisation from the outside
+T 1700376390 18<25DunceCotus18>	amigojapan, we exist in these sort of auto-corrosive whirlpools of production and anti-production
+T 1700376454 24*	nulldoot has quit (Quit: Leaving)
+T 1700376460 18<29Urchin[emacs]18>	!seen tsunderenoises
+T 1700376460 18<24ImoutoBot18>	Urchin[emacs]: tsunderenoises was last seen in ##anime 1 month and 27 days ago: <TsundereNoises> it's visible at least
+T 1700376480 18<25DunceCotus18>	tseen
+T 1700376555 18<25DunceCotus18>	but if everything is primed for its own destruction or dissolution of boundaries of inside and outside, why is it nonetheless painful?
+T 1700376592 FiSHLiM plugin unloaded
+T 1700454035 19*	Now talking on 22##anime
+T 1700454035 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Sugar Apple Fairytale (chosen by emmeka) | Manga of the Week: Fukami - Chotto Kawaii Aian Meiden (chosen by ButterNoodle)
+T 1700454035 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 19 02:59:59 2023)
+T 1700454181 23*	lily123 (uid614397@id-614397.tinside.irccloud.com23) has joined
+T 1700454181 18*	24ImoutoBot welcomes l​ily123 (2 / 4): <l​ily123> a​migojapan .I'm tired of you <a​migojapan> Alright l​ily123
+T 1700454755 24*	jdx has quit (Read error: Connection reset by peer)
+T 1700454836 23*	cthae (~Cthulchu@216-180-76-67.dyn.novuscom.net23) has joined
+T 1700454837 18*	24ImoutoBot welcomes c​thae (1 / 1): <c​thae> Lain is the most accurate anime about hackers ever made
+T 1700454982 24*	Sxem has quit (Quit: Leaving)
+T 1700455324 18<28lily12318>	repoman: I just have to get out of ##anime, right? I will.
+T 1700455414 24*	realivanjx has quit (Read error: Connection reset by peer)
+T 1700455537 23*	realivanjx (~realivanj@168.138.179.19223) has joined
+T 1700455637 24*	lily123 (uid614397@id-614397.tinside.irccloud.com24) has left
+T 1700455671 23*	aaabbb (sitku@bitcoinshell.mooo.com23) has joined
+T 1700455671 18*	24ImoutoBot welcomes a​aabbb (1 / 3): <a​aabbb> DunceCotus: i prefer dangerous sex. if you aren't wearing a cyanide laced condom, you aren't really enjoying life
+T 1700455774 18<29Urchin[emacs]18>	aaabbb: you're still using that terrible shell place?
+T 1700455812 18<19aaabbb18>	Urchin[emacs]: ya
+T 1700455841 18<19aaabbb18>	it works... enough
+T 1700456182 18<29Urchin[emacs]18>	are you using it for anything other than IRC?
+T 1700456200 18<19aaabbb18>	yeah some random things, rarely
+T 1700456221 18<29Urchin[emacs]18>	cool
+T 1700456236 18<19aaabbb18>	mostly irc, and a proxy when tor is blocked by something
+T 1700456239 18<19aaabbb18>	like to wget things
+T 1700456249 18<29Urchin[emacs]18>	ok, makes sense
+T 1700456262 18<29Urchin[emacs]18>	https://www.youtube.com/watch?v=G1mWfvbcjcI
+T 1700456264 18<24ImoutoBot18>	[youtube] Merry go round of life   Howl's moving catsle OST for Meow | Duration: 6 minutes, 19 seconds
+T 1700456279 18<26MootPoot18>	remember ruby on rails?
+T 1700456306 18<29Urchin[emacs]18>	I remember it complained about
+T 1700456387 18<26MootPoot18>	was it now
+T 1700456529 18<29Urchin[emacs]18>	MootPoot: of course, you must remember I'm from old school C crowd, culturally
+T 1700456530 18<29Urchin[emacs]18>	:P
+T 1700456568 18<26MootPoot18>	rusty bois
+T 1700456656 18*	29Urchin[emacs] shrugs
+T 1700456674 18<29Urchin[emacs]18>	MootPoot: anyway, what about it?
+T 1700456697 18<26MootPoot18>	nothing
+T 1700456705 18<26MootPoot18>	nothing much ig
+T 1700456714 18<26MootPoot18>	just how it was a fad that....didn't go very far
+T 1700456726 18<26MootPoot18>	I have similar doubts about rust honestly
+T 1700456741 18<19aaabbb18>	rust is getting popular
+T 1700456747 18<19aaabbb18>	unlike ruby it's fast
+T 1700456764 18<26MootPoot18>	yeah but the people saying that are like the linux on the desktop crowd
+T 1700456769 18<26MootPoot18>	which gives me...doubts
+T 1700456796 18*	29Urchin[emacs] shrugs
+T 1700456797 18<19aaabbb18>	but it's also being used by professionals
+T 1700456812 18<19aaabbb18>	linux kernel devs, some of windows is rust, some of firefox and chrome is
+T 1700456827 18<29Urchin[emacs]18>	while I use Linux on a desktop, it's a far cry from using a desktop distro
+T 1700456844 18<26MootPoot18>	when I say linux on the desktop I mean the "this is the year of the linux desktop"
+T 1700456845 18<26MootPoot18>	people
+T 1700456871 18<19aaabbb18>	those people are memes
+T 1700456914 18<26MootPoot18>	anyways, I figured it was time to maybe branch out a bit
+T 1700456927 18<26MootPoot18>	I'm not sure what to pick
+T 1700456933 18<26MootPoot18>	I used to do PHP....I don't want to do that anymore
+T 1700456934 18<26MootPoot18>	lol
+T 1700456941 18<19aaabbb18>	for a new lang to learn?
+T 1700457027 18<26MootPoot18>	yeah
+T 1700457036 18<26MootPoot18>	I mainline C#/Typescript these days
+T 1700457056 18<19aaabbb18>	learn C then
+T 1700457111 18<26MootPoot18>	yeah but with rust on there...idk
+T 1700457124 18<26MootPoot18>	I'll consider that when we know its going to go one way or the other
+T 1700457139 18<19aaabbb18>	C is good to learn because it teaches you low-level fundamentals
+T 1700457186 18<26MootPoot18>	like what?
+T 1700457206 24*	Kill-Animals has quit (Quit: Connection closed for inactivity)
+T 1700457221 18<19aaabbb18>	handling memory, difference between stack and heap, bitwise ops, how strings are "Actually" handled by the cpu
+T 1700457289 18<26MootPoot18>	those are just you normal CS degree topics
+T 1700457292 18<26MootPoot18>	don't need to relearn those
+T 1700457303 18<19aaabbb18>	already have a cs degree?
+T 1700457308 18<26MootPoot18>	who dosen't
+T 1700457310 18<19aaabbb18>	but you didn't learn any C?
+T 1700457335 18<26MootPoot18>	we did it for a little bit just to go through those
+T 1700457345 18<26MootPoot18>	but transitioned onto C# later for actual applications
+T 1700457353 18<19aaabbb18>	do you want to learn low-level or high-level?
+T 1700457367 18<26MootPoot18>	something that would be handy on a high level
+T 1700457372 18<26MootPoot18>	so I have 2x motivation
+T 1700457384 18<19aaabbb18>	maybe python then
+T 1700457435 18<26MootPoot18>	bleh
+T 1700457439 18<26MootPoot18>	don't like interpeted stuff
+T 1700457450 18<26MootPoot18>	python is a glue langauge
+T 1700457466 18<19aaabbb18>	compiled is (usually) lower level
+T 1700457476 18<19aaabbb18>	i think rust then, it's extremely fast, compiled, and safe
+T 1700457504 18<26MootPoot18>	yeah that's the thing
+T 1700457511 18<26MootPoot18>	rust seems like the ideal choice
+T 1700457516 18<26MootPoot18>	but its still in that grey no-mans land
+T 1700457518 18<29Urchin[emacs]18>	python is at least half-decent glue
+T 1700457531 18<26MootPoot18>	ig
+T 1700457545 18<26MootPoot18>	but then again, "new object Object"
+T 1700457545 18<26MootPoot18>	lol
+T 1700457548 18<19aaabbb18>	MootPoot: even gcc is gonna add rust
+T 1700457556 20<oni_00>30	i want to learn programming but i have the worst memory. 
+T 1700457564 18<29Urchin[emacs]18>	MootPoot: Lua?
+T 1700457592 18<29Urchin[emacs]18>	MootPoot: F#? Scheme?
+T 1700457614 18<29Urchin[emacs]18>	MootPoot: hell, check out Emacs Lisp :P
+T 1700457650 18<26MootPoot18>	Isne't lua just a worse python for keyboards and shit
+T 1700457697 18<29Urchin[emacs]18>	MootPoot: Lua is pretty popular for game scripting
+T 1700457709 18<19aaabbb18>	learn perl lol
+T 1700457714 18<26MootPoot18>	ew
+T 1700457730 18<26MootPoot18>	Urchin[emacs]: yeah but for games to go to is python/C#
+T 1700457758 18<19aaabbb18>	@dont = &you(\%love, $sigils{$lol})
+T 1700457763 18*	26MootPoot vomits
+T 1700457774 18<26MootPoot18>	F#...well...I looked into it
+T 1700457779 18<26MootPoot18>	lacks market penetration
+T 1700457786 18<26MootPoot18>	no idea what scheme is
+T 1700457795 18<26MootPoot18>	!g market penetration of rust
+T 1700457797 18<24ImoutoBot18>	MootPoot: No results.
+T 1700457800 18*	26MootPoot bonks ImoutoBot 
+T 1700457805 18<29Ingvix18>	c# is the ultimate garbage
+T 1700457810 18<29Urchin[emacs]18>	https://en.wikipedia.org/wiki/Scheme_(programming_language)
+T 1700457811 18<24ImoutoBot18>	[title] Scheme (programming language) - Wikipedia
+T 1700457834 18<26MootPoot18>	Ingvix: hyperbole much?
+T 1700457839 18<26MootPoot18>	I mean..PHP exists
+T 1700457865 18<29Ingvix18>	php is kinda comfy heap of trash
+T 1700457870 18<26MootPoot18>	no
+T 1700457892 18<26MootPoot18>	php is the same kind of nonsensicial shit that vanilla JS is 
+T 1700457895 18<26MootPoot18>	keep that away from me
+T 1700457935 18<26MootPoot18>	I can respect them both for chugging on day in and out, but I would not use it even if you paid me
+T 1700457945 18<26MootPoot18>	I'd rather learn rust lol
+T 1700457957 18<19aaabbb18>	learn intercal
+T 1700457962 18<26MootPoot18>	I did rust for a bit but never really did any decently sized projects with it beyond basics
+T 1700458043 18<26MootPoot18>	rust does have one major appeal to me though
+T 1700458080 18<19aaabbb18>	so learn rust
+T 1700458098 18<26MootPoot18>	its one language that can be used from embedded all the way to application tier
+T 1700458104 18<26MootPoot18>	afaik C# embedded is.....uh
+T 1700458105 18<26MootPoot18>	lol
+T 1700458118 18<29Ingvix18>	https://www.youtube.com/watch?v=tas0O586t80
+T 1700458119 18<24ImoutoBot18>	[youtube] Program in C | Duration: 52 seconds
+T 1700458233 18<29Urchin[emacs]18>	MootPoot: anything that gets popular as a programming language almost obligatorilly has to be shit
+T 1700458269 18<26MootPoot18>	ig
+T 1700458277 18<26MootPoot18>	reality is messy
+T 1700458332 18<29Urchin[emacs]18>	yep
+T 1700458385 18<29Urchin[emacs]18>	MootPoot: so, you're looking for some kind of a compiled language?
+T 1700458389 18<29Urchin[emacs]18>	MootPoot: anything else?
+T 1700458434 18<26MootPoot18>	bah
+T 1700458458 18<19aaabbb18>	learn perl for the memes
+T 1700458485 23*	brass (~BrassPin8@103.85.207.16423) has joined
+T 1700458485 18<29Urchin[emacs]18>	lol
+T 1700458497 24*	BrassPin88 has quit (Read error: Connection reset by peer)
+T 1700458500 24*	28brass is now known as 18BrassPin88
+T 1700458583 18<29Urchin[emacs]18>	MootPoot: try Malbolge, it features an encripted trinary virtual machine...
+T 1700458605 18<29Ingvix18>	is it like malboro
+T 1700458811 24*	rosco has quit (Ping timeout: 264 seconds)
+T 1700458866 18<29Urchin[emacs]18>	MootPoot: or play a nice fun programming game like TIS-100
+T 1700458978 18<26MootPoot18>	been there, done that
+T 1700458987 18<26MootPoot18>	seems like rust is the only real candidate
+T 1700459010 18<29Ingvix18>	c is gud
+T 1700459133 18<26MootPoot18>	things which are 1.) compiled 2.) as widely usable as possible ( in the business world as well, not some solo dude's git repo ) 3.) decent or growing market share 4.) good tooling
+T 1700459138 18<26MootPoot18>	seems like rust is the only one
+T 1700459255 24*	phil has quit (Ping timeout: 256 seconds)
+T 1700459262 18<29Urchin[emacs]18>	well, there's go, but I don't think you're the audience
+T 1700459320 18<26MootPoot18>	that's a network infra language right
+T 1700459325 18<26MootPoot18>	that's in butter's alley
+T 1700459372 24*	Aurora_v_kosmose has quit (Remote host closed the connection)
+T 1700459397 23*	Aurora_v_kosmose (~LispyLigh@user/lispylights23) has joined
+T 1700459397 18*	24ImoutoBot welcomes A​urora_v_kosmose (3 / 11): <A​urora_v_kosmose> Yuri is god.
+T 1700459403 23*	Nirugili (~Thunderbi@user/Nirugili23) has joined
+T 1700459435 18<29Urchin[emacs]18>	MootPoot: it's also a kind of a modernized language for the old school C crowd
+T 1700459447 23*	phil (~phil@79.184.239.237.ipv4.supernova.orange.pl23) has joined
+T 1700459461 18<26MootPoot18>	Urchin[emacs]: a quote on a page titled "rust market overview"
+T 1700459484 18<26MootPoot18>	"the best way to swtich to rust is to forget you learned C++"
+T 1700459504 18<26MootPoot18>	lol
+T 1700459522 18<26MootPoot18>	https://6sense.com/tech/languages/rust-market-share
+T 1700459523 18<24ImoutoBot18>	[title] Rust - Market Share, Competitor Insights in Languages
+T 1700459532 18<26MootPoot18>	market share is 0.01%
+T 1700459538 18<26MootPoot18>	but its ranked #11
+T 1700459547 18<26MootPoot18>	this website ie retarded
+T 1700459549 18<26MootPoot18>	nvm
+T 1700459697 18<26MootPoot18>	how is ruby still up there
+T 1700459698 18<26MootPoot18>	lmao
+T 1700459700 FiSHLiM plugin unloaded
+T 1700535898 19*	Now talking on 22##anime
+T 1700535898 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Sugar Apple Fairytale (chosen by emmeka) | Manga of the Week: Fukami - Chotto Kawaii Aian Meiden (chosen by ButterNoodle)
+T 1700535898 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 19 02:59:59 2023)
+T 1700535905 18<25airswing18>	Just caught up on 16Bit Sensation
+T 1700536021 23*	Ruby (~Ruby@071-076-137-168.res.spectrum.com23) has joined
+T 1700536215 18<27mixfix4118>	good thing u didnt catch down 
+T 1700536230 18<27mixfix4118>	caught up baseball glove
+T 1700536337 18<27mixfix4118>	16 bits sensation are each girl eight bits
+T 1700536360 18<27ButterNoodle18>	69 bits
+T 1700536378 18<27ButterNoodle18>	divide by 4 girls with 5 leftover for a late night fap
+T 1700536521 18<27mixfix4118>	how can we utilize virtual reality more futurely
+T 1700536676 24*	Ogobaga has quit (Quit: Konversation terminated!)
+T 1700536696 23*	Ogobaga (~guu@user/Ogobaga23) has joined
+T 1700536703 18<27ButterNoodle18>	mixfix41: do u even have ur autoblow2 paired to ur headset?
+T 1700537017 24*	DrPhibes has quit (Quit: Bye.)
+T 1700537101 18<27mixfix4118>	listen close skankhut
+T 1700537155 18<27mixfix4118>	69bit bedrage
+T 1700537304 23*	DrPhibes (~DrPhibes@98.118.175.7523) has joined
+T 1700537406 18<27mixfix4118>	do you use microcontroller with ur headsets
+T 1700537475 18<24amigojapan18>	PancakeMatsuri: hey, thanks
+T 1700537490 18<24amigojapan18>	PancakeMatsuri: but she is already seeing a doctor for it
+T 1700537519 18<24amigojapan18>	PancakeMatsuri: she has Hashimoto disease
+T 1700537519 18<27mixfix4118>	maybe build like a vr car and you can spliff it out with realistic design with vr headset
+T 1700537569 18<27mixfix4118>	they gotta open up the vr stuff so it becomes mature faster
+T 1700537668 18<27mixfix4118>	honestly with games i keep pretty simple launches and im happy. it is a thrill to land something fancy
+T 1700537719 18<27mixfix4118>	asuka is a bombshell waifu
+T 1700537778 18<27mixfix4118>	anyone dig knetwalk?
+T 1700537835 18<20PancakeMatsuri18>	amigojapan, regular doctors are of no use
+T 1700537848 18<20PancakeMatsuri18>	amigojapan, she'll just get T4
+T 1700537954 18<20PancakeMatsuri18>	amigojapan, what needs to be done are tests of what minerals and vitamins are missing
+T 1700537976 18<20PancakeMatsuri18>	amigojapan, and then providing them to body
+T 1700537998 18<20PancakeMatsuri18>	amigojapan, that would fix the root cause
+T 1700538281 19*	Now talking on 22##anime
+T 1700538281 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Sugar Apple Fairytale (chosen by emmeka) | Manga of the Week: Fukami - Chotto Kawaii Aian Meiden (chosen by ButterNoodle)
+T 1700538281 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 19 02:59:59 2023)
+T 1700538508 18<19farzat18>	amigojapan: I'm in Ep9 and Miyo is really getting on my nerves
+T 1700538548 18<19farzat18>	If my wife is hiding things from me even though it is very obvious to TOTAL STRANGERS that she's suffering
+T 1700538586 18<19farzat18>	Then that means maybe she doesn't trust that I care about her to solve her problems?
+T 1700538607 18<19farzat18>	Or maybe she thinks I'm incapable of helping her?
+T 1700538691 18<19farzat18>	Or maybe I'd prefer to see her suffer by herself than take 具体的な actions to solve her suffering
+T 1700538749 18<19farzat18>	Now you could say that this is cuz of how she was trained as a child
+T 1700538786 18<19farzat18>	Well then train her again! Design a training to make her express herself and be less insecure
+T 1700538795 18<27mixfix4118>	gotta compete in marketing
+T 1700538875 18<19farzat18>	If you ask me that's a 100 times more important than learning the correct western posture or pouring tea
+T 1700539023 23*	rosco (~rosco@175.136.157.14923) has joined
+T 1700539291 24*	tdaddy has quit (Quit: bye bye)
+T 1700539317 23*	tdaddy (~tdaddy@shout.jpaglier.com23) has joined
+T 1700539317 18*	24ImoutoBot welcomes t​daddy (2 / 2): <t​daddy> anime
+T 1700539424 23*	zoorat (~Thunderbi@user/zoorat23) has joined
+T 1700539930 24*	arcrpg has quit (Ping timeout: 260 seconds)
+T 1700540783 24*	Sxem has quit (Quit: Leaving)
+T 1700540880 23*	Urchin[emacs] (~user@user/urchin23) has joined
+T 1700540880 18*	24ImoutoBot welcomes U​rchin[emacs] (15 / 38): <TsundereNoises> U​rchin[emacs]: hi, I was not saying hi to you because everyone was saying hi to everyone and I was assuming someone e​lse would while claiming to be some third person <TsundereNoises> but then it just died <TsundereNoises> because no one wanted to greet you I guess
+T 1700540889 18<29Urchin[emacs]18>	!seen tsunderenoises
+T 1700540889 18<24ImoutoBot18>	Urchin[emacs]: tsunderenoises was last seen in ##anime 1 month and 29 days ago: <TsundereNoises> it's visible at least
+T 1700540936 23*	redstarcomrade (~redstarco@cpe-76-90-240-226.socal.res.rr.com23) has joined
+T 1700541147 18<26MootPoot18>	https://www.chocolateweapons.com/products/chocolate-gun-solid
+T 1700541148 18<24ImoutoBot18>	[title] Chocolate Gun - Full-sized Solid Milk Chocolate 1911 Handgun – ChocolateWeapons
+T 1700541201 18<28JesseDesu18>	just the tip
+T 1700541206 18<28JesseDesu18>	in your mouth
+T 1700541395 18<27ButterNoodle18>	https://www.twitch.tv/gutterpoodle
+T 1700541396 18<24ImoutoBot18>	[title] Twitch
+T 1700541683 18<27mixfix4118>	more the merrier
+T 1700541741 18<27mixfix4118>	streaming equals new content there isnt anything better than new
+T 1700541857 18<29Ingvix18>	except the old
+T 1700541880 18<27mixfix4118>	raspy old people !
+T 1700542026 18<27mixfix4118>	little mermaids whalecums
+T 1700542359 23*	DunceCotus (~taraxanoi@user/duncecotus23) has joined
+T 1700542359 18*	24ImoutoBot welcomes D​unceCotus (41 / 54): <D​unceCotus> balled phase
+T 1700542415 24*	BrassPin88 has quit (Quit: Going offline, see ya! (www.adiirc.com))
+T 1700708990 19*	Now talking on 22##anime
+T 1700708990 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Sugar Apple Fairytale (chosen by emmeka) | Manga of the Week: Fukami - Chotto Kawaii Aian Meiden (chosen by ButterNoodle)
+T 1700708990 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 19 02:59:59 2023)
+T 1700709241 24*	notadog (~notadog@2804:7f0:6780:eaba:bc15:151a:442:e01624) has left (Leaving)
+T 1700709260 24*	Jigsy has quit (Killed (NickServ (GHOST command used by Jigsy`)))
+T 1700709265 23*	Jigsy` (~Jigsy@user/jigsy23) has joined
+T 1700709379 24*	28Jigsy` is now known as 18Jigsy
+T 1700709404 23*	THCA (uid569283@id-569283.uxbridge.irccloud.com23) has joined
+T 1700709404 18*	24ImoutoBot welcomes T​HCA (1 / 2): <R​oey> T​HCA: aren't you an inactive form of a we​ll-known molecule? <T​HCA> no i will also definatly get you high <R​oey> T​HCA: we​ll played, sir, we​ll played.
+T 1700709487 24*	cthae has quit (Ping timeout: 268 seconds)
+T 1700709589 20<oni_00>30	hello! happy turky day to you all!
+T 1700710027 24*	bardman (~bardman@2600:1700:77c0:26b0:26a7:c39b:49cf:2d6724) has left
+T 1700710112 24*	camscout101 has quit (Quit: camscout101)
+T 1700710504 24*	Jigsy has quit (Killed (NickServ (GHOST command used by Jigsy`)))
+T 1700710509 23*	Jigsy` (~Jigsy@user/jigsy23) has joined
+T 1700710624 24*	28Jigsy` is now known as 18Jigsy
+T 1700710629 18<27ButterNoodle18>	https://www.twitch.tv/gutterpoodle
+T 1700710630 18<24ImoutoBot18>	[title] Twitch
+T 1700711765 23*	miragearchitect (~miragearc@188.138.158.5423) has joined
+T 1700711831 23*	kanonchan (~kanonchan@179.0.116.10023) has joined
+T 1700712998 23*	airswing (~airswing@user/airswing23) has joined
+T 1700712999 18*	24ImoutoBot welcomes a​irswing (1 / 1): <a​irswing> Mental health is definite​ly not buyable
+T 1700713325 24*	miragearchitect has quit (Quit: Quit)
+T 1700713403 23*	miragearchitect (~miragearc@188.138.158.5423) has joined
+T 1700713459 24*	miragearchitect has quit (Client Quit)
+T 1700713747 18<29Urchin[emacs]18>	!later tell tsunderenoises https://i.redd.it/tx5168a4ux1c1.jpg
+T 1700713985 23*	Arcorann (~A@user/arcorann23) has joined
+T 1700714017 18<27ButterNoodle18>	!seen bussy
+T 1700714017 18<24ImoutoBot18>	ButterNoodle: I haven't seen bussy before.
+T 1700714335 23*	zoorat (~Thunderbi@user/zoorat23) has joined
+T 1700714451 24*	Sxem has quit (Quit: Leaving)
+T 1700715646 24*	airswing has quit (Remote host closed the connection)
+T 1700715654 18<27ButterNoodle18>	happy gobble
+T 1700716351 18<26MootPoot18>	Ok, now I'm back properly
+T 1700716359 18<26MootPoot18>	Urchin[emacs]: tf were you going on about
+T 1700716522 18<29Urchin[emacs]18>	MootPoot: looked like you were responding to something that made you looked incelish
+T 1700716554 23*	DunceCotus (~taraxanoi@user/duncecotus23) has joined
+T 1700716554 18*	24ImoutoBot welcomes D​unceCotus (25 / 54): <D​unceCotus> no holding of hands, but yes genitals
+T 1700716613 18<29Urchin[emacs]18>	!later tell tsunderenoises https://i.imgur.com/W5JGIpt.jpg
+T 1700716643 18<26MootPoot18>	Urchin[emacs]: what was that something 
+T 1700716673 24*	Ogobaga has quit (Quit: Konversation terminated!)
+T 1700716696 23*	Ogobaga (~guu@user/Ogobaga23) has joined
+T 1700716699 18*	26MootPoot wonders if its something on his ignore list
+T 1700716702 18<26MootPoot18>	Anyways
+T 1700716710 18<26MootPoot18>	Pizza time
+T 1700716785 23*	PancakeMatsuri (~atium~@user/PancakeMatsuri23) has joined
+T 1700716785 18*	24ImoutoBot welcomes P​ancakeMatsuri (8 / 8): <P​ancakeMatsuri> a​migojapan, doctors are leve​l-1 tech support
+T 1700716787 18<29Urchin[emacs]18>	MootPoot: * ImoutoBot welcomes e​zekielnoob (21 / 40): <ezekie​lnoob> i wouldn't mind my wife masturbating to a hotter guy <MootPoot> Lolwat
+T 1700716790 18<25DunceCotus18>	pizza butter jelly time
+T 1700716816 18<27ButterNoodle18>	penis butter belly time
+T 1700716890 18<26MootPoot18>	interesting
+T 1700716911 18<29Urchin[emacs]18>	MootPoot: makes you sound damn insecure
+T 1700717002 18<26MootPoot18>	I mean, I was lol'ing at the statement, but the interesting part is that you view me in a way that would result in you perceiving it that way and responding accordingly.
+T 1700717007 18*	26MootPoot takes notes
+T 1700717038 18<26MootPoot18>	https://www.youtube.com/watch?v=wxfKlVytncM
+T 1700717039 18<24ImoutoBot18>	[youtube] The Ford F450 King Ranch. Will It Rally? | Duration: 10 minutes, 18 seconds
+T 1700717051 18<26MootPoot18>	more off roading then 99.9% of truck owners will ever do
+T 1700717566 23*	matt_ (~matt@2601:580:c003:3850:747f:e250:cdbe:e4b423) has joined
+T 1700717814 24*	Matt|home has quit (Ping timeout: 260 seconds)
+T 1700718426 18<29Urchin[emacs]18>	MootPoot: lol-ing was fine, it was wut-ing that made me question
+T 1700719220 23*	jbwncster (uid72776@id-72776.helmsley.irccloud.com23) has joined
+T 1700719220 18*	24ImoutoBot welcomes j​bwncster (2 / 3): <Fenderbassist> !addquote j​bwncster Someone needs to remove it
+T 1700719246 23*	Nirugili (~Thunderbi@user/Nirugili23) has joined
+T 1700719782 24*	britney has quit (Remote host closed the connection)
+T 1700719801 23*	britney (~britney@2607:fea8:f24:8800:e9d5:1f39:32a6:9b5823) has joined
+T 1700720633 23*	Nirugili1 (~Thunderbi@user/Nirugili23) has joined
+T 1700720734 24*	Nirugili has quit (Ping timeout: 255 seconds)
+T 1700720734 24*	28Nirugili1 is now known as 18Nirugili
+T 1700720749 23*	mobivme (~mobivme@112.201.111.21723) has joined
+T 1700720995 24*	Ogobaga has quit (Quit: Konversation terminated!)
+T 1700721016 23*	Ogobaga (~guu@user/Ogobaga23) has joined
+T 1700721192 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1700721523 24*	gtkgtkgtk has quit (Quit: 3)
+T 1700721636 23*	kanonchan1 (~kanonchan@179.0.116.10023) has joined
+T 1700721696 24*	kanonchan has quit (Ping timeout: 256 seconds)
+T 1700722341 24*	Urchin[emacs] has quit (Ping timeout: 252 seconds)
+T 1700722583 24*	mobivme has quit (Ping timeout: 264 seconds)
+T 1700722613 23*	mobivme (~mobivme@112.201.111.21723) has joined
+T 1700722707 24*	ungeskriptet has quit (Quit: The Lounge - https://thelounge.chat)
+T 1700722726 23*	ungeskriptet (~ungeskrip@188.195.169.623) has joined
+T 1700722759 24*	ungeskriptet has quit (Client Quit)
+T 1700722780 23*	ungeskriptet (~ungeskrip@ipbcc3a906.dynamic.kabel-deutschland.de23) has joined
+T 1700722947 18<27ButterNoodle18>	https://www.engadget.com/self-proclaimed-gay-furry-hackers-breach-nuclear-lab-152034192.html
+T 1700722948 18<24ImoutoBot18>	[title] Self-proclaimed 'gay furry hackers' breach nuclear lab
+T 1700722989 18<27ButterNoodle18>	if they were actually hacking for catgirls they would have my financial support... but they are hacking for "human rights"
+T 1700722992 18<27ButterNoodle18>	pfffffffff
+T 1700722993 18<27ButterNoodle18>	we dont need em
+T 1700722997 24*	ungeskriptet has quit (Client Quit)
+T 1700723002 23*	Urchin[emacs] (~user@user/urchin23) has joined
+T 1700723003 18*	24ImoutoBot welcomes U​rchin[emacs] (28 / 38): <U​rchin[emacs]> aquarium yuri bait is somehow a genre
+T 1700723013 23*	ungeskriptet (~ungeskrip@188.195.169.623) has joined
+T 1700723017 18<29Urchin[emacs]18>	!quote
+T 1700723017 18<24ImoutoBot18>	Urchin[emacs]: (32 / 38) <Urchin[emacs]> I​ngvix: ok, explain what kind of a colossal pervert you are when you fee​l more like it
+T 1700723105 18<27ButterNoodle18>	should I jack off now?
+T 1700723320 23*	cthae (~Cthulchu@216-180-76-67.dyn.novuscom.net23) has joined
+T 1700723320 18*	24ImoutoBot welcomes c​thae (1 / 1): <c​thae> Lain is the most accurate anime about hackers ever made
+T 1700723337 18<25DunceCotus18>	jack off over perverts
+T 1700723406 18<29Urchin[emacs]18>	ButterNoodle: that's between you and your domme
+T 1700723408 18<29Urchin[emacs]18>	:P
+T 1700723542 24*	Nirugili has quit (Ping timeout: 255 seconds)
+T 1700723562 23*	Nirugili (~Thunderbi@user/Nirugili23) has joined
+T 1700724042 18<29Ingvix18>	teatime
+T 1700724069 18<27ButterNoodle18>	I read that as teat time
+T 1700724082 18<27ButterNoodle18>	I was prepared to motorboat
+T 1700724370 18<25DunceCotus18>	teat time for teatler
+T 1700724428 18<25DunceCotus18>	ButterNoodle, lesbians mutual motorboating
+T 1700724595 24*	Kill-Animals has quit (Quit: Connection closed for inactivity)
+T 1700724602 18<25DunceCotus18>	amigojapan, https://open.spotify.com/track/2BDb2OCOx4vo9phywLV2xH?si=c94d291010e94243
+T 1700724603 18<24ImoutoBot18>	[title] Lock Up - 2019 Remaster - song and lyrics by Zero B | Spotify
+T 1700724624 18<24amigojapan18>	ty DunceCotus 
+T 1700724659 18<19aaabbb18>	/6/6
+T 1700724706 24*	JoePowerhouse has quit (Read error: Connection reset by peer)
+T 1700724768 18<25DunceCotus18>	amigojapan, yw
+T 1700724872 18<24amigojapan18>	hey aaabbb 
+T 1700724902 18<25DunceCotus18>	https://open.spotify.com/track/6vC83pgcZz1mO8d2O9Ou9o?si=d421e208720640d6
+T 1700724902 18<24ImoutoBot18>	[title] It's Just a Feeling - Original 12" Mix - song and lyrics by Terrorize | Spotify
+T 1700724925 18<19aaabbb18>	hi amigo
+T 1700724927 18<24amigojapan18>	aaabbb:  this time around COVID seems to be milder than the last time, I dont know if it is cause I just took the vaccine recently or if the COVID stran is really less potent
+T 1700724940 18<19aaabbb18>	could be both
+T 1700724949 18<24amigojapan18>	I see aaabbb 
+T 1700724966 18<25DunceCotus18>	Covered for COVID
+T 1700724979 18<24amigojapan18>	yup DunceCotus 
+T 1700724990 18<25DunceCotus18>	GUARDED
+T 1700725002 18<25DunceCotus18>	from its ravages
+T 1700725079 18<24amigojapan18>	DunceCotus: CO. Vid
+T 1700725101 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1700725102 18<24amigojapan18>	corporation video
+T 1700725115 18<25DunceCotus18>	amigojapan, https://open.spotify.com/track/57qqflwrWfnrUnI2bulCIu?si=75d8dd6179aa418d
+T 1700725116 18<24ImoutoBot18>	[title] Give a Little Love ('94 Lick) [2011 Remastered Mix] - song and lyrics by Nookie | Spotify
+T 1700725133 18<24amigojapan18>	ty DunceCotus 
+T 1700725249 23*	nulldoot (~nulldoot@user/nulldoot23) has joined
+T 1700725249 18*	24ImoutoBot welcomes n​ulldoot (1 / 1): <n​ulldoot> alexansh> n​ulldoot: I will mark you as NSFW-dependecy person.
+T 1700725287 18<25DunceCotus18>	amigojapan, we need a proper second rave 
+T 1700725318 18<25DunceCotus18>	amigojapan, I was saying this in 2019-2020
+T 1700725335 18<25DunceCotus18>	amigojapan, then second rave started to sound like 'second wave' in relation to covid
+T 1700725351 24*	mobivme has quit (Ping timeout: 255 seconds)
+T 1700725362 18<24amigojapan18>	I see DunceCotus 
+T 1700725365 18<25DunceCotus18>	amigojapan, the system will try to diffuse or twist around any opposition to it
+T 1700725404 18<25DunceCotus18>	second rave may not be possible now that we've had covid
+T 1700725441 18<25DunceCotus18>	covid didn't hurt capitalist normality, it hurt its radical overcoming, at least [con]temporarily
+T 1700725499 23*	mobivme (~mobivme@112.201.111.21723) has joined
+T 1700725627 18<25DunceCotus18>	https://www.youtube.com/watch?v=1drnmpsDk8M
+T 1700725628 18<24ImoutoBot18>	[youtube] Rave 2 The Grave - Give A Little Love - NRG (Jedi Recordings / Stormtrooper Recordings) | Duration: 8 minutes, 32 seconds
+T 1700725646 18<24amigojapan18>	DunceCotus:  I dont think we should ever have quit remote work, it is much better if we dont need to spend money and time on commuting
+T 1700725704 18<25DunceCotus18>	amigojapan, yeah im currently insisting on it at my workplace
+T 1700725722 18<25DunceCotus18>	I will only work from home, and I don't work if they want me to come into office
+T 1700725733 24*	rvalue has quit (Ping timeout: 240 seconds)
+T 1700725752 18<25DunceCotus18>	workers have to get stubborn with their employers
+T 1700725756 18<25DunceCotus18>	show them who the real boss is..
+T 1700725770 18<25DunceCotus18>	get enough workers doing this, and workplaces will change
+T 1700725781 18<24amigojapan18>	I see DunceCotus , can you get in touch with other workers? this is best if you all do it
+T 1700725803 18<25DunceCotus18>	amigojapan, I can't really without the workplace knowing about it
+T 1700725811 18<24amigojapan18>	DunceCotus:  also COVID is not over
+T 1700725816 18<25DunceCotus18>	amigojapan, our unions lack a lot of power nowadays
+T 1700725825 18<24amigojapan18>	I see DunceCotus 
+T 1700725835 18<25DunceCotus18>	amigojapan, yeah there's still the safety element one can insist upon
+T 1700725847 18<24amigojapan18>	DunceCotus:  I mean you personallly should get in touch with the other workers
+T 1700725850 23*	mobivme1 (~mobivme@112.201.111.21723) has joined
+T 1700725870 18<25DunceCotus18>	amigojapan, I'd need their contact details
+T 1700725878 18<25DunceCotus18>	cause otherwise all communication between us goes through the business
+T 1700725884 18<24amigojapan18>	I see DunceCotus 
+T 1700725890 18<25DunceCotus18>	capitalists know this amigojapan 
+T 1700725902 18<25DunceCotus18>	they account for this in the sorts of jobs they produce
+T 1700725947 18<25DunceCotus18>	amigojapan, workplace organisation invariably leads to unionisation
+T 1700725964 18<24amigojapan18>	DunceCotus:  you could casualy ask for their contact when you are in business times "I have something personal to tell you"
+T 1700725968 18<25DunceCotus18>	but through unionisation we kinda lose the potential of the 'refusal' insofar as it is a negotiation with power (the employer)
+T 1700725999 18<25DunceCotus18>	amigojapan, its probably against company employment policy
+T 1700726013 18<25DunceCotus18>	amigojapan, ironically I could do it without company knowing.. at the office
+T 1700726024 18<24amigojapan18>	I see DunceCotus 
+T 1700726024 18<25DunceCotus18>	but that presupposes everyone is working at the office on that day, and I don't think we should have to
+T 1700726045 24*	mobivme has quit (Ping timeout: 256 seconds)
+T 1700726052 18<24amigojapan18>	DunceCotus:  just do it at the office if they call you there, on the first day
+T 1700726053 18<25DunceCotus18>	amigojapan, another problem is a chunk of the workforce actually don't mind going into office
+T 1700726064 18<24amigojapan18>	I see
+T 1700726078 18<25DunceCotus18>	I don't think its about convincing people or anything like that
+T 1700726102 18<25DunceCotus18>	amigojapan, we just each have to start refusing shitty employment conditions
+T 1700726108 23*	CuffLimbs (~SparePart@user/CuffLimbs23) has joined
+T 1700726108 18*	24ImoutoBot welcomes C​uffLimbs (6 / 21): <C​uffLimbs> so, are vampires considered bat furries?
+T 1700726124 18<24amigojapan18>	hey CuffLimbs 
+T 1700726132 18<19CuffLimbs18>	hi
+T 1700726169 23*	rvalue (~rvalue@user/rvalue23) has joined
+T 1700726180 18<24amigojapan18>	CuffLimbs:  is batman a bat furry
+T 1700726182 18<24amigojapan18>	?
+T 1700726190 24*	mobivme1 has quit (Ping timeout: 260 seconds)
+T 1700726207 18<19CuffLimbs18>	obviously
+T 1700726212 18<19CuffLimbs18>	also a criminal
+T 1700726212 18<24amigojapan18>	:)
+T 1700726245 18<24amigojapan18>	taking the law into his own hands? CuffLimbs 
+T 1700726271 18<19CuffLimbs18>	essentialy
+T 1700726275 18<25DunceCotus18>	come and feel my energy
+T 1700726282 18<24amigojapan18>	I see CuffLimbs 
+T 1700726296 18<24amigojapan18>	brb preparign cup noodles
+T 1700726315 18<19CuffLimbs18>	what ? multiple counts of murder, explosives use,endangering civilians vehiculary and many other ways, 
+T 1700726329 18<19CuffLimbs18>	i bet some nerd somewhere has compiled the whole rapsheet
+T 1700726381 23*	zoidberg (uid349353@user/saganman23) has joined
+T 1700726381 18*	24ImoutoBot welcomes z​oidberg (3 / 3): <z​oidberg> wake up, internet is full of dicks
+T 1700726413 23*	mobivme1 (~mobivme@112.201.111.21723) has joined
+T 1700726464 18<27ButterNoodle18>	!motw NON - Hare-Kon
+T 1700726464 18<24ImoutoBot18>	ButterNoodle: You've set your pick to NON - Hare-Kon. It will be automatically selected for Manga of the Week when your next turn comes.
+T 1700726522 24*	cthae has quit (Ping timeout: 260 seconds)
+T 1700726541 18<29zoidberg18>	yo ButterNoodle 
+T 1700726548 18<27ButterNoodle18>	waddup
+T 1700726585 18<27ButterNoodle18>	tryin to find something to get me in the mood for a good sleepy fap
+T 1700726613 18<27ButterNoodle18>	REC is good for a warm up
+T 1700726676 18<29zoidberg18>	ButterNoodle: REC has some good tiddies
+T 1700726725 18<27ButterNoodle18>	yes
+T 1700726754 18<27ButterNoodle18>	I fucking hate waiting on shit to get translated
+T 1700726768 18<19CuffLimbs18>	time to translate yourself ! 
+T 1700726778 18<27ButterNoodle18>	takes to long
+T 1700726788 18<29Ingvix18>	translate faster
+T 1700726791 18<19CuffLimbs18>	^
+T 1700726803 18<27ButterNoodle18>	I can only translate so fast with one hand
+T 1700726820 18<19CuffLimbs18>	train feet
+T 1700726833 18<27ButterNoodle18>	I have to decide if I want to use the left hand as the friendly stranger while the right hand moves the mouse...
+T 1700726846 24*	mobivme1 has quit (Ping timeout: 245 seconds)
+T 1700726848 18<27ButterNoodle18>	I was not born with finger toes
+T 1700726858 18<27ButterNoodle18>	the easy solution
+T 1700726876 18<19CuffLimbs18>	start using voice commands
+T 1700726878 18<27ButterNoodle18>	just get a cute japanese girl to read me my bedtime stories
+T 1700726881 18<19CuffLimbs18>	and then it becomes next
+T 1700726883 18<19CuffLimbs18>	NEXT
+T 1700726888 18<19CuffLimbs18>	NEEEHJJJGJXCTTTT
+T 1700726905 18<29zoidberg18>	we still came a long way ButterNoodle, back in the day it was hard to find translated hentai doujins
+T 1700726915 18<27ButterNoodle18>	tru
+T 1700726936 18<27ButterNoodle18>	I just hate having to stop mid stroke to lookup a kaji
+T 1700726940 18<29Ingvix18>	do you read hentai manga for the dialogue
+T 1700726965 18<29zoidberg18>	I can't fap to untranslated hentai doujins
+T 1700726966 18<27ButterNoodle18>	yea I gotta make sure I am fapping to the right kinda incest
+T 1700726981 18<27ButterNoodle18>	if they arent blood related.. I cant blast rope
+T 1700727003 18<29zoidberg18>	yup and sometimes they forget to tag them like trap hentais
+T 1700727024 18<27ButterNoodle18>	I can always make do if theres incest
+T 1700727040 18<29zoidberg18>	even if it's a trap?
+T 1700727054 18<27ButterNoodle18>	AS LONG AS THERES INCEST
+T 1700727109 18<29zoidberg18>	I see.
+T 1701497002 19*	Now talking on 22##anime
+T 1701497002 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Oshi no ko (chosen by JesseDesu) | Manga of the Week: Akira Book (chosen by mixfix41)
+T 1701497002 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Nov 26 03:00:00 2023)
+T 1702018463 19*	Now talking on 22##anime
+T 1702018463 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Musekinin Kanchou Tylor (chosen by Jigsy) | Manga of the Week: Usagi Drop 1-10 (chosen by S_T_A_N)
+T 1702018463 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Dec  3 03:00:00 2023)
+T 1702018465 24*	CtrlS1r3n has quit (Ping timeout: 276 seconds)
+T 1702018510 18<20Bco198118>	it's not a full episode of recap ?... weak.
+T 1702019156 24*	Ogobaga has quit (Read error: Connection reset by peer)
+T 1702019176 23*	Ogobaga (~guu@user/Ogobaga23) has joined
+T 1702019266 23*	CtrlS1r31 (~CtrlS1r3n@user/CtrlS1r3n23) has joined
+T 1702019417 24*	camscout101 has quit (Remote host closed the connection)
+T 1702019430 23*	camscout101 (~Thunderbi@user/camscout10123) has joined
+T 1702019481 23*	jdx (~jdx@2001:5b0:4acb:1278:6592:ebd4:6091:fe6123) has joined
+T 1702019585 23*	DunceCotus (~taraxanoi@user/duncecotus23) has joined
+T 1702019585 18*	24ImoutoBot welcomes D​unceCotus (34 / 56): <intaramento> I am the second coming of Christ <D​unceCotus> intaramento, he​llo the second coming of Christ
+T 1702019603 24*	CtrlS1r31 has quit (Ping timeout: 252 seconds)
+T 1702019755 24*	ciggi has quit (Ping timeout: 246 seconds)
+T 1702019775 24*	jdx has quit (Read error: Connection reset by peer)
+T 1702020318 23*	CtrlS1r3n (~CtrlS1r3n@user/CtrlS1r3n23) has joined
+T 1702020396 18<25DunceCotus18>	hello amigojapan 
+T 1702020407 18<25DunceCotus18>	hello CtrlS1r3n 
+T 1702020414 18<24amigojapan18>	hi DunceCotus , very productive day today
+T 1702020428 18<25DunceCotus18>	oh?
+T 1702020430 18<24amigojapan18>	DunceCotus: did a bunch of chores, and also did a lot of programming
+T 1702020437 18<24amigojapan18>	DunceCotus: now I am resting
+T 1702020454 18<24amigojapan18>	DunceCotus: I think I still need a morning coffee
+T 1702020476 18<24amigojapan18>	DunceCotus: but even drinking coffee in the afternoon seems to not let me sleep at night
+T 1702020507 18<25DunceCotus18>	amigojapan, nice to hear
+T 1702020516 18<25DunceCotus18>	amigojapan, coffee can be a bit harsh
+T 1702020524 18<25DunceCotus18>	amigojapan, do you want to sleep at night?
+T 1702020554 18<24amigojapan18>	DunceCotus: yes, I want to sleep at nigh
+T 1702020576 18<24amigojapan18>	night
+T 1702020664 18<25DunceCotus18>	amigojapan, yeah but I mean early at night
+T 1702020671 24*	CtrlS1r3n has quit (Ping timeout: 256 seconds)
+T 1702020679 18<25DunceCotus18>	amigojapan, don't your meds make you drowsy anyway? 
+T 1702020699 18<24amigojapan18>	DunceCotus: seems not if I drink coffee too late
+T 1702020710 18<24amigojapan18>	DunceCotus: and even the afternoon seems to be too late
+T 1702020772 18<25DunceCotus18>	amigojapan, do you have soda with caffeine?
+T 1702020779 18<25DunceCotus18>	that usually has less caffeine than coffee
+T 1702020790 18<24amigojapan18>	DunceCotus: no
+T 1702020792 18<25DunceCotus18>	so may be easier to go to sleep at night time
+T 1702020809 18<25DunceCotus18>	amigojapan, I don't mean sugary soda
+T 1702020809 18<24amigojapan18>	DunceCotus: I did not find tea to harm my sleep
+T 1702020824 18<25DunceCotus18>	amigojapan, really? that has more caffeine than coffee
+T 1702020829 18<25DunceCotus18>	:/
+T 1702020838 18<25DunceCotus18>	maybe its some digestive or associative effect
+T 1702020848 18<24amigojapan18>	DunceCotus: coffee also helps me with regularity of the bowel system
+T 1702020873 18<25DunceCotus18>	amigojapan, true, coffee can have benefits
+T 1702020942 18<27ButterNoodle18>	makes poop good
+T 1702021008 18<25DunceCotus18>	ButterNoodle, sometimes too good
+T 1702021018 18<27ButterNoodle18>	never gooder
+T 1702021034 18<27ButterNoodle18>	unless ur out of dude wipes
+T 1702021042 18<25DunceCotus18>	like the hot black liquid is just liquefying my bowels 
+T 1702021049 18<27ButterNoodle18>	or just wipin ur ass with paper like a fuckin savage
+T 1702021066 18<27ButterNoodle18>	dude... dont drink it that hot.. jeez
+T 1702021078 18<25DunceCotus18>	liquorfying
+T 1702021086 18<27ButterNoodle18>	u sure someone didnt sell u hot asphalt?
+T 1702021088 18<25DunceCotus18>	ButterNoodle, coffee has to be pretty hot
+T 1702021093 18<25DunceCotus18>	otherwise it is literally undrinkable
+T 1702021120 24*	nitrix has quit (Quit: ZNC 1.8.2 - https://znc.in)
+T 1702021125 18<27ButterNoodle18>	I'm a cunnyseur of the dark beverage... its always drinkable
+T 1702021129 18<25DunceCotus18>	ButterNoodle, it certainly has the aftertaste of asphalt
+T 1702021137 18<25DunceCotus18>	not that I know what asphalt aftertastes like
+T 1702021166 18<27ButterNoodle18>	ic.. ur that one kid in that one shounen that doesnt like adult tastes.. like green peppers and sour drinks
+T 1702021168 23*	nitrix (~nitrix@user/nitrix23) has joined
+T 1702021168 18*	24ImoutoBot welcomes n​itrix (1 / 3): <n​itrix> We have Waifus. It's better than sisters.
+T 1702021210 18*	27ButterNoodle tosses DunceCotus a shoujo ramune to drink
+T 1702021211 18<25DunceCotus18>	ButterNoodle, I hate spicy and bitter most of the time
+T 1702021228 18<25DunceCotus18>	a wat
+T 1702021251 18<27ButterNoodle18>	shoujo ramune
+T 1702021256 18<27ButterNoodle18>	its a good drink
+T 1702021281 18<25DunceCotus18>	is it nectar of gods
+T 1702021287 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1702021296 18<27ButterNoodle18>	I'd say so.. and Jigsy would concur
+T 1702021419 18<25DunceCotus18>	yeah but Jigsy likes futa horsecock
+T 1702021423 23*	CtrlS1r31 (~CtrlS1r3n@user/CtrlS1r3n23) has joined
+T 1702021486 18<25DunceCotus18>	so im expecting the drink to be extreme
+T 1702021510 18<27ButterNoodle18>	huh
+T 1702021519 18<27ButterNoodle18>	Jigsy doesnt like futa horse cock.. pretty sure
+T 1702021522 18<25DunceCotus18>	extreme horsecock milk
+T 1702021539 18<25DunceCotus18>	ButterNoodle, hmm I think they do? maybe im thinking of some other user
+T 1702021566 18<25DunceCotus18>	maybe it was Sadale
+T 1702021572 23*	zato (~zato@user/zato23) has joined
+T 1702021575 18<27ButterNoodle18>	yes.. Jigsy is another cunnyseur here.. someone else is the futahorsecockseur
+T 1702021580 18<25DunceCotus18>	I can scarcely tell people apart these days
+T 1702021590 18<27ButterNoodle18>	do less lsd
+T 1702021595 18<25DunceCotus18>	:(
+T 1702021597 18<27ButterNoodle18>	*or not
+T 1702021606 18<27ButterNoodle18>	pretty soon ur just talking to one person
+T 1702021624 18<25DunceCotus18>	Godot
+T 1702021659 18<25DunceCotus18>	ButterNoodle, I'm sure Jigsy was posting horsecock futa.. or some user starting with J
+T 1702021664 18<25DunceCotus18>	Jinxxy
+T 1702021668 18<25DunceCotus18>	but not
+T 1702021729 24*	CtrlS1r31 has quit (Ping timeout: 255 seconds)
+T 1702021812 23*	CtrlS1r3n (~CtrlS1r3n@user/CtrlS1r3n23) has joined
+T 1702021874 18<25DunceCotus18>	wb CtrlS1r3n 
+T 1702022000 23*	mixfix41 (~plaguedog@user/mixfix4123) has joined
+T 1702022000 18*	24ImoutoBot welcomes m​ixfix41 (5 / 12): <m​ixfix41> i dont know koikatsu party. I'm gonna check it out
+T 1702022005 18<27ButterNoodle18>	that reminds me.. I need to get the loras for shoujo ramune and do some gens
+T 1702022037 18<25DunceCotus18>	https://voca.ro/1jI7svED1HyP
+T 1702022039 18<24ImoutoBot18>	[title] Vocaroo | Online voice recorder
+T 1702022134 24*	CtrlS1r3n has quit (Ping timeout: 255 seconds)
+T 1702022269 18<27mixfix4118>	what game is that
+T 1702022377 24*	Nirugili has quit (Ping timeout: 268 seconds)
+T 1702022463 18<27mixfix4118>	https://vocaroo.com/1a9S0uOQezP8
+T 1702022463 18<24ImoutoBot18>	[title] Vocaroo | Online voice recorder
+T 1702022482 23*	shortestLuaIRC85 (~a@softbank060103079070.bbtec.net23) has joined
+T 1702022508 18<20shortestLuaIRC8518>	 
+T 1702022517 18<20shortestLuaIRC8518>	 hello?
+T 1702022530 18<20shortestLuaIRC8518>	 testing 
+T 1702022589 18<24amigojapan18>	hmmm seems I have been able to make a LUA version of my IRC client just by using chatgpt to translate the python version
+T 1702022594 18<20shortestLuaIRC8518>	 
+T 1702022608 18*	26MootPoot swats amigojapan's hadn
+T 1702022611 18<26MootPoot18>	hand*
+T 1702022612 18<24amigojapan18>	hmmm, no, it is not recieving input... hmmm
+T 1702022627 18<24amigojapan18>	hey MootPoot 
+T 1702022633 18<26MootPoot18>	LUA? Python? What is this childish nonsense
+T 1702022641 18<24amigojapan18>	I guess it used blocking input
+T 1702022667 18<24amigojapan18>	MootPoot: I have it made in quick basic, python and almost LUA
+T 1702022681 18<24amigojapan18>	MootPoot: it is a barebones IRC client
+T 1702022696 18<26MootPoot18>	do it in rust like a real pro linux user
+T 1702022706 18<24amigojapan18>	:P
+T 1702022785 18<26MootPoot18>	Anything that's not written in assembly is bloat
+T 1702022818 24*	shortestLuaIRC85 has quit (Read error: Connection reset by peer)
+T 1702022961 23*	CtrlS1r31 (~CtrlS1r3n@user/CtrlS1r3n23) has joined
+T 1702884004 19*	Now talking on 22##anime
+T 1702884004 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: うたわれるもの (chosen by mixfix41) | Manga of the Week: Oishinbo (chosen by zoidberg)
+T 1702884004 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Dec 17 03:00:00 2023)
+T 1702884225 20*	Disconnected (20)
+T 1703489304 19*	Now talking on 22##anime
+T 1703489304 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Koe no Katachi (chosen by PancakeMatsuri) | Manga of the Week: NON - Hare-Kon (chosen by ButterNoodle)
+T 1703489304 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Dec 24 03:00:00 2023)
+T 1703489331 18<27omero18>	best wishes, all
+T 1703489391 18<19britney18>	SantaJapan, no, but he has a mole who reports to him what I say
+T 1703490313 24*	cthae has quit (Ping timeout: 256 seconds)
+T 1703490353 24*	airpods690 has quit (Read error: Connection reset by peer)
+T 1703490384 23*	airpods690 (~airpods69@user/airpods6923) has joined
+T 1703490393 18<24SantaJapan18>	hmm britney so you meet his somewher else?
+T 1703490575 24*	Relict has quit (Quit: Leaving)
+T 1703648846 19*	Now talking on 22##anime
+T 1703648846 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://puru.moe/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Koe no Katachi (chosen by PancakeMatsuri) | Manga of the Week: NON - Hare-Kon (chosen by ButterNoodle)
+T 1703648846 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Dec 24 03:00:00 2023)
+T 1703649143 23*	camscout101 (~Thunderbi@user/camscout10123) has joined
+T 1703649157 24*	DrPhibes has quit (Quit: Bye.)
+T 1703649189 23*	DrPhibes (~DrPhibes@64.44.118.5023) has joined
+T 1703649646 24*	Leopold has quit (Ping timeout: 245 seconds)
+T 1703649697 24*	THCA has quit (Quit: Connection closed for inactivity)
+T 1703649712 23*	Leopold (~quassel@gateway/tor-sasl/leopold23) has joined
+T 1708750767 19*	Now talking on 22##anime
+T 1708750767 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Sousou no Frieren (chosen by dapinkone) | Manga of the Week: Konya Yukio - Hirasaka Hinako ga Erokawaii Koto wo Ore dake ga Shitteiru (chosen by ButterNoodle)
+T 1708750767 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Feb 18 03:00:00 2024)
+T 1708751002 18<20saganman18>	it's only an issue if you're on phone
+T 1708751036 18<20saganman18>	otherwise there are many foss irc clients
+T 1708751080 18<26Sapphirus18>	saganman, if you run it as a bouncer, that problem is solved. ;p
+T 1708751090 18<20saganman18>	Guise: if you're gonna use weechat then use it with a tmux or screen
+T 1708751111 18<20saganman18>	unless and until you turn off the system, you'll be online forever
+T 1708751157 18<20saganman18>	wasn't there some website that used to give free bouncer?
+T 1708751160 18<20saganman18>	znc?
+T 1708751171 18<20saganman18>	way back in 2010s
+T 1708751177 18<24death91618>	elitebnc used to
+T 1708751199 18<24death91618>	can jus get free vps from oracle and run znc tho
+T 1708751251 18<20saganman18>	how long will they provide the free vps? couple of months right?
+T 1708751263 18<24death91618>	ive had mien 2 yrs now
+T 1708751314 23*	yoo (~yo0O0o@104.28.194.10523) has joined
+T 1708751344 18<20saganman18>	that's nice
+T 1708751389 18<24death91618>	it is
+T 1708751401 18<20saganman18>	I used to host just for being online 24x7 in freenode but gave that up.
+T 1708751414 18<20saganman18>	I hardly read any backlogs
+T 1708751645 24*	awlygj has quit (Ping timeout: 240 seconds)
+T 1708751797 24*	DrPhibes has quit (Quit: Bye.)
+T 1708751827 23*	DrPhibes (~DrPhibes@193.43.135.18823) has joined
+T 1708751942 23*	airswing (~airswing@user/airswing23) has joined
+T 1708751942 18*	24ImoutoBot welcomes a​irswing (1 / 1): <a​irswing> Mental health is definitely not buyable
+T 1708751969 18<24amigojapan18>	saganman: I don't mind IRCcloud 2 hour limit. Is fine for me
+T 1708751995 18<20Matt|home18>	<a​irswing> Mental health is definitely not buyable <-- says you, all i need is a couple kilos of SSRIs and a shitton of weed and im good :p
+T 1708752048 18<24amigojapan18>	Matt|home: he replied to me on that before
+T 1708752062 18<20Matt|home18>	what up amigojapan 
+T 1708752079 18<24amigojapan18>	Matt|home: I am at a family restaurant now
+T 1708752079 18<20Matt|home18>	i am making special tacos tomorrow.. evil special tacos >:D
+T 1708752086 18<24amigojapan18>	Lol
+T 1708752087 18<20Matt|home18>	oh may i ask what you're ordering?
+T 1708752095 18<20Matt|home18>	or ordered
+T 1708752112 18<24amigojapan18>	I just had sausage pizza. I am not sure what I will order next
+T 1708752131 18<24amigojapan18>	Matt|home: we are enjoying the drink fountain 
+T 1708752152 18<20Matt|home18>	cheers. im heading to bed soon, enjoy <3
+T 1708752167 18<24amigojapan18>	Sleep well Matt|home 
+T 1708752781 18<24amigojapan18>	I'm eating a penne alabiata next
+T 1708752796 24*	gzlb has quit (Ping timeout: 246 seconds)
+T 1708752924 23*	gzlb (~sf@user/gzlb23) has joined
+T 1708753267 18<26Sapphirus18>	!later tell emmeka https://www.youtube.com/watch?v=Zuz5SgcHnrQ
+T 1708753798 18<29Ingvix18>	!quote
+T 1708753799 18<24ImoutoBot18>	Ingvix: (22 / 46) <I​ngvix> afraid of systemd?
+T 1708754291 24*	callmepk05 has quit (Quit: The Lounge - https://thelounge.chat)
+T 1708754354 18<20saganman18>	Matt|home: are you making white people tacos?
+T 1708754372 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1708754379 18<20saganman18>	is it white people taco night?
+T 1708754426 18<20saganman18>	Matt|home: https://youtu.be/8yrSCoEsmqA
+T 1708754428 18<24ImoutoBot18>	[title] White People Taco Night FULL SONG and Video - Lewberger - YouTube
+T 1708754431 23*	callmepk05 (~callmepk@wslu/callmepk23) has joined
+T 1708754590 24*	airswing has quit (Remote host closed the connection)
+T 1708755738 20*	Disconnected (20)
+T 1708755763 19*	Now talking on 22##anime
+T 1708755763 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Sousou no Frieren (chosen by dapinkone) | Manga of the Week: Konya Yukio - Hirasaka Hinako ga Erokawaii Koto wo Ore dake ga Shitteiru (chosen by ButterNoodle)
+T 1708755763 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Feb 18 03:00:00 2024)
+T 1708755792 18<20saganman18>	not that it doesn't taste good
+T 1708755800 18<20saganman18>	it's actually pretty good
+T 1708755859 24*	analoq has quit (Ping timeout: 256 seconds)
+T 1708755966 23*	analoq (~yashi@user/dies23) has joined
+T 1708755967 18*	24ImoutoBot welcomes a​naloq (1 / 3): <a​naloq> a​naloq: well there are wrong opinions and there are mine. a​naloq: !hotw Euphoria
+T 1708756090 24*	realivanjx has quit (Read error: Connection reset by peer)
+T 1708756201 23*	realivanjx (~realivanj@168.138.179.19223) has joined
+T 1708756599 20*	Disconnected (20)
+T 1708756626 19*	Now talking on 22##anime
+T 1708756626 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Sousou no Frieren (chosen by dapinkone) | Manga of the Week: Konya Yukio - Hirasaka Hinako ga Erokawaii Koto wo Ore dake ga Shitteiru (chosen by ButterNoodle)
+T 1708756626 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Feb 18 03:00:00 2024)
+T 1708756839 20*	Disconnected (20)
+T 1708756866 19*	Now talking on 22##anime
+T 1708756866 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. |  https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Sousou no Frieren (chosen by dapinkone) | Manga of the Week: Konya Yukio - Hirasaka Hinako ga Erokawaii Koto wo Ore dake ga Shitteiru (chosen by ButterNoodle)
+T 1708756866 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Feb 18 03:00:00 2024)
+T 1711160150 19*	Now talking on 22##anime
+T 1711160150 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Mushishi (chosen by Fenderbassist) | Manga of the Week: Gundam Otaku Girl (chosen by zoidberg)
+T 1711160150 22*	Topic for 22##anime set by 26Sadale (24Wed Mar 20 09:50:32 2024)
+T 1711160159 18<24amigojapan18>	motherfluffer: it is a very slow burner
+T 1711160211 18<27motherfluffer18>	Oh.
+T 1711160228 18<25DunceCotus18>	https://www.youtube.com/watch?v=wPAQBtuUiLU
+T 1711160229 18<24ImoutoBot18>	[youtube] Ol' Man River (I'm on the Drug) - TISM - With Lyrics | Duration: 2 minutes, 24 seconds
+T 1711160243 18<24amigojapan18>	motherfluffer: but not as bad as serial experiments lain
+T 1711160259 18<24amigojapan18>	ok I will watch it DunceCotus 
+T 1711160270 18<19aaabbb18>	lain is not bad
+T 1711160271 18<25DunceCotus18>	amigojapan, warning drug overdose references
+T 1711160290 18<20Roey18>	hey Fenderbassist do you listen to Country?
+T 1711160297 18<25DunceCotus18>	amigojapan, you and Tomako are becoming experts at this karaoke thing
+T 1711160298 18<20Roey18>	I just read that Toby Keith died last month - https://www.cnn.com/2024/02/06/entertainment/toby-keith-death/index.html
+T 1711160299 18<24ImoutoBot18>	[title] Toby Keith: The country singer has died at 62 after battle with stomach cancer | CNN
+T 1711160323 18<28Fenderbassist18>	not really, more of a rock / alternative / new wave / blues / reggae person
+T 1711160327 18<28Fenderbassist18>	sorry to hear about his passing
+T 1711160342 18<24amigojapan18>	DunceCotus: how is that related?
+T 1711160352 24*	Fenderbassist has quit (Quit: Client closed)
+T 1711160359 FiSHLiM plugin unloaded
+T 1711681337 19*	Now talking on 22##anime
+T 1711681337 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: My neighbour totoro (chosen by iloveaaabbb) | Manga of the Week: Umagome Rakure - Hajirau Kimi ga Mitainda (chosen by ButterNoodle)
+T 1711681337 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 24 03:00:00 2024)
+T 1711681443 24*	ProfessorLove has quit (Read error: Connection reset by peer)
+T 1711681567 24*	amigojapan has quit (Quit: Connection closed for inactivity)
+T 1711681657 23*	onichomp (~onichomp@177.231.60.6123) has joined
+T 1711681706 23*	purpl (~sourgrape@2601:249:9000:aab0:5fa:2b34:1a8d:13ef23) has joined
+T 1711681813 18<24ImoutoBot18>	New episode for: Bai Yao Pu Si Fu Pian | Episode: 7
+T 1711682079 23*	parahola (~a@112.78.178.13023) has joined
+T 1711683924 19*	Now talking on 22##anime
+T 1711683924 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: My neighbour totoro (chosen by iloveaaabbb) | Manga of the Week: Umagome Rakure - Hajirau Kimi ga Mitainda (chosen by ButterNoodle)
+T 1711683924 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 24 03:00:00 2024)
+T 1711684126 23*	gargus (~gargus@210.185.105.2723) has joined
+T 1711684223 23*	amigojapan (uid86330@id-86330.helmsley.irccloud.com23) has joined
+T 1711684223 18*	24ImoutoBot welcomes a​migojapan (103 / 312): <a​migojapan> dannyb: geekt : then one day, I woke up cause my chest was in a  little pain. my wife was sitting ontop of me with the kitchen knife to my chest. I did a “shinken shiraha dori” to take the knife away
+T 1711684274 18<24amigojapan18>	Roey: hi! I'm on my way home from the hospital
+T 1711684299 23*	zanetti (~Thunderbi@2804:7f0:9b80:2023:6bca:2308:4497:933823) has joined
+T 1711684307 18<24amigojapan18>	Pretty tied, was a long day
+T 1711684453 18<20Roey18>	!!!!!!1
+T 1711684456 18<20Roey18>	amigojapan: how do you feel
+T 1711684461 18<28Cryowolf18>	hmmm a 12 tb hdd 7200rpm sata 6gb/s (Toshiba N300) at 280 dollars
+T 1711684462 18<20Roey18>	*hug*
+T 1711684473 18<28Cryowolf18>	oh hospital
+T 1711684484 18<28Cryowolf18>	that usually sucks
+T 1711684766 24*	blu has quit (Write error: Connection reset by peer)
+T 1711684773 23*	blu (c99e8442f9@2a03:6000:1812:100::22023) has joined
+T 1711684831 24*	Duns_Scrotus___ has quit (Ping timeout: 256 seconds)
+T 1711684849 24*	Core6374 has quit (Read error: Connection reset by peer)
+T 1711684862 23*	cryptoqt (~cryptoqt@75.167.164.8423) has joined
+T 1711684899 24*	Kevin` has quit (Ping timeout: 256 seconds)
+T 1711684933 23*	Kevin` (~kevin@098-100-162-234.biz.spectrum.com23) has joined
+T 1711684965 24*	zanetti has quit (Quit: zanetti)
+T 1711684982 18<24amigojapan18>	Roey: pretty tired 
+T 1711684989 23*	Duns_Scrotus___ (sid262565@id-262565.tinside.irccloud.com23) has joined
+T 1711685045 18<24amigojapan18>	Cryowolf: it's not bad, i got cataracts sugery and I can see way better!
+T 1711685380 18<24amigojapan18>	!memo MootPoot i feel i can finally understand 4k video. I reduced the size of the font on my PC by a lot
+T 1711685539 18<26MootPoot18>	welcome to the future
+T 1711685552 18<26MootPoot18>	Aren't you still using a 1080p panel though
+T 1711685655 18*	20Sadale licks MootPoot :3
+T 1711686268 18<20Roey18>	amigojapan: me too
+T 1711686271 18<20Roey18>	I'm gonna go to bed
+T 1711686273 18<24amigojapan18>	MootPoot: yeah, but i had the font super huge, now it can be way smaller
+T 1711686276 18<20Roey18>	amigojapan: it's 00:24 EDT here
+T 1711686287 18<20Roey18>	SADALE OF EVIL GROUDS
+T 1711686288 18<24amigojapan18>	good night Roey o/
+T 1711686293 18<20Roey18>	o/ :)
+T 1711686307 18<24amigojapan18>	MootPoot: I could barely see
+T 1711686339 18<24amigojapan18>	MootPoot: I think I was able to see so crisp when I was a kid, but I had forgotten it
+T 1711686359 18<24amigojapan18>	MootPoot: my right eye is still bad too
+T 1711686425 18<26MootPoot18>	amigojapan: well, if you look close at your 1080p model can you see the pixels?
+T 1711686432 18<26MootPoot18>	can you see the jagged/rough edges?
+T 1711686441 18<24amigojapan18>	yeah MootPoot , I can
+T 1711686450 18<26MootPoot18>	Now imagine...those don't exist anymore
+T 1711686453 18<26MootPoot18>	perfectly smooth
+T 1711686454 18<26MootPoot18>	that's 4k
+T 1711686458 18<24amigojapan18>	I see MootPoot 
+T 1711686481 18<26MootPoot18>	so its easier to have a lot more content on your screen since it can be smaller
+T 1711686493 18<24amigojapan18>	I see MootPoot 
+T 1711686494 18<26MootPoot18>	more windows, more detail, etc etc
+T 1711686501 18<26MootPoot18>	1080p is still fine if you're happy with it
+T 1711686511 18<24amigojapan18>	gotcha
+T 1711686542 18<26MootPoot18>	if all I did was live like Urchin[emacs] as a hermit who only lives in emacs and watches 1080p anime at most, 1080 would be fine
+T 1711686558 18<24amigojapan18>	MootPoot: glasses would not have helped with cataracts tho, it was like a vail over my eyes, and also like a ball of fire in 3d, but all that is gobne
+T 1711686660 18<26Sapphirus18>	4k anime isn't real
+T 1711686689 18<26MootPoot18>	who said it was
+T 1711686706 18<19aaabbb18>	a lot of 4k anime is just upscaled 1080p
+T 1711686721 18<26MootPoot18>	all*
+T 1711686725 18<19aaabbb18>	10bit is more important than 4k
+T 1711686732 18<24amigojapan18>	hi aaabbb and Sapphirus 
+T 1711686736 18<26Sapphirus18>	hello
+T 1711686737 18<19aaabbb18>	hi amigojapan
+T 1711686744 18<26MootPoot18>	anyways, so in new  linux news
+T 1711686747 18<24amigojapan18>	MootPoot: I feel like my left eye is that of a new born baby
+T 1711686758 18<26MootPoot18>	mint works with my dell thunderbolt dock!
+T 1711686768 18<26MootPoot18>	scaling is still kind of borked though
+T 1711686774 18<26MootPoot18>	I'll take whatever I can get
+T 1711686875 18<19aaabbb18>	i want 8k so that i can look at the monitor with a magnifying glass
+T 1711686891 18<26MootPoot18>	ever since I ditched that nvidia laptop my linux exprience has been so much more problem free
+T 1711686894 18<19aaabbb18>	the only real way to watch anime is with a magnifying glass
+T 1711686894 18<26MootPoot18>	its actually insane
+T 1711686899 18<19aaabbb18>	MootPoot: nvidia suuuux
+T 1711686917 18<26MootPoot18>	I don't think it was nvidia as much as specifically the mobile graphics implementation 
+T 1711686921 18<26MootPoot18>	of nvidia
+T 1711686926 18<26MootPoot18>	desktop nvidia users seem to be ok
+T 1711686959 18<19aaabbb18>	wayland is sometimes iffy on nvidia
+T 1711687029 18<26MootPoot18>	dumbass question but 
+T 1711687043 18<26MootPoot18>	is there way to make the snap windows function on mint/cinnamon snap across monitors as well?
+T 1711687069 18<26MootPoot18>	Konsole has been great
+T 1711687079 18<26MootPoot18>	I haven't been Vim-ified yet, but I'm getting there
+T 1711687106 18<19aaabbb18>	i don't use mint so idk actually
+T 1711687113 18<26MootPoot18>	Is there any point of using Tmux if I use a tabbed console application?
+T 1711687119 18<26MootPoot18>	with multi window and all of that
+T 1711687127 18<19aaabbb18>	yeah
+T 1711687136 18<19aaabbb18>	because tmux is more than just mutliple tabs
+T 1711687150 18<26MootPoot18>	what else
+T 1711687152 18<19aaabbb18>	it's also window panes, and it's an entirely new way of navigating
+T 1711687174 18<19aaabbb18>	you can do a few key presses to search for a single word in any of the open virtual terminals
+T 1711687209 18<26MootPoot18>	ooo
+T 1711687210 18<26MootPoot18>	nice
+T 1711687218 18<19aaabbb18>	and a loooot more
+T 1711687230 18<19aaabbb18>	it's like vim where 99% of people only use 5% of its functionality
+T 1711687261 18<19aaabbb18>	but the other 95% is amazing when you find out it exists
+T 1711687289 18<19aaabbb18>	bookmarks, simple copy and paste without needing a mouse, quick searches, multiple possible tiling layouts
+T 1711687301 18<19aaabbb18>	it's like a whole tiling window manager for command line
+T 1711687346 18<19aaabbb18>	also you can detach it, so you can close the window, but it will still be there in the background, and then you can reattach it
+T 1711687443 23*	DunceCotus (~taraxanoi@user/duncecotus23) has joined
+T 1711687443 18*	24ImoutoBot welcomes D​unceCotus (18 / 68): <D​unceCotus> fart-fuck your way to fictory
+T 1711687467 18<26MootPoot18>	what do you mean detach
+T 1711687485 18<26MootPoot18>	like you close the terminal window and then.....it just keeps going as a background process?
+T 1711687489 18<26MootPoot18>	and you can call it back?>
+T 1711687519 18<19aaabbb18>	you use the tmux detach command (ctrl-b and then d) and that basically makes tmux disappear and now you have just a regular terminal
+T 1711687529 18<19aaabbb18>	now in any other terminal you can type "tmux a" and it comes back
+T 1711687741 18<19aaabbb18>	https://tmuxcheatsheet.com
+T 1711687741 18<24ImoutoBot18>	[title] Tmux Cheat Sheet & Quick Reference | Session, window, pane and more
+T 1711687766 18<19aaabbb18>	it looks complex but to use it at its basics, it's as simple as vim
+T 1711687772 18<25DunceCotus18>	always awkward when you dream of a sexual fling with your friend's partner
+T 1711687820 18<26Sapphirus18>	tmux is basically a terminal multiplexer 
+T 1711687839 18<29Urchin[emacs]18>	eh, I learned screen before tmux existed
+T 1711687851 18<29Urchin[emacs]18>	screen is more Emacs-like
+T 1711687853 18<26Sapphirus18>	tmux is quite handy to have around.
+T 1711687875 18<26Sapphirus18>	Daily drive it for my terminal applications and development environment
+T 1711687889 18<25airswing18>	I love using it through SSH
+T 1711687909 18<26Sapphirus18>	Got a plugin which allows me to restore the layout, so I can persist sessions -- for the most part -- between reboots.
+T 1711687913 18<19aaabbb18>	it's absolutely indespensible with ssh
+T 1711687932 18<25airswing18>	Managing a remote session of terminals without a perfect connection
+T 1711687934 18<26Sapphirus18>	arswing, yeah, you can basically pickup where you left off on another machine without draining that machine's resources.
+T 1711687951 18<22PancakeMatsuri__18>	Sapphirus, I've switched from screen to tmux, it was worth it
+T 1711687983 18<22PancakeMatsuri__18>	saved windows was one of the perks of tmux
+T 1711687997 18<27rando2589218>	theres a japanese config for screen as well
+T 1711687998 18<26Sapphirus18>	Yeah, I don't think I could live without that now.
+T 1711688000 18<19aaabbb18>	i tried screen but i couldn't get it to name windows
+T 1711688026 18<26Sapphirus18>	Setup a session, two, or more; and then set them up the way I want them to be setup.
+T 1711688028 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1711688032 18<26Sapphirus18>	It'd be a pain to have to do that every single time
+T 1711688049 18<25airswing18>	It was useful in docker containers too. You just have to save the session in persistent memory
+T 1711688077 18<26Sapphirus18>	Being able to restore those sessions and all the pane dimensions even comes in handy when you accidentally muck something up.
+T 1711688081 18<26Sapphirus18>	Just hit the keybind to restore haha
+T 1711688135 18<26Sapphirus18>	PancakeMatsuri__, plugin I use is called resurrect. 
+T 1711688153 18*	26MootPoot swapped to a XXL mouspad
+T 1711688205 18<26Sapphirus18>	Takes a snapshot of your running sessions and it allows you to restore them and some of the applications.
+T 1711688238 18<26MootPoot18>	I really like the adhesive polycarbonate mousepads
+T 1711688240 18<26MootPoot18>	but they wear FAST
+T 1711688252 18<26MootPoot18>	I go through one in ~6 months
+T 1711688274 18<26Sapphirus18>	how are you destroying them
+T 1711688283 18<26MootPoot18>	its plastic on plasic
+T 1711688287 18<26MootPoot18>	they just wear down in spots
+T 1711688296 18<26MootPoot18>	and then roughen up unevenly
+T 1711688321 18<26MootPoot18>	My cloth pad back when I used to use one lasted like...a few years?
+T 1711688323 18<26Sapphirus18>	Mine is like brand new after throwing it in the washing machine
+T 1711688340 18<26Sapphirus18>	Just put it into a laundry bag to keep it safe
+T 1711688340 18<26MootPoot18>	yeah, like I said, this isen't your grandpappys mousepad
+T 1711688347 18<26MootPoot18>	it can't be washed
+T 1711688351 18<26Sapphirus18>	that sux
+T 1711688356 18<26MootPoot18>	its literally just a 2mm sheet of plastic with adhesive
+T 1711688358 18<26MootPoot18>	that's it
+T 1711688361 18<26MootPoot18>	and a super smooth top
+T 1711688367 18<26Sapphirus18>	I vacuum mine and wash it like once a year
+T 1711688431 18<26Sapphirus18>	Durability and texture is important to me. I don't want something that feels rough, but I don't want something that's so smooth it'll wear down.
+T 1711688447 18<26MootPoot18>	you can get cloth pads with plastic in the cloth 
+T 1711688462 18<26MootPoot18>	they last somewhat longer.....but as long as its plastic...it'll wear
+T 1711688481 18<26Sapphirus18>	This clothpad is fine. It's a softer polyester.
+T 1711688501 18<26Sapphirus18>	Got a water resistant coating, I think, too.
+T 1711688505 24*	parahola has quit (Remote host closed the connection)
+T 1711688518 18<26Sapphirus18>	Maybe it's not the coating so much as it is the fabric's texture
+T 1711688527 18<26Sapphirus18>	Not too sure on that one. I'd have to look it up again.
+T 1711688552 18<26Sapphirus18>	If it is a coating, I doubt if it's effective as it was when it was new.
+T 1711688625 18<26MootPoot18>	ohh, that's nice
+T 1711688632 18<26MootPoot18>	I can finally aim more consistently again
+T 1711688637 18<26MootPoot18>	no more smooth spot and then rough spot
+T 1711688661 18<26MootPoot18>	Sapphirus: if you do ever get a plastic pad - they also seem to wear out mouse feet much faster
+T 1711688666 18<26MootPoot18>	buy spares
+T 1711688690 18<26MootPoot18>	its like 30 bucks total every 8 months so w/e for me but its something to keep in mind
+T 1711688695 18<26Sapphirus18>	Plastic on plastic sounds like a bad idea
+T 1711688730 18<26Sapphirus18>	Even if polyester is technically a polymer-based fabric, it doesn't wear mice feet.
+T 1711688741 18<26Sapphirus18>	Mine are in good condition still.
+T 1711688872 18<26MootPoot18>	I want to migrate a lot of my stuff to mainly-console
+T 1711688880 18<26MootPoot18>	company wants to swap to mac laptops
+T 1711688899 18<26MootPoot18>	I'm not a super big fan given their UI is....annoying but if I can terminal everything I can work around it
+T 1711688970 18<26Sapphirus18>	You'll be wanting to switch Linux even sooner than you think if you actually like terminal-based environments.
+T 1711688985 18<26Sapphirus18>	lol
+T 1711688991 24*	Sakura286 has quit (Ping timeout: 260 seconds)
+T 1711689002 18<26MootPoot18>	hey, if valve ever makes a proper SteamOS for the desktop release
+T 1711689004 18<26MootPoot18>	arch based
+T 1711689007 18<26MootPoot18>	I'm all on board
+T 1711689041 18<26Sapphirus18>	I just run Steam on my Linux desktop just fine without SteamOS.
+T 1711689050 18<26Sapphirus18>	proton and everything is as seamless as it'd be on the steamdeck
+T 1711689064 18<26MootPoot18>	I've had lots of scaling problems
+T 1711689093 18<26Sapphirus18>	Only place I have hidpi is on my laptop. I'm avoiding it on my desktop for the foreseeable future.
+T 1711689096 18<26MootPoot18>	set it at 125% , quite a few games just.....don't launch
+T 1711689114 18<26MootPoot18>	100% is a lil too small for me on this laptop dispaly
+T 1711689130 18<26MootPoot18>	so I have to use 150 or 1250, but if I want to game go back and set it to 100%
+T 1711689134 18<26MootPoot18>	otherwise insta-crash
+T 1711689140 18<26MootPoot18>	sometimes takes the OS with it
+T 1711689152 18*	26MootPoot looks angrily at stellaris
+T 1711689173 18<26Sapphirus18>	I've got scaling to work on my laptop at 150%, but I don't see it as necessary for screens that look crystal clear enough (1440p) at around three feet away (or an arm's length).
+T 1711689181 18<26Sapphirus18>	Difference with a laptop is you're far closer to the screen usually.
+T 1711689230 18<26MootPoot18>	I want to try eGPU with this linux install but I don't think that'll work very well
+T 1711689247 18<26MootPoot18>	reading through fourms it seems that eGPUs are....nowhere near "plug n play"
+T 1711689263 18<26MootPoot18>	I was inches from buying a 5700xt
+T 1711689272 18<26Sapphirus18>	Good thing you didn't ahaha
+T 1711689295 18<26Sapphirus18>	At least from the perspective of it being good for anything other than gaming and maybe Linux drivers.
+T 1711689308 18<26Sapphirus18>	AMD really sucks when it comes to AI shit.
+T 1711689328 18<26Sapphirus18>	Performance delta is huge between GPUs that have equivalent gaming performance.
+T 1711689329 18<26MootPoot18>	I don't think I'll be doing any AI shit on this for a while
+T 1711689372 18<26MootPoot18>	The more Ai stuff I use the more I'm convinced that its all bullshit
+T 1711689394 18<26MootPoot18>	Sure, you can make art...that kinda all looks the same and bits are borked 
+T 1711689407 18<26Sapphirus18>	You really have to know how to edge the prompts.
+T 1711689421 18<26Sapphirus18>	I was able to get good unique output when I was playing around with stablediffusion 
+T 1711689457 18<26Sapphirus18>	Although it just is an average of what an artist can do, anyway.
+T 1711689481 18<26MootPoot18>	even for programming its just a shitty autocomplete
+T 1711689491 18<27rando2589218>	it isnt drm ull be okay
+T 1711689514 18<26Sapphirus18>	MootPoot, that's why I won't pay for copilot.
+T 1711689516 18<26MootPoot18>	We're soon going to reach the point where AI bullshit is going to end up training on more AI busllthi
+T 1711689528 18<26MootPoot18>	and its a endless loop of garbage in garbage out
+T 1711689530 18<26Sapphirus18>	Devin is hilarious…
+T 1711689586 18<26Sapphirus18>	copilot can't do much more than a good lsp can do apart from write boilerplate.
+T 1711689682 18<26MootPoot18>	The fundamental problem with AI is that it can't be trusted/take responsibility for anything
+T 1711689852 18<26Sapphirus18>	That's because it can't at this stage.
+T 1711689878 18<26MootPoot18>	As long as it can't reason properly, it might as well be useless
+T 1711689884 18<26MootPoot18>	and if it can reason properly, well - AGI?
+T 1711689920 18<26Sapphirus18>	It's more that it's basically like a brain hooked to a bunch of electrodes with no driver at the steering wheel.
+T 1711689938 18<26Sapphirus18>	It can't reason because it isn't conscious. 
+T 1711689951 18<26Sapphirus18>	That's my stupid, ridiculous theory on the matter.
+T 1711690001 18<27rando2589218>	it can be jackie chan in a thought bubble
+T 1711690012 18<27rando2589218>	s/be/put
+T 1711690550 24*	eroc1990 has quit (Quit: Ping timeout (120 seconds))
+T 1711690567 23*	eroc1990 (~eroc1990@024-183-186-146.res.spectrum.com23) has joined
+T 1711691346 23*	ProfessorLove (Awaru@gateway/vpn/airvpn/awaru23) has joined
+T 1711691356 18<20ProfessorLove18>	can anyone help quickly
+T 1711691366 18<20ProfessorLove18>	what is this manga graphic novel called
+T 1711691388 18<20ProfessorLove18>	where a guy sees everything like nightmares with blood on the walls and such
+T 1711691466 18<20ProfessorLove18>	except only a girl he sees normally.. but that girl actually looks like a demon/monster to everyone else
+T 1711691802 18<19aaabbb18>	oh
+T 1711691804 18<19aaabbb18>	ProfessorLove: visual novel
+T 1711691805 18<19aaabbb18>	saya no uta
+T 1711691816 18<19aaabbb18>	there may be a manga based on it, but it was originally a vn
+T 1711691829 18<20ProfessorLove18>	yes i found it already, thx anyway
+T 1711691841 18<19aaabbb18>	i like that vn
+T 1711691855 18<20ProfessorLove18>	yea its a visual novel but in manga style
+T 1711692126 24*	jbwncster has quit (Quit: Connection closed for inactivity)
+T 1711692398 24*	ProfessorLove has quit (Quit: Quit)
+T 1711692412 23*	ProfessorLove (Awaru@gateway/vpn/airvpn/awaru23) has joined
+T 1711693184 18<22PancakeMatsuri__18>	https://www.youtube.com/watch?v=mACnLN-O04k
+T 1711693185 18<24ImoutoBot18>	[youtube] [LIVE CLIP] 태연 (TAEYEON) - To. X  | Covered by YUJU 유주 | Duration: 2 minutes, 51 seconds
+T 1711694169 23*	rsonx (~rsonx@user/rsonx23) has joined
+T 1711694348 18<20ProfessorLove18>	why are people so toxic these days?
+T 1711694368 18<20Sadale18>	Are you talking about me? :3
+T 1711694372 18*	20Sadale bites ProfessorLove :D
+T 1711694375 18<20ProfessorLove18>	no
+T 1711694376 18*	20Sadale runs away :-D
+T 1711694381 18<20ProfessorLove18>	in general
+T 1711694386 18<24rsonx18>	ProfessorLove: I guess because of pollution.
+T 1711694399 18<20ProfessorLove18>	pollution?
+T 1711694418 18<22PancakeMatsuri__18>	ProfessorLove, depends on your circle
+T 1711694463 18<24rsonx18>	yeah air, water, soil all are getting more and more polluted and making people toxic.
+T 1711694602 24*	cthae has quit (Ping timeout: 268 seconds)
+T 1711694904 18<24rsonx18>	ProfessorLove: anyway, now you might turn into a vampire because you were bitten by Sadale. Don't go out in sun.
+T 1711694943 18<20Sadale18>	lol
+T 1711694945 18<20Sadale18>	me cat :3
+T 1711695036 18<24rsonx18>	no you a vampire.
+T 1711695049 18<24rsonx18>	or warewolf.
+T 1711695143 24*	airswing has quit (Remote host closed the connection)
+T 1711695162 23*	airswing (~airswing@user/airswing23) has joined
+T 1711695163 18*	24ImoutoBot welcomes a​irswing (1 / 2): <a​irswing> Mental health is definitely not buyable
+T 1711695169 18<24rsonx18>	When I got employed my best friend reduced talking to me.
+T 1711695213 18<24rsonx18>	When he got employed with better salary I stopped talking to him. XXDDDD
+T 1711695226 18<24rsonx18>	This toxicity???
+T 1711848544 19*	Now talking on 22##anime
+T 1711848544 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: My neighbour totoro (chosen by iloveaaabbb) | Manga of the Week: Umagome Rakure - Hajirau Kimi ga Mitainda (chosen by ButterNoodle)
+T 1711848544 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 24 03:00:00 2024)
+T 1711848728 23*	Arisha2 (~Aya@cli-nw.107.184.helios-nw.ru23) has joined
+T 1711849006 24*	PancakeMatsuri has quit (Quit: Leaving)
+T 1711849572 24*	rosmi has quit (Ping timeout: 255 seconds)
+T 1711849830 18<20Roey18>	Sadale: o/ :) :)
+T 1711849835 18<20Roey18>	hi too, Matt|home 
+T 1711850387 23*	mccobsta9 (~mccobsta@user/mccobsta23) has joined
+T 1711850543 24*	mccobsta has quit (Ping timeout: 264 seconds)
+T 1711850543 24*	28mccobsta9 is now known as 18mccobsta
+T 1711850878 23*	DunceCotus (~taraxanoi@user/duncecotus23) has joined
+T 1711850879 18*	24ImoutoBot welcomes D​unceCotus (10 / 68): <D​unceCotus> Jigsy: at least Women Hitlers don't genocide.. much
+T 1711850891 18<20Nanobot18>	How to make stir-fry: 1. In a frying pan, add sesame oil, chicken thigh pieces, garlic salt, and pepper. Cook thoroughly 2. Move chicken to a small plate, and add bell peppers, carrots, green beans, and broccoli to frying pan. Salt well. Cook until.. I dunno.. hot, I guess. 3. Add chicken back to frying pan, and add teriyaki sauce. More teriyaki sauce. More. More. No, still more. Okay, good. Cook until the sauce has almost completely reduced. 4. Enjoy. 
+T 1711850891 18<20Nanobot18>	Should probably drink a few gallons of water to counteract the salt.
+T 1711851099 24*	px4n7 has quit (*.net *.split)
+T 1711851099 24*	Enju has quit (*.net *.split)
+T 1711851099 24*	davic has quit (*.net *.split)
+T 1711851099 24*	Suzuka has quit (*.net *.split)
+T 1711851104 18<25DunceCotus18>	and a few gallons of milk to counteract the teriyaki
+T 1711851126 18<25DunceCotus18>	and bell peppers
+T 1711851270 23*	px4n (~px4n@user/px4n23) has joined
+T 1711851284 23*	davic (~davic@user/davic23) has joined
+T 1711851285 18*	24ImoutoBot welcomes d​avic (89 / 149): <d​avic> I guess people like the chargeback after the guilt of fapping
+T 1711851289 18<20Nanobot18>	Why milk?
+T 1711851342 23*	Suzuka (~suzuka@vps-eb9c32d0.vps.ovh.ca23) has joined
+T 1711851342 22*	26ChanServ gives channel operator status to 18Suzuka
+T 1711851343 18*	24ImoutoBot welcomes S​uzuka (1 / 3): <s​scout> !addquote thecha <thecha> !addquote thecha so, this is how it works? adding quotes yourself? others should do that :.(
+T 1711851395 18<20Nanobot18>	I think I might have added too much salt.
+T 1711851419 23*	Sakura286 (~Thunderbi@2408:8207:2426:a980:607b:6fc5:3f89:ae7e23) has joined
+T 1711851435 18<20Nanobot18>	Like, it tastes great, but I think my body is concerned
+T 1711851497 23*	Enju (~enju@vps-eb9c32d0.vps.ovh.ca23) has joined
+T 1711851497 18*	24ImoutoBot welcomes E​nju (2 / 2): <E​nju> I haven't seen my penis in years
+T 1711851623 18<25DunceCotus18>	Nanobot, milk is far better for negating spicy vs. water
+T 1711851634 18<27ButterNoodle18>	salt != spice
+T 1711851635 18<20Nanobot18>	Teriyaki sauce and bell peppers are spicy?
+T 1711851638 18<25DunceCotus18>	water does almost nothing for spicy
+T 1711851644 18<25DunceCotus18>	Nanobot, to me yes
+T 1711851655 18<27ButterNoodle18>	to ur butthole too?
+T 1711851660 18<25DunceCotus18>	ButterNoodle, yes
+T 1711851664 18<20Nanobot18>	If anything, bell peppers are sweet and a little bitter.
+T 1711851670 18<25DunceCotus18>	wouldn't you like to be a butthole too
+T 1711851679 18<27ButterNoodle18>	do u just eat apple sauce and bananas?
+T 1711851686 18<20Nanobot18>	Teriyaki sauce is just sweet, umami, and salty.
+T 1711851688 18<25DunceCotus18>	ButterNoodle, nah, too spicy
+T 1711851694 18<27ButterNoodle18>	ic
+T 1711851705 18<25DunceCotus18>	Nanobot, pepper = spicy
+T 1711851709 18<25DunceCotus18>	there is no getting around that
+T 1711851725 18*	27ButterNoodle inserts the "are you sure about that" meme
+T 1711851726 18<20Nanobot18>	Bell peppers, though? There's nothing spicy about fresh bell peppers.
+T 1711851742 18<25DunceCotus18>	if it weren't spicy, it wouldn't be called peppers
+T 1711851755 18<27ButterNoodle18>	its just the name of a plant
+T 1711851760 18<20Nanobot18>	It's called a bell pepper because it's a type of pepper. Not all peppers are spicy.
+T 1711851778 18<25DunceCotus18>	I'm pretty sensitive to spice
+T 1711851784 18<27ButterNoodle18>	just like spider lilies are a plant more so than a spider
+T 1711851789 18<25DunceCotus18>	I'll have the milk on hand just in case
+T 1711851811 18<27ButterNoodle18>	what happens when ur out of kangaroo milk tho
+T 1711851819 18<25DunceCotus18>	ButterNoodle, peppers all contain capsaicin iirc
+T 1711851822 18<20Nanobot18>	If you have milk on hand, you have a wet hand.
+T 1711851824 18<27ButterNoodle18>	arent all Australians lactose intolerant
+T 1711851835 18<27ButterNoodle18>	Nanobot: a smelly wet hand
+T 1711851842 18<25DunceCotus18>	ButterNoodle, almond milk
+T 1711851856 18<25DunceCotus18>	my hand is fitted with milk compartments
+T 1711851865 18<27ButterNoodle18>	thats more nut juice than milk tho
+T 1711851875 18<20Nanobot18>	From Wikipedia: "The bell pepper is the only member of the genus Capsicum that does not produce capsaicin"
+T 1711851887 18<25DunceCotus18>	oh fuck off wikipedia
+T 1711851906 18<27ButterNoodle18>	and physically incapable of removing capsaicin from ur tongue and dick tip
+T 1711851938 18<25DunceCotus18>	let me be wrong
+T 1711854248 20*	Disconnected (20)
+T 1711854273 19*	Now talking on 22##anime
+T 1711854273 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: My neighbour totoro (chosen by iloveaaabbb) | Manga of the Week: Umagome Rakure - Hajirau Kimi ga Mitainda (chosen by ButterNoodle)
+T 1711854273 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 24 03:00:00 2024)
+T 1711854398 24*	DrPhibes has quit (Quit: Bye.)
+T 1711854438 23*	DrPhibes (~DrPhibes@173.64.16.11423) has joined
+T 1711854727 24*	ProfessorLove has quit (Remote host closed the connection)
+T 1711854744 23*	ProfessorLove (Awaru@gateway/vpn/airvpn/awaru23) has joined
+T 1711854826 23*	amigojapan (uid86330@id-86330.helmsley.irccloud.com23) has joined
+T 1711854827 18*	24ImoutoBot welcomes a​migojapan (207 / 312): <a​migojapan> LN=Leight NIghts reading LNs. it is a recursive namming like GNU
+T 1711854837 18<24amigojapan18>	good morning!
+T 1711854887 18<24amigojapan18>	Fenderbassist: good morning!
+T 1711854898 18<25DunceCotus18>	hey amigojapan 
+T 1711854900 18<24amigojapan18>	DunceCotus: good morning, or rather noon here
+T 1711854921 18<24amigojapan18>	DunceCotus: hope everything was ok yesterday
+T 1711854927 18<24amigojapan18>	for you
+T 1711854937 18<25DunceCotus18>	Yeah I just went to a friend's place
+T 1711854939 18<25DunceCotus18>	https://youtu.be/kDOVjKUuAGI
+T 1711854942 18<24amigojapan18>	DunceCotus: ah cool
+T 1711854942 18<24ImoutoBot18>	[title] Fat Controller - In Complete Darkness - YouTube
+T 1711854959 18<24amigojapan18>	DunceCotus: was it hot?
+T 1711855020 18<28Fenderbassist18>	good morning amigojapan how are you feeling?
+T 1711855028 18<28Fenderbassist18>	hi DunceCotus
+T 1711855032 18<28Fenderbassist18>	how's things?
+T 1711855038 18<25DunceCotus18>	amigojapan, not particularly
+T 1711855049 18<25DunceCotus18>	Fenderbassist, fine thanks, you?
+T 1711855061 18<28Fenderbassist18>	doing alright, ty, just aging :)
+T 1711855067 18<24amigojapan18>	Fenderbassist: I am feeling good, and  you?
+T 1711855073 18<28Fenderbassist18>	old like a pro :)
+T 1711855084 18<28Fenderbassist18>	glad to hear you're recovering comfortably
+T 1711855107 18<24amigojapan18>	Fenderbassist: thanks
+T 1711855135 18<24amigojapan18>	ok, I need to go get breakfast at 7 11, BRB
+T 1711855140 18<28Fenderbassist18>	okay
+T 1711855384 18<25DunceCotus18>	Fenderbassist, aging? That's no good
+T 1711855400 18<25DunceCotus18>	we really should do something about this aging disease
+T 1711855600 18<28Fenderbassist18>	hehe
+T 1711855611 18<28Fenderbassist18>	until the second coming of Christ, we're stuck with it :)
+T 1711855628 18<28Fenderbassist18>	otherwise I'd take a case to the UN and have them reverse it
+T 1711855634 18<28Fenderbassist18>	but not an option lol
+T 1711855663 18<28Fenderbassist18>	so just try to age with as little pain as possible
+T 1711855668 18<28Fenderbassist18>	I just try*
+T 1711855751 23*	zloi_user (~zloi_user@mm-91-65-215-37.mfilial.dynamic.pppoe.byfly.by23) has joined
+T 1711855844 18<24amigojapan18>	back
+T 1711855857 18<24amigojapan18>	DunceCotus: my eye feels like a new born fresh new eye!
+T 1711855889 18<24amigojapan18>	DunceCotus: the bightness of colors and sharpness is back!
+T 1711855893 18<25DunceCotus18>	amigojapan, congrats!
+T 1711855901 18<24amigojapan18>	thanks DunceCotus !
+T 1711855912 18<28Fenderbassist18>	that's great
+T 1711855920 18<24amigojapan18>	thanks Fenderbassist 
+T 1711855927 18<24amigojapan18>	I feel reguivinated
+T 1711856012 18<24amigojapan18>	DunceCotus: during hte surgery, it all turned into a blur for most of hte time
+T 1711856070 18<25DunceCotus18>	amigojapan, I assume that was cause they took out the lens?
+T 1711856085 24*	Rue has quit (Quit: WeeChat 4.2.1)
+T 1711856102 23*	Rue (~rue@2001-b011-0013-105a-e23f-49ff-fe4a-97fb.dynamic-ip6.hinet.net23) has joined
+T 1711856121 18<24amigojapan18>	DunceCotus: yeah, but the last thing i knew what was going on was that they put a loop so I coudl not close my eye... then lots of stuff went on but i could only see light
+T 1711856196 18<24amigojapan18>	DunceCotus: and there was a machien in the surgical room that was talkign english, but word that were difficult medical terms, dunno osundend lieki t was saysing "ocular meshimishmarums disfocal" and stuff liek that
+T 1711856209 18<24amigojapan18>	sounded like*
+T 1711856230 18<24amigojapan18>	it was sayign *
+T 1711856344 18<24amigojapan18>	Fenderbassist: at the end of hte surgery, they gave me a wheel chair, but I said "I think I cna walk" and I could
+T 1711856346 18<26MootPoot18>	even the thirst trap content on YT looks like it was shot with a shitty gopro
+T 1711856392 18<28Fenderbassist18>	yeah I think that is standard procedure for them
+T 1711856404 18<28Fenderbassist18>	anyways, it's a wonderful result for you
+T 1711856413 18<26MootPoot18>	is it?
+T 1711856425 18<28Fenderbassist18>	corrected vision
+T 1711856430 18<26MootPoot18>	oh, you mean amigo
+T 1711856434 18<28Fenderbassist18>	yes
+T 1711856439 18<28Fenderbassist18>	sorry :)
+T 1711856480 18<24amigojapan18>	I see Fenderbassist 
+T 1711856487 18<28Fenderbassist18>	indeed
+T 1711856506 18<28Fenderbassist18>	exactly lol
+T 1711856590 24*	Sxem has quit (Quit: Leaving)
+T 1711857146 18<20Sadale18>	lol! vhttps://ktla.com/news/local-news/stolen-tesla-runs-out-of-battery-in-the-middle-of-hollywood-police-pursuit/
+T 1711857154 18<20Sadale18>	fixed link: https://ktla.com/news/local-news/stolen-tesla-runs-out-of-battery-in-the-middle-of-hollywood-police-pursuit/
+T 1711857155 18<24ImoutoBot18>	[title] Stolen Tesla's battery runs out during police chase
+T 1711857161 18<20Sadale18>	boo! :D
+T 1711857175 24*	Rue has quit (Quit: WeeChat 4.2.1)
+T 1711857191 23*	Rue (~rue@2001-b011-0013-105a-e23f-49ff-fe4a-97fb.dynamic-ip6.hinet.net23) has joined
+T 1711857275 18<26MootPoot18>	Sadale: you dropped an l
+T 1711857331 18<20Roey18>	that's because has is an EVI GOD
+T 1711857336 18<28Fenderbassist18>	greetings Sadale
+T 1711857344 18<28Fenderbassist18>	and Roey
+T 1711857372 18<26MootPoot18>	Sadale: I finally got my 3d printer working
+T 1711857374 18<26MootPoot18>	after a few years
+T 1711857375 18<26MootPoot18>	lol
+T 1711857381 18<20Sadale18>	MootPoot, lol congratz xD
+T 1711857388 18<28Fenderbassist18>	indeed
+T 1711857390 18<20Sadale18>	MootPoot, what went wrong tho?
+T 1711857393 18<28Fenderbassist18>	well done
+T 1711857398 18<26MootPoot18>	turns out the extreuder was damaged from the factory
+T 1711857402 18<26MootPoot18>	had to swap out the whole unit
+T 1711857412 18<20Roey18>	heyy Fenderbassist o/
+T 1711857416 18<20Sadale18>	ah. now that I remember you said that. You got it working by using direct drive or something
+T 1711857422 18<20Roey18>	and MootPoot and Sadale o/
+T 1711857427 18<26MootPoot18>	I swapped over to that and put a CRtouch on
+T 1711857427 18<20Sadale18>	hi Roey 
+T 1711857429 18<20Roey18>	:)
+T 1711857433 18<26MootPoot18>	considering installing klipper 
+T 1711857435 18<20Sadale18>	lol that CR touch is useless!! :D
+T 1711857446 18<26MootPoot18>	hey don't knock it
+T 1711857448 18<26MootPoot18>	it works every time
+T 1711857452 18<20Sadale18>	oh. fair enough.
+T 1711857463 18<20Sadale18>	dunno. I purchased a clone called 3D touch and it's borked.
+T 1711857470 18<20Sadale18>	No idea on the actual CR touch.
+T 1711857798 24*	Matt|home has quit (Quit: Leaving)
+T 1711857846 24*	Sakura286 has quit (Ping timeout: 268 seconds)
+T 1711859113 18<24ImoutoBot18>	New episode for: Ochibi-san | Episode: 23
+T 1711860132 24*	airswing has quit (Remote host closed the connection)
+T 1711860156 23*	airswing (~airswing@user/airswing23) has joined
+T 1711860156 18*	24ImoutoBot welcomes a​irswing (2 / 2): <a​irswing> <a​migojapan> a​irswing: your nick sounds like you are friendly with the wind :) <a​irswing> Sometimes I'm unfriendly and break wind
+T 1711860180 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1711860367 24*	DrPhibes has quit (Quit: Bye.)
+T 1711860445 23*	DrPhibes (~DrPhibes@193.43.135.20223) has joined
+T 1711860507 23*	DrClaw (~DrPhibes@173.64.16.11423) has joined
+T 1711860531 24*	gzlb has quit (Quit: WeeChat 4.2.1)
+T 1711860732 24*	DrPhibes has quit (Ping timeout: 252 seconds)
+T 1711860764 24*	DrClaw has quit (Ping timeout: 252 seconds)
+T 1711860774 23*	DrPhibes (~DrPhibes@193.43.135.20223) has joined
+T 1711860910 23*	rosmi (~rosmi@user/iloveaaabbb23) has joined
+T 1711861259 24*	Ruby has quit (Ping timeout: 252 seconds)
+T 1711861593 24*	ProfessorLove has quit (Quit: Quit)
+T 1711861655 24*	analoq has quit (Ping timeout: 252 seconds)
+T 1711861765 23*	analoq (~yashi@user/dies23) has joined
+T 1711861765 18*	24ImoutoBot welcomes a​naloq (2 / 3): <a​naloq> S​adale: i would be pissed if this is ww3 and we didnt start it
+T 1711861830 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1711862249 24*	Nanobot has quit (Ping timeout: 268 seconds)
+T 1711862330 24*	Fenderbassist has quit (Quit: Fenderbassist)
+T 1711949047 19*	Now talking on 22##anime
+T 1711949047 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Ōgon Batto (chosen by Lando-SpacePimp) | Manga of the Week: Watashitachi wa Moto Joshi desu - We Are Former Girls (chosen by Mattǀhome)
+T 1711949047 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 31 03:00:00 2024)
+T 1711949052 23*	navaja (~navaja@2603-6081-4500-4cee-0000-0000-0000-1ce6.res6.spectrum.com23) has joined
+T 1711949063 23*	pteague (~pteague@2603-8080-f800-2401-a385-afb6-aff4-8951.res6.spectrum.com23) has joined
+T 1711949063 18*	24ImoutoBot welcomes p​teague (7 / 7): <p​teague> B​utterNoodle, as an example ... big boobs vs tiny boobs ... this channel can't agree, but we can all agree to disagree ... we've not gone through & evicted everybody that has an opposing view on that
+T 1711949079 18<25navaja18>	has anyone read the Initial D omnibus?
+T 1711949102 18<25navaja18>	the paper is horrible.
+T 1711949114 18<25navaja18>	it dries my hands.
+T 1711949254 24*	navaja (~navaja@2603-6081-4500-4cee-0000-0000-0000-1ce6.res6.spectrum.com24) has left (Leaving)
+T 1711949632 24*	t60sad has quit (Read error: Connection reset by peer)
+T 1711949644 23*	t60sad (~username@85.10.172.3823) has joined
+T 1711949839 24*	pteague has quit (Ping timeout: 260 seconds)
+T 1711949889 23*	pteague (~pteague@2607:fb90:45cc:1f7a:4511:d342:88b9:3f0523) has joined
+T 1711950143 23*	pteague_laptop (~pteague@2607:fb91:99a:882e:46b:c3ba:83ee:683923) has joined
+T 1711950328 24*	pteague has quit (Ping timeout: 268 seconds)
+T 1711952009 24*	rosmi has quit (Ping timeout: 252 seconds)
+T 1711952065 23*	rosmi (~rosmi@user/iloveaaabbb23) has joined
+T 1711952107 18<25DunceCotus18>	amigojapan, https://www.reddit.com/r/funny/comments/1bsswea/happy_easter/
+T 1711952108 18<24ImoutoBot18>	[title] Reddit - Dive into anything
+T 1711952443 18<29Urchin[emacs]18>	Sadale: https://i.redd.it/7n9qvso576rc1.jpeg NSFW
+T 1711952444 18<24ImoutoBot18>	5^ NSFW | [title] Reddit - Dive into anything
+T 1712031782 19*	Now talking on 22##anime
+T 1712031782 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Ōgon Batto (chosen by Lando-SpacePimp) | Manga of the Week: Watashitachi wa Moto Joshi desu - We Are Former Girls (chosen by Mattǀhome)
+T 1712031782 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 31 03:00:00 2024)
+T 1712031844 18<24amigojapan18>	Hi rsonx !
+T 1712031857 18<24amigojapan18>	rsonx: can you take a nap?
+T 1712031861 18<26Sapphirus18>	amigojapan, I suppose that's better than having no vision, at all.
+T 1712031896 18<24amigojapan18>	Right definitely Sapphirus and it is still better than before the surgery 
+T 1712031913 18<26Sapphirus18>	Correct, so it's the lesser of the evils.
+T 1712031922 18<24amigojapan18>	Right
+T 1712031973 18<24amigojapan18>	I wonder how multifocal lenses work...
+T 1712031998 18<24amigojapan18>	It's like magic
+T 1712032044 18<24rsonx18>	amigojapan: I wish I could take a nap. I Have to take a test in afternoon.
+T 1712032071 18<24amigojapan18>	Ah I see rsonx 
+T 1712032085 18<24rsonx18>	eyes are very sensitive after surgery. they need to take special care for some time.
+T 1712032135 18<24amigojapan18>	rsonx: yeah I got 3 kind of eye drops and antibiotic pills 
+T 1712032159 18<24rsonx18>	It is advisable that you get a sunglass and no screen.
+T 1712032181 18<24amigojapan18>	I see
+T 1712032207 18<24rsonx18>	when my grandfather had a cataract surgery doctor said no TV and to use sunglass all the time.
+T 1712032239 18<24amigojapan18>	rsonx: my doctor did not say that
+T 1712032375 18<24amigojapan18>	I'm not in the sun much tho 
+T 1712032468 18<24rsonx18>	amigojapan: not just the sun's but all the lights can affect eyes. you would need less exposure to light. 
+T 1712032489 18<24rsonx18>	If I remember correctly my gf used sunglasses all the time.
+T 1712116225 19*	Now talking on 22##anime
+T 1712116225 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Ōgon Batto (chosen by Lando-SpacePimp) | Manga of the Week: Watashitachi wa Moto Joshi desu - We Are Former Girls (chosen by Mattǀhome)
+T 1712116225 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 31 03:00:00 2024)
+T 1712116338 23*	evilscreww (~Scott_Hex@user/evilscreww23) has joined
+T 1712116348 18<20evilscreww18>	i cant log into imgur with my facebook account
+T 1712116483 18<24amigojapan18>	evilscreww: imgur has been half broken for the longest time
+T 1712116500 18<20evilscreww18>	woaah, for the longest time (sung like billy joel)
+T 1712116510 18<20evilscreww18>	amigojapan, alright so whats the next best site
+T 1712116554 18<24amigojapan18>	evilscreww: you could upload your images directly to Facebook
+T 1712116653 18<24amigojapan18>	evilscreww: to bad they don't have "for the longest time" at this karaoke
+T 1712116765 18<20evilscreww18>	are you at a karaoke
+T 1712116769 18<20evilscreww18>	yeh its a good tune
+T 1712116886 18<24amigojapan18>	evilscreww: yeah. I'm at karaoke now
+T 1712116897 18<20evilscreww18>	oh cool. fun? what irc app do you use on your phone
+T 1712116917 18<24amigojapan18>	I use IRCcloud 
+T 1712116928 18<24amigojapan18>	Yeah it's fun!
+T 1712117016 18<20evilscreww18>	oh yeh you gotta pay for that right
+T 1712117064 18<24amigojapan18>	evilscreww: there is a free tier which is good enough for me
+T 1712117101 18<20evilscreww18>	i need to look into that.
+T 1712117146 18<24amigojapan18>	evilscreww: basically the free tier will disconnect you after 3 hours of no use. The pay one keeps you connected all the time
+T 1712117285 20*	Disconnected (20)
+T 1712117379 22*	26oni_00 sets mode 24+Z on 22oni_00
+T 1712117379 22*	26oni_00 sets mode 24+i on 22oni_00
+T 1712117379 22*	26oni_00 sets mode 24+w on 22oni_00
+T 1712117385 19*	Now talking on 22##anime
+T 1712117385 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Ōgon Batto (chosen by Lando-SpacePimp) | Manga of the Week: Watashitachi wa Moto Joshi desu - We Are Former Girls (chosen by Mattǀhome)
+T 1712117385 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 31 03:00:00 2024)
+T 1712117452 18<24amigojapan18>	evilscreww:   https://usercontent.irccloud-cdn.com/file/bmj7JjJZ/irccloudcapture3822741478049836463.jpg
+T 1712117453 18<24ImoutoBot18>	[image/jpeg] 104kB
+T 1712117525 20*	Disconnected (20)
+T 1712117591 FiSHLiM plugin unloaded
+T 1712118296 19*	Now talking on 22##anime
+T 1712118296 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Ōgon Batto (chosen by Lando-SpacePimp) | Manga of the Week: Watashitachi wa Moto Joshi desu - We Are Former Girls (chosen by Mattǀhome)
+T 1712118296 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 31 03:00:00 2024)
+T 1712119569 24*	ProfessorLove has quit (Read error: Connection reset by peer)
+T 1712119634 23*	Cryowolf (Cryo@c83-255-104-136.bredband.tele2.se23) has joined
+T 1712119634 18*	24ImoutoBot welcomes C​ryowolf (28 / 29): <C​ryowolf> you dont need a big hole to get a wire in
+T 1712119657 23*	ProfessorLove (Awaru@gateway/vpn/airvpn/awaru23) has joined
+T 1712119713 18<20gluteusmaximus18>	nice
+T 1712119747 24*	hyperair has quit (Ping timeout: 246 seconds)
+T 1712119845 23*	rosmi (~rosmi@user/iloveaaabbb23) has joined
+T 1712119863 18<29Urchin[emacs]18>	!findquote .ass
+T 1712119863 18<24ImoutoBot18>	Urchin[emacs]: (6 / 149) <jnylen> trohrt: stop harassing my triggering (9 more)
+T 1712119879 18<29Urchin[emacs]18>	!findquote \.ass
+T 1712119879 18<24ImoutoBot18>	Urchin[emacs]: (6 / 149) <jnylen> trohrt: stop harassing my triggering (9 more)
+T 1712119940 18<29Urchin[emacs]18>	!quote 40
+T 1712119940 18<24ImoutoBot18>	Urchin[emacs]: (40 / 41) <Urchin[emacs]> hentai fansubbers really like .ass
+T 1712120348 18<29Urchin[emacs]18>	!later tell emmeka I've started watching Sword Art Online: Aria of the Starless Night, and have a question: did they really have to make that second wolf they fought look like he's sexually assaulting Asuna?
+T 1712120841 24*	Urchin[emacs] has quit (Killed (NickServ (GHOST command used by Urchin[emacs]`)))
+T 1712120846 23*	Urchin[emacs] (~user@user/urchin23) has joined
+T 1712120846 18*	24ImoutoBot welcomes U​rchin[emacs] (40 / 41): <U​rchin[emacs]> hentai fansubbers really like .ass
+T 1712121023 24*	evilscreww has quit (Quit: Leaving)
+T 1712121037 23*	evilscreww (~Scott_Hex@203-219-45-8.tpgi.com.au23) has joined
+T 1712121078 18<20evilscreww18>	amigojapan, lol awesome
+T 1712121082 18<20evilscreww18>	reconnecting with your asian side i see
+T 1712121311 18<24amigojapan18>	evilscreww: I'm not Asian but my wife is Japanese
+T 1712121346 18<24amigojapan18>	evilscreww: I'm Mexican
+T 1712121356 18<24amigojapan18>	But I still love karaoke 
+T 1712121384 18<29wil18>	how did you meet your Japanese wife
+T 1712121388 18<29wil18>	if you don't mind answering 
+T 1712121400 18<20evilscreww18>	at a karaoke club
+T 1712121404 18<29wil18>	:D
+T 1712121430 18<29wil18>	does Tinder work in Japan 
+T 1712121440 18<24amigojapan18>	wil: it's a long story, but the short answer is, I met her in Kyoto when I was in a trip there
+T 1712121440 18<29Urchin[emacs]18>	they met before Tinder was a thing
+T 1712121444 18<29Urchin[emacs]18>	I'm pretty sure
+T 1712121456 FiSHLiM plugin unloaded
+T 1712121476 19*	Now talking on 22##anime
+T 1712121476 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Ōgon Batto (chosen by Lando-SpacePimp) | Manga of the Week: Watashitachi wa Moto Joshi desu - We Are Former Girls (chosen by Mattǀhome)
+T 1712121476 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 31 03:00:00 2024)
+T 1712121482 18<29wil18>	naruhodo naruhodo 
+T 1712121487 18<29wil18>	good for you 
+T 1712121494 18<24amigojapan18>	Arigatou 
+T 1712121519 18<29wil18>	My dream is to find a feminine Japanese wife
+T 1712121521 FiSHLiM plugin unloaded
+T 1712121541 19*	Now talking on 22##anime
+T 1712121541 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Ōgon Batto (chosen by Lando-SpacePimp) | Manga of the Week: Watashitachi wa Moto Joshi desu - We Are Former Girls (chosen by Mattǀhome)
+T 1712121541 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Mar 31 03:00:00 2024)
+T 1712121546 18<29Urchin[emacs]18>	wil: you sound like not a very good catch
+T 1712121547 18<24amigojapan18>	wil:  https://amigojapan.github.io/?q=Story_of_how_I_met_my_wife
+T 1712121548 18<29Urchin[emacs]18>	:P
+T 1712121548 18<24ImoutoBot18>	[title] Usmar A. Padow (amigojapan)’s homepage
+T 1712121572 18<29wil18>	ohh, nice amigojapan 
+T 1712121580 18<29wil18>	Urchin[emacs], why is that 
+T 1712121594 18<29Urchin[emacs]18>	wil: you sound like you have a pretty bad attitude towards women
+T 1712121610 18<29wil18>	well, I'm speaking from my exp. 
+T 1712121644 18<29Urchin[emacs]18>	it's not like you can generally trust any other person...
+T 1712121661 18<29wil18>	I've seen numerous examples of close family members and friends being burned by women in my country 
+T 1712121685 18*	29Urchin[emacs] shrugs
+T 1712121697 18<29Urchin[emacs]18>	like, what were the situations?
+T 1712121702 18<29Urchin[emacs]18>	and where the fuck are you?
+T 1712121710 18<29wil18>	Australia 
+T 1712121788 18<29wil18>	I don't want to say much, but divorce rates should tell you everything about the state of marriage
+T 1712121797 18*	29Urchin[emacs] shrugs
+T 1712121805 18<29Urchin[emacs]18>	!findquote urchin marriage
+T 1712121806 18<24ImoutoBot18>	Urchin[emacs]: (6 / 41) <Urchin[emacs]> just for the record, I consider marriage to be mostly detrimental
+T 1712121827 18<24amigojapan18>	wil: evilscreww this is an example of me singing karaoke https://youtu.be/lKe_PTsG3Y8?si=93VQ8PIzCctrdGDc
+T 1712121829 18<24ImoutoBot18>	[title] evangelion karaoke - YouTube
+T 1712121913 18<29wil18>	you have a nice voice, amigojapan 
+T 1712121919 18<25DunceCotus18>	hey amigojapan 
+T 1712121925 18<24amigojapan18>	Thanks wil !
+T 1712121932 18<24amigojapan18>	Hey DunceCotus !
+T 1712121941 18<29wil18>	Every time I try to sing and record, and then hear my own voice, I am embarrassed
+T 1712121947 18<29wil18>	:P
+T 1712121947 18<20evilscreww18>	amigojapan, btw, i can log in just fine on my laptop (to imgur)
+T 1712121958 18<24amigojapan18>	DunceCotus: I told tomako we can afford it but she really really really wanted to come to karaoke
+T 1712121961 18<20evilscreww18>	amigojapan, alright, im preparing myself for the cringe..
+T 1712121984 18<24amigojapan18>	evilscreww: oh nice
+T 1712121991 18<20evilscreww18>	yeh not sure why
+T 1712121998 18<25DunceCotus18>	amigojapan, you need to find a cheaper activity you can both enjoy doing
+T 1712122118 18<25DunceCotus18>	amigojapan, could try at-home bingo
+T 1712122258 18<24amigojapan18>	DunceCotus: well saizeriya is much cheaper
+T 1712122266 23*	thelastbushome (~thelastbu@user/thelastbushome23) has joined
+T 1712122280 18<24amigojapan18>	DunceCotus: and food is included
+T 1712122293 FiSHLiM plugin unloaded
+T 1712547207 19*	Now talking on 22##anime
+T 1712547207 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: cyberpunk edgerunners (chosen by mixfix41) | Manga of the Week: Run Away with Me, Girl (chosen by Urchin[emacs])
+T 1712547207 22*	Topic for 22##anime set by 26ImoutoBot (24Sun Apr  7 03:00:00 2024)
+T 1712547301 24*	Sxem has quit (Quit: Leaving)
+T 1712547732 18<28repoman18>	wb linuxyo
+T 1712547738 18<28repoman18>	wb Ingvix
+T 1712547746 18<29Ingvix18>	ty
+T 1712547784 18<28repoman18>	Ingvix: I am now daily driving my t480
+T 1712547800 18<29Ingvix18>	cool
+T 1715566706 19*	Now talking on 22##anime
+T 1715566706 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Chihayafuru (chosen by Urchin[emacs]) | Manga of the Week: Zettai Karen Children (chosen by Rei^)
+T 1715566706 22*	Topic for 22##anime set by 26ImoutoBot (24Sun May 12 03:00:00 2024)
+T 1715566880 18<24amigojapan18>	repoman: I think that is called cajeta in Mexico https://images.app.goo.gl/1GvFbe4gfawZbPLY7
+T 1715566882 18<24ImoutoBot18>	[title] Google Image Result for https://www.gob.mx/cms/uploads/image/file/428644/Cajeta_2.jpg
+T 1715566899 18<24amigojapan18>	repoman: in Argentina it is called Dulce de leche
+T 1715567020 24*	whitepaperkat has quit (Quit: KVIrc 5.2.2 Quasar http://www.kvirc.net/)
+T 1715567303 24*	sludge_ has quit (Ping timeout: 272 seconds)
+T 1715567536 18<28repoman18>	amigojapan: its done
+T 1715567553 18<28repoman18>	woke up my grandma in the proccess tho :/
+T 1715567558 18<28repoman18>	but she really dug the idea
+T 1715567595 18<28repoman18>	amigojapan: dulce de leche is something else entirely
+T 1715567619 18<24amigojapan18>	ah ok repoman 
+T 1715567632 18<28repoman18>	the brazilian one is made with condensed milk and chocolate
+T 1715567641 18<28repoman18>	dulce de leche doesn't take chocolate
+T 1715567652 18<28repoman18>	we have it too, called doce de leite XD
+T 1715567670 18<28repoman18>	https://www.youtube.com/watch?v=ze0I5GAc21w
+T 1715567671 18<24ImoutoBot18>	[youtube] Como hacer CAJETA CASERA/ DULCE DE LECHE — DE COCINA A COCINA | Duration: 4 minutes, 55 seconds
+T 1715567677 18<28repoman18>	is this the traditional way its done amigojapan ?
+T 1715567681 18<28repoman18>	I'll try doing it 
+T 1715567687 18<28repoman18>	not 2day obviously
+T 1715567711 18<24amigojapan18>	let me see repoman , I have never actually made it
+T 1715567755 18<28repoman18>	jikan wa dare no mikata
+T 1715567778 18<27ButterNoodle18>	 https://www.twitch.tv/gutterpoodle
+T 1715567779 18<24ImoutoBot18>	[title] Twitch
+T 1715567838 24*	justanotheruser has quit (Ping timeout: 260 seconds)
+T 1715567883 18<20Nanobot18>	The girl of your dreams spreads her legs wide and invites you to feast between them. How quickly do you respond?
+T 1715567979 18<20Nanobot18>	Correct answer: lickety-split.
+T 1715568018 18<24amigojapan18>	repoman: eoe 2:30 hours of kmixing, thats a pain
+T 1715568064 18<24amigojapan18>	of mixing
+T 1715568115 24*	onichomp has quit (Ping timeout: 246 seconds)
+T 1715568248 22*	26Suzuka removes ban on 18*!*@user/abs3nt$##anime-help
+T 1715568284 18<28repoman18>	btw amigojapan 
+T 1715568289 18<28repoman18>	are you by any change into AVGN?
+T 1715568300 18<24amigojapan18>	repoman: yeah. I like him
+T 1715568305 23*	abs3nt (~abs3nt@user/abs3nt23) has joined
+T 1715568312 18<28repoman18>	:D
+T 1715568320 18<28repoman18>	I have an unpopular opinion
+T 1715568331 18<24amigojapan18>	what is that?
+T 1715568333 18<28repoman18>	I don't think his newest videos are getting "bad"
+T 1715568347 18<28repoman18>	sure some of them have different subjects and more modern stuff
+T 1715568355 18<28repoman18>	but he's still basically the same
+T 1715568386 18<24amigojapan18>	repoman: I saw he has made videos about things he liked too, not just complaining
+T 1715568427 18<28repoman18>	if there's nothing to complain about
+T 1715568431 18<28repoman18>	people invent it
+T 1715568446 18<28repoman18>	https://www.youtube.com/watch?v=SCVezodcSFI
+T 1715568448 18<24ImoutoBot18>	[youtube] My Horse Prince - Angry Video Game Nerd (AVGN) | Duration: 20 minutes, 1 second
+T 1715568455 18<28repoman18>	this video of his is ridiculous
+T 1715568469 18<28repoman18>	but not as in he's ridiculous for making it
+T 1715568472 18<24amigojapan18>	repoman: he called final fantasy 6 "the greatest videogame of all time"
+T 1715568476 18<28repoman18>	but he found something ridiculous and made a video about it
+T 1715568483 18<28repoman18>	and I liked it lmfao
+T 1715568492 18<28repoman18>	our guy getting old tho
+T 1715568493 18<28repoman18>	:(
+T 1715568508 18<24amigojapan18>	yeah I watched it repoman 
+T 1715568538 18<24amigojapan18>	repoman: I am probably older than him
+T 1715568592 18<24amigojapan18>	tomako is watching a Chinese drama now
+T 1715568620 18<28repoman18>	:o
+T 1715568628 24*	28mosesofmason is now known as 18moses
+T 1715568634 24*	28moses is now known as 18mosesofmason
+T 1715568654 23*	justanotheruser (~justanoth@gateway/tor-sasl/justanotheruser23) has joined
+T 1715568654 18*	24ImoutoBot welcomes j​ustanotheruser (15 / 18): <j​ustanotheruser> join #yandere for a good ole time, it's a great channel, we have all the characters and play a fun game, it's a swell ol good ol time
+T 1715568682 18<24amigojapan18>	repoman: she had been into Korean dramas already
+T 1715568911 24*	dimaguy has quit (Ping timeout: 264 seconds)
+T 1715569075 23*	dimaguy (~quassel@user/dimaguy23) has joined
+T 1715569451 24*	Tylak has quit (Quit: Going offline, see ya! (www.adiirc.com))
+T 1715569665 23*	Pontuzz (~quassel@user/Pontuzz23) has joined
+T 1715569704 18<28repoman18>	amigojapan: https://www.youtube.com/watch?v=O6H86tskpng
+T 1715569705 18<24ImoutoBot18>	[youtube] Cat Mario Soundtrack Extended | Duration: 4 minutes, 24 seconds
+T 1715569775 18<28repoman18>	do u recognize this piece of nice music
+T 1715569883 24*	Pontuzz_ has quit (Ping timeout: 264 seconds)
+T 1715569932 23*	forger (~forger@2806:10b7:3:52a8:393a:f93e:a791:6ea123) has joined
+T 1715569943 18<24amigojapan18>	let me see repoman 
+T 1715569985 18<24amigojapan18>	repoman: it soudns familiar. but i cant say what it is
+T 1715570010 24*	mosesofmason has quit (Remote host closed the connection)
+T 1715570060 18<28repoman18>	well for one yeah it is the soundtrack of syobon action
+T 1715570082 18<28repoman18>	but here:
+T 1715570082 18<28repoman18>	https://www.youtube.com/watch?v=WZlYGN5W2Yg
+T 1715570084 18<24ImoutoBot18>	[youtube] Action 52 - CheetahMen Theme | Duration: 4 minutes, 23 seconds
+T 1715570144 23*	mosesofmason (~admin@mediawiki/mosesofmason23) has joined
+T 1715570147 18<24amigojapan18>	repoman: I never played cheetah man
+T 1715570170 18<24amigojapan18>	I did watch the AVGN of it tho
+T 1715570173 18<28repoman18>	https://www.youtube.com/watch?v=-jA7nRwQp_E
+T 1715570174 18<24ImoutoBot18>	[youtube] Cheetahmen Orchestra | Duration: 4 minutes, 41 seconds
+T 1715570176 18<28repoman18>	lmfao ^
+T 1715570206 18<28repoman18>	and u shouldnt play it anyways amigojapan 
+T 1715570621 18<24amigojapan18>	repoman: https://www.youtube.com/watch?v=W8by-iDsRL8
+T 1715570622 18<24ImoutoBot18>	[youtube] [OJV] Super Mario Bros. 3 - Live Orchestra | Duration: 6 minutes, 53 seconds
+T 1715570745 18<28repoman18>	i've seen that one too amigojapan 
+T 1715570752 18<24amigojapan18>	ah ok
+T 1715570754 18<28repoman18>	also now that we're talking orchestra
+T 1715570784 18<28repoman18>	https://youtu.be/W0xMpLXQNvM?si=N94mdo5QOpticvDA&t=220
+T 1715570786 18<24ImoutoBot18>	[title] Waltz of the Sirens, by Alma Deutscher - YouTube
+T 1715570790 18<28repoman18>	here amigojapan 
+T 1715570803 18<28repoman18>	listen to a bit of this and then tell me how old do you think the person who composed it was
+T 1715570807 18<28repoman18>	and when it was composed
+T 1715570914 18<24amigojapan18>	no idea repoman 
+T 1715570937 18<28repoman18>	maybe a guess amigojapan 
+T 1715570948 18<24amigojapan18>	16?
+T 1715570951 18<28repoman18>	personally the sirens theme give me 60-70s vibe
+T 1715570970 18<28repoman18>	well the composer is a girl
+T 1715570976 18<28repoman18>	she was like 14 and it was 4 years ago
+T 1715570980 18<28repoman18>	she's younger than me
+T 1715570986 18<28repoman18>	born 2005 i think
+T 1715570988 18<24amigojapan18>	I see
+T 1715571010 18<28repoman18>	how impressive is that amigojapan 
+T 1715571018 18<24amigojapan18>	repoman: yeah
+T 1715571036 18<28repoman18>	that one i linked u in specific
+T 1715571045 18<28repoman18>	the introduction is just something else
+T 1715571052 18<28repoman18>	the siren sounds merging into music
+T 1715571065 18<28repoman18>	doesnt it give u shivers
+T 1715571209 18<24amigojapan18>	yeah repoman , pretty impresive
+T 1715571293 18<24amigojapan18>	repoman: I think ti is interesting how we call emergency sounds "sirens" both in english and in spanish
+T 1715571310 24*	Sxem has quit (Quit: Leaving)
+T 1715571322 18<28JesseDesu18>	ay
+T 1715571325 18<28repoman18>	in portuguese it's siren+e
+T 1715571328 18<24amigojapan18>	hey jesse
+T 1715571350 18<24amigojapan18>	repoman: in spanish it is sirenas
+T 1715571381 18<28JesseDesu18>	i had this crazy dream i was friends with kurt cobain
+T 1715571408 18<24amigojapan18>	jesse I dont know who he is
+T 1715571421 18<28repoman18>	wtf amigojapan 
+T 1715571425 18<28repoman18>	ofc u know kurt cobain
+T 1715571433 18<28repoman18>	the nirvana guy who shot himself with a shotgun
+T 1715571433 18<24amigojapan18>	who is he?
+T 1715571445 18<24amigojapan18>	oh nirvana, I see
+T 1715571449 18<28JesseDesu18>	he's the singer of nirvana
+T 1715571456 18<24amigojapan18>	I see
+T 1715571472 18<28repoman18>	https://www.youtube.com/watch?v=gdSWaIvyQ3o
+T 1715571473 18<24ImoutoBot18>	[youtube] Nirvana - Rape Me [Lyrics] | Duration: 2 minutes, 51 seconds
+T 1715571497 18<28JesseDesu18>	i was gonna pick smells like teen spirit
+T 1715571501 18<28JesseDesu18>	but there you go
+T 1715571540 18<29Ingvix18>	!quote
+T 1715571541 18<24ImoutoBot18>	Ingvix: (49 / 57) <I​ngvix> there's nothing preventing an ugly old bastard from being a femboy
+T 1715571636 18<24amigojapan18>	repoman: I am nto going to listen to a song called "rape me"
+T 1715571656 18<20Roey18>	!!!!!!!
+T 1715571657 18<20Roey18>	omgosh
+T 1715571660 18<20Roey18>	repoman: come on this is amigojapan 
+T 1715571663 18<20Roey18>	let's have some respect
+T 1715571676 18<24amigojapan18>	hey Roey o/
+T 1715571681 18<20Roey18>	HEY amigo <3
+T 1715571683 18<20Roey18>	and repoman o/
+T 1715571690 18<29Ingvix18>	perhaps he should be a bit more open-minded
+T 1715571691 18<24amigojapan18>	<3
+T 1715571711 18<28repoman18>	hi Roey 
+T 1715571714 18<29Ingvix18>	shouldn't judge a song by its name
+T 1715571723 18<28repoman18>	this Ingvix 
+T 1715571729 18<28repoman18>	it's obviously an anti-rape song
+T 1715571733 18<28repoman18>	made to support rape victims
+T 1715571744 18<28repoman18>	if you don't like supporting rape victims then that's on you
+T 1715571758 18<28repoman18>	Ingvix: https://www.youtube.com/watch?v=s2ILszhj9Lw
+T 1715571759 18<24ImoutoBot18>	[youtube] Consider Suicide - Bitterna (official music video) | Duration: 5 minutes, 41 seconds
+T 1715571782 18<28JesseDesu18>	is that a band name
+T 1715571785 18<24amigojapan18>	repoman: then the name was poorly chosen
+T 1715571799 18<28repoman18>	JesseDesu: yes
+T 1715571815 18<28repoman18>	great song btw
+T 1715571818 18<28JesseDesu18>	are they still alive
+T 1715571831 18<28repoman18>	not sure
+T 1715571875 18<28repoman18>	but here JesseDesu https://www.youtube.com/watch?v=arDL6tk8_xw
+T 1715571876 18<24ImoutoBot18>	[youtube] Endless Dismal Moan - Endless Dismal Moan (2005) | Duration: 66 minutes, 10 seconds
+T 1715571881 18<28repoman18>	a japanese band
+T 1715571886 18<28repoman18>	in which the guy did kill himself
+T 1715571893 18<28JesseDesu18>	i gotta do laundry before the mat closes
+T 1715571896 18<28JesseDesu18>	bbl
+T 1715571919 18<28JesseDesu18>	was he 27
+T 1715571940 18<28repoman18>	not sure JesseDesu 
+T 1715571941 18<28repoman18>	why 26
+T 1715571943 18<28repoman18>	27*
+T 1715572005 18<29Ingvix18>	27 club is a "thing"
+T 1715572009 18<24amigojapan18>	repoman: the sirens classical music was really good tho
+T 1715572027 18<28repoman18>	JesseDesu: https://www.youtube.com/watch?v=1U7s-CKd1tw
+T 1715572029 18<24ImoutoBot18>	[youtube] I Will Die Tomorrow... | Duration: 8 minutes, 57 seconds
+T 1715572031 18<28JesseDesu18>	bbl
+T 1715572035 18<28repoman18>	another japanese band with interesting song and band name choices
+T 1715572044 18<28repoman18>	amigojapan: yeah its pretty nice
+T 1715572127 18<28repoman18>	if I only could I'd make a deal with god: two avocados for 10 bucks
+T 1715572129 18<29Ingvix18>	https://www.youtube.com/watch?v=TOa_pPT-wks
+T 1715572130 18<24ImoutoBot18>	[youtube] Animal Foreskin - I Prefer Panda Porn | Duration: 1 minute, 14 seconds
+T 1715572163 18<28repoman18>	https://www.youtube.com/watch?v=WWFDmetc59k
+T 1715572165 18<24ImoutoBot18>	[youtube] Staple Tape Worms on My Penis | Duration: 3 minutes, 30 seconds
+T 1715572498 18<24amigojapan18>	repoman: that is really expensive for avocados
+T 1715572809 18<24amigojapan18>	repoman: I bought 5KG of spagetti yesterday, I hoep that will be cheaper
+T 1715572818 18<24amigojapan18>	hope
+T 1715572840 24*	mosesofmason has quit (Remote host closed the connection)
+T 1715572864 18<24amigojapan18>	repoman: and about 1KG of tomato sauce
+T 1715572874 18<24amigojapan18>	for about 3000yen
+T 1715572911 23*	mosesofmason (~admin@mediawiki/mosesofmason23) has joined
+T 1715573177 23*	rosco (~rosco@yp-146-6.tm.net.my23) has joined
+T 1715573472 20*	Disconnected (20)
+T 1715573491 22*	26oni_00 sets mode 24+Z on 22oni_00
+T 1715573491 22*	26oni_00 sets mode 24+i on 22oni_00
+T 1715573491 22*	26oni_00 sets mode 24+w on 22oni_00
+T 1715573497 19*	Now talking on 22##anime
+T 1715573497 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Chihayafuru (chosen by Urchin[emacs]) | Manga of the Week: Zettai Karen Children (chosen by Rei^)
+T 1715573497 22*	Topic for 22##anime set by 26ImoutoBot (24Sun May 12 03:00:00 2024)
+T 1715573727 18<24amigojapan18>	ButterNoodle:  I heard final fantasi 3 was 80 dollars when it came out
+T 1715574296 18<24amigojapan18>	repoman: wait a minute, you ocnfused me, sirens in english is not mermaids
+T 1715574302 18<24amigojapan18>	repoman: it is in Spanish
+T 1715574311 18<24amigojapan18>	confused me*
+T 1715574393 18<24amigojapan18>	repoman: I guess the name of hte song onyoutube is mistaken too
+T 1715574416 23*	Arisha2 (~Kaede@94.245.163.24723) has joined
+T 1715574422 18<24amigojapan18>	repoman: it needs to be "waltz of the mermaids"
+T 1715574599 24*	Arisha has quit (Ping timeout: 272 seconds)
+T 1715574789 24*	hyperair has quit (Ping timeout: 272 seconds)
+T 1715574912 20*	Disconnected (20)
+T 1715575332 22*	26oni_00 sets mode 24+Z on 22oni_00
+T 1715575332 22*	26oni_00 sets mode 24+i on 22oni_00
+T 1715575332 22*	26oni_00 sets mode 24+w on 22oni_00
+T 1715575338 19*	Now talking on 22##anime
+T 1715575338 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Chihayafuru (chosen by Urchin[emacs]) | Manga of the Week: Zettai Karen Children (chosen by Rei^)
+T 1715575338 22*	Topic for 22##anime set by 26ImoutoBot (24Sun May 12 03:00:00 2024)
+T 1715575359 23*	sadome (~sadome@user/sadome23) has joined
+T 1715575359 24*	sadome has quit (Excess Flood)
+T 1715575360 22*	26Suzuka sets ban on 18*!*@user/sadome$##anime-help
+T 1715575440 18<29Ingvix18>	is sadome short for sadistic dominant me
+T 1715575630 23*	sadome (~sadome@user/sadome23) has joined
+T 1715575630 24*	sadome has quit (Excess Flood)
+T 1715576048 24*	forger has quit (Ping timeout: 260 seconds)
+T 1715576289 18<27ButterNoodle18>	Ingvix: thats how u spell sadam in japanese words.. 
+T 1715576328 18<27ButterNoodle18>	u know that one dude that use to hang out with satan on southpark that was some important leader or smth that was gay for satan
+T 1715576358 18<27ButterNoodle18>	*I think satan was a bottom on southpark
+T 1715576436 18<27ButterNoodle18>	wonder what his parents think
+T 1715576582 18<29Ingvix18>	was it not saddam
+T 1715577055 23*	forger (~forger@2806:10b7:3:3f8f:cdcf:5b22:2f23:f47323) has joined
+T 1715577162 22*	26Suzuka removes ban on 18*!*@user/sadome$##anime-help
+T 1715577199 23*	onichomp (~onichomp@177.231.60.6123) has joined
+T 1715577256 23*	hx030 (~hx030@user/hx03023) has joined
+T 1715577256 18*	24ImoutoBot welcomes h​x030 (1 / 1): <h​x030> 030?
+T 1715577512 18<28JesseDesu18>	NutterBoodle
+T 1715577526 18<28JesseDesu18>	!seen urchin[emacs]
+T 1715577526 18<24ImoutoBot18>	JesseDesu: urchin[emacs] was last seen in ##anime 3 days and 23 hours ago: <Urchin[emacs]> I'll be away for some time soon
+T 1715577532 18<28JesseDesu18>	rip
+T 1715577743 23*	redstarcomrade (~redstarco@user/redstarcomrade23) has joined
+T 1715578265 18<28JesseDesu18>	dunce
+T 1715578267 18<28JesseDesu18>	co
+T 1715578268 18<28JesseDesu18>	tus
+T 1715581150 20*	Disconnected (20)
+T 1715581169 22*	26oni_00 sets mode 24+Z on 22oni_00
+T 1715581169 22*	26oni_00 sets mode 24+i on 22oni_00
+T 1715581169 22*	26oni_00 sets mode 24+w on 22oni_00
+T 1715581175 19*	Now talking on 22##anime
+T 1715581175 22*	Topic for 22##anime is: Anime, manga, games, vtubers, and other weebities | Shoes off, please. | https://nylo.re/guidelines (UPDATED) | https://i.imgur.com/YbaXYAs.jpg | Anime of the Week: Chihayafuru (chosen by Urchin[emacs]) | Manga of the Week: Zettai Karen Children (chosen by Rei^)
+T 1715581175 22*	Topic for 22##anime set by 26ImoutoBot (24Sun May 12 03:00:00 2024)
+T 1715581332 18<20mosesofmason18>	repoman, fuck you
+T 1715581668 24*	forger has quit (Quit: ZZZzzz…)
+T 1715581830 24*	omero has quit (Ping timeout: 260 seconds)
+T 1715581831 24*	omero[dubnos] has quit (Ping timeout: 260 seconds)
+T 1715581887 18<19aaabbb18>	mosesofmason: that was rude
+T 1715581944 18<27ButterNoodle18>	JesseDesu: cute girls have been around forever and I cant get one in my pocket yet
+T 1715581944 23*	omero[dubnos] (~omero@user/omero23) has joined
+T 1715581956 18<27ButterNoodle18>	although my hand goes in my pocket when I see em
+T 1715581988 18<27ButterNoodle18>	who the fuck names their kid mosesofmason
+T 1715581990 23*	omero (~omero@user/omero23) has joined
+T 1715581990 18*	24ImoutoBot welcomes o​mero (5 / 7): <o​mero> im biased <o​mero> i am also a sinner
+T 1715582241 24*	redstarcomrade has quit (Read error: Connection reset by peer)
+T 1715583278 24*	rosco has quit (Quit: Lost terminal)
+T 1715583322 18<28JesseDesu18>	ButterNoodle, wat
+T 1715583329 18<28JesseDesu18>	interesting comparison
+T 1715583382 18<28JesseDesu18>	i am stressed right now
+T 1715583393 18<28JesseDesu18>	i have to travel to sacramento in 8 hours
+T 1715583405 18<28JesseDesu18>	then when i come back from sacramento i'm going to LA
+T 1715583705 24*	cthae has quit (Ping timeout: 256 seconds)
+T 1715583797 23*	CuffLimbs (~SparePart@user/CuffLimbs23) has joined
+T 1715583797 18*	24ImoutoBot welcomes C​uffLimbs (7 / 27): <C​uffLimbs> lunch walks, always make me more hungry
+T 1715583823 24*	onichomp has quit (Read error: Connection reset by peer)
+T 1715583990 24*	lain6141 has quit (Read error: Connection reset by peer)
+T 1715584080 23*	lain6141 (~lain6141@user/wildo23) has joined
+T 1715584080 18*	24ImoutoBot welcomes l​ain6141 (1 / 1): <l​ain6141> I need to check some lolis pantsu for my scientific research
+T 1715584204 23*	hyperair (~hyperair@180.129.31.12023) has joined
+T 1715584543 24*	Teukka has quit (Read error: Connection reset by peer)
+T 1715584758 23*	Teukka (~teukka@84-216-41-232.customers.ownit.se23) has joined
+T 1715584859 24*	dimaguy has quit (Ping timeout: 272 seconds)
+T 1715585128 23*	dimaguy (~quassel@user/dimaguy23) has joined
+T 1715586742 18<24amigojapan18>	ButterNoodle: pokegirl?
+T 1715586745 18<24amigojapan18>	hey jesse
+T 1715586751 18<24amigojapan18>	hey CuffLimbs 
+T 1715587053 18<19CuffLimbs18>	hi
+T 1715587128 18<28JesseDesu18>	yo
+T 1715587156 18<28JesseDesu18>	stressed right now
+T 1715587164 18<28JesseDesu18>	because of travel
+T 1715587540 24*	Arisha has quit (Read error: Connection reset by peer)
+T 1715587613 23*	emmeka (~emmeka@162-251-198-31.dynamic.parolink.net23) has joined
+T 1715587614 18*	24ImoutoBot welcomes e​mmeka (21 / 209): <e​mmeka> N​anobot P-chan is a pink p90 submachine gun that is also my waifu
+T 1715587738 24*	jra has quit (Quit: leaving)

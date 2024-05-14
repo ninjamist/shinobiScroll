@@ -1,0 +1,138 @@
+**** BEGIN LOGGING AT Mon Nov 13 03:12:21 2023
+
+Nov 13 03:12:21 *	Looking up chat.freenode.net
+**** BEGIN LOGGING AT Mon Nov 13 03:15:56 2023
+
+Nov 13 03:15:56 *	Looking up chat.freenode.net
+Nov 13 03:15:56 *	Connecting to chat.freenode.net (2600:3c00::f03c:93ff:fea1:990d:6697)
+Nov 13 03:15:57 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:15:57 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:15:57 *	* Subject: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:15:57 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:15:57 *	* Subject: /CN=nebula.freenode.net
+Nov 13 03:15:57 *	* Issuer: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:15:57 *	* Certification info:
+Nov 13 03:15:57 *	  Subject:
+Nov 13 03:15:57 *	    CN=nebula.freenode.net
+Nov 13 03:15:57 *	  Issuer:
+Nov 13 03:15:57 *	    C=AT
+Nov 13 03:15:57 *	    O=ZeroSSL
+Nov 13 03:15:57 *	    CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:15:57 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 13 03:15:57 *	  Sign algorithm sha384WithRSAEncryption
+Nov 13 03:15:57 *	  Valid since Oct 12 00:00:00 2023 GM to Jan 10 23:59:59 2024 GM
+Nov 13 03:15:57 *	* Cipher info:
+Nov 13 03:15:57 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 03:15:57 *	Connected. Now logging in.
+Nov 13 03:15:58 *	*** Looking up your ident...
+Nov 13 03:15:58 *	*** Looking up your hostname...
+Nov 13 03:15:58 *	*** Could not resolve your hostname: Domain not found; using your IP address (2600:1006:b16e:f27d:4656:6d3e:2f48:3f8) instead.
+Nov 13 03:15:58 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/relaymsg=/ echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname userhost-in-names 
+Nov 13 03:15:58 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix sasl server-time setname userhost-in-names 
+Nov 13 03:15:58 *	oni_00 is already in use. Retrying with oni_kage_00...
+Nov 13 03:15:58 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix sasl server-time setname userhost-in-names
+Nov 13 03:15:58 *	oni_kage_00 is already in use. Retrying with oni_kage00...
+Nov 13 03:15:58 *	Authenticating via SASL as oni (PLAIN)
+Nov 13 03:16:01 *	*** Ident lookup timed out, using ~oni instead.
+Nov 13 03:16:01 *	SASL authentication failed
+Nov 13 03:16:05 *	SASL authentication failed
+**** ENDING LOGGING AT Mon Nov 13 03:16:08 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:25:57 2023
+
+Nov 13 03:25:57 *	Looking up chat.freenode.net
+Nov 13 03:25:57 *	Connecting to chat.freenode.net (2600:3c00::f03c:93ff:fea1:990d:6697)
+Nov 13 03:25:59 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:25:59 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:25:59 *	* Subject: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:25:59 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:25:59 *	* Subject: /CN=nebula.freenode.net
+Nov 13 03:25:59 *	* Issuer: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:25:59 *	* Certification info:
+Nov 13 03:25:59 *	  Subject:
+Nov 13 03:25:59 *	    CN=nebula.freenode.net
+Nov 13 03:25:59 *	  Issuer:
+Nov 13 03:25:59 *	    C=AT
+Nov 13 03:25:59 *	    O=ZeroSSL
+Nov 13 03:25:59 *	    CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:25:59 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 13 03:25:59 *	  Sign algorithm sha384WithRSAEncryption
+Nov 13 03:25:59 *	  Valid since Oct 12 00:00:00 2023 GM to Jan 10 23:59:59 2024 GM
+Nov 13 03:25:59 *	* Cipher info:
+Nov 13 03:25:59 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 03:25:59 *	Connected. Now logging in.
+Nov 13 03:26:00 *	*** Looking up your ident...
+Nov 13 03:26:00 *	*** Looking up your hostname...
+Nov 13 03:26:00 *	*** Could not resolve your hostname: Domain not found; using your IP address (2600:1006:b16e:f27d:4656:6d3e:2f48:3f8) instead.
+Nov 13 03:26:00 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/relaymsg=/ echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname userhost-in-names 
+Nov 13 03:26:00 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 13 03:26:00 *	oni_00 is already in use. Retrying with oni_kage_00...
+Nov 13 03:26:01 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 13 03:26:01 *	oni_kage_00 is already in use. Retrying with oni_kage00...
+Nov 13 03:26:03 *	*** Ident lookup timed out, using ~oni instead.
+**** ENDING LOGGING AT Mon Nov 13 03:26:04 2023
+
+**** BEGIN LOGGING AT Mon Nov 13 03:27:56 2023
+
+Nov 13 03:27:56 *	Looking up chat.freenode.net
+Nov 13 03:27:56 *	Connecting to chat.freenode.net (2600:3c00::f03c:93ff:fea1:990d:6697)
+Nov 13 03:27:57 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:27:57 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:27:57 *	* Subject: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:27:57 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 13 03:27:57 *	* Subject: /CN=nebula.freenode.net
+Nov 13 03:27:57 *	* Issuer: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:27:57 *	* Certification info:
+Nov 13 03:27:57 *	  Subject:
+Nov 13 03:27:57 *	    CN=nebula.freenode.net
+Nov 13 03:27:57 *	  Issuer:
+Nov 13 03:27:57 *	    C=AT
+Nov 13 03:27:57 *	    O=ZeroSSL
+Nov 13 03:27:57 *	    CN=ZeroSSL RSA Domain Secure Site CA
+Nov 13 03:27:57 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 13 03:27:57 *	  Sign algorithm sha384WithRSAEncryption
+Nov 13 03:27:57 *	  Valid since Oct 12 00:00:00 2023 GM to Jan 10 23:59:59 2024 GM
+Nov 13 03:27:57 *	* Cipher info:
+Nov 13 03:27:57 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 13 03:27:57 *	Connected. Now logging in.
+Nov 13 03:27:58 *	*** Looking up your ident...
+Nov 13 03:27:58 *	*** Looking up your hostname...
+Nov 13 03:27:58 *	*** Could not resolve your hostname: Domain not found; using your IP address (2600:1006:b16e:f27d:4656:6d3e:2f48:3f8) instead.
+Nov 13 03:27:58 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/relaymsg=/ echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname userhost-in-names 
+Nov 13 03:27:58 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 13 03:27:58 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 13 03:28:01 *	*** Ident lookup timed out, using ~oni instead.
+**** ENDING LOGGING AT Mon Nov 13 03:28:01 2023
+
+**** BEGIN LOGGING AT Wed Nov 15 19:27:26 2023
+
+Nov 15 19:27:26 *	Looking up chat.freenode.net
+Nov 15 19:27:26 *	Connecting to chat.freenode.net (2600:3c00::f03c:93ff:fea1:990d:6697)
+Nov 15 19:27:28 *	* Subject: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 15 19:27:28 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 15 19:27:28 *	* Subject: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 15 19:27:28 *	* Issuer: /C=US/ST=New Jersey/L=Jersey City/O=The USERTRUST Network/CN=USERTrust RSA Certification Authority
+Nov 15 19:27:28 *	* Subject: /CN=nebula.freenode.net
+Nov 15 19:27:28 *	* Issuer: /C=AT/O=ZeroSSL/CN=ZeroSSL RSA Domain Secure Site CA
+Nov 15 19:27:28 *	* Certification info:
+Nov 15 19:27:28 *	  Subject:
+Nov 15 19:27:28 *	    CN=nebula.freenode.net
+Nov 15 19:27:28 *	  Issuer:
+Nov 15 19:27:28 *	    C=AT
+Nov 15 19:27:28 *	    O=ZeroSSL
+Nov 15 19:27:28 *	    CN=ZeroSSL RSA Domain Secure Site CA
+Nov 15 19:27:28 *	  Public key algorithm: rsaEncryption (2048 bits)
+Nov 15 19:27:28 *	  Sign algorithm sha384WithRSAEncryption
+Nov 15 19:27:28 *	  Valid since Oct 12 00:00:00 2023 GM to Jan 10 23:59:59 2024 GM
+Nov 15 19:27:28 *	* Cipher info:
+Nov 15 19:27:28 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 15 19:27:28 *	Connected. Now logging in.
+Nov 15 19:27:28 *	*** Looking up your ident...
+Nov 15 19:27:28 *	*** Looking up your hostname...
+Nov 15 19:27:28 *	*** Could not resolve your hostname: Domain not found; using your IP address (2600:1006:b189:2109:79e7:3d17:6464:5a6b) instead.
+Nov 15 19:27:29 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/relaymsg=/ echo-message extended-join inspircd.org/poison inspircd.org/standard-replies invite-notify labeled-response message-tags multi-prefix sasl=EXTERNAL,PLAIN server-time setname userhost-in-names 
+Nov 15 19:27:29 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names 
+Nov 15 19:27:29 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join invite-notify multi-prefix server-time setname userhost-in-names
+Nov 15 19:27:31 *	*** Ident lookup timed out, using ~oni instead.
+**** ENDING LOGGING AT Wed Nov 15 19:27:31 2023
+

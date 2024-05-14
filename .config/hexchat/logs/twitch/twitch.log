@@ -1,0 +1,152 @@
+**** BEGIN LOGGING AT Mon Apr  1 01:31:30 2024
+
+Apr 01 01:31:30 *	Capabilities supported: twitch.tv/tags twitch.tv/commands twitch.tv/membership
+Apr 01 01:31:30 *	Capabilities requested: twitch.tv/membership 
+**** ENDING LOGGING AT Mon Apr  1 01:31:30 2024
+
+**** BEGIN LOGGING AT Mon Apr  1 01:31:30 2024
+
+Apr 01 01:31:30 *	Welcome, GLHF!
+Apr 01 01:31:30 *	Your host is tmi.twitch.tv
+Apr 01 01:31:30 *	This server is rather new
+Apr 01 01:31:30 *	-
+Apr 01 01:31:30 *	-
+Apr 01 01:31:30 *	You are in a maze of twisty passages, all alike.
+Apr 01 01:31:31 *	>
+Apr 01 01:31:31 *	Capabilities acknowledged: twitch.tv/membership
+Apr 01 01:35:27 *	WHO :Unknown command
+**** ENDING LOGGING AT Mon Apr  1 02:23:38 2024
+
+**** BEGIN LOGGING AT Tue Apr  2 00:22:47 2024
+
+Apr 02 00:22:47 *	Welcome, GLHF!
+Apr 02 00:22:47 *	Your host is tmi.twitch.tv
+Apr 02 00:22:47 *	This server is rather new
+Apr 02 00:22:47 *	-
+Apr 02 00:22:47 *	-
+Apr 02 00:22:47 *	You are in a maze of twisty passages, all alike.
+Apr 02 00:22:47 *	>
+Apr 02 00:22:48 *	Capabilities acknowledged: twitch.tv/membership
+Apr 02 00:23:56 *	WHO :Unknown command
+Apr 02 00:35:43 Sysinfo plugin unloaded
+Apr 02 00:35:43 Checksum plugin unloaded
+**** ENDING LOGGING AT Tue Apr  2 00:35:43 2024
+
+**** BEGIN LOGGING AT Tue Apr  2 23:50:07 2024
+
+Apr 02 23:50:07 *	Welcome, GLHF!
+Apr 02 23:50:07 *	Your host is tmi.twitch.tv
+Apr 02 23:50:07 *	This server is rather new
+Apr 02 23:50:07 *	-
+Apr 02 23:50:07 *	-
+Apr 02 23:50:07 *	You are in a maze of twisty passages, all alike.
+Apr 02 23:50:07 *	>
+Apr 02 23:50:07 *	Capabilities acknowledged: twitch.tv/membership
+Apr 03 00:13:11 Sysinfo plugin unloaded
+Apr 03 00:13:11 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Apr  3 00:13:11 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 00:24:43 2024
+
+Apr 03 00:24:43 *	Welcome, GLHF!
+Apr 03 00:24:43 *	Your host is tmi.twitch.tv
+Apr 03 00:24:43 *	This server is rather new
+Apr 03 00:24:43 *	-
+Apr 03 00:24:43 *	-
+Apr 03 00:24:43 *	You are in a maze of twisty passages, all alike.
+Apr 03 00:24:43 *	>
+Apr 03 00:24:43 *	Capabilities acknowledged: twitch.tv/membership
+Apr 03 01:17:36 Sysinfo plugin unloaded
+Apr 03 01:17:36 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Apr  3 01:17:36 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:17:43 2024
+
+Apr 03 01:17:43 *	Welcome, GLHF!
+Apr 03 01:17:43 *	Your host is tmi.twitch.tv
+Apr 03 01:17:43 *	This server is rather new
+Apr 03 01:17:43 *	-
+Apr 03 01:17:43 *	-
+Apr 03 01:17:43 *	You are in a maze of twisty passages, all alike.
+Apr 03 01:17:43 *	>
+Apr 03 01:17:44 *	Capabilities acknowledged: twitch.tv/membership
+Apr 03 01:18:41 Sysinfo plugin unloaded
+Apr 03 01:18:41 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Apr  3 01:18:41 2024
+
+**** BEGIN LOGGING AT Wed Apr  3 01:18:48 2024
+
+Apr 03 01:18:48 *	Welcome, GLHF!
+Apr 03 01:18:48 *	Your host is tmi.twitch.tv
+Apr 03 01:18:48 *	This server is rather new
+Apr 03 01:18:48 *	-
+Apr 03 01:18:48 *	-
+Apr 03 01:18:48 *	You are in a maze of twisty passages, all alike.
+Apr 03 01:18:48 *	>
+Apr 03 01:18:48 *	Capabilities acknowledged: twitch.tv/membership
+Apr 03 01:31:33 Sysinfo plugin unloaded
+Apr 03 01:31:33 Checksum plugin unloaded
+**** ENDING LOGGING AT Wed Apr  3 01:31:33 2024
+
+**** BEGIN LOGGING AT Sun Apr  7 23:33:15 2024
+
+Apr 07 23:33:15 *	Welcome, GLHF!
+Apr 07 23:33:15 *	Your host is tmi.twitch.tv
+Apr 07 23:33:15 *	This server is rather new
+Apr 07 23:33:15 *	-
+Apr 07 23:33:15 *	-
+Apr 07 23:33:15 *	You are in a maze of twisty passages, all alike.
+Apr 07 23:33:15 *	>
+Apr 07 23:33:15 *	Capabilities acknowledged: twitch.tv/membership
+Apr 07 23:35:19 *	WHO :Unknown command
+**** BEGIN LOGGING AT Sun May 12 22:18:13 2024
+
+May 12 22:18:13 *	Welcome, GLHF!
+May 12 22:18:13 *	Your host is tmi.twitch.tv
+May 12 22:18:13 *	This server is rather new
+May 12 22:18:13 *	-
+May 12 22:18:13 *	-
+May 12 22:18:13 *	You are in a maze of twisty passages, all alike.
+May 12 22:18:13 *	>
+May 12 22:18:13 *	Capabilities acknowledged: twitch.tv/membership
+May 13 02:19:10 *	No ping reply for 1888 seconds, disconnecting.
+May 13 02:19:10 *	Disconnected ()
+May 13 02:19:20 *	Looking up irc.chat.twitch.tv
+May 13 02:19:20 *	Connecting to irc.chat.twitch.tv (34.212.92.60:6697)
+May 13 02:19:21 *	* Subject: /C=US/O=Amazon/CN=Amazon Root CA 1
+May 13 02:19:21 *	* Issuer: /C=US/O=Amazon/CN=Amazon Root CA 1
+May 13 02:19:21 *	* Subject: /C=US/O=Amazon/CN=Amazon RSA 2048 M02
+May 13 02:19:21 *	* Issuer: /C=US/O=Amazon/CN=Amazon Root CA 1
+May 13 02:19:21 *	* Subject: /CN=irc.chat.twitch.tv
+May 13 02:19:21 *	* Issuer: /C=US/O=Amazon/CN=Amazon RSA 2048 M02
+May 13 02:19:21 *	* Certification info:
+May 13 02:19:21 *	  Subject:
+May 13 02:19:21 *	    CN=irc.chat.twitch.tv
+May 13 02:19:21 *	  Issuer:
+May 13 02:19:21 *	    C=US
+May 13 02:19:21 *	    O=Amazon
+May 13 02:19:21 *	    CN=Amazon RSA 2048 M02
+May 13 02:19:21 *	  Public key algorithm: rsaEncryption (2048 bits)
+May 13 02:19:21 *	  Sign algorithm sha256WithRSAEncryption
+May 13 02:19:21 *	  Valid since Jan 29 00:00:00 2024 GM to Feb 27 23:59:59 2025 GM
+May 13 02:19:21 *	* Cipher info:
+May 13 02:19:21 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES128-GCM-SHA256 (128 bits)
+May 13 02:19:21 *	Connected. Now logging in.
+May 13 02:19:21 *	Capabilities supported: twitch.tv/membership twitch.tv/tags twitch.tv/commands
+May 13 02:19:21 *	Capabilities requested: twitch.tv/membership 
+**** ENDING LOGGING AT Mon May 13 02:19:21 2024
+
+**** BEGIN LOGGING AT Mon May 13 02:19:21 2024
+
+May 13 02:19:21 *	Welcome, GLHF!
+May 13 02:19:21 *	Your host is tmi.twitch.tv
+May 13 02:19:21 *	This server is rather new
+May 13 02:19:21 *	-
+May 13 02:19:21 *	-
+May 13 02:19:21 *	You are in a maze of twisty passages, all alike.
+May 13 02:19:21 *	>
+May 13 02:19:21 *	Capabilities acknowledged: twitch.tv/membership
+May 13 04:09:11 Sysinfo plugin unloaded
+May 13 04:09:11 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon May 13 04:09:11 2024
+
