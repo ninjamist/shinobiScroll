@@ -1,0 +1,6 @@
+2024/04/13-03:33:56.782 14bd Creating DB /home/oni/.config/Raven Reader/IndexedDB/https_lifehacker.com_0.indexeddb.leveldb since it was missing.
+2024/04/13-03:33:56.790 14bd Reusing MANIFEST /home/oni/.config/Raven Reader/IndexedDB/https_lifehacker.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/13-03:34:14.523 14bd Level-0 table #5: started
+2024/04/13-03:34:14.525 14bd Level-0 table #5: 1048 bytes OK
+2024/04/13-03:34:14.528 14bd Delete type=0 #3
+2024/04/13-03:34:14.529 14bd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
